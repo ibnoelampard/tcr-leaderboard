@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0f172a" />
+<meta name="description" content="Top 10 Leaderboard Tangerang Crazy Runners — minggu berjalan, data real Strava." />
+<title>🏆 Top 10 Tangerang Crazy Runners</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-theme="sporty">
+  <div class="page">
+    <!-- ============ HEADER ============ -->
+    <header class="hero" id="capture-root">
+      <div class="hero-bg"></div>
+      <div class="hero-inner">
+        <div class="hero-logo">
+          <img id="club-logo" src="" alt="club logo" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        </div>
+        <h1 class="club-name" id="club-name">Tangerang Crazy Runners</h1>
+        <div class="club-meta" id="club-meta">Tangerang, Banten, ID</div>
+        <div class="period">
+          <span class="fire">🏆</span>
+          <span>Top 10 — Minggu Berjalan</span>
+        </div>
+        <div class="period-range" id="period-range">--</div>
+      </div>
+
+      <!-- Toolbar (di luar capture agar bersih) -->
+      <div class="toolbar">
+        <div class="toolbar-row">
+          <label class="theme-select" for="theme-select">
+            <span aria-hidden="true">🎨</span>
+            <select id="theme-select">
+              <!-- diisi oleh themes.js -->
+            </select>
+          </label>
+          <div class="toolbar-actions">
+            <button class="btn ghost" id="btn-refresh" title="Muat ulang data">Muat ulang</button>
+            <button class="btn primary" id="btn-share" title="Bagikan ke WhatsApp">
+              <span aria-hidden="true">📤</span> Share ke WhatsApp</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ============ LEADERBOARD (bagian yang di-capture) ============ -->
+    <main class="leaderboard" id="capture-body">
+      <section class="podium">
+        <!-- posisi 2, 1, 3 untuk efek podium step -->
+        <div class="podium-card rank-2" data-pos="2"><div class="podium-step">2</div></div>
+        <div class="podium-card rank-1" data-pos="1"><div class="podium-step">1</div><div class="crown">👑</div></div>
+        <div class="podium-card rank-3" data-pos="3"><div class="podium-step">3</div></div>
+      </section>
+
+      <section class="list" id="rank-list">
+        <!-- rank 4..10 oleh app.js -->
+      </section>
+
+      <div class="foot-note">
+        Metric: <b>Jarak tempuh (km)</b> • Sport: Run / VirtualRun • Update: <span id="updated-at">--</span>
+      </div>
+    </main>
+
+    <!-- ============ SHARE MODAL ============ -->
+    <div class="modal" id="share-modal" hidden>
+      <div class="modal-card">
+        <button class="modal-close" id="modal-close" aria-label="Tutup">✕</button>
+        <h2>Bagikan ke WhatsApp</h2>
+        <p class="modal-sub">Pratinjau gambar + teks daftar leaderboard.</p>
+        <div class="share-preview">
+          <img id="share-img" alt="preview leaderboard" />
+        </div>
+        <textarea id="share-text" rows="9" readonly></textarea>
+        <div class="modal-actions">
+          <button class="btn ghost" id="btn-download">💾 Download gambar</button>
+          <button class="btn primary" id="btn-wa">📤 Buka WhatsApp</button>
+        </div>
+        <div class="share-hint" id="share-hint"></div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <span>Dibuat untuk Tangerang Crazy Runners 🔥 • Data: Strava</span>
+    </footer>
+  </div>
+
+  <!-- html2canvas untuk screenshot (no-build) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="js/themes.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/share.js"></script>
+</body>
+</html>
