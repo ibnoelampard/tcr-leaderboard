@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:05:01.413Z",
+  "generated_at": "2026-07-02T23:04:57.295Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,17 +15,17 @@
   "week_start": "2026-06-29",
   "week_end": "2026-07-03",
   "metric": "distance",
-  "total_activities": 34,
+  "total_activities": 35,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
       "name": "Steven Sutrisno",
-      "distance_km": 31.67,
-      "moving_time_sec": 2520,
-      "moving_time": "42m 0s",
-      "pace": "1:20",
-      "activities": 3,
+      "distance_km": 37.26,
+      "moving_time_sec": 5062,
+      "moving_time": "1j 24m",
+      "pace": "2:16",
+      "activities": 4,
       "elev_m": 0,
       "photo": "assets/athletes/24530489.jpg"
     },
