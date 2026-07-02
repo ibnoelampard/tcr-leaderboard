@@ -58,6 +58,23 @@
     return `linear-gradient(135deg, ${a}, ${b})`;
   }
 
+  // bangun element avatar: foto bila ada, else inisial bergradient
+  function buildAvatar(el, entry) {
+    el.innerHTML = "";
+    if (entry.photo) {
+      const img = document.createElement("img");
+      img.src = entry.photo;
+      img.alt = entry.name;
+      img.referrerpolicy = "no-referrer";
+      img.onerror = () => { el.innerHTML = initials(entry.name); el.style.background = avatarGradient(entry.name); el.style.color = "#1f1721"; };
+      el.appendChild(img);
+    } else {
+      el.textContent = initials(entry.name);
+      el.style.background = avatarGradient(entry.name);
+      el.style.color = "#1f1721";
+    }
+  }
+
   function fillPodium(card, entry) {
     const rank = entry.rank;
     card.querySelector(".pod-avatar")?.remove();
@@ -67,9 +84,7 @@
 
     const av = document.createElement("div");
     av.className = "pod-avatar";
-    av.textContent = initials(entry.name);
-    av.style.background = avatarGradient(entry.name);
-    av.style.color = "#1f1721";
+    buildAvatar(av, entry);
     card.appendChild(av);
 
     const nm = document.createElement("div");
@@ -94,9 +109,7 @@
     const medal = medals[entry.rank - 1] || "";
     const av = document.createElement("div");
     av.className = "av";
-    av.textContent = initials(entry.name);
-    av.style.background = avatarGradient(entry.name);
-    av.style.color = "#1f1721";
+    buildAvatar(av, entry);
     row.innerHTML = `
       <div class="rank">${medal || entry.rank}</div>
     `;
@@ -146,13 +159,9 @@
 
     const isWeekly = data.filter_mode === "weekly";
     if (periodLabel) {
-      periodLabel.textContent = isWeekly
-        ? "Top 10 — Minggu Berjalan"
-        : "Top 10 — Aktivitas Terbaru";
+      periodLabel.textContent = "Top 10 — Minggu Berjalan";
     }
-    const range = isWeekly
-      ? `${fmtDateShort(data.week_start)} — ${fmtDateShort(data.week_end)} (sampai sekarang)`
-      : `${fmtDateShort(data.week_start)} — ${fmtDateShort(data.week_end)}`;
+    const range = `Senin, ${fmtDateShort(data.week_start)} — ${fmtDateShort(data.week_end)} (sampai sekarang)`;
     periodRange.textContent = range;
     updatedAt.textContent = fmtGenerated(data.generated_at);
 

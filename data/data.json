@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-07-02T07:23:23.665Z",
-  "filter_mode": "recent",
-  "auth_mode": "bearer",
+  "generated_at": "2026-07-02T07:43:38.185Z",
+  "filter_mode": "weekly",
   "club": {
     "id": 223457,
     "name": "Tangerang Crazy Runners",
@@ -27,7 +26,8 @@
       "moving_time": "7j 38m",
       "pace": "8:16",
       "activities": 4,
-      "elev_m": 1563
+      "elev_m": 1563,
+      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 2,
@@ -47,7 +47,8 @@
       "moving_time": "5j 8m",
       "pace": "6:21",
       "activities": 4,
-      "elev_m": 49
+      "elev_m": 49,
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 4,
@@ -97,7 +98,8 @@
       "moving_time": "3j 28m",
       "pace": "6:38",
       "activities": 3,
-      "elev_m": 81
+      "elev_m": 81,
+      "photo": "assets/athletes/27221918.jpg"
     },
     {
       "rank": 9,
@@ -107,7 +109,8 @@
       "moving_time": "4j 21m",
       "pace": "8:23",
       "activities": 5,
-      "elev_m": 136
+      "elev_m": 136,
+      "photo": "assets/athletes/30574816.jpg"
     },
     {
       "rank": 10,
@@ -117,7 +120,8 @@
       "moving_time": "3j 24m",
       "pace": "7:08",
       "activities": 5,
-      "elev_m": 45
+      "elev_m": 45,
+      "photo": "assets/athletes/16753408.jpg"
     }
   ]
 }
