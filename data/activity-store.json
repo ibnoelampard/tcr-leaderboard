@@ -1,0 +1,204 @@
+{
+  "activities": {
+    "19146600643": {
+      "id": "19146600643",
+      "athlete": "Denny Hy",
+      "athleteId": "62565051",
+      "startDate": "2026-07-02T06:32:35Z",
+      "type": "Run",
+      "distance_km": 1.65,
+      "moving_time_sec": 677,
+      "distance_m": 1650
+    },
+    "19145181333": {
+      "id": "19145181333",
+      "athlete": "Lita Huang",
+      "athleteId": "25214467",
+      "startDate": "2026-07-02T01:53:18Z",
+      "type": "Run",
+      "distance_km": 0.88,
+      "moving_time_sec": 1215,
+      "distance_m": 880
+    },
+    "19144900457": {
+      "id": "19144900457",
+      "athlete": "B A R A T LSP",
+      "athleteId": "71432630",
+      "startDate": "2026-07-02T00:37:38Z",
+      "type": "Run",
+      "distance_km": 5,
+      "moving_time_sec": 2629,
+      "distance_m": 5000
+    },
+    "19144813084": {
+      "id": "19144813084",
+      "athlete": "Yudo Adrian",
+      "athleteId": "16988697",
+      "startDate": "2026-07-02T01:01:44Z",
+      "type": "Run",
+      "distance_km": 3.17,
+      "moving_time_sec": 1009,
+      "distance_m": 3170
+    },
+    "19144645793": {
+      "id": "19144645793",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-07-01T23:02:19Z",
+      "type": "Run",
+      "distance_km": 18.27,
+      "moving_time_sec": 6780,
+      "distance_m": 18270
+    },
+    "19144813119": {
+      "id": "19144813119",
+      "athlete": "Yudo Adrian",
+      "athleteId": "16988697",
+      "startDate": "2026-07-02T00:25:32Z",
+      "type": "Run",
+      "distance_km": 4.97,
+      "moving_time_sec": 1444,
+      "distance_m": 4970
+    },
+    "19144889915": {
+      "id": "19144889915",
+      "athlete": "sugiyo .",
+      "athleteId": "16753408",
+      "startDate": "2026-07-01T23:59:07Z",
+      "type": "Run",
+      "distance_km": 7.11,
+      "moving_time_sec": 2629,
+      "distance_m": 7110
+    },
+    "19146267200": {
+      "id": "19146267200",
+      "athlete": "reinal reinal",
+      "athleteId": "3852323",
+      "startDate": "2026-07-01T23:59:40Z",
+      "type": "Run",
+      "distance_km": 5.68,
+      "moving_time_sec": 2481,
+      "distance_m": 5680
+    },
+    "19146243940": {
+      "id": "19146243940",
+      "athlete": "dike wicaksono",
+      "athleteId": "17481263",
+      "startDate": "2026-07-02T00:01:39Z",
+      "type": "Run",
+      "distance_km": 5.07,
+      "moving_time_sec": 1890,
+      "distance_m": 5070
+    },
+    "19144427964": {
+      "id": "19144427964",
+      "athlete": "william fernando",
+      "athleteId": "30574816",
+      "startDate": "2026-07-01T23:53:25Z",
+      "type": "Run",
+      "distance_km": 4.57,
+      "moving_time_sec": 2076,
+      "distance_m": 4570
+    },
+    "19144809521": {
+      "id": "19144809521",
+      "athlete": "Yudo Adrian",
+      "athleteId": "16988697",
+      "startDate": "2026-07-02T00:08:02Z",
+      "type": "Run",
+      "distance_km": 2.11,
+      "moving_time_sec": 717,
+      "distance_m": 2110
+    },
+    "19144809838": {
+      "id": "19144809838",
+      "athlete": "Steven Sutrisno",
+      "athleteId": "24530489",
+      "startDate": "2026-07-01T23:50:45Z",
+      "type": "Run",
+      "distance_km": 3,
+      "moving_time_sec": 0,
+      "distance_m": 3000
+    },
+    "19144091249": {
+      "id": "19144091249",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-07-01T22:43:56Z",
+      "type": "Run",
+      "distance_km": 10.02,
+      "moving_time_sec": 3660,
+      "distance_m": 10020
+    },
+    "19144084759": {
+      "id": "19144084759",
+      "athlete": "Andreas Mario",
+      "athleteId": "64642890",
+      "startDate": "2026-07-01T22:48:13Z",
+      "type": "Run",
+      "distance_km": 6.43,
+      "moving_time_sec": 3132,
+      "distance_m": 6430
+    },
+    "19144030204": {
+      "id": "19144030204",
+      "athlete": "severinus tyan",
+      "athleteId": "27221918",
+      "startDate": "2026-07-01T21:51:22Z",
+      "type": "Run",
+      "distance_km": 13.18,
+      "moving_time_sec": 5340,
+      "distance_m": 13180
+    },
+    "19143907902": {
+      "id": "19143907902",
+      "athlete": "Steven Sutrisno",
+      "athleteId": "24530489",
+      "startDate": "2026-07-01T23:02:22Z",
+      "type": "Run",
+      "distance_km": 23,
+      "moving_time_sec": 0,
+      "distance_m": 23000
+    },
+    "19144089458": {
+      "id": "19144089458",
+      "athlete": "Muzammil Akhmad",
+      "athleteId": "18602303",
+      "startDate": "2026-07-01T22:30:38Z",
+      "type": "Run",
+      "distance_km": 8,
+      "moving_time_sec": 2848,
+      "distance_m": 8000
+    },
+    "19143724121": {
+      "id": "19143724121",
+      "athlete": "Ardy Fardiansyah",
+      "athleteId": "32392407",
+      "startDate": "2026-07-01T22:02:57Z",
+      "type": "Run",
+      "distance_km": 6.4,
+      "moving_time_sec": 3600,
+      "distance_m": 6400
+    },
+    "19143549132": {
+      "id": "19143549132",
+      "athlete": "Steven Sutrisno",
+      "athleteId": "24530489",
+      "startDate": "2026-07-01T22:03:12Z",
+      "type": "Run",
+      "distance_km": 5.67,
+      "moving_time_sec": 2520,
+      "distance_m": 5670
+    },
+    "19143457309": {
+      "id": "19143457309",
+      "athlete": "Boris Lethe",
+      "athleteId": "37690983",
+      "startDate": "2026-07-01T21:43:53Z",
+      "type": "Run",
+      "distance_km": 6.52,
+      "moving_time_sec": 2942,
+      "distance_m": 6520
+    }
+  }
+}
