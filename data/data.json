@@ -1,5 +1,7 @@
 {
-  "generated_at": "2026-07-02T04:48:31.403Z",
+  "generated_at": "2026-07-02T07:05:11.720Z",
+  "filter_mode": "recent",
+  "auth_mode": "bearer",
   "club": {
     "id": 223457,
     "name": "Tangerang Crazy Runners",
@@ -7,14 +9,15 @@
     "state": "Banten",
     "country": "Indonesia",
     "member_count": 146,
-    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/223457/4906584/1/large.jpg",
-    "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/223457/4906588/1/large.jpg",
+    "profile": "assets/logo.jpg",
+    "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-06-28",
   "week_end": "2026-07-02",
   "metric": "distance",
-  "total_athletes": 66,
+  "total_athletes": 64,
+  "total_activities": 159,
   "leaderboard": [
     {
       "rank": 1,
@@ -38,16 +41,6 @@
     },
     {
       "rank": 3,
-      "name": "Toni D.",
-      "distance_km": 50.02,
-      "moving_time_sec": 17672,
-      "moving_time": "4j 54m",
-      "pace": "5:53",
-      "activities": 5,
-      "elev_m": 27
-    },
-    {
-      "rank": 4,
       "name": "Ardy F.",
       "distance_km": 48.58,
       "moving_time_sec": 18509,
@@ -57,7 +50,7 @@
       "elev_m": 49
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Andree S.",
       "distance_km": 45.26,
       "moving_time_sec": 21995,
@@ -67,7 +60,7 @@
       "elev_m": 52
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Aditra A.",
       "distance_km": 43.21,
       "moving_time_sec": 16869,
@@ -77,7 +70,7 @@
       "elev_m": 127
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ibnoelampard N.",
       "distance_km": 34.84,
       "moving_time_sec": 18083,
@@ -87,17 +80,7 @@
       "elev_m": 23
     },
     {
-      "rank": 8,
-      "name": "Coco T.",
-      "distance_km": 33.44,
-      "moving_time_sec": 15480,
-      "moving_time": "4j 18m",
-      "pace": "7:43",
-      "activities": 5,
-      "elev_m": 42
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "name": "Cris F.",
       "distance_km": 31.73,
       "moving_time_sec": 14753,
@@ -107,7 +90,7 @@
       "elev_m": 43
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "severinus T.",
       "distance_km": 31.39,
       "moving_time_sec": 12501,
@@ -115,6 +98,26 @@
       "pace": "6:38",
       "activities": 3,
       "elev_m": 81
+    },
+    {
+      "rank": 9,
+      "name": "william F.",
+      "distance_km": 31.21,
+      "moving_time_sec": 15705,
+      "moving_time": "4j 21m",
+      "pace": "8:23",
+      "activities": 5,
+      "elev_m": 136
+    },
+    {
+      "rank": 10,
+      "name": "sugiyo ..",
+      "distance_km": 28.69,
+      "moving_time_sec": 12270,
+      "moving_time": "3j 24m",
+      "pace": "7:08",
+      "activities": 5,
+      "elev_m": 45
     }
   ]
 }

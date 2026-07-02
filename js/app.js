@@ -25,12 +25,37 @@
     } catch (e) { return iso; }
   }
 
+  function fmtDateShort(iso) {
+    try {
+      return new Date(iso)
+        .toLocaleDateString("id-ID", { day: "2-digit", month: "short" });
+    } catch (e) { return iso; }
+  }
+
   function fmtGenerated(iso) {
     try {
       return new Date(iso).toLocaleString("id-ID", {
         day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit",
       });
     } catch (e) { return iso; }
+  }
+
+  // Warna avatar deterministic per nama (palette kohesif pink-ish tapi bervariasi)
+  const AV_PALETTE = [
+    ["#f472b6", "#ec4899"],
+    ["#fb7185", "#e11d48"],
+    ["#c084fc", "#a855f7"],
+    ["#fbbf24", "#f59e0b"],
+    ["#fda4af", "#f472b6"],
+    ["#a5b4fc", "#818cf8"],
+    ["#5eead4", "#14b8a6"],
+    ["#f9a8d4", "#db2777"],
+  ];
+  function avatarGradient(name) {
+    let h = 0;
+    for (let i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) >>> 0;
+    const [a, b] = AV_PALETTE[h % AV_PALETTE.length];
+    return `linear-gradient(135deg, ${a}, ${b})`;
   }
 
   function fillPodium(card, entry) {
@@ -43,6 +68,8 @@
     const av = document.createElement("div");
     av.className = "pod-avatar";
     av.textContent = initials(entry.name);
+    av.style.background = avatarGradient(entry.name);
+    av.style.color = "#1f1721";
     card.appendChild(av);
 
     const nm = document.createElement("div");
@@ -65,21 +92,32 @@
     const row = document.createElement("div");
     row.className = "row";
     const medal = medals[entry.rank - 1] || "";
+    const av = document.createElement("div");
+    av.className = "av";
+    av.textContent = initials(entry.name);
+    av.style.background = avatarGradient(entry.name);
+    av.style.color = "#1f1721";
     row.innerHTML = `
       <div class="rank">${medal || entry.rank}</div>
-      <div class="av">${initials(entry.name)}</div>
-      <div class="info">
-        <div class="name">${entry.name}</div>
-        <div class="sub">${entry.activities}× lari • pace ${entry.pace}/km • waktu ${entry.moving_time}</div>
-      </div>
-      <div class="dist">
-        <div class="km">${entry.distance_km}<span class="unit"> km</span></div>
-        <div class="badges">
-          <span class="badge">⏱ ${entry.pace}/km</span>
-          <span class="badge">⛰ ${entry.elev_m} m</span>
-        </div>
+    `;
+    row.appendChild(av);
+    const info = document.createElement("div");
+    info.className = "info";
+    info.innerHTML = `
+      <div class="name">${entry.name}</div>
+      <div class="sub">${entry.activities}× lari • pace ${entry.pace}/km • waktu ${entry.moving_time}</div>
+    `;
+    row.appendChild(info);
+    const dist = document.createElement("div");
+    dist.className = "dist";
+    dist.innerHTML = `
+      <div class="km">${entry.distance_km}<span class="unit"> km</span></div>
+      <div class="badges">
+        <span class="badge">⏱ ${entry.pace}/km</span>
+        <span class="badge">⛰ ${entry.elev_m} m</span>
       </div>
     `;
+    row.appendChild(dist);
     return row;
   }
 
@@ -87,22 +125,35 @@
     const clubName = document.getElementById("club-name");
     const clubMeta = document.getElementById("club-meta");
     const periodRange = document.getElementById("period-range");
+    const periodLabel = document.getElementById("period-label");
     const updatedAt = document.getElementById("updated-at");
     const logo = document.getElementById("club-logo");
+    const heroCover = document.getElementById("hero-cover");
 
     if (data.club) {
-      clubName.textContent = data.club.name || "Tangerang Crazy Runners";
+      clubName.textContent = data.club.name || "Tangerang Crazy Runners 🔥";
       const meta = [data.club.city, data.club.state, data.club.country]
         .filter(Boolean).join(", ");
       clubMeta.textContent = meta || "";
       if (data.club.profile && logo) {
         logo.src = data.club.profile;
-        logo.onerror = () => { logo.style.display = "none"; };
-      } else if (logo) {
-        logo.style.display = "none";
+        logo.onerror = () => { logo.style.visibility = "hidden"; };
+      }
+      if (data.club.cover_photo && heroCover) {
+        heroCover.style.backgroundImage = `url("${data.club.cover_photo}")`;
       }
     }
-    periodRange.textContent = `${fmtDate(data.week_start)} — ${fmtDate(data.week_end)}`;
+
+    const isWeekly = data.filter_mode === "weekly";
+    if (periodLabel) {
+      periodLabel.textContent = isWeekly
+        ? "Top 10 — Minggu Berjalan"
+        : "Top 10 — Aktivitas Terbaru";
+    }
+    const range = isWeekly
+      ? `${fmtDateShort(data.week_start)} — ${fmtDateShort(data.week_end)} (sampai sekarang)`
+      : `${fmtDateShort(data.week_start)} — ${fmtDateShort(data.week_end)}`;
+    periodRange.textContent = range;
     updatedAt.textContent = fmtGenerated(data.generated_at);
 
     const lb = data.leaderboard || [];

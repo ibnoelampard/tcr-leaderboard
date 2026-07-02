@@ -3,7 +3,7 @@
   "use strict";
 
   const THEMES = [
-    { id: "sporty", label: "🏁 Sporty (Default)" },
+    { id: "tcr", label: "🔥 TCR Pink-Hitam (Default)" },
     { id: "kemerdekaan", label: "🇮🇩 Kemerdekaan" },
     { id: "valentine", label: "💗 Valentine" },
     { id: "lebaran", label: "🌙 Lebaran" },
@@ -12,9 +12,10 @@
   ];
 
   const STORAGE_KEY = "tcr-theme";
+  const DEFAULT_THEME = "tcr";
 
   function applyTheme(id) {
-    if (!THEMES.some((t) => t.id === id)) id = "sporty";
+    if (!THEMES.some((t) => t.id === id)) id = DEFAULT_THEME;
     document.body.setAttribute("data-theme", id);
     document
       .querySelector('meta[name="theme-color"]')
@@ -36,9 +37,9 @@
       o.textContent = t.label;
       select.appendChild(o);
     });
-    let saved = "sporty";
-    try { saved = localStorage.getItem(STORAGE_KEY) || "sporty"; } catch (e) {}
-    if (!THEMES.some((t) => t.id === saved)) saved = "sporty";
+    let saved = DEFAULT_THEME;
+    try { saved = localStorage.getItem(STORAGE_KEY) || DEFAULT_THEME; } catch (e) {}
+    if (!THEMES.some((t) => t.id === saved)) saved = DEFAULT_THEME;
     select.value = saved;
     applyTheme(saved);
     select.addEventListener("change", () => applyTheme(select.value));

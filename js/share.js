@@ -1,9 +1,12 @@
-/* share.js — screenshot leaderboard (html2canvas) + share WhatsApp */
+/* share.js — screenshot leaderboard (html2canvas) + share WhatsApp
+   Capture: clone #capture-card ke container offscreen lebar 720px,
+   tinggi penuh (scrollHeight) → tidak terpotong di bawah. */
 (function () {
   "use strict";
 
   const medals = ["🥇", "🥈", "🥉"];
   const slice = "–";
+  const CAPTURE_WIDTH = 720;
 
   function txtDate(iso) {
     try {
@@ -12,9 +15,14 @@
   }
 
   function buildShareText(data) {
+    const clubName = data.club?.name || "Tangerang Crazy Runners";
+    const isWeekly = data.filter_mode === "weekly";
+    const periodTxt = isWeekly
+      ? `Minggu: ${txtDate(data.week_start)} ${slice} ${txtDate(data.week_end)} (sampai sekarang)`
+      : `Periode: ${txtDate(data.week_start)} ${slice} ${txtDate(data.week_end)}`;
     const header =
-      `🏆 Top 10 ${data.club?.name || "Tangerang Crazy Runners"}\n` +
-      `Minggu: ${txtDate(data.week_start)} ${slice} ${txtDate(data.week_end)}\n` +
+      `🏆 Top 10 ${clubName}\n` +
+      `${periodTxt}\n` +
       `(Metric: jarak tempuh km)\n\n`;
     const lines = (data.leaderboard || []).map((e) => {
       const m = medals[e.rank - 1] || `${e.rank}.`;
@@ -24,49 +32,71 @@
     return header + lines + footer;
   }
 
+  function waitForFonts() {
+    if (document.fonts && document.fonts.ready) return document.fonts.ready;
+    return Promise.resolve();
+  }
+
+  function cloneForCapture(source) {
+    const clone = source.cloneNode(true);
+    // bersihkan elemen yang tak ingin ikut
+    clone.querySelectorAll(".no-capture, .toolbar, .modal, .site-footer, .share-hint")
+      .forEach((el) => el.remove());
+    // pastikan lebar tetap & layout konsisten
+    clone.style.width = CAPTURE_WIDTH + "px";
+    clone.style.margin = "0";
+    clone.style.maxWidth = "none";
+
+    const wrap = document.createElement("div");
+    wrap.style.cssText =
+      `position:fixed; left:-100000px; top:0; width:${CAPTURE_WIDTH}px; z-index:-1; ` +
+      `background: var(--bg-grad-1); padding: 24px 22px 18px; box-sizing: border-box;`;
+    // transfer tema ke wrap agar CSS variables ter-resolve
+    const theme = document.body.getAttribute("data-theme") || "tcr";
+    wrap.setAttribute("data-theme", theme);
+    wrap.appendChild(clone);
+    document.body.appendChild(wrap);
+    return wrap;
+  }
+
   async function capturePage() {
-    const page = document.querySelector(".page");
-    if (!page) throw new Error("Elemen .page tidak ditemukan");
+    const source = document.getElementById("capture-card");
+    if (!source) throw new Error("Elemen #capture-card tidak ditemukan");
     if (typeof html2canvas === "undefined")
       throw new Error("html2canvas belum termuat (perlu internet)");
 
-    // Sembunyikan elemen yang tak perlu ikut screenshot
-    const ignore = [];
-    const ignoreSelectors = [".toolbar", ".site-footer", ".modal"];
-    ignoreSelectors.forEach((s) =>
-      page.querySelectorAll(s).forEach((el) => {
-        const prev = el.style.display;
-        el.setAttribute("data-prev-display", prev);
-        el.style.display = "none";
-        ignore.push(el);
-      })
-    );
+    await waitForFonts();
+    // tunggu gambar lokal (logo/cover) benar-benar ready
+    const imgs = source.querySelectorAll("img");
+    await Promise.all(Array.from(imgs).map((img) =>
+      img.complete && img.naturalWidth
+        ? Promise.resolve()
+        : new Promise((res) => { img.onload = img.onerror = res; })
+    ));
 
-    // Beri padding aman & background pada capture
-    const prevBg = page.style.background;
-    page.style.background = "transparent";
+    const wrap = cloneForCapture(source);
     try {
-      const canvas = await html2canvas(page, {
+      const fullH = Math.max(wrap.scrollHeight, wrap.offsetHeight, 600);
+      const canvas = await html2canvas(wrap, {
         backgroundColor: null,
-        scale: Math.min(2, window.devicePixelRatio || 1.5),
-        logging: false,
+        scale: Math.min(2, (window.devicePixelRatio || 1.5)),
+        width: CAPTURE_WIDTH,
+        height: fullH,
+        windowWidth: CAPTURE_WIDTH,
+        windowHeight: fullH,
+        x: 0, y: 0, scrollX: 0, scrollY: 0,
         useCORS: true,
-        allowTaint: true,
+        allowTaint: false,
+        logging: false,
       });
       return canvas;
     } finally {
-      ignore.forEach((el) => {
-        el.style.display = el.getAttribute("data-prev-display") || "";
-        el.removeAttribute("data-prev-display");
-      });
-      page.style.background = prevBg;
+      wrap.remove();
     }
   }
 
   function canvasToBlob(canvas) {
-    return new Promise((resolve) => {
-      canvas.toBlob((b) => resolve(b), "image/png");
-    });
+    return new Promise((resolve) => canvas.toBlob((b) => resolve(b), "image/png"));
   }
 
   let lastBlob = null;
@@ -95,12 +125,9 @@
       const canFilesShare =
         navigator.canShare &&
         navigator.canShare({ files: [new File([lastBlob], "tcr-leaderboard.png", { type: "image/png" })] });
-      if (canFilesShare) {
-        hint.textContent = "✅ Tekan “Buka WhatsApp” lalu pilih kontak. Gambar akan otomatis terlampir di perangkat mobile yang mendukung Web Share.";
-      } else {
-        hint.textContent =
-          "ℹ️ Perangkat ini tidak mendukung kirim gambar otomatis. Gunakan “Download gambar”, lalu lampirkan manual ke WhatsApp beserta teks di atas.";
-      }
+      hint.textContent = canFilesShare
+        ? "✅ Tekan “Buka WhatsApp” lalu pilih kontak. Gambar otomatis terlampir (mobile yang dukung Web Share)."
+        : "ℹ️ Gunakan “Download gambar”, lalu lampirkan manual ke WhatsApp beserta teks di atas.";
     } catch (e) {
       console.error(e);
       hint.textContent = "⚠️ Gagal membuat gambar: " + e.message + " — teks daftar tetap bisa dibagikan.";
@@ -110,32 +137,22 @@
     }
   }
 
-  function closeShare() {
-    document.getElementById("share-modal").hidden = true;
-  }
+  function closeShare() { document.getElementById("share-modal").hidden = true; }
 
   async function shareToWhatsApp() {
     const text = lastText || buildShareText(window.TCR_DATA || {});
     const file = lastBlob ? new File([lastBlob], "tcr-leaderboard.png", { type: "image/png" }) : null;
-    const canFilesShare =
-      file && navigator.canShare && navigator.canShare({ files: [file] });
-
+    const canFilesShare = file && navigator.canShare && navigator.canShare({ files: [file] });
     if (canFilesShare) {
       try {
-        await navigator.share({
-          files: [file],
-          text,
-          title: "Top 10 Tangerang Crazy Runners",
-        });
+        await navigator.share({ files: [file], text, title: "Top 10 Tangerang Crazy Runners" });
         return;
       } catch (e) {
-        if (e && e.name === "AbortError") return; // user batal
+        if (e && e.name === "AbortError") return;
         console.warn("Web Share files gagal, fallback ke wa.me", e);
       }
     }
-    // Fallback: buka WhatsApp dengan teks saja
-    const url = `https://wa.me/?text=${encodeURIComponent(text)}`;
-    window.open(url, "_blank", "noopener");
+    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank", "noopener");
   }
 
   function downloadImage() {
