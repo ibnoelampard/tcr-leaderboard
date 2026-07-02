@@ -269,6 +269,76 @@
       "distance_km": 7.33,
       "moving_time_sec": 3149,
       "distance_m": 7330
+    },
+    "19151475181": {
+      "id": "19151475181",
+      "athlete": "Bram Siagian",
+      "athleteId": "186650879",
+      "startDate": "2026-07-02T14:01:44Z",
+      "type": "Run",
+      "distance_km": 6.04,
+      "moving_time_sec": 2919,
+      "distance_m": 6040
+    },
+    "19151928201": {
+      "id": "19151928201",
+      "athlete": "Aldino Wijaksono",
+      "athleteId": "128769022",
+      "startDate": "2026-07-02T13:41:44Z",
+      "type": "Run",
+      "distance_km": 10.31,
+      "moving_time_sec": 3595,
+      "distance_m": 10310
+    },
+    "19150668532": {
+      "id": "19150668532",
+      "athlete": "william fernando",
+      "athleteId": "30574816",
+      "startDate": "2026-07-02T12:59:10Z",
+      "type": "Run",
+      "distance_km": 4.81,
+      "moving_time_sec": 2344,
+      "distance_m": 4810
+    },
+    "19150116219": {
+      "id": "19150116219",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-07-02T11:55:56Z",
+      "type": "Run",
+      "distance_km": 6.21,
+      "moving_time_sec": 2679,
+      "distance_m": 6210
+    },
+    "19149980661": {
+      "id": "19149980661",
+      "athlete": "Steven Cloon",
+      "athleteId": "83609058",
+      "startDate": "2026-07-02T11:56:09Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2215,
+      "distance_m": 5010
+    },
+    "19149951907": {
+      "id": "19149951907",
+      "athlete": "Mohammad Nazir",
+      "athleteId": "18323542",
+      "startDate": "2026-07-02T11:32:45Z",
+      "type": "Run",
+      "distance_km": 11.03,
+      "moving_time_sec": 3840,
+      "distance_m": 11030
+    },
+    "19151040809": {
+      "id": "19151040809",
+      "athlete": "Hendri Mulyadi",
+      "athleteId": "137028433",
+      "startDate": "2026-07-02T10:36:13Z",
+      "type": "Run",
+      "distance_km": 12.14,
+      "moving_time_sec": 5400,
+      "distance_m": 12140
     }
   }
 }

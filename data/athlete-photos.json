@@ -108,5 +108,35 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26779694/7781539/5/medium.jpg",
     "path": "assets/athletes/26779694.jpg",
     "name": "Nesdi Waty"
+  },
+  "brams": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/186650879/43427994/1/medium.jpg",
+    "path": "assets/athletes/186650879.jpg",
+    "name": "Bram Siagian"
+  },
+  "aldinow": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/128769022/29970613/3/medium.jpg",
+    "path": "assets/athletes/128769022.jpg",
+    "name": "Aldino Wijaksono"
+  },
+  "rudyh": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/27222012/7917201/1/medium.jpg",
+    "path": "assets/athletes/27222012.jpg",
+    "name": "Rudy Hartono"
+  },
+  "stevenc": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/83609058/31753786/3/medium.jpg",
+    "path": "assets/athletes/83609058.jpg",
+    "name": "Steven Cloon"
+  },
+  "mohammadn": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/18323542/5204250/5/medium.jpg",
+    "path": "assets/athletes/18323542.jpg",
+    "name": "Mohammad Nazir"
+  },
+  "hendrim": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/137028433/31179176/5/medium.jpg",
+    "path": "assets/athletes/137028433.jpg",
+    "name": "Hendri Mulyadi"
   }
 }
