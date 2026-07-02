@@ -19,9 +19,16 @@ const path = require("path");
 // config.js di-gitignore (lokal). Di CI pakai env/secret.
 let config = { ACCESS_TOKEN: "", CLUB_ID: 223457, MAX_PAGES: 30 };
 try { Object.assign(config, require("./config")); } catch (e) { /* config.js tidak ada (CI) */ }
-const ACCESS_TOKEN = process.env.STRAVA_ACCESS_TOKEN || config.ACCESS_TOKEN;
 const CLUB_ID = Number(process.env.STRAVA_CLUB_ID || config.CLUB_ID);
 const MAX_PAGES = Number(process.env.STRAVA_MAX_PAGES || config.MAX_PAGES || 30);
+
+// Auto-refresh credentials (opsional). Bila access_token expired (401),
+// exchange refresh_token → token baru, lalu retry.
+const CLIENT_ID = process.env.STRAVA_CLIENT_ID || config.CLIENT_ID || "";
+const CLIENT_SECRET = process.env.STRAVA_CLIENT_SECRET || config.CLIENT_SECRET || "";
+const REFRESH_TOKEN = process.env.STRAVA_REFRESH_TOKEN || config.REFRESH_TOKEN || "";
+let ACCESS_TOKEN = process.env.STRAVA_ACCESS_TOKEN || config.ACCESS_TOKEN || "";
+const CAN_AUTO_REFRESH = !!(CLIENT_ID && CLIENT_SECRET && REFRESH_TOKEN);
 
 const STRAVA_BASE = "https://www.strava.com/api/v3";
 const SESSION_COOKIE = process.env.STRAVA_SESSION_COOKIE || "";
@@ -31,6 +38,30 @@ const PHOTO_MAP_FILE = path.join(__dirname, "data", "athlete-photos.json");
 const ATHLETE_ASSET_DIR = path.join(__dirname, "data", "assets", "athletes");
 
 // ===== Auth =====
+async function refreshAccessToken() {
+  if (!CAN_AUTO_REFRESH) {
+    throw new Error("Token expired & tidak ada refresh_token/client creds. Set STRAVA_CLIENT_ID, STRAVA_CLIENT_SECRET, STRAVA_REFRESH_TOKEN.");
+  }
+  console.log("   ⤵ access_token expired, exchange refresh_token...");
+  const body = new URLSearchParams({
+    client_id: CLIENT_ID,
+    client_secret: CLIENT_SECRET,
+    grant_type: "refresh_token",
+    refresh_token: REFRESH_TOKEN,
+  });
+  const res = await fetch("https://www.strava.com/oauth/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body,
+  });
+  if (!res.ok) {
+    const t = await res.text().catch(() => "");
+    throw new Error(`Refresh token gagal (HTTP ${res.status}): ${t.slice(0,200)}`);
+  }
+  const j = await res.json();
+  ACCESS_TOKEN = j.access_token;
+  console.log(`   ✓ token baru diperoleh (expires ${new Date(j.expires_at*1000).toISOString().slice(11,19)}Z)`);
+}
 function apiHeaders() {
   return { Authorization: `Bearer ${ACCESS_TOKEN}` };
 }
@@ -46,8 +77,14 @@ function webHeaders() {
 
 async function stravaGet(p) {
   const url = `${STRAVA_BASE}${p}`;
-  const res = await fetch(url, { headers: apiHeaders() });
-  if (res.status === 401) throw new Error("Token OAuth expired (401). Perbarui config.js.");
+  let res = await fetch(url, { headers: apiHeaders() });
+  if (res.status === 401) {
+    if (CAN_AUTO_REFRESH) {
+      await refreshAccessToken();
+      res = await fetch(url, { headers: apiHeaders() }); // retry sekali
+    }
+    if (res.status === 401) throw new Error("Token OAuth invalid & refresh gagal (401).");
+  }
   if (res.status === 404) return null;
   if (res.status === 429) { console.warn("Rate limited (429), tunggu 15s..."); await new Promise(r=>setTimeout(r,15000)); return stravaGet(p); }
   if (!res.ok) throw new Error(`HTTP ${res.status} pada ${url}`);
