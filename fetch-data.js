@@ -55,20 +55,36 @@ async function stravaGet(p) {
   return res.json();
 }
 
-// ===== WIB week range: Senin 00:00 WIB s/d sekarang =====
-function getWeekRangeWIB(date = new Date()) {
-  const wibOffsetMin = 7 * 60;
-  const utcMs = date.getTime() + date.getTimezoneOffset() * 60000;
-  const wibNow = new Date(utcMs + wibOffsetMin * 60000);
-  const dayWIB = wibNow.getDay();
-  const daysFromMonday = (dayWIB + 6) % 7;
-  wibNow.setHours(0, 0, 0, 0);
-  wibNow.setDate(wibNow.getDate() - daysFromMonday);
-  const mondayWIB = new Date(wibNow.getTime() - wibOffsetMin * 60000);
-  return { start: mondayWIB, end: date };
+// ===== WIB helpers (UTC+7, machine-tz-independent) =====
+const WIB_OFFSET_MS = 7 * 60 * 60 * 1000;
+
+// Tanggal WIB sebagai string YYYY-MM-DD
+function fmtDate(date) {
+  const w = new Date(date.getTime() + WIB_OFFSET_MS);
+  return w.toISOString().slice(0, 10);
 }
-function fmtDate(d) {
-  return d.toISOString().slice(0, 10);
+// Datetime WIB naive "YYYY-MM-DDTHH:MM:SS" (untuk string-compare yg konsisten)
+function toWIBNaive(date) {
+  const w = new Date(date.getTime() + WIB_OFFSET_MS);
+  return w.toISOString().slice(0, 19);
+}
+function localToNaive(s) {
+  return String(s).replace(/Z$/, "").slice(0, 19);
+}
+
+// Week range WIB: Senin 00:00 WIB s/d sekarang
+function getWeekRangeWIB(date = new Date()) {
+  const wibEpoch = date.getTime() + WIB_OFFSET_MS;
+  const w = new Date(wibEpoch); // field UTC == wall-clock WIB
+  const day = w.getUTCDay(); // 0=Minggu..6=Sabtu
+  const daysFromMonday = (day + 6) % 7;
+  const msIntoDay =
+    w.getUTCHours() * 3600000 + w.getUTCMinutes() * 60000 +
+    w.getUTCSeconds() * 1000 + w.getUTCMilliseconds();
+  const midnightWibEpoch = wibEpoch - msIntoDay;
+  const mondayWibEpoch = midnightWibEpoch - daysFromMonday * 86400000;
+  const mondayUTC = new Date(mondayWibEpoch - WIB_OFFSET_MS);
+  return { start: mondayUTC, end: date };
 }
 
 // ===== Athlete key & display =====
@@ -144,13 +160,20 @@ async function main() {
     const hasDates = acts.some((a) => a.start_date || a.start_date_local);
     if (hasDates) dateFilterApplied = true;
 
+    // Bandingkan sebagai naive WIB string (YYYY-MM-DDTHH:MM:SS) -> konsisten
+    const wibStartStr = toWIBNaive(start);
+    const wibEndStr = toWIBNaive(end);
+    function actWibStr(a) {
+      if (a.start_date_local) return localToNaive(a.start_date_local);
+      if (a.start_date) return toWIBNaive(new Date(a.start_date));
+      return null;
+    }
+
     let stillRelevant = false;
     if (hasDates) {
       for (const a of acts) {
-        const d = a.start_date_local
-          ? new Date(a.start_date_local.endsWith("Z") ? a.start_date_local : a.start_date_local + "Z")
-          : new Date(a.start_date);
-        if (d >= start) stillRelevant = true;
+        const s = actWibStr(a);
+        if (s && s >= wibStartStr) stillRelevant = true;
       }
       if (page > 1 && !stillRelevant) { console.log("   Sisa aktivitas di luar minggu ini. Berhenti."); break; }
     }
@@ -158,10 +181,8 @@ async function main() {
     for (const a of acts) {
       // Filter tanggal bila tersedia
       if (hasDates) {
-        const d = a.start_date_local
-          ? new Date(a.start_date_local.endsWith("Z") ? a.start_date_local : a.start_date_local + "Z")
-          : new Date(a.start_date);
-        if (d < start || d > end) continue;
+        const s = actWibStr(a);
+        if (!s || s < wibStartStr || s > wibEndStr) continue;
       }
       const isRun =
         a.sport_type === "Run" || a.sport_type === "VirtualRun" ||

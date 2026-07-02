@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T07:05:11.720Z",
+  "generated_at": "2026-07-02T07:23:23.665Z",
   "filter_mode": "recent",
   "auth_mode": "bearer",
   "club": {
@@ -13,7 +13,7 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-06-28",
+  "week_start": "2026-06-29",
   "week_end": "2026-07-02",
   "metric": "distance",
   "total_athletes": 64,
