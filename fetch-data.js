@@ -15,7 +15,13 @@
 
 const fs = require("fs");
 const path = require("path");
-const config = require("./config");
+
+// config.js di-gitignore (lokal). Di CI pakai env/secret.
+let config = { ACCESS_TOKEN: "", CLUB_ID: 223457, MAX_PAGES: 30 };
+try { Object.assign(config, require("./config")); } catch (e) { /* config.js tidak ada (CI) */ }
+const ACCESS_TOKEN = process.env.STRAVA_ACCESS_TOKEN || config.ACCESS_TOKEN;
+const CLUB_ID = Number(process.env.STRAVA_CLUB_ID || config.CLUB_ID);
+const MAX_PAGES = Number(process.env.STRAVA_MAX_PAGES || config.MAX_PAGES || 30);
 
 const STRAVA_BASE = "https://www.strava.com/api/v3";
 const SESSION_COOKIE = process.env.STRAVA_SESSION_COOKIE || "";
@@ -26,7 +32,7 @@ const ATHLETE_ASSET_DIR = path.join(__dirname, "data", "assets", "athletes");
 
 // ===== Auth =====
 function apiHeaders() {
-  return { Authorization: `Bearer ${config.ACCESS_TOKEN}` };
+  return { Authorization: `Bearer ${ACCESS_TOKEN}` };
 }
 function webHeaders() {
   return {
@@ -51,7 +57,7 @@ async function stravaGet(p) {
 async function webFeed() {
   if (!USE_COOKIE) return null;
   try {
-    const r = await fetch(`https://www.strava.com/clubs/${config.CLUB_ID}/feed`, { headers: webHeaders() });
+    const r = await fetch(`https://www.strava.com/clubs/${CLUB_ID}/feed`, { headers: webHeaders() });
     if (!r.ok) { console.warn(`   web feed HTTP ${r.status}, foto dilewati`); return null; }
     return await r.json();
   } catch (e) { console.warn("   web feed gagal:", e.message); return null; }
@@ -144,7 +150,7 @@ async function fetchPhotos(leaderboard, photoMap) {
 async function main() {
   console.log(`>> Mode foto: ${USE_COOKIE ? "SESSION COOKIE (web feed)" : "TIDAK ADA (inisial)"}`);
   console.log(">> Mengambil info club...");
-  const club = await stravaGet(`/clubs/${config.CLUB_ID}`);
+  const club = await stravaGet(`/clubs/${CLUB_ID}`);
   console.log(`   Club: ${club.name} (${club.member_count} anggota)`);
 
   const { start, end } = getWeekRangeWIB();
@@ -159,9 +165,9 @@ async function main() {
   // Ambil aktivitas OAuth (statistik)
   const byAthlete = new Map();
   let totalActs = 0;
-  for (let page=1; page<=config.MAX_PAGES; page++) {
+  for (let page=1; page<=MAX_PAGES; page++) {
     console.log(`>> Aktivitas halaman ${page}...`);
-    const acts = await stravaGet(`/clubs/${config.CLUB_ID}/activities?page=${page}&per_page=200`);
+    const acts = await stravaGet(`/clubs/${CLUB_ID}/activities?page=${page}&per_page=200`);
     if (!acts || !acts.length) { console.log("   selesai."); break; }
     for (const a of acts) {
       const isRun = a.sport_type==="Run"||a.sport_type==="VirtualRun"||a.type==="Run"||a.type==="VirtualRun";
