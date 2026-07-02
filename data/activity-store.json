@@ -199,6 +199,76 @@
       "distance_km": 6.52,
       "moving_time_sec": 2942,
       "distance_m": 6520
+    },
+    "19149573761": {
+      "id": "19149573761",
+      "athlete": "Alex Rusman",
+      "athleteId": "153243434",
+      "startDate": "2026-07-02T11:42:13Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 1466,
+      "distance_m": 5010
+    },
+    "19149426332": {
+      "id": "19149426332",
+      "athlete": "william po",
+      "athleteId": "181211766",
+      "startDate": "2026-07-02T11:12:42Z",
+      "type": "Run",
+      "distance_km": 5.65,
+      "moving_time_sec": 2563,
+      "distance_m": 5650
+    },
+    "19149330170": {
+      "id": "19149330170",
+      "athlete": "Erick Yanto",
+      "athleteId": "164750862",
+      "startDate": "2026-07-02T10:48:18Z",
+      "type": "Run",
+      "distance_km": 5.35,
+      "moving_time_sec": 2507,
+      "distance_m": 5350
+    },
+    "19149097675": {
+      "id": "19149097675",
+      "athlete": "Farhan Kastaa",
+      "athleteId": "1390057573",
+      "startDate": "2026-07-02T10:17:41Z",
+      "type": "Run",
+      "distance_km": 6.76,
+      "moving_time_sec": 1698,
+      "distance_m": 6760
+    },
+    "19149131033": {
+      "id": "19149131033",
+      "athlete": "Dikdik Sugiharto",
+      "athleteId": "56518385",
+      "startDate": "2026-07-02T10:19:02Z",
+      "type": "Run",
+      "distance_km": 8.01,
+      "moving_time_sec": 2896,
+      "distance_m": 8010
+    },
+    "19148758498": {
+      "id": "19148758498",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-02T09:26:21Z",
+      "type": "Run",
+      "distance_km": 10.05,
+      "moving_time_sec": 5100,
+      "distance_m": 10050
+    },
+    "19148934718": {
+      "id": "19148934718",
+      "athlete": "Nesdi Waty",
+      "athleteId": "26779694",
+      "startDate": "2026-07-01T17:00:01Z",
+      "type": "Run",
+      "distance_km": 7.33,
+      "moving_time_sec": 3149,
+      "distance_m": 7330
     }
   }
 }

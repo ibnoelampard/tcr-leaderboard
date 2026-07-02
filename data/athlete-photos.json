@@ -73,5 +73,40 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/37690983/11084494/5/medium.jpg",
     "path": "assets/athletes/37690983.jpg",
     "name": "Boris Lethe"
+  },
+  "alexr": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/153243434/34257942/2/medium.jpg",
+    "path": "assets/athletes/153243434.jpg",
+    "name": "Alex Rusman"
+  },
+  "williamp": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/181211766/39633344/1/medium.jpg",
+    "path": "assets/athletes/181211766.jpg",
+    "name": "william po"
+  },
+  "ericky": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/164750862/50284360/1/medium.jpg",
+    "path": "assets/athletes/164750862.jpg",
+    "name": "Erick Yanto"
+  },
+  "farhank": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1390057573/44914403/1/medium.jpg",
+    "path": "assets/athletes/1390057573.jpg",
+    "name": "Farhan Kastaa"
+  },
+  "dikdiks": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/56518385/46522063/1/medium.jpg",
+    "path": "assets/athletes/56518385.jpg",
+    "name": "Dikdik Sugiharto"
+  },
+  "gloriag": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/30268008/48502941/1/medium.jpg",
+    "path": "assets/athletes/30268008.jpg",
+    "name": "Gloria Guida"
+  },
+  "nesdiw": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26779694/7781539/5/medium.jpg",
+    "path": "assets/athletes/26779694.jpg",
+    "name": "Nesdi Waty"
   }
 }
