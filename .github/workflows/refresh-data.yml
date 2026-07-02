@@ -1,9 +1,9 @@
-name: Refresh leaderboard
+name: Refresh leaderboard (tiap 2 jam)
 
 on:
   schedule:
-    # 14:00 UTC = 21:00 WIB tiap hari
-    - cron: "0 14 * * *"
+    # tiap 2 jam (web feed cuma 20 terbaru per request, perlu sering utk akumulasi store)
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:

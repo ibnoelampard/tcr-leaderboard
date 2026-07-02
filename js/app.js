@@ -123,11 +123,12 @@
     row.appendChild(info);
     const dist = document.createElement("div");
     dist.className = "dist";
+    const elevBadge = entry.elev_m ? `<span class="badge">⛰ ${entry.elev_m} m</span>` : "";
     dist.innerHTML = `
       <div class="km">${entry.distance_km}<span class="unit"> km</span></div>
       <div class="badges">
         <span class="badge">⏱ ${entry.pace}/km</span>
-        <span class="badge">⛰ ${entry.elev_m} m</span>
+        ${elevBadge}
       </div>
     `;
     row.appendChild(dist);
