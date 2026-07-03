@@ -141,7 +141,7 @@ async function fetchWebFeed(before) {
   if (!USE_COOKIE) return null;
   try {
     let url = `https://www.strava.com/clubs/${CLUB_ID}/feed`;
-    if (before) url += `?before=${Math.floor(new Date(before).getTime() / 1000)}`;
+    if (before) url += `?before=${encodeURIComponent(before)}`;
     const r = await fetch(url, { headers: webHeaders() });
     if (!r.ok) { console.warn(`   web feed HTTP ${r.status}`); return null; }
     return await r.json();
@@ -153,8 +153,11 @@ async function ingestWebFeed(store, photoMap, weekStart) {
   const weekStartIso = weekStart.toISOString();
   if (!fs.existsSync(ATHLETE_ASSET_DIR)) fs.mkdirSync(ATHLETE_ASSET_DIR, { recursive: true });
   let newActs = 0, newPhotos = 0, page = 0, before = null;
+  let prevOldestDate = null;
 
-  while (true) {
+  const MAX_FEED_PAGES = 30;
+
+  while (page < MAX_FEED_PAGES) {
     page++;
     console.log(`   web feed page ${page}${before ? ` (before: ${before.slice(0,19)}Z)` : ""}`);
     const feed = await fetchWebFeed(before);
@@ -166,6 +169,7 @@ async function ingestWebFeed(store, photoMap, weekStart) {
 
     let oldestDate = null;
     let reachedMonday = false;
+    let allInStore = true;
 
     for (const e of feed.entries) {
       const a = e.activity;
@@ -177,6 +181,7 @@ async function ingestWebFeed(store, photoMap, weekStart) {
       }
 
       if (store.activities[a.id]) continue;
+      allInStore = false;
 
       if (a.startDate && a.startDate < weekStartIso) {
         reachedMonday = true;
@@ -207,10 +212,22 @@ async function ingestWebFeed(store, photoMap, weekStart) {
       }
     }
 
-    if (reachedMonday || !oldestDate || feed.entries.length === 0) break;
+    if (reachedMonday) { console.log(`   page ${page}: mencapai aktivitas sebelum Senin, berhenti`); break; }
+    if (!oldestDate || feed.entries.length === 0) break;
+
+    // Stuck: oldestDate tidak berubah → API abaikan param before
+    if (prevOldestDate && oldestDate === prevOldestDate) {
+      console.log(`   page ${page}: oldestDate tidak berubah (${oldestDate.slice(0,19)}Z), berhenti`);
+      break;
+    }
+    // Semua entry sudah di store → tidak perlu lanjut
+    if (allInStore && page > 1) { console.log(`   page ${page}: semua entry sudah dikenal, berhenti`); break; }
+
+    prevOldestDate = oldestDate;
     before = oldestDate;
   }
 
+  if (page >= MAX_FEED_PAGES) console.warn(`   ⚠ mencapai batas ${MAX_FEED_PAGES} halaman, berhenti`);
   console.log(`   ✓ ingest web feed: ${newActs} aktivitas baru, ${newPhotos} foto baru (${page} halaman)`);
   return newActs;
 }
