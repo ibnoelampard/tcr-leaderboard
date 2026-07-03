@@ -137,12 +137,10 @@ function saveStore(s) { fs.writeFileSync(STORE_FILE, JSON.stringify(s,null,2),"u
 function loadPhotoMap(){ try { return JSON.parse(fs.readFileSync(PHOTO_MAP_FILE,"utf8"))||{}; } catch { return {}; } }
 function savePhotoMap(m){ fs.writeFileSync(PHOTO_MAP_FILE, JSON.stringify(m,null,2),"utf8"); }
 
-async function fetchWebFeed(before) {
+async function fetchWebFeed() {
   if (!USE_COOKIE) return null;
   try {
-    let url = `https://www.strava.com/clubs/${CLUB_ID}/feed`;
-    if (before) url += `?before=${encodeURIComponent(before)}`;
-    const r = await fetch(url, { headers: webHeaders() });
+    const r = await fetch(`https://www.strava.com/clubs/${CLUB_ID}/feed`, { headers: webHeaders() });
     if (!r.ok) { console.warn(`   web feed HTTP ${r.status}`); return null; }
     return await r.json();
   } catch(e){ console.warn("   web feed gagal:", e.message); return null; }
@@ -152,83 +150,82 @@ async function ingestWebFeed(store, photoMap, weekStart) {
   if (!USE_COOKIE) return 0;
   const weekStartIso = weekStart.toISOString();
   if (!fs.existsSync(ATHLETE_ASSET_DIR)) fs.mkdirSync(ATHLETE_ASSET_DIR, { recursive: true });
-  let newActs = 0, newPhotos = 0, page = 0, before = null;
-  let prevOldestDate = null;
+  let newActs = 0, newPhotos = 0;
 
-  const MAX_FEED_PAGES = 30;
+  const feed = await fetchWebFeed();
+  if (!feed || !feed.entries) { console.log("   web feed kosong"); return 0; }
 
-  while (page < MAX_FEED_PAGES) {
-    page++;
-    console.log(`   web feed page ${page}${before ? ` (before: ${before.slice(0,19)}Z)` : ""}`);
-    const feed = await fetchWebFeed(before);
-    if (!feed || !feed.entries || !feed.entries.length) {
-      if (page === 1) console.log("   web feed kosong");
-      else console.log(`   page ${page}: kosong, berhenti`);
-      break;
+  for (const e of feed.entries) {
+    const a = e.activity;
+    if (!a || !a.id) continue;
+    if (a.type !== "Run" && a.type !== "VirtualRun") continue;
+    if (store.activities[a.id]) continue;
+    if (a.startDate && a.startDate < weekStartIso) continue;
+
+    const athlete = a.athlete || {};
+    const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
+    const distance_km = parseDistanceKm(a.stats);
+    const moving_time_sec = parseMovingSec(a.stats);
+    store.activities[a.id] = {
+      id: a.id,
+      athlete: athleteName,
+      athleteId: athlete.athleteId || null,
+      startDate: a.startDate,
+      type: a.type,
+      distance_km,
+      moving_time_sec,
+      distance_m: Math.round(distance_km*1000),
+    };
+    newActs++;
+
+    const key = nameKey(athleteName);
+    if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
+      const aid = athlete.athleteId || key;
+      const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
+      if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
     }
-
-    let oldestDate = null;
-    let reachedMonday = false;
-    let allInStore = true;
-
-    for (const e of feed.entries) {
-      const a = e.activity;
-      if (!a || !a.id) continue;
-      if (a.type !== "Run" && a.type !== "VirtualRun") continue;
-
-      if (a.startDate && (!oldestDate || a.startDate < oldestDate)) {
-        oldestDate = a.startDate;
-      }
-
-      if (store.activities[a.id]) continue;
-      allInStore = false;
-
-      if (a.startDate && a.startDate < weekStartIso) {
-        reachedMonday = true;
-        continue;
-      }
-
-      const athlete = a.athlete || {};
-      const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
-      const distance_km = parseDistanceKm(a.stats);
-      const moving_time_sec = parseMovingSec(a.stats);
-      store.activities[a.id] = {
-        id: a.id,
-        athlete: athleteName,
-        athleteId: athlete.athleteId || null,
-        startDate: a.startDate,
-        type: a.type,
-        distance_km,
-        moving_time_sec,
-        distance_m: Math.round(distance_km*1000),
-      };
-      newActs++;
-
-      const key = nameKey(athleteName);
-      if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
-        const aid = athlete.athleteId || key;
-        const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
-        if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
-      }
-    }
-
-    if (reachedMonday) { console.log(`   page ${page}: mencapai aktivitas sebelum Senin, berhenti`); break; }
-    if (!oldestDate || feed.entries.length === 0) break;
-
-    // Stuck: oldestDate tidak berubah → API abaikan param before
-    if (prevOldestDate && oldestDate === prevOldestDate) {
-      console.log(`   page ${page}: oldestDate tidak berubah (${oldestDate.slice(0,19)}Z), berhenti`);
-      break;
-    }
-    // Semua entry sudah di store → tidak perlu lanjut
-    if (allInStore && page > 1) { console.log(`   page ${page}: semua entry sudah dikenal, berhenti`); break; }
-
-    prevOldestDate = oldestDate;
-    before = oldestDate;
   }
 
-  if (page >= MAX_FEED_PAGES) console.warn(`   ⚠ mencapai batas ${MAX_FEED_PAGES} halaman, berhenti`);
-  console.log(`   ✓ ingest web feed: ${newActs} aktivitas baru, ${newPhotos} foto baru (${page} halaman)`);
+  console.log(`   ✓ ingest web feed: ${newActs} aktivitas baru, ${newPhotos} foto baru`);
+  return newActs;
+}
+
+async function backfillOAuth(store, weekStart) {
+  const weekStartIso = weekStart.toISOString();
+  let newActs = 0;
+
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    console.log(`   oauth backfill page ${page} (per_page=200)`);
+    const acts = await stravaGet(`/clubs/${CLUB_ID}/activities?page=${page}&per_page=200`);
+    if (!acts || !acts.length) { console.log(`   page ${page}: kosong, berhenti`); break; }
+
+    let allOlder = true;
+
+    for (const a of acts) {
+      const isRun = a.sport_type === "Run" || a.sport_type === "VirtualRun" || a.type === "Run" || a.type === "VirtualRun";
+      if (!isRun) continue;
+
+      if (a.start_date && a.start_date < weekStartIso) continue;
+      allOlder = false;
+
+      if (store.activities[a.id]) continue;
+
+      store.activities[a.id] = {
+        id: a.id,
+        athlete: display(a.athlete),
+        athleteId: a.athlete?.id || null,
+        startDate: a.start_date,
+        type: a.type,
+        distance_km: +((a.distance || 0) / 1000).toFixed(2),
+        moving_time_sec: a.moving_time || 0,
+        distance_m: a.distance || 0,
+      };
+      newActs++;
+    }
+
+    if (allOlder) { console.log(`   page ${page}: semua sebelum Senin, berhenti`); break; }
+  }
+
   return newActs;
 }
 
@@ -316,12 +313,14 @@ async function main() {
   if (USE_COOKIE) {
     const store = loadStore();
     const photoMap = loadPhotoMap();
-    console.log(">> Ingest web feed ke store...");
+    console.log(">> Ingest web feed ke store (foto atlet)...");
     await ingestWebFeed(store, photoMap, start);
+    console.log(">> Backfill OAuth (semua aktivitas minggu ini)...");
+    const oaNew = await backfillOAuth(store, start);
     pruneStore(store);
     saveStore(store);
     savePhotoMap(photoMap);
-    console.log(`   Store total: ${Object.keys(store.activities).length} aktivitas unik`);
+    console.log(`   Store total: ${Object.keys(store.activities).length} aktivitas unik (${oaNew > 0 ? oaNew + " dari OAuth" : "tidak ada baru dari OAuth"})`);
 
     console.log(">> Agregasi mingguan (Senin → sekarang)...");
     leaderboard = aggregateWeekly(store, photoMap, start, end);
