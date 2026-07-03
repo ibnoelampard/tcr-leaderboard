@@ -3,10 +3,10 @@
  * fetch-data.js — Tangerang Crazy Runners leaderboard
  *
  * Strategi:
- *  1. Foto atlet dari web feed (cookie).
- *  2. Semua aktivitas minggu ini (Senin 00:00 WIB → sekarang) via OAuth API pagination.
- *     activity-store.json DIREPLACE tiap run (data mentah mingguan).
- *  3. aggregateWeekly → data.json (top 10) untuk landing page.
+ *  1. Web feed load more → ambil SEMUA aktivitas 1 minggu terakhir
+ *     (dari sekarang sampai Senin 00:00 WIB sebelumnya)
+ *  2. Simpan mentah di activity-store.json
+ *  3. Filter Senin 00:00 WIB → sekarang, top 10 jarak → data.json
  *
  * Jalankan:  node fetch-data.js
  */
@@ -14,10 +14,10 @@
 const fs = require("fs");
 const path = require("path");
 
-let config = { ACCESS_TOKEN: "", CLUB_ID: 223457, MAX_PAGES: 30 };
+let config = { ACCESS_TOKEN: "", CLUB_ID: 223457, MAX_PAGES: 100 };
 try { Object.assign(config, require("./config")); } catch (e) {}
 const CLUB_ID = Number(process.env.STRAVA_CLUB_ID || config.CLUB_ID);
-const MAX_PAGES = Number(process.env.STRAVA_MAX_PAGES || config.MAX_PAGES || 30);
+const MAX_FEED_PAGES = Number(process.env.STRAVA_FEED_PAGES || config.MAX_PAGES || 100);
 const CLIENT_ID = process.env.STRAVA_CLIENT_ID || config.CLIENT_ID || "";
 const CLIENT_SECRET = process.env.STRAVA_CLIENT_SECRET || config.CLIENT_SECRET || "";
 const REFRESH_TOKEN = process.env.STRAVA_REFRESH_TOKEN || config.REFRESH_TOKEN || "";
@@ -127,95 +127,89 @@ async function downloadAsset(url, filePath) {
 function loadPhotoMap(){ try { return JSON.parse(fs.readFileSync(PHOTO_MAP_FILE,"utf8"))||{}; } catch { return {}; } }
 function savePhotoMap(m){ fs.writeFileSync(PHOTO_MAP_FILE, JSON.stringify(m,null,2),"utf8"); }
 
-async function fetchWebFeed() {
+async function fetchWebFeed(before) {
   if (!USE_COOKIE) return null;
   try {
-    const r = await fetch(`https://www.strava.com/clubs/${CLUB_ID}/feed`, { headers: webHeaders() });
+    let url = `https://www.strava.com/clubs/${CLUB_ID}/feed`;
+    if (before) url += `?before=${encodeURIComponent(before)}`;
+    const r = await fetch(url, { headers: webHeaders() });
     if (!r.ok) { console.warn(`   web feed HTTP ${r.status}`); return null; }
     return await r.json();
   } catch(e){ console.warn("   web feed gagal:", e.message); return null; }
 }
 
-// ===== Ingest aktivitas + foto dari web feed =====
+// ===== Load more web feed → semua aktivitas 1 minggu =====
 async function ingestWebFeed(store, photoMap, weekStart) {
   if (!USE_COOKIE) return 0;
   const weekStartIso = weekStart.toISOString();
   if (!fs.existsSync(ATHLETE_ASSET_DIR)) fs.mkdirSync(ATHLETE_ASSET_DIR, { recursive: true });
-  let newActs = 0, newPhotos = 0;
+  let newActs = 0, newPhotos = 0, page = 0, before = null;
 
-  const feed = await fetchWebFeed();
-  if (!feed || !feed.entries) { console.log("   web feed kosong"); return 0; }
-
-  for (const e of feed.entries) {
-    const a = e.activity;
-    if (!a || !a.id) continue;
-    if (a.type !== "Run" && a.type !== "VirtualRun") continue;
-    if (a.startDate && a.startDate < weekStartIso) continue;
-
-    const athlete = a.athlete || {};
-    const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
-    const distance_km = parseDistanceKm(a.stats);
-    const moving_time_sec = parseMovingSec(a.stats);
-
-    store.activities[a.id] = {
-      id: a.id,
-      athlete: athleteName,
-      athleteId: athlete.athleteId || null,
-      startDate: a.startDate,
-      type: a.type,
-      distance_km,
-      moving_time_sec,
-      distance_m: Math.round(distance_km * 1000),
-    };
-    newActs++;
-
-    const key = nameKey(athleteName);
-    if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
-      const aid = athlete.athleteId || key;
-      const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
-      if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
+  while (page < MAX_FEED_PAGES) {
+    page++;
+    console.log(`   web feed page ${page}${before ? ` (before: ${before.slice(0,19)}Z)` : ""}`);
+    const feed = await fetchWebFeed(before);
+    if (!feed || !feed.entries || !feed.entries.length) {
+      if (page === 1) console.log("   web feed kosong");
+      else console.log(`   page ${page}: kosong, berhenti`);
+      break;
     }
-  }
 
-  console.log(`   ✓ web feed: ${newActs} aktivitas, ${newPhotos} foto baru`);
-  return newActs;
-}
+    let oldestDate = null;
 
-// ===== Backfill OAuth ke store (aktivity tambahan) =====
-async function fetchWeeklyActivities(store, weekStart) {
-  const weekStartIso = weekStart.toISOString();
-  let newActs = 0;
+    for (const e of feed.entries) {
+      const a = e.activity;
+      if (!a || !a.id) continue;
+      if (a.type !== "Run" && a.type !== "VirtualRun") continue;
 
-  for (let page = 1; page <= MAX_PAGES; page++) {
-    console.log(`   oauth page ${page} (per_page=200)`);
-    const acts = await stravaGet(`/clubs/${CLUB_ID}/activities?page=${page}&per_page=200`);
-    if (!acts || !acts.length) { console.log(`   page ${page}: kosong, berhenti`); break; }
-
-    let pageHasRecent = false;
-
-    for (const a of acts) {
-      const isRun = a.sport_type === "Run" || a.sport_type === "VirtualRun" || a.type === "Run" || a.type === "VirtualRun";
-      if (!isRun) continue;
-      if (!a.start_date || a.start_date < weekStartIso) continue;
-      pageHasRecent = true;
+      // skip kalau sudah ada
       if (store.activities[a.id]) continue;
+
+      // kalau startDate < Senin 00:00 WIB → stop (udah kelewatan)
+      if (a.startDate && a.startDate < weekStartIso) {
+        oldestDate = null; // tanda berhenti
+        break;
+      }
+
+      if (a.startDate && (!oldestDate || a.startDate < oldestDate)) {
+        oldestDate = a.startDate;
+      }
+
+      const athlete = a.athlete || {};
+      const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
+      const distance_km = parseDistanceKm(a.stats);
+      const moving_time_sec = parseMovingSec(a.stats);
 
       store.activities[a.id] = {
         id: a.id,
-        athlete: display(a.athlete),
-        athleteId: a.athlete?.id || null,
-        startDate: a.start_date,
+        athlete: athleteName,
+        athleteId: athlete.athleteId || null,
+        startDate: a.startDate,
         type: a.type,
-        distance_km: +((a.distance || 0) / 1000).toFixed(2),
-        moving_time_sec: a.moving_time || 0,
-        distance_m: a.distance || 0,
+        distance_km,
+        moving_time_sec,
+        distance_m: Math.round(distance_km * 1000),
       };
       newActs++;
+
+      const key = nameKey(athleteName);
+      if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
+        const aid = athlete.athleteId || key;
+        const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
+        if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
+      }
     }
 
-    if (!pageHasRecent) { console.log(`   page ${page}: semua sebelum Senin, berhenti`); break; }
+    if (!oldestDate) {
+      console.log(`   page ${page}: mencapai aktivitas sebelum Senin, berhenti`);
+      break;
+    }
+
+    before = oldestDate;
   }
 
+  if (page >= MAX_FEED_PAGES) console.warn(`   ⚠ capai batas ${MAX_FEED_PAGES} halaman`);
+  console.log(`   ✓ web feed: ${newActs} aktivitas, ${newPhotos} foto baru (${page} halaman)`);
   return newActs;
 }
 
@@ -248,12 +242,12 @@ function aggregateWeekly(store, photoMap, weekStart, weekEnd) {
   return list.slice(0,10).map((e,i)=>({ rank:i+1, ...e }));
 }
 
-// ===== Fallback OAuth (tanpa cookie, tanpa tanggal) =====
+// ===== Fallback OAuth (tanpa cookie) =====
 async function fetchOAuthFallback() {
   console.log(">> Mode fallback OAuth (tanpa cookie, tanpa tanggal)");
   const byAthlete = new Map();
   let total = 0;
-  for (let page=1; page<=MAX_PAGES; page++) {
+  for (let page=1; page<=100; page++) {
     const acts = await stravaGet(`/clubs/${CLUB_ID}/activities?page=${page}&per_page=200`);
     if (!acts || !acts.length) break;
     for (const a of acts) {
@@ -274,7 +268,7 @@ async function fetchOAuthFallback() {
 }
 
 async function main() {
-  console.log(`>> Mode: ${USE_COOKIE ? "OAUTH (filter mingguan)" : "OAuth FALLBACK (recent)"}`);
+  console.log(`>> Mode: ${USE_COOKIE ? "WEB FEED LOAD MORE" : "OAuth FALLBACK"}`);
   const { start, end } = getWeekRangeWIB();
   console.log(`>> Minggu (WIB): ${fmtDate(start)} → ${fmtDate(end)} (Senin s/d sekarang)`);
 
@@ -291,21 +285,17 @@ async function main() {
     const store = { activities: {} };
     const photoMap = loadPhotoMap();
 
-    // 1. Web feed: aktivitas + foto (minimal 20 entry, pasti ada)
-    console.log(">> Ingest web feed (aktivitas + foto)...");
-    const wfCount = await ingestWebFeed(store, photoMap, start);
+    // 1. Load more web feed → semua aktivitas dari skrg sampai Senin 00:00
+    console.log(">> Load more web feed (1 minggu terakhir)...");
+    await ingestWebFeed(store, photoMap, start);
     savePhotoMap(photoMap);
 
-    // 2. OAuth backfill: lengkapi aktivitas yang terlewat
-    console.log(">> OAuth backfill (jika token punya akses)...");
-    const oaCount = await fetchWeeklyActivities(store, start);
-
-    // 3. Simpan store (replace tiap run)
+    // 2. Simpan store (data mentah, replace tiap run)
     fs.writeFileSync(STORE_FILE, JSON.stringify(store, null, 2), "utf8");
     const total = Object.keys(store.activities).length;
-    console.log(`   Store: ${total} aktivitas (web feed: ${wfCount}, oauth: ${oaCount})`);
+    console.log(`   Store: ${total} aktivitas (data mentah minggu ini)`);
 
-    // 4. Agregasi → data.json
+    // 3. Agregasi → data.json
     console.log(">> Agregasi mingguan (Senin → sekarang)...");
     leaderboard = aggregateWeekly(store, photoMap, start, end);
     filterMode = "weekly";
