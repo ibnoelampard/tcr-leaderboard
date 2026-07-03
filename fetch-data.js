@@ -136,12 +136,12 @@ async function fetchWebFeed() {
   } catch(e){ console.warn("   web feed gagal:", e.message); return null; }
 }
 
-// ===== Ingest foto atlet dari web feed =====
-async function ingestPhotos(photoMap, weekStart) {
+// ===== Ingest aktivitas + foto dari web feed =====
+async function ingestWebFeed(store, photoMap, weekStart) {
   if (!USE_COOKIE) return 0;
   const weekStartIso = weekStart.toISOString();
   if (!fs.existsSync(ATHLETE_ASSET_DIR)) fs.mkdirSync(ATHLETE_ASSET_DIR, { recursive: true });
-  let newPhotos = 0;
+  let newActs = 0, newPhotos = 0;
 
   const feed = await fetchWebFeed();
   if (!feed || !feed.entries) { console.log("   web feed kosong"); return 0; }
@@ -154,8 +154,22 @@ async function ingestPhotos(photoMap, weekStart) {
 
     const athlete = a.athlete || {};
     const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
-    const key = nameKey(athleteName);
+    const distance_km = parseDistanceKm(a.stats);
+    const moving_time_sec = parseMovingSec(a.stats);
 
+    store.activities[a.id] = {
+      id: a.id,
+      athlete: athleteName,
+      athleteId: athlete.athleteId || null,
+      startDate: a.startDate,
+      type: a.type,
+      distance_km,
+      moving_time_sec,
+      distance_m: Math.round(distance_km * 1000),
+    };
+    newActs++;
+
+    const key = nameKey(athleteName);
     if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
       const aid = athlete.athleteId || key;
       const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
@@ -163,15 +177,14 @@ async function ingestPhotos(photoMap, weekStart) {
     }
   }
 
-  console.log(`   ✓ web feed: ${newPhotos} foto baru`);
-  return newPhotos;
+  console.log(`   ✓ web feed: ${newActs} aktivitas, ${newPhotos} foto baru`);
+  return newActs;
 }
 
-// ===== Fetch semua aktivitas minggu ini via OAuth =====
-async function fetchWeeklyActivities(weekStart) {
+// ===== Backfill OAuth ke store (aktivity tambahan) =====
+async function fetchWeeklyActivities(store, weekStart) {
   const weekStartIso = weekStart.toISOString();
-  const activities = {};
-  let total = 0;
+  let newActs = 0;
 
   for (let page = 1; page <= MAX_PAGES; page++) {
     console.log(`   oauth page ${page} (per_page=200)`);
@@ -183,11 +196,11 @@ async function fetchWeeklyActivities(weekStart) {
     for (const a of acts) {
       const isRun = a.sport_type === "Run" || a.sport_type === "VirtualRun" || a.type === "Run" || a.type === "VirtualRun";
       if (!isRun) continue;
-
       if (!a.start_date || a.start_date < weekStartIso) continue;
       pageHasRecent = true;
+      if (store.activities[a.id]) continue;
 
-      activities[a.id] = {
+      store.activities[a.id] = {
         id: a.id,
         athlete: display(a.athlete),
         athleteId: a.athlete?.id || null,
@@ -197,16 +210,13 @@ async function fetchWeeklyActivities(weekStart) {
         moving_time_sec: a.moving_time || 0,
         distance_m: a.distance || 0,
       };
-      total++;
+      newActs++;
     }
 
-    if (!pageHasRecent) {
-      console.log(`   page ${page}: semua sebelum Senin, berhenti`);
-      break;
-    }
+    if (!pageHasRecent) { console.log(`   page ${page}: semua sebelum Senin, berhenti`); break; }
   }
 
-  return { activities, total };
+  return newActs;
 }
 
 function aggregateWeekly(store, photoMap, weekStart, weekEnd) {
@@ -278,20 +288,22 @@ async function main() {
   let leaderboard, filterMode, totalActs, totalAthletes;
 
   if (USE_COOKIE) {
-    // 1. Foto atlet dari web feed
+    const store = { activities: {} };
     const photoMap = loadPhotoMap();
-    console.log(">> Ingest foto atlet dari web feed...");
-    await ingestPhotos(photoMap, start);
+
+    // 1. Web feed: aktivitas + foto (minimal 20 entry, pasti ada)
+    console.log(">> Ingest web feed (aktivitas + foto)...");
+    const wfCount = await ingestWebFeed(store, photoMap, start);
     savePhotoMap(photoMap);
 
-    // 2. Ambil semua aktivitas minggu ini via OAuth
-    console.log(">> Fetch aktivitas minggu ini via OAuth...");
-    const { activities, total } = await fetchWeeklyActivities(start);
-    const store = { activities };
-    console.log(`   Store: ${Object.keys(activities).length} aktivitas minggu ini`);
+    // 2. OAuth backfill: lengkapi aktivitas yang terlewat
+    console.log(">> OAuth backfill (jika token punya akses)...");
+    const oaCount = await fetchWeeklyActivities(store, start);
 
     // 3. Simpan store (replace tiap run)
     fs.writeFileSync(STORE_FILE, JSON.stringify(store, null, 2), "utf8");
+    const total = Object.keys(store.activities).length;
+    console.log(`   Store: ${total} aktivitas (web feed: ${wfCount}, oauth: ${oaCount})`);
 
     // 4. Agregasi → data.json
     console.log(">> Agregasi mingguan (Senin → sekarang)...");
