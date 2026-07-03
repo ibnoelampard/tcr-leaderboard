@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:04:16.191Z",
+  "generated_at": "2026-07-03T23:01:44.859Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,6 +75,17 @@
     },
     {
       "rank": 6,
+      "name": "Toni Djiaw",
+      "distance_km": 11.28,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "5:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Renaldi Wijaya",
       "distance_km": 11,
       "moving_time_sec": 4260,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "william fernando",
       "distance_km": 10.73,
       "moving_time_sec": 5563,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Gerardo Yericko",
       "distance_km": 10.39,
       "moving_time_sec": 4080,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Farhan Kastaa",
       "distance_km": 10.36,
       "moving_time_sec": 4478,
@@ -116,17 +127,6 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/1390057573.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "RIKA ZIVA",
-      "distance_km": 10.22,
-      "moving_time_sec": 7560,
-      "moving_time": "2j 6m",
-      "pace": "12:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/123462258.jpg"
     }
   ]
 }
