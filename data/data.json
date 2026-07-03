@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T02:09:31.292Z",
+  "generated_at": "2026-07-03T02:25:23.963Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-06-29",
   "week_end": "2026-07-03",
   "metric": "distance",
-  "total_activities": 44,
+  "total_activities": 45,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Mohammad Nazir",
+      "distance_km": 41.08,
+      "moving_time_sec": 13860,
+      "moving_time": "3j 51m",
+      "pace": "5:37",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/18323542.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Steven Sutrisno",
       "distance_km": 37.26,
       "moving_time_sec": 5062,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/24530489.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 19.03,
       "moving_time_sec": 7440,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Fritz Wildan",
       "distance_km": 18.27,
       "moving_time_sec": 6780,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Ardy Fardiansyah",
       "distance_km": 16.01,
       "moving_time_sec": 7200,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 13.18,
       "moving_time_sec": 5340,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Malaikat Strava",
       "distance_km": 13.01,
       "moving_time_sec": 5280,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Hendri Mulyadi",
       "distance_km": 12.14,
       "moving_time_sec": 5400,
@@ -93,17 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Mohammad Nazir",
-      "distance_km": 11.03,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "5:48",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
     },
     {
       "rank": 9,
