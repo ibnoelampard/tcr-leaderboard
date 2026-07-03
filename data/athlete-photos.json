@@ -183,5 +183,30 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/17887937/5059469/3/medium.jpg",
     "path": "assets/athletes/17887937.jpg",
     "name": "Hanif Rahmadian"
+  },
+  "retnop": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/190280699/41153507/1/medium.jpg",
+    "path": "assets/athletes/190280699.jpg",
+    "name": "Retno P"
+  },
+  "robyw": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/126128951/28871334/1/medium.jpg",
+    "path": "assets/athletes/126128951.jpg",
+    "name": "Roby Wong"
+  },
+  "antina": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/120428252/27782073/2/medium.jpg",
+    "path": "assets/athletes/120428252.jpg",
+    "name": "Antin Achai"
+  },
+  "gerardoy": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/47763557/14390470/2/medium.jpg",
+    "path": "assets/athletes/47763557.jpg",
+    "name": "Gerardo Yericko"
+  },
+  "renaldiw": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/143447083/38319140/1/medium.jpg",
+    "path": "assets/athletes/143447083.jpg",
+    "name": "Renaldi Wijaya"
   }
 }
