@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T03:26:03.238Z",
+  "generated_at": "2026-07-03T03:36:41.740Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -42,17 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "Hendri Mulyadi",
-      "distance_km": 12.14,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Ike Kusumawati",
       "distance_km": 10.84,
       "moving_time_sec": 3844,
@@ -62,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Aldino Wijaksono",
       "distance_km": 10.31,
       "moving_time_sec": 3595,
@@ -73,7 +62,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Ardy Fardiansyah",
       "distance_km": 9.61,
       "moving_time_sec": 3600,
@@ -84,7 +73,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Aditra AL",
       "distance_km": 9.01,
       "moving_time_sec": 3780,
@@ -94,7 +83,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Diana Melina",
       "distance_km": 8,
       "moving_time_sec": 3058,
@@ -105,7 +94,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Sherly Tusita",
       "distance_km": 7.99,
       "moving_time_sec": 3436,
@@ -116,7 +105,7 @@
       "photo": "assets/athletes/30504885.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Jun Pang",
       "distance_km": 7.12,
       "moving_time_sec": 3020,
@@ -125,6 +114,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/19762198.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rudy Hartono",
+      "distance_km": 6.21,
+      "moving_time_sec": 2679,
+      "moving_time": "44m 39s",
+      "pace": "7:11",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }
