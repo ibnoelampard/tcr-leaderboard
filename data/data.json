@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:00:22.035Z",
+  "generated_at": "2026-07-03T17:24:09.493Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,24 +13,13 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-06-29",
-  "week_end": "2026-07-03",
+  "week_end": "2026-07-04",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Mohammad Nazir",
-      "distance_km": 30.05,
-      "moving_time_sec": 10020,
-      "moving_time": "2j 47m",
-      "pace": "5:33",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Aldino Wijaksono",
       "distance_km": 21.12,
       "moving_time_sec": 7680,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Cris Fe",
       "distance_km": 15.6,
       "moving_time_sec": 7740,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "B A R A T LSP",
       "distance_km": 15.15,
       "moving_time_sec": 7200,
@@ -63,18 +52,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 5,
-      "name": "Malaikat Strava",
-      "distance_km": 13.01,
-      "moving_time_sec": 5280,
-      "moving_time": "1j 28m",
-      "pace": "6:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "severinus tyan",
       "distance_km": 12.63,
       "moving_time_sec": 4620,
@@ -85,7 +63,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Retno P",
       "distance_km": 11.35,
       "moving_time_sec": 5220,
@@ -96,7 +74,7 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Renaldi Wijaya",
       "distance_km": 11,
       "moving_time_sec": 4260,
@@ -107,7 +85,18 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "name": "william fernando",
+      "distance_km": 10.73,
+      "moving_time_sec": 5563,
+      "moving_time": "1j 32m",
+      "pace": "8:38",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Gerardo Yericko",
       "distance_km": 10.39,
       "moving_time_sec": 4080,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Farhan Kastaa",
       "distance_km": 10.36,
       "moving_time_sec": 4478,
@@ -127,6 +116,17 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "RIKA ZIVA",
+      "distance_km": 10.22,
+      "moving_time_sec": 7560,
+      "moving_time": "2j 6m",
+      "pace": "12:20",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123462258.jpg"
     }
   ]
 }
