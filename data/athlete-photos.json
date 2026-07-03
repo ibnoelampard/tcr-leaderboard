@@ -163,5 +163,20 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/126056724/31423625/3/medium.jpg",
     "path": "assets/athletes/126056724.jpg",
     "name": "Diana Melina"
+  },
+  "rikil": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/122081422/35508451/1/medium.jpg",
+    "path": "assets/athletes/122081422.jpg",
+    "name": "Riki Lie"
+  },
+  "rikaz": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/123462258/34573919/1/medium.jpg",
+    "path": "assets/athletes/123462258.jpg",
+    "name": "RIKA ZIVA"
+  },
+  "crisf": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/77575425/26104068/2/medium.jpg",
+    "path": "assets/athletes/77575425.jpg",
+    "name": "Cris Fe"
   }
 }
