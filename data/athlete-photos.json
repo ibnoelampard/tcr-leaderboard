@@ -138,5 +138,25 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/137028433/31179176/5/medium.jpg",
     "path": "assets/athletes/137028433.jpg",
     "name": "Hendri Mulyadi"
+  },
+  "malaikats": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26923775/7822410/25/medium.jpg",
+    "path": "assets/athletes/26923775.jpg",
+    "name": "Malaikat Strava"
+  },
+  "sherlyt": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/30504885/47650009/1/medium.jpg",
+    "path": "assets/athletes/30504885.jpg",
+    "name": "Sherly Tusita"
+  },
+  "junp": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/19762198/7801157/2/medium.jpg",
+    "path": "assets/athletes/19762198.jpg",
+    "name": "Jun Pang"
+  },
+  "friskhac": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/31777986/9496478/3/medium.jpg",
+    "path": "assets/athletes/31777986.jpg",
+    "name": "Friskha Chaca"
   }
 }

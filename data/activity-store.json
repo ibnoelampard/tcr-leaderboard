@@ -349,6 +349,96 @@
       "distance_km": 5.59,
       "moving_time_sec": 2542,
       "distance_m": 5590
+    },
+    "19157551370": {
+      "id": "19157551370",
+      "athlete": "Malaikat Strava",
+      "athleteId": "26923775",
+      "startDate": "2026-07-02T23:22:53Z",
+      "type": "Run",
+      "distance_km": 13.01,
+      "moving_time_sec": 5280,
+      "distance_m": 13010
+    },
+    "19157380166": {
+      "id": "19157380166",
+      "athlete": "Sherly Tusita",
+      "athleteId": "30504885",
+      "startDate": "2026-07-02T23:21:06Z",
+      "type": "Run",
+      "distance_km": 7.99,
+      "moving_time_sec": 3436,
+      "distance_m": 7990
+    },
+    "19157177781": {
+      "id": "19157177781",
+      "athlete": "Jun Pang",
+      "athleteId": "19762198",
+      "startDate": "2026-07-02T23:10:09Z",
+      "type": "Run",
+      "distance_km": 7.12,
+      "moving_time_sec": 3020,
+      "distance_m": 7120
+    },
+    "19157124698": {
+      "id": "19157124698",
+      "athlete": "Friskha Chaca",
+      "athleteId": "31777986",
+      "startDate": "2026-07-02T23:09:02Z",
+      "type": "Run",
+      "distance_km": 6.01,
+      "moving_time_sec": 2569,
+      "distance_m": 6010
+    },
+    "19157185330": {
+      "id": "19157185330",
+      "athlete": "Ery Murniasih",
+      "athleteId": "121250963",
+      "startDate": "2026-07-02T23:15:46Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2200,
+      "distance_m": 5010
+    },
+    "19157618626": {
+      "id": "19157618626",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-07-02T22:48:43Z",
+      "type": "Run",
+      "distance_km": 9.79,
+      "moving_time_sec": 3444,
+      "distance_m": 9790
+    },
+    "19157081850": {
+      "id": "19157081850",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-07-02T22:42:21Z",
+      "type": "Run",
+      "distance_km": 9.01,
+      "moving_time_sec": 3780,
+      "distance_m": 9010
+    },
+    "19156744583": {
+      "id": "19156744583",
+      "athlete": "Ardy Fardiansyah",
+      "athleteId": "32392407",
+      "startDate": "2026-07-02T22:06:13Z",
+      "type": "Run",
+      "distance_km": 9.61,
+      "moving_time_sec": 3600,
+      "distance_m": 9610
+    },
+    "19157614848": {
+      "id": "19157614848",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-07-02T22:40:58Z",
+      "type": "Run",
+      "distance_km": 1.05,
+      "moving_time_sec": 400,
+      "distance_m": 1050
     }
   }
 }
