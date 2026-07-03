@@ -137,52 +137,81 @@ function saveStore(s) { fs.writeFileSync(STORE_FILE, JSON.stringify(s,null,2),"u
 function loadPhotoMap(){ try { return JSON.parse(fs.readFileSync(PHOTO_MAP_FILE,"utf8"))||{}; } catch { return {}; } }
 function savePhotoMap(m){ fs.writeFileSync(PHOTO_MAP_FILE, JSON.stringify(m,null,2),"utf8"); }
 
-async function fetchWebFeed() {
+async function fetchWebFeed(before) {
   if (!USE_COOKIE) return null;
   try {
-    const r = await fetch(`https://www.strava.com/clubs/${CLUB_ID}/feed`, { headers: webHeaders() });
+    let url = `https://www.strava.com/clubs/${CLUB_ID}/feed`;
+    if (before) url += `?before=${Math.floor(new Date(before).getTime() / 1000)}`;
+    const r = await fetch(url, { headers: webHeaders() });
     if (!r.ok) { console.warn(`   web feed HTTP ${r.status}`); return null; }
     return await r.json();
   } catch(e){ console.warn("   web feed gagal:", e.message); return null; }
 }
 
-async function ingestWebFeed(store, photoMap) {
-  const feed = await fetchWebFeed();
-  if (!feed || !feed.entries) { console.log("   web feed kosong"); return 0; }
+async function ingestWebFeed(store, photoMap, weekStart) {
+  if (!USE_COOKIE) return 0;
+  const weekStartIso = weekStart.toISOString();
   if (!fs.existsSync(ATHLETE_ASSET_DIR)) fs.mkdirSync(ATHLETE_ASSET_DIR, { recursive: true });
-  let newActs = 0, newPhotos = 0;
-  for (const e of feed.entries) {
-    const a = e.activity;
-    if (!a || !a.id) continue;
-    if (a.type !== "Run" && a.type !== "VirtualRun") continue;
-    // skip sudah ada di store
-    if (store.activities[a.id]) continue;
+  let newActs = 0, newPhotos = 0, page = 0, before = null;
 
-    const athlete = a.athlete || {};
-    const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
-    const distance_km = parseDistanceKm(a.stats);
-    const moving_time_sec = parseMovingSec(a.stats);
-    store.activities[a.id] = {
-      id: a.id,
-      athlete: athleteName,
-      athleteId: athlete.athleteId || null,
-      startDate: a.startDate,
-      type: a.type,
-      distance_km,
-      moving_time_sec,
-      distance_m: Math.round(distance_km*1000),
-    };
-    newActs++;
-
-    // foto
-    const key = nameKey(athleteName);
-    if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
-      const aid = athlete.athleteId || key;
-      const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
-      if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
+  while (true) {
+    page++;
+    console.log(`   web feed page ${page}${before ? ` (before: ${before.slice(0,19)}Z)` : ""}`);
+    const feed = await fetchWebFeed(before);
+    if (!feed || !feed.entries || !feed.entries.length) {
+      if (page === 1) console.log("   web feed kosong");
+      else console.log(`   page ${page}: kosong, berhenti`);
+      break;
     }
+
+    let oldestDate = null;
+    let reachedMonday = false;
+
+    for (const e of feed.entries) {
+      const a = e.activity;
+      if (!a || !a.id) continue;
+      if (a.type !== "Run" && a.type !== "VirtualRun") continue;
+
+      if (a.startDate && (!oldestDate || a.startDate < oldestDate)) {
+        oldestDate = a.startDate;
+      }
+
+      if (store.activities[a.id]) continue;
+
+      if (a.startDate && a.startDate < weekStartIso) {
+        reachedMonday = true;
+        continue;
+      }
+
+      const athlete = a.athlete || {};
+      const athleteName = athlete.athleteName || display({firstname:athlete.firstName});
+      const distance_km = parseDistanceKm(a.stats);
+      const moving_time_sec = parseMovingSec(a.stats);
+      store.activities[a.id] = {
+        id: a.id,
+        athlete: athleteName,
+        athleteId: athlete.athleteId || null,
+        startDate: a.startDate,
+        type: a.type,
+        distance_km,
+        moving_time_sec,
+        distance_m: Math.round(distance_km*1000),
+      };
+      newActs++;
+
+      const key = nameKey(athleteName);
+      if (key && athlete.avatarUrl && /\/athletes\//.test(athlete.avatarUrl) && !photoMap[key]) {
+        const aid = athlete.athleteId || key;
+        const ok = await downloadAsset(athlete.avatarUrl, path.join(ATHLETE_ASSET_DIR, `${aid}.jpg`));
+        if (ok) { photoMap[key] = { url: athlete.avatarUrl, path: `assets/athletes/${aid}.jpg`, name: athleteName }; newPhotos++; }
+      }
+    }
+
+    if (reachedMonday || !oldestDate || feed.entries.length === 0) break;
+    before = oldestDate;
   }
-  console.log(`   ✓ ingest web feed: ${newActs} aktivitas baru, ${newPhotos} foto baru`);
+
+  console.log(`   ✓ ingest web feed: ${newActs} aktivitas baru, ${newPhotos} foto baru (${page} halaman)`);
   return newActs;
 }
 
@@ -271,7 +300,7 @@ async function main() {
     const store = loadStore();
     const photoMap = loadPhotoMap();
     console.log(">> Ingest web feed ke store...");
-    await ingestWebFeed(store, photoMap);
+    await ingestWebFeed(store, photoMap, start);
     pruneStore(store);
     saveStore(store);
     savePhotoMap(photoMap);
