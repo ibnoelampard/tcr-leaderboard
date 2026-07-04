@@ -90,6 +90,16 @@
       "moving_time_sec": 4860,
       "distance_m": 15450
     },
+    "19170507782": {
+      "id": "19170507782",
+      "athlete": "Yudo Adrian",
+      "athleteId": "16988697",
+      "startDate": "2026-07-03T23:30:03Z",
+      "type": "Run",
+      "distance_km": 9.02,
+      "moving_time_sec": 2817,
+      "distance_m": 9020
+    },
     "19169746674": {
       "id": "19169746674",
       "athlete": "Harmada Hutajulu",
@@ -149,56 +159,6 @@
       "distance_km": 5.01,
       "moving_time_sec": 2023,
       "distance_m": 5010
-    },
-    "19169313741": {
-      "id": "19169313741",
-      "athlete": "Karina Suryawinata",
-      "athleteId": "19042919",
-      "startDate": "2026-07-03T23:29:15Z",
-      "type": "Run",
-      "distance_km": 3.51,
-      "moving_time_sec": 1347,
-      "distance_m": 3510
-    },
-    "19169296428": {
-      "id": "19169296428",
-      "athlete": "Christine .S",
-      "athleteId": "71718168",
-      "startDate": "2026-07-03T23:11:53Z",
-      "type": "Run",
-      "distance_km": 5.28,
-      "moving_time_sec": 2346,
-      "distance_m": 5280
-    },
-    "19169240571": {
-      "id": "19169240571",
-      "athlete": "Aditra AL",
-      "athleteId": "145979024",
-      "startDate": "2026-07-03T22:32:02Z",
-      "type": "Run",
-      "distance_km": 9.85,
-      "moving_time_sec": 3960,
-      "distance_m": 9850
-    },
-    "19169229591": {
-      "id": "19169229591",
-      "athlete": "severinus tyan",
-      "athleteId": "27221918",
-      "startDate": "2026-07-03T22:27:11Z",
-      "type": "Run",
-      "distance_km": 10.06,
-      "moving_time_sec": 4320,
-      "distance_m": 10060
-    },
-    "19168968501": {
-      "id": "19168968501",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-07-03T22:19:50Z",
-      "type": "Run",
-      "distance_km": 8.03,
-      "moving_time_sec": 2684,
-      "distance_m": 8030
     }
   }
 }

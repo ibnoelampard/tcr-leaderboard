@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T02:45:56.933Z",
+  "generated_at": "2026-07-04T06:45:51.687Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-06-29",
   "week_end": "2026-07-04",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -86,17 +86,6 @@
     },
     {
       "rank": 7,
-      "name": "severinus tyan",
-      "distance_km": 10.06,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:09",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Mohammad Nazir",
       "distance_km": 10.03,
       "moving_time_sec": 3433,
@@ -107,25 +96,36 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
+      "rank": 8,
+      "name": "Yudo Adrian",
+      "distance_km": 9.02,
+      "moving_time_sec": 2817,
+      "moving_time": "46m 57s",
+      "pace": "5:12",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
+    },
+    {
       "rank": 9,
-      "name": "Aditra AL",
-      "distance_km": 9.85,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "6:42",
+      "name": "Yotta Risanggono",
+      "distance_km": 7.03,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "9:15",
       "activities": 1,
       "elev_m": 0
     },
     {
       "rank": 10,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 8.03,
-      "moving_time_sec": 2684,
-      "moving_time": "44m 44s",
-      "pace": "5:34",
+      "name": "Gloria Guida",
+      "distance_km": 5.29,
+      "moving_time_sec": 2376,
+      "moving_time": "39m 36s",
+      "pace": "7:29",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/30268008.jpg"
     }
   ]
 }
