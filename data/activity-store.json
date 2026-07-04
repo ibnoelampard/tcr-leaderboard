@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19179361789": {
+      "id": "19179361789",
+      "athlete": "Fahrudin Jamil",
+      "athleteId": "46123297",
+      "startDate": "2026-07-04T16:13:20Z",
+      "type": "Run",
+      "distance_km": 5,
+      "moving_time_sec": 2189,
+      "distance_m": 5000
+    },
     "19178833587": {
       "id": "19178833587",
       "athlete": "Putri Puspita",
@@ -119,16 +129,6 @@
       "distance_km": 0.45,
       "moving_time_sec": 241,
       "distance_m": 450
-    },
-    "19169936621": {
-      "id": "19169936621",
-      "athlete": "Fritz Wildan",
-      "athleteId": "26923775",
-      "startDate": "2026-07-03T22:53:06Z",
-      "type": "Run",
-      "distance_km": 18.33,
-      "moving_time_sec": 7140,
-      "distance_m": 18330
     }
   }
 }

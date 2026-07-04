@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T17:03:06.749Z",
+  "generated_at": "2026-07-04T19:09:44.814Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Fritz Wildan",
-      "distance_km": 18.33,
-      "moving_time_sec": 7140,
-      "moving_time": "1j 59m",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Aditya Rudy Ananda",
       "distance_km": 15.01,
       "moving_time_sec": 6240,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Roby Wong",
       "distance_km": 13.01,
       "moving_time_sec": 5040,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Steven Sutrisno",
       "distance_km": 12.13,
       "moving_time_sec": 5340,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/24530489.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Denny Hy",
       "distance_km": 6.25,
       "moving_time_sec": 2400,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Boris Lethe",
       "distance_km": 6.08,
       "moving_time_sec": 2527,
@@ -94,6 +83,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Fahrudin Jamil",
+      "distance_km": 5,
+      "moving_time_sec": 2189,
+      "moving_time": "36m 29s",
+      "pace": "7:18",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/46123297.jpg"
     },
     {
       "rank": 8,
