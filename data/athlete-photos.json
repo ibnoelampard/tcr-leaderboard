@@ -213,5 +213,50 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/142218523/35245177/8/medium.jpg",
     "path": "assets/athletes/142218523.jpg",
     "name": "Toni Djiaw"
+  },
+  "christines": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/71718168/17961807/2/medium.jpg",
+    "path": "assets/athletes/71718168.jpg",
+    "name": "Christine .S"
+  },
+  "lyutasya": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/128643628/29764163/2/medium.jpg",
+    "path": "assets/athletes/128643628.jpg",
+    "name": "Lyutasya ."
+  },
+  "cocot": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/148842377/40266581/1/medium.jpg",
+    "path": "assets/athletes/148842377.jpg",
+    "name": "Coco Tsl"
+  },
+  "andrees": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/95696517/39625078/1/medium.jpg",
+    "path": "assets/athletes/95696517.jpg",
+    "name": "Andree Setiawan"
+  },
+  "erwinh": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/66730311/26238147/4/medium.jpg",
+    "path": "assets/athletes/66730311.jpg",
+    "name": "Erwin Hauw"
+  },
+  "harmadah": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/20040717/6305401/5/medium.jpg",
+    "path": "assets/athletes/20040717.jpg",
+    "name": "Harmada Hutajulu"
+  },
+  "gemac": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/135577017/34938206/4/medium.jpg",
+    "path": "assets/athletes/135577017.jpg",
+    "name": "Gema Chrisdwianto"
+  },
+  "halisam": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/153432832/40505494/1/medium.jpg",
+    "path": "assets/athletes/153432832.jpg",
+    "name": "Halisa Maulidia"
+  },
+  "karinas": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/19042919/5803480/3/medium.jpg",
+    "path": "assets/athletes/19042919.jpg",
+    "name": "Karina Suryawinata"
   }
 }
