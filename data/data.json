@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T06:45:51.687Z",
+  "generated_at": "2026-07-04T10:08:21.015Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,33 @@
   "week_start": "2026-06-29",
   "week_end": "2026-07-04",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 15,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Coco Tsl",
-      "distance_km": 20.17,
-      "moving_time_sec": 8940,
-      "moving_time": "2j 29m",
-      "pace": "7:23",
+      "name": "Aldino Wijaksono",
+      "distance_km": 25.15,
+      "moving_time_sec": 37140,
+      "moving_time": "10j 19m",
+      "pace": "24:37",
       "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128769022.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Coco Tsl",
+      "distance_km": 22.2,
+      "moving_time_sec": 10543,
+      "moving_time": "2j 55m",
+      "pace": "7:55",
+      "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Malaikat Strava",
       "distance_km": 18.33,
       "moving_time_sec": 7140,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Erwin Hauw",
       "distance_km": 15.45,
       "moving_time_sec": 4860,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Renaldi Wijaya",
       "distance_km": 15,
       "moving_time_sec": 6780,
@@ -61,17 +72,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/143447083.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Friskha Chaca",
-      "distance_km": 14,
-      "moving_time_sec": 5460,
-      "moving_time": "1j 31m",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
     },
     {
       "rank": 6,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "Gloria Guida",
-      "distance_km": 5.29,
-      "moving_time_sec": 2376,
-      "moving_time": "39m 36s",
-      "pace": "7:29",
+      "name": "Andree Setiawan",
+      "distance_km": 5.25,
+      "moving_time_sec": 2992,
+      "moving_time": "49m 52s",
+      "pace": "9:30",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
+      "photo": "assets/athletes/95696517.jpg"
     }
   ]
 }
