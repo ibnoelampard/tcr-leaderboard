@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T15:03:56.441Z",
+  "generated_at": "2026-07-04T17:03:06.749Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-06-29",
-  "week_end": "2026-07-04",
+  "week_end": "2026-07-05",
   "metric": "distance",
   "total_activities": 13,
   "total_athletes": 10,
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Lyutasya .",
-      "distance_km": 10.06,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Denny Hy",
       "distance_km": 6.25,
       "moving_time_sec": 2400,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Boris Lethe",
       "distance_km": 6.08,
       "moving_time_sec": 2527,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Rudy Hartono",
       "distance_km": 3.33,
       "moving_time_sec": 1616,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Christine .S",
       "distance_km": 2.22,
       "moving_time_sec": 1050,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71718168.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Coco Tsl",
+      "distance_km": 2.03,
+      "moving_time_sec": 1603,
+      "moving_time": "26m 43s",
+      "pace": "13:10",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
     }
   ]
 }
