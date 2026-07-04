@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19182011755": {
+      "id": "19182011755",
+      "athlete": "Yudo Adrian",
+      "athleteId": "16988697",
+      "startDate": "2026-07-04T22:29:24Z",
+      "type": "Run",
+      "distance_km": 5.05,
+      "moving_time_sec": 1295,
+      "distance_m": 5050
+    },
     "19179361789": {
       "id": "19179361789",
       "athlete": "Fahrudin Jamil",
@@ -119,16 +129,6 @@
       "distance_km": 2.22,
       "moving_time_sec": 1050,
       "distance_m": 2220
-    },
-    "19171735029": {
-      "id": "19171735029",
-      "athlete": "jeje neko",
-      "athleteId": "142856679",
-      "startDate": "2026-07-04T01:38:27Z",
-      "type": "Run",
-      "distance_km": 0.45,
-      "moving_time_sec": 241,
-      "distance_m": 450
     }
   }
 }
