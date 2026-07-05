@@ -303,5 +303,15 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3816716/4132078/9/medium.jpg",
     "path": "assets/athletes/3816716.jpg",
     "name": "Heryadi Oey"
+  },
+  "feriy": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/119721281/29184726/5/medium.jpg",
+    "path": "assets/athletes/119721281.jpg",
+    "name": "Feri Yo"
+  },
+  "budiyonob": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/42275996/49768168/2/medium.jpg",
+    "path": "assets/athletes/42275996.jpg",
+    "name": "Budiyono Budi"
   }
 }

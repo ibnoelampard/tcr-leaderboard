@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T10:10:54.876Z",
+  "generated_at": "2026-07-05T13:27:54.274Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,44 +15,33 @@
   "week_start": "2026-06-29",
   "week_end": "2026-07-05",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
       "name": "Mohammad Nazir",
-      "distance_km": 25.14,
-      "moving_time_sec": 9300,
-      "moving_time": "2j 35m",
-      "pace": "6:10",
-      "activities": 1,
+      "distance_km": 30.16,
+      "moving_time_sec": 10865,
+      "moving_time": "3j 1m",
+      "pace": "6:00",
+      "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/18323542.jpg"
     },
     {
       "rank": 2,
-      "name": "Heryadi Oey",
-      "distance_km": 21.31,
-      "moving_time_sec": 8880,
-      "moving_time": "2j 28m",
-      "pace": "6:57",
-      "activities": 1,
+      "name": "william fernando",
+      "distance_km": 24.31,
+      "moving_time_sec": 11100,
+      "moving_time": "3j 5m",
+      "pace": "7:37",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/3816716.jpg"
+      "photo": "assets/athletes/30574816.jpg"
     },
     {
       "rank": 3,
-      "name": "Rudy Hartono",
-      "distance_km": 21.2,
-      "moving_time_sec": 10680,
-      "moving_time": "2j 58m",
-      "pace": "8:24",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Christine .S",
       "distance_km": 21.15,
       "moving_time_sec": 8580,
@@ -63,17 +52,18 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 5,
-      "name": "Ike Kusumawati",
-      "distance_km": 17.1,
-      "moving_time_sec": 5940,
-      "moving_time": "1j 39m",
-      "pace": "5:47",
+      "rank": 4,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 17,
+      "moving_time_sec": 6060,
+      "moving_time": "1j 41m",
+      "pace": "5:56",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Denny Hy",
       "distance_km": 16.34,
       "moving_time_sec": 5400,
@@ -84,29 +74,29 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 7,
-      "name": "william fernando",
-      "distance_km": 14.35,
-      "moving_time_sec": 6360,
-      "moving_time": "1j 46m",
-      "pace": "7:23",
+      "rank": 6,
+      "name": "Lyutasya .",
+      "distance_km": 15.24,
+      "moving_time_sec": 6420,
+      "moving_time": "1j 47m",
+      "pace": "7:01",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
+      "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 15.03,
+      "moving_time_sec": 5220,
+      "moving_time": "1j 27m",
+      "pace": "5:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 8,
-      "name": "Antin Achai",
-      "distance_km": 12.65,
-      "moving_time_sec": 6060,
-      "moving_time": "1j 41m",
-      "pace": "7:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/120428252.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 12.3,
       "moving_time_sec": 5400,
@@ -117,15 +107,25 @@
       "photo": "assets/athletes/123066684.jpg"
     },
     {
-      "rank": 10,
-      "name": "dez dez",
-      "distance_km": 7.05,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "8:39",
+      "rank": 9,
+      "name": "Aldino Wijaksono",
+      "distance_km": 10.44,
+      "moving_time_sec": 3598,
+      "moving_time": "59m 58s",
+      "pace": "5:45",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/156419930.jpg"
+      "photo": "assets/athletes/128769022.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "7:05",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
