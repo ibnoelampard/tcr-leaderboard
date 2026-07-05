@@ -283,5 +283,25 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46123297/18573073/1/medium.jpg",
     "path": "assets/athletes/46123297.jpg",
     "name": "Fahrudin Jamil"
+  },
+  "nanangf": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/129939023/31393442/1/medium.jpg",
+    "path": "assets/athletes/129939023.jpg",
+    "name": "Nanang Fahri Rahmansyah"
+  },
+  "muhammadr": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/123066684/28281048/2/medium.jpg",
+    "path": "assets/athletes/123066684.jpg",
+    "name": "Muhammad Rizki Hartadi"
+  },
+  "zakariaa": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/24303338/7115553/16/medium.jpg",
+    "path": "assets/athletes/24303338.jpg",
+    "name": "Zakaria Achmad"
+  },
+  "heryadio": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3816716/4132078/9/medium.jpg",
+    "path": "assets/athletes/3816716.jpg",
+    "name": "Heryadi Oey"
   }
 }
