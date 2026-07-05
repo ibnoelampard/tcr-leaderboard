@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:27:54.274Z",
+  "generated_at": "2026-07-05T15:11:22.175Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Muhammad Rizki Hartadi",
-      "distance_km": 12.3,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "7:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/123066684.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Aldino Wijaksono",
       "distance_km": 10.44,
       "moving_time_sec": 3598,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditra AL",
       "distance_km": 10.02,
       "moving_time_sec": 4260,
@@ -126,6 +115,17 @@
       "pace": "7:05",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Steven Sutrisno",
+      "distance_km": 10,
+      "moving_time_sec": 0,
+      "moving_time": "0m 0s",
+      "pace": "--",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/24530489.jpg"
     }
   ]
 }
