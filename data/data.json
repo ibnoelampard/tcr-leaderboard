@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T20:58:16.288Z",
+  "generated_at": "2026-07-05T22:59:59.314Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,19 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-06",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 1,
+  "total_athletes": 1,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 11.01,
+      "moving_time_sec": 3509,
+      "moving_time": "58m 29s",
+      "pace": "5:19",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    }
+  ]
 }

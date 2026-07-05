@@ -1,3 +1,14 @@
 {
-  "activities": {}
+  "activities": {
+    "19194977298": {
+      "id": "19194977298",
+      "athlete": "Alex Rusman",
+      "athleteId": "153243434",
+      "startDate": "2026-07-05T21:28:38Z",
+      "type": "Run",
+      "distance_km": 11.01,
+      "moving_time_sec": 3509,
+      "distance_m": 11010
+    }
+  }
 }
