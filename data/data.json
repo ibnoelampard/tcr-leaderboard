@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T02:56:25.277Z",
+  "generated_at": "2026-07-05T07:24:06.203Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -74,6 +74,17 @@
     },
     {
       "rank": 6,
+      "name": "Denny Hy",
+      "distance_km": 16.34,
+      "moving_time_sec": 5400,
+      "moving_time": "1j 30m",
+      "pace": "5:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 7,
       "name": "william fernando",
       "distance_km": 14.35,
       "moving_time_sec": 6360,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Antin Achai",
       "distance_km": 12.65,
       "moving_time_sec": 6060,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 12.3,
       "moving_time_sec": 5400,
@@ -104,17 +115,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/123066684.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Andreas Mario",
-      "distance_km": 10,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
     },
     {
       "rank": 10,
