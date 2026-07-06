@@ -323,5 +323,15 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26923775/7822410/28/medium.jpg",
     "path": "assets/athletes/26923775.jpg",
     "name": "Fajar Happy Boy"
+  },
+  "santik": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/50128426/46721941/1/medium.jpg",
+    "path": "assets/athletes/50128426.jpg",
+    "name": "Santi Kurniasari"
+  },
+  "arifk": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/19073451/50398180/1/medium.jpg",
+    "path": "assets/athletes/19073451.jpg",
+    "name": "Arif Kurniawan"
   }
 }
