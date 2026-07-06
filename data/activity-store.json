@@ -60,6 +60,16 @@
       "moving_time_sec": 2794,
       "distance_m": 7420
     },
+    "19205894198": {
+      "id": "19205894198",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-07-06T10:40:20Z",
+      "type": "Run",
+      "distance_km": 10.37,
+      "moving_time_sec": 4140,
+      "distance_m": 10370
+    },
     "19199357509": {
       "id": "19199357509",
       "athlete": "Fajar Happy Boy",
