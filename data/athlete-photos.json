@@ -313,5 +313,15 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/42275996/49768168/2/medium.jpg",
     "path": "assets/athletes/42275996.jpg",
     "name": "Budiyono Budi"
+  },
+  "jana": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/20802681/6323392/2/medium.jpg",
+    "path": "assets/athletes/20802681.jpg",
+    "name": "Jan Arthur"
+  },
+  "fajarh": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26923775/7822410/28/medium.jpg",
+    "path": "assets/athletes/26923775.jpg",
+    "name": "Fajar Happy Boy"
   }
 }

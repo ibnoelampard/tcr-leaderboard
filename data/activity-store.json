@@ -1,5 +1,55 @@
 {
   "activities": {
+    "19200820495": {
+      "id": "19200820495",
+      "athlete": "Jan Arthur",
+      "athleteId": "20802681",
+      "startDate": "2026-07-06T12:19:06Z",
+      "type": "Run",
+      "distance_km": 5.34,
+      "moving_time_sec": 2811,
+      "distance_m": 5340
+    },
+    "19200614391": {
+      "id": "19200614391",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-07-06T12:05:49Z",
+      "type": "Run",
+      "distance_km": 4.04,
+      "moving_time_sec": 2231,
+      "distance_m": 4040
+    },
+    "19200477015": {
+      "id": "19200477015",
+      "athlete": "Bram Siagian",
+      "athleteId": "186650879",
+      "startDate": "2026-07-06T11:10:29Z",
+      "type": "Run",
+      "distance_km": 10.01,
+      "moving_time_sec": 4620,
+      "distance_m": 10010
+    },
+    "19199357509": {
+      "id": "19199357509",
+      "athlete": "Fajar Happy Boy",
+      "athleteId": "26923775",
+      "startDate": "2026-07-06T09:35:16Z",
+      "type": "Run",
+      "distance_km": 13.11,
+      "moving_time_sec": 5160,
+      "distance_m": 13110
+    },
+    "19200171221": {
+      "id": "19200171221",
+      "athlete": "Aditya Rudy Ananda",
+      "athleteId": "27344421",
+      "startDate": "2026-07-06T10:21:37Z",
+      "type": "Run",
+      "distance_km": 5,
+      "moving_time_sec": 1860,
+      "distance_m": 5000
+    },
     "19195919544": {
       "id": "19195919544",
       "athlete": "Gloria Guida",
