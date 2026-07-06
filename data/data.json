@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T22:59:59.314Z",
+  "generated_at": "2026-07-06T03:23:28.859Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,33 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-06",
   "metric": "distance",
-  "total_activities": 1,
-  "total_athletes": 1,
+  "total_activities": 7,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Yudo Adrian",
+      "distance_km": 17.01,
+      "moving_time_sec": 5160,
+      "moving_time": "1j 26m",
+      "pace": "5:03",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "severinus tyan",
+      "distance_km": 11.15,
+      "moving_time_sec": 5220,
+      "moving_time": "1j 27m",
+      "pace": "7:48",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 11.01,
       "moving_time_sec": 3509,
@@ -28,6 +50,50 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Erwin Hauw",
+      "distance_km": 9.77,
+      "moving_time_sec": 3780,
+      "moving_time": "1j 3m",
+      "pace": "6:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Toni Djiaw",
+      "distance_km": 6.14,
+      "moving_time_sec": 2415,
+      "moving_time": "40m 15s",
+      "pace": "6:33",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Gloria Guida",
+      "distance_km": 5.04,
+      "moving_time_sec": 2402,
+      "moving_time": "40m 2s",
+      "pace": "7:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30268008.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Harmada Hutajulu",
+      "distance_km": 3.31,
+      "moving_time_sec": 2505,
+      "moving_time": "41m 45s",
+      "pace": "12:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
     }
   ]
 }
