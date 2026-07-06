@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T21:27:24.611Z",
+  "generated_at": "2026-07-06T23:05:35.433Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,22 +53,22 @@
     },
     {
       "rank": 4,
-      "name": "severinus tyan",
-      "distance_km": 11.15,
-      "moving_time_sec": 5220,
-      "moving_time": "1j 27m",
-      "pace": "7:48",
+      "name": "Toni Djiaw",
+      "distance_km": 11.73,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "5:58",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 5,
       "name": "Alex Rusman",
       "distance_km": 11.01,
-      "moving_time_sec": 3509,
-      "moving_time": "58m 29s",
-      "pace": "5:19",
+      "moving_time_sec": 3352,
+      "moving_time": "55m 52s",
+      "pace": "5:04",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Erwin Hauw",
-      "distance_km": 9.77,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "6:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Arif Kurniawan",
       "distance_km": 9.03,
       "moving_time_sec": 4320,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/19073451.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "sugiyo .",
       "distance_km": 7.42,
       "moving_time_sec": 2794,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Hanif Rahmadian",
+      "distance_km": 6.01,
+      "moving_time_sec": 2965,
+      "moving_time": "49m 25s",
+      "pace": "8:13",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
     }
   ]
 }
