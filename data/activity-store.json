@@ -20,6 +20,16 @@
       "moving_time_sec": 2167,
       "distance_m": 6140
     },
+    "19216076469": {
+      "id": "19216076469",
+      "athlete": "Cris Fe",
+      "athleteId": "77575425",
+      "startDate": "2026-07-06T17:00:01Z",
+      "type": "Run",
+      "distance_km": 10,
+      "moving_time_sec": 4380,
+      "distance_m": 10000
+    },
     "19214906558": {
       "id": "19214906558",
       "athlete": "B A R A T LSP",
@@ -130,6 +140,16 @@
       "moving_time_sec": 3900,
       "distance_m": 10610
     },
+    "19216674642": {
+      "id": "19216674642",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-07T11:20:43Z",
+      "type": "Run",
+      "distance_km": 0.08,
+      "moving_time_sec": 48,
+      "distance_m": 80
+    },
     "19212993801": {
       "id": "19212993801",
       "athlete": "Erick Yanto",
@@ -150,6 +170,16 @@
       "moving_time_sec": 256,
       "distance_m": 600
     },
+    "19216669321": {
+      "id": "19216669321",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-07T10:01:22Z",
+      "type": "Run",
+      "distance_km": 9.31,
+      "moving_time_sec": 4320,
+      "distance_m": 9310
+    },
     "19213203178": {
       "id": "19213203178",
       "athlete": "Adelita Adella",
@@ -159,36 +189,6 @@
       "distance_km": 8.38,
       "moving_time_sec": 5220,
       "distance_m": 8380
-    },
-    "19212278664": {
-      "id": "19212278664",
-      "athlete": "Fahrudin Jamil",
-      "athleteId": "46123297",
-      "startDate": "2026-07-07T08:13:57Z",
-      "type": "Run",
-      "distance_km": 3,
-      "moving_time_sec": 1230,
-      "distance_m": 3000
-    },
-    "19208607529": {
-      "id": "19208607529",
-      "athlete": "Cris Fe",
-      "athleteId": "77575425",
-      "startDate": "2026-07-06T17:00:01Z",
-      "type": "Run",
-      "distance_km": 10.44,
-      "moving_time_sec": 5040,
-      "distance_m": 10440
-    },
-    "19208600759": {
-      "id": "19208600759",
-      "athlete": "B A R A T LSP",
-      "athleteId": "71432630",
-      "startDate": "2026-07-07T00:02:52Z",
-      "type": "Run",
-      "distance_km": 10.46,
-      "moving_time_sec": 5040,
-      "distance_m": 10460
     }
   }
 }
