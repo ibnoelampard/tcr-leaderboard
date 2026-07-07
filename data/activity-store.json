@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19212278664": {
+      "id": "19212278664",
+      "athlete": "Fahrudin Jamil",
+      "athleteId": "46123297",
+      "startDate": "2026-07-07T08:13:57Z",
+      "type": "Run",
+      "distance_km": 3,
+      "moving_time_sec": 1230,
+      "distance_m": 3000
+    },
     "19208607529": {
       "id": "19208607529",
       "athlete": "Cris Fe",
@@ -189,16 +199,6 @@
       "distance_km": 17.5,
       "moving_time_sec": 9120,
       "distance_m": 17500
-    },
-    "19201807232": {
-      "id": "19201807232",
-      "athlete": "Arif Kurniawan",
-      "athleteId": "19073451",
-      "startDate": "2026-07-06T12:56:46Z",
-      "type": "Run",
-      "distance_km": 9.03,
-      "moving_time_sec": 4320,
-      "distance_m": 9030
     }
   }
 }
