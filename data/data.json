@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:04:56.184Z",
+  "generated_at": "2026-07-07T22:59:56.442Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 22.03,
+      "moving_time_sec": 7800,
+      "moving_time": "2j 10m",
+      "pace": "5:54",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Fajar Happy Boy",
       "distance_km": 21.13,
       "moving_time_sec": 8880,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Hendri Mulyadi",
       "distance_km": 12.02,
       "moving_time_sec": 4500,
@@ -41,18 +52,18 @@
       "photo": "assets/athletes/137028433.jpg"
     },
     {
-      "rank": 3,
-      "name": "Alex Rusman",
-      "distance_km": 11.02,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "6:16",
+      "rank": 4,
+      "name": "Toni Djiaw",
+      "distance_km": 11.84,
+      "moving_time_sec": 3780,
+      "moving_time": "1j 3m",
+      "pace": "5:19",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Gerardo Yericko",
       "distance_km": 10.61,
       "moving_time_sec": 3900,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Lyutasya .",
       "distance_km": 10.25,
       "moving_time_sec": 4140,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Cris Fe",
       "distance_km": 10,
       "moving_time_sec": 4380,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "B A R A T LSP",
       "distance_km": 10,
       "moving_time_sec": 4380,
@@ -94,17 +105,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Gloria Guida",
-      "distance_km": 9.39,
-      "moving_time_sec": 4368,
-      "moving_time": "1j 12m",
-      "pace": "7:45",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
     },
     {
       "rank": 9,
@@ -119,14 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "Erick Yanto",
-      "distance_km": 8.62,
-      "moving_time_sec": 4420,
-      "moving_time": "1j 13m",
-      "pace": "8:33",
-      "activities": 2,
+      "name": "Andree Setiawan",
+      "distance_km": 8.23,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "7:25",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
+      "photo": "assets/athletes/95696517.jpg"
     }
   ]
 }
