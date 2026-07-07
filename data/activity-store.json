@@ -170,6 +170,16 @@
       "moving_time_sec": 3352,
       "distance_m": 11010
     },
+    "19209677337": {
+      "id": "19209677337",
+      "athlete": "silas soetrisno",
+      "athleteId": "23768643",
+      "startDate": "2026-07-06T21:10:41Z",
+      "type": "Run",
+      "distance_km": 5.48,
+      "moving_time_sec": 2531,
+      "distance_m": 5480
+    },
     "19201867028": {
       "id": "19201867028",
       "athlete": "Santi Kurniasari",
