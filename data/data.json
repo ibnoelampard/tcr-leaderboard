@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T14:01:49.091Z",
+  "generated_at": "2026-07-08T17:27:41.528Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-06",
-  "week_end": "2026-07-08",
+  "week_end": "2026-07-09",
   "metric": "distance",
   "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Budiyono Budi",
+      "distance_km": 17.04,
+      "moving_time_sec": 6443,
+      "moving_time": "1j 47m",
+      "pace": "6:18",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/42275996.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Gloria Guida",
       "distance_km": 12.17,
       "moving_time_sec": 6010,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/30268008.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Santi Kurniasari",
       "distance_km": 12.02,
       "moving_time_sec": 5700,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Mister Aloy",
       "distance_km": 11.56,
       "moving_time_sec": 5280,
@@ -52,18 +63,18 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 4,
-      "name": "Friskha Chaca",
-      "distance_km": 11.03,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "6:15",
+      "rank": 5,
+      "name": "Aldino Wijaksono",
+      "distance_km": 10.96,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:28",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
+      "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Yudo Adrian",
       "distance_km": 10.15,
       "moving_time_sec": 2968,
@@ -72,17 +83,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Annif D",
-      "distance_km": 10.01,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "6:06",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
     },
     {
       "rank": 7,
@@ -119,14 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "B A R A T LSP",
-      "distance_km": 6.21,
-      "moving_time_sec": 2619,
-      "moving_time": "43m 39s",
-      "pace": "7:02",
+      "name": "Andree Setiawan",
+      "distance_km": 6.06,
+      "moving_time_sec": 3019,
+      "moving_time": "50m 19s",
+      "pace": "8:18",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/95696517.jpg"
     }
   ]
 }
