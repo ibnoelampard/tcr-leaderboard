@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:06:10.208Z",
+  "generated_at": "2026-07-08T23:05:32.951Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Yudo Adrian",
-      "distance_km": 10.15,
-      "moving_time_sec": 2968,
-      "moving_time": "49m 28s",
-      "pace": "4:52",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Cris Fe",
       "distance_km": 9.77,
       "moving_time_sec": 3900,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Hanif Rahmadian",
       "distance_km": 7.1,
       "moving_time_sec": 3542,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/17887937.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Coco Tsl",
       "distance_km": 6.6,
       "moving_time_sec": 3454,
@@ -116,6 +105,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Toni Djiaw",
+      "distance_km": 6.35,
+      "moving_time_sec": 2512,
+      "moving_time": "41m 52s",
+      "pace": "6:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 10,
