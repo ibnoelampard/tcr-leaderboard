@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T10:15:41.527Z",
+  "generated_at": "2026-07-08T14:01:49.091Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,33 +15,44 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-08",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "B A R A T LSP",
-      "distance_km": 16.21,
-      "moving_time_sec": 6999,
-      "moving_time": "1j 56m",
-      "pace": "7:12",
+      "name": "Gloria Guida",
+      "distance_km": 12.17,
+      "moving_time_sec": 6010,
+      "moving_time": "1j 40m",
+      "pace": "8:14",
       "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/30268008.jpg"
     },
     {
       "rank": 2,
-      "name": "Toni Djiaw",
-      "distance_km": 11.84,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "5:19",
+      "name": "Santi Kurniasari",
+      "distance_km": 12.02,
+      "moving_time_sec": 5700,
+      "moving_time": "1j 35m",
+      "pace": "7:54",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
+      "photo": "assets/athletes/50128426.jpg"
     },
     {
       "rank": 3,
+      "name": "Mister Aloy",
+      "distance_km": 11.56,
+      "moving_time_sec": 5280,
+      "moving_time": "1j 28m",
+      "pace": "7:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Friskha Chaca",
       "distance_km": 11.03,
       "moving_time_sec": 4140,
@@ -50,17 +61,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Alex Rusman",
-      "distance_km": 11.01,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "5:32",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
     },
     {
       "rank": 5,
@@ -87,37 +87,16 @@
     {
       "rank": 7,
       "name": "Cris Fe",
-      "distance_km": 10,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "7:18",
+      "distance_km": 9.77,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "6:39",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/77575425.jpg"
     },
     {
       "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 9.02,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "6:59",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 9,
-      "name": "Diana Melina",
-      "distance_km": 8,
-      "moving_time_sec": 3219,
-      "moving_time": "53m 39s",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Hanif Rahmadian",
       "distance_km": 7.1,
       "moving_time_sec": 3542,
@@ -126,6 +105,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Coco Tsl",
+      "distance_km": 6.6,
+      "moving_time_sec": 3454,
+      "moving_time": "57m 34s",
+      "pace": "8:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "B A R A T LSP",
+      "distance_km": 6.21,
+      "moving_time_sec": 2619,
+      "moving_time": "43m 39s",
+      "pace": "7:02",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
     }
   ]
 }
