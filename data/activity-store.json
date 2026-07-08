@@ -190,15 +190,15 @@
       "moving_time_sec": 4380,
       "distance_m": 10000
     },
-    "19214767250": {
-      "id": "19214767250",
-      "athlete": "Andree Setiawan",
-      "athleteId": "95696517",
-      "startDate": "2026-07-07T12:28:19Z",
+    "19225472082": {
+      "id": "19225472082",
+      "athlete": "Budiyono Budi",
+      "athleteId": "42275996",
+      "startDate": "2026-07-07T12:29:57Z",
       "type": "Run",
-      "distance_km": 8.23,
-      "moving_time_sec": 3660,
-      "distance_m": 8230
+      "distance_km": 7.04,
+      "moving_time_sec": 3720,
+      "distance_m": 7040
     }
   }
 }

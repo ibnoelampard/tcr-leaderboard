@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T06:26:59.613Z",
+  "generated_at": "2026-07-08T10:15:41.527Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -107,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "Andree Setiawan",
-      "distance_km": 8.23,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Diana Melina",
       "distance_km": 8,
       "moving_time_sec": 3219,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/126056724.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.1,
+      "moving_time_sec": 3542,
+      "moving_time": "59m 2s",
+      "pace": "8:19",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
     }
   ]
 }
