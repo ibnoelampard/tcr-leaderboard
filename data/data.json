@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:59:56.442Z",
+  "generated_at": "2026-07-08T02:32:45.093Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,44 +15,22 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-08",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Alex Rusman",
-      "distance_km": 22.03,
-      "moving_time_sec": 7800,
-      "moving_time": "2j 10m",
-      "pace": "5:54",
+      "name": "B A R A T LSP",
+      "distance_km": 16.21,
+      "moving_time_sec": 6999,
+      "moving_time": "1j 56m",
+      "pace": "7:12",
       "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 2,
-      "name": "Fajar Happy Boy",
-      "distance_km": 21.13,
-      "moving_time_sec": 8880,
-      "moving_time": "2j 28m",
-      "pace": "7:00",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Hendri Mulyadi",
-      "distance_km": 12.02,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "6:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Toni Djiaw",
       "distance_km": 11.84,
       "moving_time_sec": 3780,
@@ -63,26 +41,48 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 5,
-      "name": "Gerardo Yericko",
-      "distance_km": 10.61,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "6:08",
+      "rank": 3,
+      "name": "Friskha Chaca",
+      "distance_km": 11.03,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:15",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
+      "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Alex Rusman",
+      "distance_km": 11.01,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "5:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Yudo Adrian",
+      "distance_km": 10.15,
+      "moving_time_sec": 2968,
+      "moving_time": "49m 28s",
+      "pace": "4:52",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 6,
-      "name": "Lyutasya .",
-      "distance_km": 10.25,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "6:44",
+      "name": "Annif D",
+      "distance_km": 10.01,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "6:06",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
+      "photo": "assets/athletes/3720353.jpg"
     },
     {
       "rank": 7,
@@ -97,28 +97,16 @@
     },
     {
       "rank": 8,
-      "name": "B A R A T LSP",
-      "distance_km": 10,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "7:18",
+      "name": "Aditra AL",
+      "distance_km": 9.02,
+      "moving_time_sec": 3780,
+      "moving_time": "1j 3m",
+      "pace": "6:59",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "elev_m": 0
     },
     {
       "rank": 9,
-      "name": "Bram Siagian",
-      "distance_km": 9.02,
-      "moving_time_sec": 4800,
-      "moving_time": "1j 20m",
-      "pace": "8:52",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/186650879.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Andree Setiawan",
       "distance_km": 8.23,
       "moving_time_sec": 3660,
@@ -127,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Diana Melina",
+      "distance_km": 8,
+      "moving_time_sec": 3219,
+      "moving_time": "53m 39s",
+      "pace": "6:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126056724.jpg"
     }
   ]
 }
