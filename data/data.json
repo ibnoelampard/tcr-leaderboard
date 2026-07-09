@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:50:38.254Z",
+  "generated_at": "2026-07-09T07:40:48.068Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Budiyono Budi",
-      "distance_km": 17.04,
-      "moving_time_sec": 6443,
-      "moving_time": "1j 47m",
-      "pace": "6:18",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/42275996.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 16,
       "moving_time_sec": 5700,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 12.02,
       "moving_time_sec": 4440,
@@ -62,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Cris Fe",
       "distance_km": 11.31,
       "moving_time_sec": 5400,
@@ -73,7 +62,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Diana Melina",
       "distance_km": 10.17,
       "moving_time_sec": 4260,
@@ -84,7 +73,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 10.14,
       "moving_time_sec": 4260,
@@ -95,7 +84,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Muzammil Akhmad",
       "distance_km": 10,
       "moving_time_sec": 3595,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Rudy Hartono",
       "distance_km": 8.9,
       "moving_time_sec": 3900,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 8.18,
       "moving_time_sec": 2673,
@@ -126,6 +115,16 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ike Kusumawati",
+      "distance_km": 7.16,
+      "moving_time_sec": 2677,
+      "moving_time": "44m 37s",
+      "pace": "6:14",
+      "activities": 3,
+      "elev_m": 0
     }
   ]
 }
