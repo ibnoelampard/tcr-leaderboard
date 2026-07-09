@@ -1,5 +1,25 @@
 {
   "activities": {
+    "19240765001": {
+      "id": "19240765001",
+      "athlete": "Mister Aloy",
+      "athleteId": "26923775",
+      "startDate": "2026-07-09T09:28:19Z",
+      "type": "Run",
+      "distance_km": 10.46,
+      "moving_time_sec": 4620,
+      "distance_m": 10460
+    },
+    "19239268444": {
+      "id": "19239268444",
+      "athlete": "Hanif Rahmadian",
+      "athleteId": "17887937",
+      "startDate": "2026-07-09T07:13:50Z",
+      "type": "Run",
+      "distance_km": 6.01,
+      "moving_time_sec": 2992,
+      "distance_m": 6010
+    },
     "19238846214": {
       "id": "19238846214",
       "athlete": "Denny Hy",
@@ -159,36 +179,6 @@
       "distance_km": 10,
       "moving_time_sec": 3595,
       "distance_m": 10000
-    },
-    "19235637764": {
-      "id": "19235637764",
-      "athlete": "severinus tyan",
-      "athleteId": "27221918",
-      "startDate": "2026-07-08T22:11:14Z",
-      "type": "Run",
-      "distance_km": 10.14,
-      "moving_time_sec": 4260,
-      "distance_m": 10140
-    },
-    "19235507200": {
-      "id": "19235507200",
-      "athlete": "Rudy Hartono",
-      "athleteId": "27222012",
-      "startDate": "2026-07-08T21:51:39Z",
-      "type": "Run",
-      "distance_km": 8.9,
-      "moving_time_sec": 3900,
-      "distance_m": 8900
-    },
-    "19235491659": {
-      "id": "19235491659",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-07-08T22:09:15Z",
-      "type": "Run",
-      "distance_km": 7.02,
-      "moving_time_sec": 3103,
-      "distance_m": 7020
     }
   }
 }
