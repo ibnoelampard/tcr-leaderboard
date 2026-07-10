@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:51:56.723Z",
+  "generated_at": "2026-07-10T14:22:45.354Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,7 +7,7 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 148,
+    "member_count": 149,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Erwin Hauw",
-      "distance_km": 15.1,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "5:26",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Alex Rusman",
       "distance_km": 14.2,
       "moving_time_sec": 5220,
@@ -41,36 +30,46 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
+      "rank": 2,
+      "name": "Roby Wong",
+      "distance_km": 10.57,
+      "moving_time_sec": 4177,
+      "moving_time": "1j 9m",
+      "pace": "6:35",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
+    },
+    {
       "rank": 3,
-      "name": "Ike Kusumawati",
-      "distance_km": 10.34,
-      "moving_time_sec": 3531,
-      "moving_time": "58m 51s",
-      "pace": "5:41",
-      "activities": 4,
+      "name": "Aditra AL",
+      "distance_km": 9.01,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "7:06",
+      "activities": 1,
       "elev_m": 0
     },
     {
       "rank": 4,
-      "name": "Rudy Hartono",
-      "distance_km": 10.23,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:02",
+      "name": "Renaldi Wijaya",
+      "distance_km": 9,
+      "moving_time_sec": 3067,
+      "moving_time": "51m 7s",
+      "pace": "5:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
+      "photo": "assets/athletes/143447083.jpg"
     },
     {
       "rank": 5,
-      "name": "Toni Djiaw",
-      "distance_km": 8.99,
-      "moving_time_sec": 3312,
-      "moving_time": "55m 12s",
-      "pace": "6:08",
+      "name": "Ike Kusumawati",
+      "distance_km": 8.86,
+      "moving_time_sec": 3011,
+      "moving_time": "50m 11s",
+      "pace": "5:40",
       "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
+      "elev_m": 0
     },
     {
       "rank": 6,
@@ -96,28 +95,6 @@
     },
     {
       "rank": 8,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 6.31,
-      "moving_time_sec": 2783,
-      "moving_time": "46m 23s",
-      "pace": "7:21",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Jessica Pangestu",
-      "distance_km": 6.01,
-      "moving_time_sec": 2462,
-      "moving_time": "41m 2s",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/48472455.jpg"
-    },
-    {
-      "rank": 10,
       "name": "severinus tyan",
       "distance_km": 5.22,
       "moving_time_sec": 2362,
@@ -126,6 +103,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Mister Aloy",
+      "distance_km": 5.14,
+      "moving_time_sec": 2377,
+      "moving_time": "39m 37s",
+      "pace": "7:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "reinal reinal",
+      "distance_km": 5.02,
+      "moving_time_sec": 2195,
+      "moving_time": "36m 35s",
+      "pace": "7:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3852323.jpg"
     }
   ]
 }
