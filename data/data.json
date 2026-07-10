@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:22:45.354Z",
+  "generated_at": "2026-07-10T17:46:33.813Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,24 +13,13 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-06",
-  "week_end": "2026-07-10",
+  "week_end": "2026-07-11",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Alex Rusman",
-      "distance_km": 14.2,
-      "moving_time_sec": 5220,
-      "moving_time": "1j 27m",
-      "pace": "6:08",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Roby Wong",
       "distance_km": 10.57,
       "moving_time_sec": 4177,
@@ -39,6 +28,17 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/126128951.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Aldino Wijaksono",
+      "distance_km": 10.54,
+      "moving_time_sec": 3598,
+      "moving_time": "59m 58s",
+      "pace": "5:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128769022.jpg"
     },
     {
       "rank": 3,
@@ -73,17 +73,6 @@
     },
     {
       "rank": 6,
-      "name": "Friskha Chaca",
-      "distance_km": 8.35,
-      "moving_time_sec": 3369,
-      "moving_time": "56m 9s",
-      "pace": "6:43",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 7,
       "name": "sugiyo .",
       "distance_km": 6.33,
       "moving_time_sec": 2354,
@@ -92,6 +81,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Muhammad Rizki Hartadi",
+      "distance_km": 6,
+      "moving_time_sec": 2123,
+      "moving_time": "35m 23s",
+      "pace": "5:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123066684.jpg"
     },
     {
       "rank": 8,
@@ -117,14 +117,14 @@
     },
     {
       "rank": 10,
-      "name": "reinal reinal",
-      "distance_km": 5.02,
-      "moving_time_sec": 2195,
-      "moving_time": "36m 35s",
-      "pace": "7:17",
+      "name": "Mohammad Nazir",
+      "distance_km": 5.04,
+      "moving_time_sec": 1604,
+      "moving_time": "26m 44s",
+      "pace": "5:18",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/3852323.jpg"
+      "photo": "assets/athletes/18323542.jpg"
     }
   ]
 }
