@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T02:53:05.083Z",
+  "generated_at": "2026-07-10T07:33:50.626Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,6 +53,16 @@
     },
     {
       "rank": 4,
+      "name": "Ike Kusumawati",
+      "distance_km": 10.34,
+      "moving_time_sec": 3531,
+      "moving_time": "58m 51s",
+      "pace": "5:41",
+      "activities": 4,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
       "name": "Rudy Hartono",
       "distance_km": 10.23,
       "moving_time_sec": 4320,
@@ -63,29 +73,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 5,
-      "name": "Mohammad Nazir",
-      "distance_km": 10.04,
-      "moving_time_sec": 3271,
-      "moving_time": "54m 31s",
-      "pace": "5:26",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
-    },
-    {
       "rank": 6,
-      "name": "Fahrudin Jamil",
-      "distance_km": 10.01,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/46123297.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Toni Djiaw",
       "distance_km": 8.99,
       "moving_time_sec": 3312,
@@ -96,7 +84,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Friskha Chaca",
       "distance_km": 8.35,
       "moving_time_sec": 3369,
@@ -107,7 +95,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "william fernando",
       "distance_km": 7.48,
       "moving_time_sec": 4140,
@@ -118,15 +106,26 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 10,
-      "name": "Lyutasya .",
-      "distance_km": 7.26,
-      "moving_time_sec": 2973,
-      "moving_time": "49m 33s",
-      "pace": "6:50",
+      "rank": 9,
+      "name": "sugiyo .",
+      "distance_km": 6.33,
+      "moving_time_sec": 2354,
+      "moving_time": "39m 14s",
+      "pace": "6:12",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 6.31,
+      "moving_time_sec": 2783,
+      "moving_time": "46m 23s",
+      "pace": "7:21",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
