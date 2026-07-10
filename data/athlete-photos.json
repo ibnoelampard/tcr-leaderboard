@@ -353,5 +353,15 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/130551674/39441833/4/medium.jpg",
     "path": "assets/athletes/130551674.jpg",
     "name": "Ibnoelampard Noe"
+  },
+  "ivans": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/26800044/7787234/2/medium.jpg",
+    "path": "assets/athletes/26800044.jpg",
+    "name": "Ivan soesanto"
+  },
+  "jessicap": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/48472455/17196331/10/medium.jpg",
+    "path": "assets/athletes/48472455.jpg",
+    "name": "Jessica Pangestu"
   }
 }
