@@ -149,16 +149,6 @@
       "distance_km": 10.03,
       "moving_time_sec": 3312,
       "distance_m": 10030
-    },
-    "19261926635": {
-      "id": "19261926635",
-      "athlete": "Halisa Maulidia",
-      "athleteId": "153432832",
-      "startDate": "2026-07-10T23:33:32Z",
-      "type": "Run",
-      "distance_km": 5,
-      "moving_time_sec": 2065,
-      "distance_m": 5000
     }
   }
 }
