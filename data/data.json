@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T19:00:42.784Z",
+  "generated_at": "2026-07-11T20:44:07.117Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,7 +7,7 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 149,
+    "member_count": 150,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
@@ -15,7 +15,7 @@
   "week_start": "2026-07-06",
   "week_end": "2026-07-12",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Jun Pang",
-      "distance_km": 10.01,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "7:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 8.01,
       "moving_time_sec": 3053,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Feri Yo",
       "distance_km": 7.27,
       "moving_time_sec": 3360,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Andree Setiawan",
       "distance_km": 7.12,
       "moving_time_sec": 3600,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/95696517.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Denny Hy",
       "distance_km": 5.65,
       "moving_time_sec": 2121,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "reinal reinal",
+      "distance_km": 5.01,
+      "moving_time_sec": 2189,
+      "moving_time": "36m 29s",
+      "pace": "7:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3852323.jpg"
     }
   ]
 }
