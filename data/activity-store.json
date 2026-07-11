@@ -159,16 +159,6 @@
       "distance_km": 5,
       "moving_time_sec": 2065,
       "distance_m": 5000
-    },
-    "19261896035": {
-      "id": "19261896035",
-      "athlete": "Yotta Risanggono",
-      "athleteId": "125540711",
-      "startDate": "2026-07-10T23:03:06Z",
-      "type": "Run",
-      "distance_km": 5.02,
-      "moving_time_sec": 3221,
-      "distance_m": 5020
     }
   }
 }
