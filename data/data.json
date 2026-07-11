@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T11:03:54.051Z",
+  "generated_at": "2026-07-11T13:15:16.092Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Mohammad Nazir",
-      "distance_km": 10.03,
-      "moving_time_sec": 3312,
-      "moving_time": "55m 12s",
-      "pace": "5:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Riki Lie",
       "distance_km": 10.01,
       "moving_time_sec": 4860,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4800,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Jun Pang",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Yudo Adrian",
       "distance_km": 8.01,
       "moving_time_sec": 3053,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Feri Yo",
       "distance_km": 7.27,
       "moving_time_sec": 3360,
@@ -127,6 +116,16 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Haqqi Harisina",
+      "distance_km": 7.13,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "10:06",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
