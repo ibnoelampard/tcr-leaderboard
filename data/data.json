@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:15:16.092Z",
+  "generated_at": "2026-07-11T14:51:37.287Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Christine .S",
-      "distance_km": 19.01,
-      "moving_time_sec": 8950,
-      "moving_time": "2j 29m",
-      "pace": "7:51",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 2,
       "name": "B A R A T LSP",
       "distance_km": 18.01,
       "moving_time_sec": 7980,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Coco Tsl",
       "distance_km": 10.2,
       "moving_time_sec": 4620,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Daniel Steven",
       "distance_km": 10.17,
       "moving_time_sec": 4980,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/62616971.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Riki Lie",
       "distance_km": 10.01,
       "moving_time_sec": 4860,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4800,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Jun Pang",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 8.01,
       "moving_time_sec": 3053,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Feri Yo",
       "distance_km": 7.27,
       "moving_time_sec": 3360,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Haqqi Harisina",
       "distance_km": 7.13,
       "moving_time_sec": 4320,
@@ -126,6 +115,17 @@
       "pace": "10:06",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Andree Setiawan",
+      "distance_km": 7.12,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "8:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/95696517.jpg"
     }
   ]
 }
