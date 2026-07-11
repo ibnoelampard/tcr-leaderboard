@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T14:51:37.287Z",
+  "generated_at": "2026-07-11T16:56:13.738Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -108,16 +108,6 @@
     },
     {
       "rank": 9,
-      "name": "Haqqi Harisina",
-      "distance_km": 7.13,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "10:06",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 10,
       "name": "Andree Setiawan",
       "distance_km": 7.12,
       "moving_time_sec": 3600,
@@ -126,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Denny Hy",
+      "distance_km": 5.65,
+      "moving_time_sec": 2121,
+      "moving_time": "35m 21s",
+      "pace": "6:15",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
     }
   ]
 }
