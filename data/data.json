@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:16:09.096Z",
+  "generated_at": "2026-07-12T14:54:44.783Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -88,9 +88,9 @@
       "rank": 7,
       "name": "Lyutasya .",
       "distance_km": 49.8,
-      "moving_time_sec": 26400,
-      "moving_time": "7j 20m",
-      "pace": "8:50",
+      "moving_time_sec": 31140,
+      "moving_time": "8j 39m",
+      "pace": "10:25",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/128643628.jpg"
