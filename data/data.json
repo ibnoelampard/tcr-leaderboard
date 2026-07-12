@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T09:49:30.008Z",
+  "generated_at": "2026-07-12T11:08:56.363Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -33,9 +33,9 @@
       "rank": 2,
       "name": "Budiyono Budi",
       "distance_km": 50.16,
-      "moving_time_sec": 22380,
-      "moving_time": "6j 13m",
-      "pace": "7:26",
+      "moving_time_sec": 25200,
+      "moving_time": "7j 0m",
+      "pace": "8:22",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/42275996.jpg"

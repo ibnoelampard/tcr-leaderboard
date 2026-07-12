@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19280228995": {
+      "id": "19280228995",
+      "athlete": "dike wicaksono",
+      "athleteId": "17481263",
+      "startDate": "2026-07-12T09:52:50Z",
+      "type": "Run",
+      "distance_km": 10.06,
+      "moving_time_sec": 3600,
+      "distance_m": 10060
+    },
     "19279174905": {
       "id": "19279174905",
       "athlete": "Denny Hy",
@@ -137,7 +147,7 @@
       "startDate": "2026-07-11T20:08:05Z",
       "type": "Run",
       "distance_km": 50.16,
-      "moving_time_sec": 22380,
+      "moving_time_sec": 25200,
       "distance_m": 50160
     },
     "19276492271": {
@@ -189,16 +199,6 @@
       "distance_km": 30.32,
       "moving_time_sec": 16860,
       "distance_m": 30320
-    },
-    "19276357359": {
-      "id": "19276357359",
-      "athlete": "Coco Tsl",
-      "athleteId": "148842377",
-      "startDate": "2026-07-12T01:50:27Z",
-      "type": "Run",
-      "distance_km": 5,
-      "moving_time_sec": 2762,
-      "distance_m": 5000
     }
   }
 }
