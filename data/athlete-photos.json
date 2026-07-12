@@ -373,5 +373,15 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/110525527/34387716/3/medium.jpg",
     "path": "assets/athletes/110525527.jpg",
     "name": "Nani Liauw"
+  },
+  "ronaldh": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/43789218/14346205/2/medium.jpg",
+    "path": "assets/athletes/43789218.jpg",
+    "name": "Ronald Hartadi"
+  },
+  "shelomitha1": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/154370520/36878532/2/medium.jpg",
+    "path": "assets/athletes/154370520.jpg",
+    "name": "Shelomitha 12"
   }
 }
