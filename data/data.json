@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:08:56.363Z",
+  "generated_at": "2026-07-12T13:16:09.096Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "RIKA ZIVA",
-      "distance_km": 30.32,
-      "moving_time_sec": 16860,
-      "moving_time": "4j 41m",
-      "pace": "9:16",
+      "name": "donny charli",
+      "distance_km": 30.25,
+      "moving_time_sec": 17700,
+      "moving_time": "4j 55m",
+      "pace": "9:45",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/123462258.jpg"
+      "photo": "assets/athletes/46870200.jpg"
     }
   ]
 }
