@@ -383,5 +383,20 @@
     "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/154370520/36878532/2/medium.jpg",
     "path": "assets/athletes/154370520.jpg",
     "name": "Shelomitha 12"
+  },
+  "albertc": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/206603154/43761915/2/medium.jpg",
+    "path": "assets/athletes/206603154.jpg",
+    "name": "Albert Charly"
+  },
+  "cornelial": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/28801387/8647768/2/medium.jpg",
+    "path": "assets/athletes/28801387.jpg",
+    "name": "Cornelia  Larasati"
+  },
+  "donnyc": {
+    "url": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/46870200/29488473/1/medium.jpg",
+    "path": "assets/athletes/46870200.jpg",
+    "name": "donny charli"
   }
 }
