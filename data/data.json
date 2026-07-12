@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T06:31:34.563Z",
+  "generated_at": "2026-07-12T09:49:30.008Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,6 +53,28 @@
     },
     {
       "rank": 4,
+      "name": "Gema Chrisdwianto",
+      "distance_km": 50.08,
+      "moving_time_sec": 35220,
+      "moving_time": "9j 47m",
+      "pace": "11:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/135577017.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "william po",
+      "distance_km": 50.02,
+      "moving_time_sec": 25920,
+      "moving_time": "7j 12m",
+      "pace": "8:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/181211766.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Cornelia  Larasati",
       "distance_km": 50.01,
       "moving_time_sec": 31860,
@@ -63,7 +85,7 @@
       "photo": "assets/athletes/28801387.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Lyutasya .",
       "distance_km": 49.8,
       "moving_time_sec": 26400,
@@ -74,7 +96,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Yotta Risanggono",
       "distance_km": 44.47,
       "moving_time_sec": 35220,
@@ -84,18 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 7,
-      "name": "B A R A T LSP",
-      "distance_km": 34.75,
-      "moving_time_sec": 16440,
-      "moving_time": "4j 34m",
-      "pace": "7:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "name": "Feri Yo",
       "distance_km": 30.66,
       "moving_time_sec": 15660,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "RIKA ZIVA",
       "distance_km": 30.32,
       "moving_time_sec": 16860,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/123462258.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "donny charli",
-      "distance_km": 30.25,
-      "moving_time_sec": 17700,
-      "moving_time": "4j 55m",
-      "pace": "9:45",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/46870200.jpg"
     }
   ]
 }
