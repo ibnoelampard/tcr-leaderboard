@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:45:14.712Z",
+  "generated_at": "2026-07-13T02:38:08.216Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,74 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-13",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 6,
+  "total_athletes": 6,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Rudy Hartono",
+      "distance_km": 8.13,
+      "moving_time_sec": 3394,
+      "moving_time": "56m 34s",
+      "pace": "6:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "sugiyo .",
+      "distance_km": 6.7,
+      "moving_time_sec": 2538,
+      "moving_time": "42m 18s",
+      "pace": "6:19",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "severinus tyan",
+      "distance_km": 6.13,
+      "moving_time_sec": 2818,
+      "moving_time": "46m 58s",
+      "pace": "7:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Farhan Kastaa",
+      "distance_km": 5.87,
+      "moving_time_sec": 1658,
+      "moving_time": "27m 38s",
+      "pace": "4:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Feri Yo",
+      "distance_km": 5.18,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "12:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Riki Lie",
+      "distance_km": 3.77,
+      "moving_time_sec": 2178,
+      "moving_time": "36m 18s",
+      "pace": "9:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/122081422.jpg"
+    }
+  ]
 }
