@@ -1,5 +1,25 @@
 {
   "activities": {
+    "19293314477": {
+      "id": "19293314477",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-07-13T10:30:51Z",
+      "type": "Run",
+      "distance_km": 6.49,
+      "moving_time_sec": 2637,
+      "distance_m": 6490
+    },
+    "19293013793": {
+      "id": "19293013793",
+      "athlete": "Dikdik Sugiharto",
+      "athleteId": "56518385",
+      "startDate": "2026-07-13T09:24:21Z",
+      "type": "Run",
+      "distance_km": 13.03,
+      "moving_time_sec": 4920,
+      "distance_m": 13030
+    },
     "19292559655": {
       "id": "19292559655",
       "athlete": "Mister Aloy",

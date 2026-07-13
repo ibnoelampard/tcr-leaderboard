@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:08:59.848Z",
+  "generated_at": "2026-07-13T14:30:16.951Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-13",
   "metric": "distance",
-  "total_activities": 8,
-  "total_athletes": 8,
+  "total_activities": 10,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 13.03,
+      "moving_time_sec": 4920,
+      "moving_time": "1j 22m",
+      "pace": "6:18",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Rudy Hartono",
       "distance_km": 8.13,
       "moving_time_sec": 3394,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Mister Aloy",
       "distance_km": 7.11,
       "moving_time_sec": 3392,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "sugiyo .",
       "distance_km": 6.7,
       "moving_time_sec": 2538,
@@ -52,7 +63,18 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "name": "Gerardo Yericko",
+      "distance_km": 6.49,
+      "moving_time_sec": 2637,
+      "moving_time": "43m 57s",
+      "pace": "6:46",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 6.13,
       "moving_time_sec": 2818,
@@ -63,7 +85,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Farhan Kastaa",
       "distance_km": 5.87,
       "moving_time_sec": 1658,
@@ -74,7 +96,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Feri Yo",
       "distance_km": 5.18,
       "moving_time_sec": 4020,
@@ -85,7 +107,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "reinal reinal",
       "distance_km": 5.02,
       "moving_time_sec": 2293,
@@ -96,7 +118,7 @@
       "photo": "assets/athletes/3852323.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Riki Lie",
       "distance_km": 3.77,
       "moving_time_sec": 2178,
