@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T02:38:08.216Z",
+  "generated_at": "2026-07-13T06:51:45.701Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-13",
   "metric": "distance",
-  "total_activities": 6,
-  "total_athletes": 6,
+  "total_activities": 7,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
@@ -75,6 +75,17 @@
     },
     {
       "rank": 6,
+      "name": "reinal reinal",
+      "distance_km": 5.02,
+      "moving_time_sec": 2293,
+      "moving_time": "38m 13s",
+      "pace": "7:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3852323.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Riki Lie",
       "distance_km": 3.77,
       "moving_time_sec": 2178,
