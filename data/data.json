@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:51:45.701Z",
+  "generated_at": "2026-07-13T11:08:59.848Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-13",
   "metric": "distance",
-  "total_activities": 7,
-  "total_athletes": 7,
+  "total_activities": 8,
+  "total_athletes": 8,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Mister Aloy",
+      "distance_km": 7.11,
+      "moving_time_sec": 3392,
+      "moving_time": "56m 32s",
+      "pace": "7:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "sugiyo .",
       "distance_km": 6.7,
       "moving_time_sec": 2538,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "severinus tyan",
       "distance_km": 6.13,
       "moving_time_sec": 2818,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Farhan Kastaa",
       "distance_km": 5.87,
       "moving_time_sec": 1658,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Feri Yo",
       "distance_km": 5.18,
       "moving_time_sec": 4020,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "reinal reinal",
       "distance_km": 5.02,
       "moving_time_sec": 2293,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/3852323.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Riki Lie",
       "distance_km": 3.77,
       "moving_time_sec": 2178,
