@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:59:05.215Z",
+  "generated_at": "2026-07-14T22:55:40.469Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 23.02,
+      "moving_time_sec": 8640,
+      "moving_time": "2j 24m",
+      "pace": "6:15",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Gloria Guida",
       "distance_km": 14.7,
       "moving_time_sec": 6720,
@@ -30,18 +41,18 @@
       "photo": "assets/athletes/30268008.jpg"
     },
     {
-      "rank": 2,
-      "name": "Alex Rusman",
-      "distance_km": 12.01,
-      "moving_time_sec": 4800,
-      "moving_time": "1j 20m",
-      "pace": "6:40",
+      "rank": 3,
+      "name": "Toni Djiaw",
+      "distance_km": 12.33,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "5:45",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Christine .S",
       "distance_km": 11.52,
       "moving_time_sec": 5041,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Arif Kurniawan",
       "distance_km": 10.02,
       "moving_time_sec": 4560,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/19073451.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Santi Kurniasari",
       "distance_km": 8.59,
       "moving_time_sec": 4800,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Andree Setiawan",
       "distance_km": 8.44,
       "moving_time_sec": 3840,
@@ -83,17 +94,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/95696517.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Gerardo Yericko",
-      "distance_km": 8.36,
-      "moving_time_sec": 3001,
-      "moving_time": "50m 1s",
-      "pace": "5:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
     },
     {
       "rank": 8,
@@ -119,14 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "Renaldi Wijaya",
-      "distance_km": 8,
-      "moving_time_sec": 3422,
-      "moving_time": "57m 2s",
-      "pace": "7:08",
-      "activities": 1,
+      "name": "Roby Wong",
+      "distance_km": 7.8,
+      "moving_time_sec": 3608,
+      "moving_time": "1j 0m",
+      "pace": "7:43",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
+      "photo": "assets/athletes/126128951.jpg"
     }
   ]
 }
