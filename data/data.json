@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:09:26.878Z",
+  "generated_at": "2026-07-14T09:56:43.156Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -41,17 +41,6 @@
     },
     {
       "rank": 3,
-      "name": "Alex Rusman",
-      "distance_km": 11.01,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "5:49",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 11,
       "moving_time_sec": 5280,
@@ -62,7 +51,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Diana Melina",
       "distance_km": 10.71,
       "moving_time_sec": 4380,
@@ -73,18 +62,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 6,
-      "name": "Toni Djiaw",
-      "distance_km": 10.01,
-      "moving_time_sec": 4440,
-      "moving_time": "1j 14m",
-      "pace": "7:24",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "name": "Aditya Rudy Ananda",
       "distance_km": 9.34,
       "moving_time_sec": 4967,
@@ -95,7 +73,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 8.63,
       "moving_time_sec": 2936,
@@ -106,7 +84,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Friskha Chaca",
       "distance_km": 8.01,
       "moving_time_sec": 3466,
@@ -117,7 +95,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Riki Lie",
       "distance_km": 7.12,
       "moving_time_sec": 3208,
@@ -126,6 +104,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/122081422.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.03,
+      "moving_time_sec": 3599,
+      "moving_time": "59m 59s",
+      "pace": "8:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Annif D",
+      "distance_km": 7.03,
+      "moving_time_sec": 2948,
+      "moving_time": "49m 8s",
+      "pace": "6:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
     }
   ]
 }
