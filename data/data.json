@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T09:56:43.156Z",
+  "generated_at": "2026-07-14T11:26:25.214Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Mister Aloy",
+      "distance_km": 12.61,
+      "moving_time_sec": 5580,
+      "moving_time": "1j 33m",
+      "pace": "7:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 11.02,
       "moving_time_sec": 4080,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 11,
       "moving_time_sec": 5280,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Diana Melina",
       "distance_km": 10.71,
       "moving_time_sec": 4380,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Aditya Rudy Ananda",
       "distance_km": 9.34,
       "moving_time_sec": 4967,
@@ -71,17 +82,6 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "severinus tyan",
-      "distance_km": 8.63,
-      "moving_time_sec": 2936,
-      "moving_time": "48m 56s",
-      "pace": "5:40",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
     },
     {
       "rank": 7,
@@ -96,14 +96,14 @@
     },
     {
       "rank": 8,
-      "name": "Riki Lie",
-      "distance_km": 7.12,
-      "moving_time_sec": 3208,
-      "moving_time": "53m 28s",
-      "pace": "7:31",
+      "name": "Renaldi Wijaya",
+      "distance_km": 8,
+      "moving_time_sec": 3422,
+      "moving_time": "57m 2s",
+      "pace": "7:08",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
+      "photo": "assets/athletes/143447083.jpg"
     },
     {
       "rank": 9,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "Annif D",
-      "distance_km": 7.03,
-      "moving_time_sec": 2948,
-      "moving_time": "49m 8s",
-      "pace": "6:59",
+      "name": "Harmada Hutajulu",
+      "distance_km": 5.33,
+      "moving_time_sec": 3570,
+      "moving_time": "59m 30s",
+      "pace": "11:10",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
+      "photo": "assets/athletes/20040717.jpg"
     }
   ]
 }
