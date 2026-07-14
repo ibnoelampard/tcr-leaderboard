@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:54:43.151Z",
+  "generated_at": "2026-07-14T02:22:20.604Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,32 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-14",
   "metric": "distance",
-  "total_activities": 13,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 13.03,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:18",
-      "activities": 1,
+      "name": "Yudo Adrian",
+      "distance_km": 18.26,
+      "moving_time_sec": 6104,
+      "moving_time": "1j 41m",
+      "pace": "5:34",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 2,
+      "name": "Aditra AL",
+      "distance_km": 11.02,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:10",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 11.01,
       "moving_time_sec": 3840,
@@ -41,7 +51,29 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "B A R A T LSP",
+      "distance_km": 11,
+      "moving_time_sec": 5280,
+      "moving_time": "1j 28m",
+      "pace": "8:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Diana Melina",
+      "distance_km": 10.71,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "6:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126056724.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Toni Djiaw",
       "distance_km": 10.01,
       "moving_time_sec": 4440,
@@ -52,81 +84,48 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 4,
-      "name": "Rudy Hartono",
-      "distance_km": 8.13,
-      "moving_time_sec": 3394,
-      "moving_time": "56m 34s",
-      "pace": "6:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Mister Aloy",
-      "distance_km": 7.11,
-      "moving_time_sec": 3392,
-      "moving_time": "56m 32s",
-      "pace": "7:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Annif D",
-      "distance_km": 7.03,
-      "moving_time_sec": 2948,
-      "moving_time": "49m 8s",
-      "pace": "6:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
-    },
-    {
       "rank": 7,
-      "name": "sugiyo .",
-      "distance_km": 6.7,
-      "moving_time_sec": 2538,
-      "moving_time": "42m 18s",
-      "pace": "6:19",
-      "activities": 1,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 9.34,
+      "moving_time_sec": 4967,
+      "moving_time": "1j 22m",
+      "pace": "8:52",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
+      "photo": "assets/athletes/27344421.jpg"
     },
     {
       "rank": 8,
-      "name": "Gerardo Yericko",
-      "distance_km": 6.49,
-      "moving_time_sec": 2637,
-      "moving_time": "43m 57s",
-      "pace": "6:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 9,
       "name": "severinus tyan",
-      "distance_km": 6.13,
-      "moving_time_sec": 2818,
-      "moving_time": "46m 58s",
-      "pace": "7:40",
+      "distance_km": 8.63,
+      "moving_time_sec": 2936,
+      "moving_time": "48m 56s",
+      "pace": "5:40",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 10,
-      "name": "Farhan Kastaa",
-      "distance_km": 5.87,
-      "moving_time_sec": 1658,
-      "moving_time": "27m 38s",
-      "pace": "4:42",
+      "rank": 9,
+      "name": "Friskha Chaca",
+      "distance_km": 8.01,
+      "moving_time_sec": 3466,
+      "moving_time": "57m 46s",
+      "pace": "7:13",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
+      "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Riki Lie",
+      "distance_km": 7.12,
+      "moving_time_sec": 3208,
+      "moving_time": "53m 28s",
+      "pace": "7:31",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/122081422.jpg"
     }
   ]
 }
