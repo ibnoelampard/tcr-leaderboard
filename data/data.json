@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:58:35.091Z",
+  "generated_at": "2026-07-15T22:57:10.678Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,28 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Toni Djiaw",
+      "distance_km": 11.13,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "5:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Alex Rusman",
+      "distance_km": 11.08,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "5:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Putri Puspita",
       "distance_km": 10.61,
       "moving_time_sec": 4200,
@@ -30,7 +52,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Lyutasya .",
       "distance_km": 10.3,
       "moving_time_sec": 4380,
@@ -41,18 +63,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 3,
-      "name": "Mister Aloy",
-      "distance_km": 10.18,
-      "moving_time_sec": 4800,
-      "moving_time": "1j 20m",
-      "pace": "7:52",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 10.17,
       "moving_time_sec": 4560,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Aditya Rudy Ananda",
       "distance_km": 10.08,
       "moving_time_sec": 3780,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Mohammad Nazir",
       "distance_km": 10.03,
       "moving_time_sec": 3465,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "william fernando",
       "distance_km": 8.31,
       "moving_time_sec": 3720,
@@ -96,7 +107,18 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "name": "Erwin Hauw",
+      "distance_km": 8.12,
+      "moving_time_sec": 2506,
+      "moving_time": "41m 46s",
+      "pace": "5:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 10,
       "name": "william po",
       "distance_km": 7.29,
       "moving_time_sec": 3015,
@@ -105,28 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Cornelia  Larasati",
-      "distance_km": 7.01,
-      "moving_time_sec": 3327,
-      "moving_time": "55m 27s",
-      "pace": "7:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/28801387.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 7,
-      "moving_time_sec": 2865,
-      "moving_time": "47m 45s",
-      "pace": "6:49",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
     }
   ]
 }
