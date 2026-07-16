@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:38:00.170Z",
+  "generated_at": "2026-07-16T17:13:42.860Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,13 +7,13 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 150,
+    "member_count": 151,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-13",
-  "week_end": "2026-07-16",
+  "week_end": "2026-07-17",
   "metric": "distance",
   "total_activities": 16,
   "total_athletes": 10,
