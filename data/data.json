@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:55:50.510Z",
+  "generated_at": "2026-07-16T22:55:33.105Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-17",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Erwin Hauw",
+      "distance_km": 15.17,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "4:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Putri Puspita",
       "distance_km": 13.09,
       "moving_time_sec": 5400,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "severinus tyan",
       "distance_km": 12.12,
       "moving_time_sec": 4620,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Renaldi Wijaya",
       "distance_km": 11,
       "moving_time_sec": 4380,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Riki Lie",
       "distance_km": 10,
       "moving_time_sec": 5040,
@@ -63,26 +74,15 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 5,
-      "name": "dike wicaksono",
-      "distance_km": 9.04,
-      "moving_time_sec": 2800,
-      "moving_time": "46m 40s",
-      "pace": "5:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/17481263.jpg"
-    },
-    {
       "rank": 6,
-      "name": "Mister Aloy",
-      "distance_km": 8.1,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "7:47",
+      "name": "Muzammil Akhmad",
+      "distance_km": 9.56,
+      "moving_time_sec": 2971,
+      "moving_time": "49m 31s",
+      "pace": "5:11",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/18602303.jpg"
     },
     {
       "rank": 7,
