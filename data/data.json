@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T02:27:49.130Z",
+  "generated_at": "2026-07-16T06:16:20.691Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-16",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Cris Fe",
+      "distance_km": 12.28,
+      "moving_time_sec": 5606,
+      "moving_time": "1j 33m",
+      "pace": "7:37",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 12.02,
       "moving_time_sec": 4380,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Toni Djiaw",
       "distance_km": 11.13,
       "moving_time_sec": 3960,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Alex Rusman",
       "distance_km": 11.08,
       "moving_time_sec": 3840,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Yudo Adrian",
       "distance_km": 10.85,
       "moving_time_sec": 3361,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Diana Melina",
       "distance_km": 10.41,
       "moving_time_sec": 4320,
@@ -82,17 +93,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "severinus tyan",
-      "distance_km": 10.17,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "7:28",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
     },
     {
       "rank": 8,
