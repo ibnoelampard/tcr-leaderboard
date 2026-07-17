@@ -100,6 +100,16 @@
       "moving_time_sec": 3840,
       "distance_m": 12080
     },
+    "19351114892": {
+      "id": "19351114892",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-17T09:50:37Z",
+      "type": "Run",
+      "distance_km": 4.2,
+      "moving_time_sec": 1834,
+      "distance_m": 4200
+    },
     "19347134233": {
       "id": "19347134233",
       "athlete": "Fahrudin Jamil",
@@ -179,16 +189,6 @@
       "distance_km": 5,
       "moving_time_sec": 2283,
       "distance_m": 5000
-    },
-    "19345690996": {
-      "id": "19345690996",
-      "athlete": "Ike Kusumawati",
-      "athleteId": "31844219",
-      "startDate": "2026-07-16T22:41:59Z",
-      "type": "Run",
-      "distance_km": 8.34,
-      "moving_time_sec": 2848,
-      "distance_m": 8340
     }
   }
 }

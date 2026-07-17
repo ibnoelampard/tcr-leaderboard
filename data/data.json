@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:11:55.602Z",
+  "generated_at": "2026-07-17T17:09:38.495Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-13",
-  "week_end": "2026-07-17",
+  "week_end": "2026-07-18",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -52,16 +52,6 @@
     },
     {
       "rank": 4,
-      "name": "Ike Kusumawati",
-      "distance_km": 8.34,
-      "moving_time_sec": 2848,
-      "moving_time": "47m 28s",
-      "pace": "5:41",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 5,
       "name": "Diana Melina",
       "distance_km": 8,
       "moving_time_sec": 3366,
@@ -72,7 +62,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Christine .S",
       "distance_km": 6.09,
       "moving_time_sec": 2703,
@@ -83,7 +73,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Mister Aloy",
       "distance_km": 6.02,
       "moving_time_sec": 2939,
@@ -94,7 +84,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Antin Achai",
       "distance_km": 6.01,
       "moving_time_sec": 2532,
@@ -105,7 +95,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Riki Lie",
       "distance_km": 6,
       "moving_time_sec": 2568,
@@ -116,7 +106,7 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Daniel Steven",
       "distance_km": 5.31,
       "moving_time_sec": 2796,
@@ -125,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62616971.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 5.3,
+      "moving_time_sec": 2214,
+      "moving_time": "36m 54s",
+      "pace": "6:58",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
     }
   ]
 }
