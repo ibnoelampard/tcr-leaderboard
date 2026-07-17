@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:24:09.451Z",
+  "generated_at": "2026-07-17T15:11:55.602Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-17",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -73,17 +73,6 @@
     },
     {
       "rank": 6,
-      "name": "Nesdi Waty",
-      "distance_km": 6.91,
-      "moving_time_sec": 2986,
-      "moving_time": "49m 46s",
-      "pace": "7:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Christine .S",
       "distance_km": 6.09,
       "moving_time_sec": 2703,
@@ -94,7 +83,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Mister Aloy",
       "distance_km": 6.02,
       "moving_time_sec": 2939,
@@ -105,7 +94,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Antin Achai",
       "distance_km": 6.01,
       "moving_time_sec": 2532,
@@ -114,6 +103,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/120428252.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Riki Lie",
+      "distance_km": 6,
+      "moving_time_sec": 2568,
+      "moving_time": "42m 48s",
+      "pace": "7:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/122081422.jpg"
     },
     {
       "rank": 10,

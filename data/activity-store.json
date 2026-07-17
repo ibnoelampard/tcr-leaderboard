@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19350009393": {
+      "id": "19350009393",
+      "athlete": "Riki Lie",
+      "athleteId": "122081422",
+      "startDate": "2026-07-17T12:51:27Z",
+      "type": "Run",
+      "distance_km": 6,
+      "moving_time_sec": 2568,
+      "distance_m": 6000
+    },
     "19349679131": {
       "id": "19349679131",
       "athlete": "Renaldi Wijaya",
@@ -59,16 +69,6 @@
       "distance_km": 5.31,
       "moving_time_sec": 2796,
       "distance_m": 5310
-    },
-    "19348842432": {
-      "id": "19348842432",
-      "athlete": "jeje neko",
-      "athleteId": "142856679",
-      "startDate": "2026-07-17T11:29:49Z",
-      "type": "Run",
-      "distance_km": 3.62,
-      "moving_time_sec": 1542,
-      "distance_m": 3620
     },
     "19348415408": {
       "id": "19348415408",
@@ -189,16 +189,6 @@
       "distance_km": 8.34,
       "moving_time_sec": 2848,
       "distance_m": 8340
-    },
-    "19344194555": {
-      "id": "19344194555",
-      "athlete": "Nesdi Waty",
-      "athleteId": "26779694",
-      "startDate": "2026-07-16T17:00:01Z",
-      "type": "Run",
-      "distance_km": 6.91,
-      "moving_time_sec": 2986,
-      "distance_m": 6910
     }
   }
 }
