@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T11:20:50.024Z",
+  "generated_at": "2026-07-17T13:24:09.451Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,49 +31,17 @@
     },
     {
       "rank": 2,
-      "name": "severinus tyan",
-      "distance_km": 10.81,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "7:02",
+      "name": "Mohammad Nazir",
+      "distance_km": 10.04,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "6:28",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
+      "photo": "assets/athletes/18323542.jpg"
     },
     {
       "rank": 3,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 10.41,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "5:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Ike Kusumawati",
-      "distance_km": 9.95,
-      "moving_time_sec": 3450,
-      "moving_time": "57m 30s",
-      "pace": "5:47",
-      "activities": 2,
-      "elev_m": 0
-    },
-    {
-      "rank": 5,
-      "name": "Muzammil Akhmad",
-      "distance_km": 9.56,
-      "moving_time_sec": 2971,
-      "moving_time": "49m 31s",
-      "pace": "5:11",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Aditra AL",
       "distance_km": 9.01,
       "moving_time_sec": 3780,
@@ -83,7 +51,28 @@
       "elev_m": 0
     },
     {
-      "rank": 7,
+      "rank": 4,
+      "name": "Ike Kusumawati",
+      "distance_km": 8.34,
+      "moving_time_sec": 2848,
+      "moving_time": "47m 28s",
+      "pace": "5:41",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
+      "name": "Diana Melina",
+      "distance_km": 8,
+      "moving_time_sec": 3366,
+      "moving_time": "56m 6s",
+      "pace": "7:01",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126056724.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Nesdi Waty",
       "distance_km": 6.91,
       "moving_time_sec": 2986,
@@ -94,18 +83,18 @@
       "photo": "assets/athletes/26779694.jpg"
     },
     {
-      "rank": 8,
-      "name": "Boris Lethe",
-      "distance_km": 6.31,
-      "moving_time_sec": 2658,
-      "moving_time": "44m 18s",
-      "pace": "7:01",
+      "rank": 7,
+      "name": "Christine .S",
+      "distance_km": 6.09,
+      "moving_time_sec": 2703,
+      "moving_time": "45m 3s",
+      "pace": "7:24",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
+      "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Mister Aloy",
       "distance_km": 6.02,
       "moving_time_sec": 2939,
@@ -116,15 +105,26 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 10,
-      "name": "Aditya Rudy Ananda",
-      "distance_km": 5.3,
-      "moving_time_sec": 2214,
-      "moving_time": "36m 54s",
-      "pace": "6:58",
+      "rank": 9,
+      "name": "Antin Achai",
+      "distance_km": 6.01,
+      "moving_time_sec": 2532,
+      "moving_time": "42m 12s",
+      "pace": "7:01",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
+      "photo": "assets/athletes/120428252.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Daniel Steven",
+      "distance_km": 5.31,
+      "moving_time_sec": 2796,
+      "moving_time": "46m 36s",
+      "pace": "8:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
     }
   ]
 }
