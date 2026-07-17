@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:55:30.836Z",
+  "generated_at": "2026-07-17T11:20:50.024Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,14 +20,14 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Erwin Hauw",
-      "distance_km": 15.17,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "4:57",
+      "name": "Alex Rusman",
+      "distance_km": 12.08,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "5:18",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
+      "photo": "assets/athletes/153243434.jpg"
     },
     {
       "rank": 2,
@@ -95,17 +95,6 @@
     },
     {
       "rank": 8,
-      "name": "Toni Djiaw",
-      "distance_km": 6.72,
-      "moving_time_sec": 2554,
-      "moving_time": "42m 34s",
-      "pace": "6:20",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 6.31,
       "moving_time_sec": 2658,
@@ -114,6 +103,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Mister Aloy",
+      "distance_km": 6.02,
+      "moving_time_sec": 2939,
+      "moving_time": "48m 59s",
+      "pace": "8:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
     },
     {
       "rank": 10,
