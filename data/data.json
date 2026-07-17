@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T06:13:46.589Z",
+  "generated_at": "2026-07-17T09:55:30.836Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -84,17 +84,6 @@
     },
     {
       "rank": 7,
-      "name": "Toni Djiaw",
-      "distance_km": 8.39,
-      "moving_time_sec": 3249,
-      "moving_time": "54m 9s",
-      "pace": "6:27",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Nesdi Waty",
       "distance_km": 6.91,
       "moving_time_sec": 2986,
@@ -103,6 +92,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26779694.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Toni Djiaw",
+      "distance_km": 6.72,
+      "moving_time_sec": 2554,
+      "moving_time": "42m 34s",
+      "pace": "6:20",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 9,
