@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:10:58.231Z",
+  "generated_at": "2026-07-18T14:50:25.358Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Toni Djiaw",
-      "distance_km": 30,
-      "moving_time_sec": 9660,
-      "moving_time": "2j 41m",
-      "pace": "5:22",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Yudo Adrian",
       "distance_km": 27.37,
       "moving_time_sec": 8927,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Erwin Hauw",
       "distance_km": 22.24,
       "moving_time_sec": 7500,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Arif Kurniawan",
       "distance_km": 17.46,
       "moving_time_sec": 24480,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/19073451.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Dikdik Sugiharto",
       "distance_km": 12.01,
       "moving_time_sec": 4320,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "silas soetrisno",
       "distance_km": 10.67,
       "moving_time_sec": 4440,
@@ -95,7 +84,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Mohammad Nazir",
       "distance_km": 6.99,
       "moving_time_sec": 3245,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Roby Wong",
       "distance_km": 5.94,
       "moving_time_sec": 3662,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Mister Aloy",
       "distance_km": 5.24,
       "moving_time_sec": 2702,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Gema Chrisdwianto",
+      "distance_km": 4.56,
+      "moving_time_sec": 1635,
+      "moving_time": "27m 15s",
+      "pace": "5:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/135577017.jpg"
     }
   ]
 }

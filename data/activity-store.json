@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19362958474": {
+      "id": "19362958474",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-07-18T12:47:21Z",
+      "type": "Run",
+      "distance_km": 3.39,
+      "moving_time_sec": 1272,
+      "distance_m": 3390
+    },
     "19362173613": {
       "id": "19362173613",
       "athlete": "Roby Wong",
@@ -149,16 +159,6 @@
       "distance_km": 3.1,
       "moving_time_sec": 1292,
       "distance_m": 3100
-    },
-    "19356349897": {
-      "id": "19356349897",
-      "athlete": "Toni Djiaw",
-      "athleteId": "142218523",
-      "startDate": "2026-07-17T21:47:18Z",
-      "type": "Run",
-      "distance_km": 30,
-      "moving_time_sec": 9660,
-      "distance_m": 30000
     }
   }
 }
