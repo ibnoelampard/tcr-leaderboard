@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19358860459": {
+      "id": "19358860459",
+      "athlete": "Arif Kurniawan",
+      "athleteId": "19073451",
+      "startDate": "2026-07-17T22:51:24Z",
+      "type": "Run",
+      "distance_km": 17.46,
+      "moving_time_sec": 24480,
+      "distance_m": 17460
+    },
     "19357387679": {
       "id": "19357387679",
       "athlete": "Dikdik Sugiharto",
@@ -149,26 +159,6 @@
       "distance_km": 2.13,
       "moving_time_sec": 880,
       "distance_m": 2130
-    },
-    "19356129875": {
-      "id": "19356129875",
-      "athlete": "Ibnoelampard Noe",
-      "athleteId": "130551674",
-      "startDate": "2026-07-17T23:36:53Z",
-      "type": "Run",
-      "distance_km": 6.29,
-      "moving_time_sec": 2977,
-      "distance_m": 6290
-    },
-    "19356536164": {
-      "id": "19356536164",
-      "athlete": "Yotta Risanggono",
-      "athleteId": "125540711",
-      "startDate": "2026-07-17T23:14:20Z",
-      "type": "Run",
-      "distance_km": 6.49,
-      "moving_time_sec": 3563,
-      "distance_m": 6490
     }
   }
 }

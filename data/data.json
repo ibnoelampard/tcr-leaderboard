@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T06:03:45.319Z",
+  "generated_at": "2026-07-18T09:23:51.678Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-18",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,6 +64,17 @@
     },
     {
       "rank": 5,
+      "name": "Arif Kurniawan",
+      "distance_km": 17.46,
+      "moving_time_sec": 24480,
+      "moving_time": "6j 48m",
+      "pace": "23:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19073451.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Dikdik Sugiharto",
       "distance_km": 12.01,
       "moving_time_sec": 4320,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "silas soetrisno",
       "distance_km": 10.67,
       "moving_time_sec": 4440,
@@ -84,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Feri Yo",
       "distance_km": 10.01,
       "moving_time_sec": 4500,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Mohammad Nazir",
       "distance_km": 6.99,
       "moving_time_sec": 3245,
@@ -106,25 +117,15 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 9,
-      "name": "Yotta Risanggono",
-      "distance_km": 6.49,
-      "moving_time_sec": 3563,
-      "moving_time": "59m 23s",
-      "pace": "9:09",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
       "rank": 10,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 6.29,
-      "moving_time_sec": 2977,
-      "moving_time": "49m 37s",
-      "pace": "7:53",
+      "name": "william fernando",
+      "distance_km": 6,
+      "moving_time_sec": 2689,
+      "moving_time": "44m 49s",
+      "pace": "7:28",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
