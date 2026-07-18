@@ -1,5 +1,25 @@
 {
   "activities": {
+    "19357387679": {
+      "id": "19357387679",
+      "athlete": "Dikdik Sugiharto",
+      "athleteId": "56518385",
+      "startDate": "2026-07-18T02:24:39Z",
+      "type": "Run",
+      "distance_km": 12.01,
+      "moving_time_sec": 4320,
+      "distance_m": 12010
+    },
+    "19357334404": {
+      "id": "19357334404",
+      "athlete": "silas soetrisno",
+      "athleteId": "23768643",
+      "startDate": "2026-07-17T23:49:52Z",
+      "type": "Run",
+      "distance_km": 10.67,
+      "moving_time_sec": 4440,
+      "distance_m": 10670
+    },
     "19356803897": {
       "id": "19356803897",
       "athlete": "Roby Wong",
@@ -59,16 +79,6 @@
       "distance_km": 22.24,
       "moving_time_sec": 7500,
       "distance_m": 22240
-    },
-    "19356291544": {
-      "id": "19356291544",
-      "athlete": "فقيه زهري פקיה זוהרי",
-      "athleteId": "4536686",
-      "startDate": "2026-07-17T17:00:01Z",
-      "type": "Run",
-      "distance_km": 0.41,
-      "moving_time_sec": 0,
-      "distance_m": 410
     },
     "19356290237": {
       "id": "19356290237",
@@ -159,36 +169,6 @@
       "distance_km": 6.49,
       "moving_time_sec": 3563,
       "distance_m": 6490
-    },
-    "19356173192": {
-      "id": "19356173192",
-      "athlete": "Riki Lie",
-      "athleteId": "122081422",
-      "startDate": "2026-07-17T22:45:38Z",
-      "type": "Run",
-      "distance_km": 10,
-      "moving_time_sec": 5160,
-      "distance_m": 10000
-    },
-    "19356034459": {
-      "id": "19356034459",
-      "athlete": "فقيه زهري פקיה זוהרי",
-      "athleteId": "4536686",
-      "startDate": "2026-07-17T17:00:01Z",
-      "type": "Run",
-      "distance_km": 6.56,
-      "moving_time_sec": 720,
-      "distance_m": 6560
-    },
-    "19356783002": {
-      "id": "19356783002",
-      "athlete": "Aldino Wijaksono",
-      "athleteId": "128769022",
-      "startDate": "2026-07-17T23:23:46Z",
-      "type": "Run",
-      "distance_km": 6.27,
-      "moving_time_sec": 2810,
-      "distance_m": 6270
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T02:21:16.815Z",
+  "generated_at": "2026-07-18T06:03:45.319Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-18",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,6 +64,27 @@
     },
     {
       "rank": 5,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 12.01,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "5:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "silas soetrisno",
+      "distance_km": 10.67,
+      "moving_time_sec": 4440,
+      "moving_time": "1j 14m",
+      "pace": "6:56",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 7,
       "name": "Feri Yo",
       "distance_km": 10.01,
       "moving_time_sec": 4500,
@@ -74,18 +95,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 6,
-      "name": "Riki Lie",
-      "distance_km": 10,
-      "moving_time_sec": 5160,
-      "moving_time": "1j 26m",
-      "pace": "8:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "name": "Mohammad Nazir",
       "distance_km": 6.99,
       "moving_time_sec": 3245,
@@ -94,16 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/18323542.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "فقيه زهري פקיה זוהרי",
-      "distance_km": 6.97,
-      "moving_time_sec": 720,
-      "moving_time": "12m 0s",
-      "pace": "1:43",
-      "activities": 2,
-      "elev_m": 0
     },
     {
       "rank": 9,
