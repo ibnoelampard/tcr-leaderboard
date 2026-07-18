@@ -149,16 +149,6 @@
       "distance_km": 10.01,
       "moving_time_sec": 4500,
       "distance_m": 10010
-    },
-    "19356566897": {
-      "id": "19356566897",
-      "athlete": "Karina Suryawinata",
-      "athleteId": "19042919",
-      "startDate": "2026-07-18T00:17:16Z",
-      "type": "Run",
-      "distance_km": 2.13,
-      "moving_time_sec": 880,
-      "distance_m": 2130
     }
   }
 }
