@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:01:49.209Z",
+  "generated_at": "2026-07-18T13:10:58.231Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-18",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -96,17 +96,6 @@
     },
     {
       "rank": 8,
-      "name": "Feri Yo",
-      "distance_km": 10.01,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Mohammad Nazir",
       "distance_km": 6.99,
       "moving_time_sec": 3245,
@@ -117,15 +106,26 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
+      "rank": 9,
+      "name": "Roby Wong",
+      "distance_km": 5.94,
+      "moving_time_sec": 3662,
+      "moving_time": "1j 1m",
+      "pace": "10:16",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
+    },
+    {
       "rank": 10,
-      "name": "william fernando",
-      "distance_km": 6,
-      "moving_time_sec": 2689,
-      "moving_time": "44m 49s",
-      "pace": "7:28",
+      "name": "Mister Aloy",
+      "distance_km": 5.24,
+      "moving_time_sec": 2702,
+      "moving_time": "45m 2s",
+      "pace": "8:36",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
+      "photo": "assets/athletes/26923775.jpg"
     }
   ]
 }
