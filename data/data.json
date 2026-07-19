@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T16:56:37.005Z",
+  "generated_at": "2026-07-19T19:03:18.311Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,119 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-07-13",
-  "week_end": "2026-07-19",
+  "week_start": "2026-07-20",
+  "week_end": "2026-07-20",
   "metric": "distance",
-  "total_activities": 16,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 24,
-      "moving_time_sec": 8640,
-      "moving_time": "2j 24m",
-      "pace": "6:00",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Ike Kusumawati",
-      "distance_km": 18.08,
-      "moving_time_sec": 6540,
-      "moving_time": "1j 49m",
-      "pace": "6:02",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 3,
-      "name": "Aditra AL",
-      "distance_km": 18.01,
-      "moving_time_sec": 7260,
-      "moving_time": "2j 1m",
-      "pace": "6:43",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 4,
-      "name": "Denny Hy",
-      "distance_km": 17.29,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "5:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/62565051.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 17.02,
-      "moving_time_sec": 6300,
-      "moving_time": "1j 45m",
-      "pace": "6:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Yudo Adrian",
-      "distance_km": 12.36,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "4:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "william fernando",
-      "distance_km": 12,
-      "moving_time_sec": 5280,
-      "moving_time": "1j 28m",
-      "pace": "7:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Feri Yo",
-      "distance_km": 11.05,
-      "moving_time_sec": 5385,
-      "moving_time": "1j 29m",
-      "pace": "8:07",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Fritz Wildan",
-      "distance_km": 10.82,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "6:17",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Muhammad Rizki Hartadi",
-      "distance_km": 10,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "7:18",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/123066684.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
