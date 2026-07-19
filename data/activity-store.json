@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19374146816": {
+      "id": "19374146816",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-07-19T09:18:34Z",
+      "type": "Run",
+      "distance_km": 10.82,
+      "moving_time_sec": 4080,
+      "distance_m": 10820
+    },
     "19372820522": {
       "id": "19372820522",
       "athlete": "Coco Tsl",

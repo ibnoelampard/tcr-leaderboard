@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:51:50.238Z",
+  "generated_at": "2026-07-19T11:07:58.586Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-13",
   "week_end": "2026-07-19",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -106,6 +106,17 @@
     },
     {
       "rank": 9,
+      "name": "Fritz Wildan",
+      "distance_km": 10.82,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 10,
       "moving_time_sec": 4380,
@@ -114,17 +125,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/123066684.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Daniel Santoso",
-      "distance_km": 8.41,
-      "moving_time_sec": 3132,
-      "moving_time": "52m 12s",
-      "pace": "6:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/62616971.jpg"
     }
   ]
 }
