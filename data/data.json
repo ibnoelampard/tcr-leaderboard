@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:50:14.062Z",
+  "generated_at": "2026-07-20T14:01:59.715Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-20",
   "metric": "distance",
-  "total_activities": 7,
-  "total_athletes": 7,
+  "total_activities": 9,
+  "total_athletes": 9,
   "leaderboard": [
     {
       "rank": 1,
@@ -42,6 +42,17 @@
     },
     {
       "rank": 3,
+      "name": "Putri Puspita",
+      "distance_km": 9.06,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "7:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/13950824.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Annif D",
       "distance_km": 8.83,
       "moving_time_sec": 3720,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "sugiyo .",
       "distance_km": 8.44,
       "moving_time_sec": 3273,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Fritz Wildan",
       "distance_km": 7.12,
       "moving_time_sec": 2945,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "severinus tyan",
       "distance_km": 5.22,
       "moving_time_sec": 2206,
@@ -85,7 +96,18 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 4.02,
+      "moving_time_sec": 2044,
+      "moving_time": "34m 4s",
+      "pace": "8:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Renaldi Wijaya",
       "distance_km": 2.5,
       "moving_time_sec": 943,
