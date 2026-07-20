@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T02:48:15.742Z",
+  "generated_at": "2026-07-20T06:43:56.820Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-20",
   "metric": "distance",
-  "total_activities": 5,
-  "total_athletes": 5,
+  "total_activities": 6,
+  "total_athletes": 6,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aldino Wijaksono",
+      "distance_km": 11.06,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128769022.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Toni Djiaw",
       "distance_km": 9.12,
       "moving_time_sec": 3268,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Annif D",
       "distance_km": 8.83,
       "moving_time_sec": 3720,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "sugiyo .",
       "distance_km": 8.44,
       "moving_time_sec": 3273,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Fritz Wildan",
       "distance_km": 7.12,
       "moving_time_sec": 2945,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 5.22,
       "moving_time_sec": 2206,
