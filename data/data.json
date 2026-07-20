@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T06:43:56.820Z",
+  "generated_at": "2026-07-20T10:50:14.062Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-20",
   "metric": "distance",
-  "total_activities": 6,
-  "total_athletes": 6,
+  "total_activities": 7,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
@@ -83,6 +83,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Renaldi Wijaya",
+      "distance_km": 2.5,
+      "moving_time_sec": 943,
+      "moving_time": "15m 43s",
+      "pace": "6:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
     }
   ]
 }
