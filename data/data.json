@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:07:22.001Z",
+  "generated_at": "2026-07-21T22:54:47.726Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -85,6 +85,17 @@
     },
     {
       "rank": 7,
+      "name": "Erwin Hauw",
+      "distance_km": 10.5,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "5:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Arif Kurniawan",
       "distance_km": 10.38,
       "moving_time_sec": 4860,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/19073451.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Santi Kurniasari",
       "distance_km": 10.19,
       "moving_time_sec": 5220,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Hendri Mulyadi",
       "distance_km": 10.12,
       "moving_time_sec": 3600,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Mohammad Nazir",
-      "distance_km": 10.04,
-      "moving_time_sec": 3211,
-      "moving_time": "53m 31s",
-      "pace": "5:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
     }
   ]
 }
