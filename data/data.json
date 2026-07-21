@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T10:24:14.550Z",
+  "generated_at": "2026-07-21T13:45:30.980Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,102 +31,102 @@
     },
     {
       "rank": 2,
-      "name": "Toni Djiaw",
-      "distance_km": 12.65,
-      "moving_time_sec": 4456,
-      "moving_time": "1j 14m",
-      "pace": "5:52",
+      "name": "Erick Yanto",
+      "distance_km": 15.39,
+      "moving_time_sec": 6555,
+      "moving_time": "1j 49m",
+      "pace": "7:06",
       "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
+      "photo": "assets/athletes/164750862.jpg"
     },
     {
       "rank": 3,
-      "name": "Fritz Wildan",
-      "distance_km": 12.56,
-      "moving_time_sec": 4620,
-      "moving_time": "1j 17m",
-      "pace": "6:08",
-      "activities": 1,
+      "name": "Farhan Kastaa",
+      "distance_km": 15.32,
+      "moving_time_sec": 5884,
+      "moving_time": "1j 38m",
+      "pace": "6:24",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 4,
-      "name": "Diana Melina",
-      "distance_km": 12.12,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:46",
+      "name": "Christine .S",
+      "distance_km": 12.02,
+      "moving_time_sec": 4620,
+      "moving_time": "1j 17m",
+      "pace": "6:24",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
+      "photo": "assets/athletes/71718168.jpg"
     },
     {
       "rank": 5,
-      "name": "Muzammil Akhmad",
-      "distance_km": 12,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "6:00",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Alex Rusman",
-      "distance_km": 11.01,
-      "moving_time_sec": 3589,
-      "moving_time": "59m 49s",
-      "pace": "5:26",
+      "distance_km": 12.02,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "6:14",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 7,
-      "name": "Santi Kurniasari",
-      "distance_km": 10.5,
-      "moving_time_sec": 5460,
-      "moving_time": "1j 31m",
-      "pace": "8:40",
+      "rank": 6,
+      "name": "Arif Kurniawan",
+      "distance_km": 10.38,
+      "moving_time_sec": 4860,
+      "moving_time": "1j 21m",
+      "pace": "7:48",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/50128426.jpg"
+      "photo": "assets/athletes/19073451.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Hendri Mulyadi",
+      "distance_km": 10.12,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/137028433.jpg"
     },
     {
       "rank": 8,
-      "name": "Putri Puspita",
-      "distance_km": 9.06,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "7:44",
+      "name": "Mohammad Nazir",
+      "distance_km": 10.04,
+      "moving_time_sec": 3211,
+      "moving_time": "53m 31s",
+      "pace": "5:20",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/13950824.jpg"
+      "photo": "assets/athletes/18323542.jpg"
     },
     {
       "rank": 9,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 9.03,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "6:39",
+      "name": "Riki Lie",
+      "distance_km": 7.74,
+      "moving_time_sec": 3075,
+      "moving_time": "51m 15s",
+      "pace": "6:37",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/122081422.jpg"
     },
     {
       "rank": 10,
-      "name": "Annif D",
-      "distance_km": 8.01,
-      "moving_time_sec": 3049,
-      "moving_time": "50m 49s",
-      "pace": "6:21",
+      "name": "Andree Setiawan",
+      "distance_km": 5.82,
+      "moving_time_sec": 3416,
+      "moving_time": "56m 56s",
+      "pace": "9:47",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
+      "photo": "assets/athletes/95696517.jpg"
     }
   ]
 }
