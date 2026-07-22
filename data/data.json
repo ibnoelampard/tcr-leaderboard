@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T13:48:47.004Z",
+  "generated_at": "2026-07-22T15:40:16.971Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,6 +53,17 @@
     },
     {
       "rank": 4,
+      "name": "Renaldi Wijaya",
+      "distance_km": 9.5,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "7:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Shelomitha 12",
       "distance_km": 9,
       "moving_time_sec": 4740,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 8.64,
       "moving_time_sec": 2827,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Lyutasya .",
       "distance_km": 8.43,
       "moving_time_sec": 3897,
@@ -85,7 +96,18 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "name": "Andree Setiawan",
+      "distance_km": 7.39,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "9:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 9,
       "name": "william fernando",
       "distance_km": 5.88,
       "moving_time_sec": 2559,
@@ -96,7 +118,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Rudy Yulianus",
       "distance_km": 5.04,
       "moving_time_sec": 2102,
@@ -104,28 +126,6 @@
       "pace": "6:57",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 9,
-      "name": "Nani Liauw",
-      "distance_km": 5.04,
-      "moving_time_sec": 2217,
-      "moving_time": "36m 57s",
-      "pace": "7:20",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/110525527.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Juliano Fransiscus",
-      "distance_km": 5.02,
-      "moving_time_sec": 2250,
-      "moving_time": "37m 30s",
-      "pace": "7:28",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/129995651.jpg"
     }
   ]
 }
