@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:04:46.431Z",
+  "generated_at": "2026-07-22T23:01:28.285Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,28 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Aldino Wijaksono",
-      "distance_km": 11.21,
-      "moving_time_sec": 3597,
-      "moving_time": "59m 57s",
-      "pace": "5:21",
+      "name": "Erwin Hauw",
+      "distance_km": 13.01,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "5:32",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
+      "photo": "assets/athletes/66730311.jpg"
     },
     {
       "rank": 2,
-      "name": "Diana Melina",
-      "distance_km": 10.72,
-      "moving_time_sec": 5040,
-      "moving_time": "1j 24m",
-      "pace": "7:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Mohammad Nazir",
       "distance_km": 10.06,
       "moving_time_sec": 3451,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Renaldi Wijaya",
       "distance_km": 9.5,
       "moving_time_sec": 4200,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Shelomitha 12",
       "distance_km": 9,
       "moving_time_sec": 4740,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 8.64,
       "moving_time_sec": 2827,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Lyutasya .",
       "distance_km": 8.43,
       "moving_time_sec": 3897,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Andree Setiawan",
       "distance_km": 7.39,
       "moving_time_sec": 4200,
@@ -105,6 +94,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Toni Djiaw",
+      "distance_km": 6.12,
+      "moving_time_sec": 2118,
+      "moving_time": "35m 18s",
+      "pace": "5:46",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 9,
@@ -119,13 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "Rudy Yulianus",
-      "distance_km": 5.04,
-      "moving_time_sec": 2102,
-      "moving_time": "35m 2s",
-      "pace": "6:57",
+      "name": "Boris Lethe",
+      "distance_km": 5.43,
+      "moving_time_sec": 2223,
+      "moving_time": "37m 3s",
+      "pace": "6:49",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
