@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:26:24.770Z",
+  "generated_at": "2026-07-22T10:23:45.857Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Erwin Hauw",
-      "distance_km": 10.5,
-      "moving_time_sec": 3720,
-      "moving_time": "1j 2m",
-      "pace": "5:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Muzammil Akhmad",
       "distance_km": 10.3,
       "moving_time_sec": 3900,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "sugiyo .",
       "distance_km": 9.05,
       "moving_time_sec": 4440,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ike Kusumawati",
       "distance_km": 9.04,
       "moving_time_sec": 3720,
@@ -106,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Nesdi Waty",
       "distance_km": 8.29,
       "moving_time_sec": 3447,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/26779694.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Ivan soesanto",
       "distance_km": 8.09,
       "moving_time_sec": 3519,
@@ -126,6 +115,16 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26800044.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Aditra AL",
+      "distance_km": 8.02,
+      "moving_time_sec": 3438,
+      "moving_time": "57m 18s",
+      "pace": "7:09",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
