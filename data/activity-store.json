@@ -150,6 +150,26 @@
       "moving_time_sec": 3073,
       "distance_m": 7320
     },
+    "19427277905": {
+      "id": "19427277905",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-07-22T23:23:46Z",
+      "type": "Run",
+      "distance_km": 2.26,
+      "moving_time_sec": 821,
+      "distance_m": 2260
+    },
+    "19427278144": {
+      "id": "19427278144",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-07-22T22:58:29Z",
+      "type": "Run",
+      "distance_km": 3.84,
+      "moving_time_sec": 1391,
+      "distance_m": 3840
+    },
     "19424789874": {
       "id": "19424789874",
       "athlete": "Ardy Fardiansyah",
@@ -169,26 +189,6 @@
       "distance_km": 5.04,
       "moving_time_sec": 1672,
       "distance_m": 5040
-    },
-    "19424534333": {
-      "id": "19424534333",
-      "athlete": "Boris Lethe",
-      "athleteId": "37690983",
-      "startDate": "2026-07-22T22:15:53Z",
-      "type": "Run",
-      "distance_km": 5.43,
-      "moving_time_sec": 2223,
-      "distance_m": 5430
-    },
-    "19424632398": {
-      "id": "19424632398",
-      "athlete": "Andreas Mario",
-      "athleteId": "64642890",
-      "startDate": "2026-07-22T21:57:54Z",
-      "type": "Run",
-      "distance_km": 7.01,
-      "moving_time_sec": 3241,
-      "distance_m": 7010
     }
   }
 }
