@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T10:21:22.848Z",
+  "generated_at": "2026-07-23T13:53:22.025Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,11 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-23",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Muzammil Akhmad",
-      "distance_km": 24,
-      "moving_time_sec": 8640,
-      "moving_time": "2j 24m",
-      "pace": "6:00",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Farhan Kastaa",
       "distance_km": 23.77,
       "moving_time_sec": 11640,
@@ -41,29 +30,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 3,
-      "name": "Diana Melina",
-      "distance_km": 12.87,
-      "moving_time_sec": 5700,
-      "moving_time": "1j 35m",
-      "pace": "7:23",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Fritz Wildan",
-      "distance_km": 12.57,
-      "moving_time_sec": 4680,
-      "moving_time": "1j 18m",
-      "pace": "6:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "name": "Aditra AL",
       "distance_km": 12.02,
       "moving_time_sec": 4440,
@@ -73,7 +40,7 @@
       "elev_m": 0
     },
     {
-      "rank": 6,
+      "rank": 3,
       "name": "Yudo Adrian",
       "distance_km": 11.29,
       "moving_time_sec": 3556,
@@ -84,7 +51,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 11.11,
       "moving_time_sec": 4680,
@@ -95,37 +62,70 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 8,
-      "name": "severinus tyan",
-      "distance_km": 10.21,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:21",
+      "rank": 5,
+      "name": "Rudy Hartono",
+      "distance_km": 9.17,
+      "moving_time_sec": 3780,
+      "moving_time": "1j 3m",
+      "pace": "6:52",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Erick Yanto",
+      "distance_km": 8.71,
+      "moving_time_sec": 3676,
+      "moving_time": "1j 1m",
+      "pace": "7:02",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Renaldi Wijaya",
+      "distance_km": 8,
+      "moving_time_sec": 3103,
+      "moving_time": "51m 43s",
+      "pace": "6:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 6.43,
+      "moving_time_sec": 3165,
+      "moving_time": "52m 45s",
+      "pace": "8:12",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
     },
     {
       "rank": 9,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 9.03,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "6:45",
+      "name": "Riki Lie",
+      "distance_km": 5.97,
+      "moving_time_sec": 2377,
+      "moving_time": "39m 37s",
+      "pace": "6:38",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/122081422.jpg"
     },
     {
       "rank": 10,
-      "name": "Annif D",
-      "distance_km": 8.01,
-      "moving_time_sec": 3306,
-      "moving_time": "55m 6s",
-      "pace": "6:53",
+      "name": "Coco Tsl",
+      "distance_km": 5.56,
+      "moving_time_sec": 2415,
+      "moving_time": "40m 15s",
+      "pace": "7:14",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
+      "photo": "assets/athletes/148842377.jpg"
     }
   ]
 }
