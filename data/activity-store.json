@@ -179,16 +179,6 @@
       "distance_km": 9.03,
       "moving_time_sec": 3660,
       "distance_m": 9030
-    },
-    "19424688355": {
-      "id": "19424688355",
-      "athlete": "Mohammad Nazir",
-      "athleteId": "18323542",
-      "startDate": "2026-07-22T22:42:34Z",
-      "type": "Run",
-      "distance_km": 5.04,
-      "moving_time_sec": 1672,
-      "distance_m": 5040
     }
   }
 }
