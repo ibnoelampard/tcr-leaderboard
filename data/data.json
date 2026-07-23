@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:02:28.085Z",
+  "generated_at": "2026-07-23T22:54:59.231Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-24",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Erwin Hauw",
+      "distance_km": 14.03,
+      "moving_time_sec": 4980,
+      "moving_time": "1j 23m",
+      "pace": "5:55",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 12.02,
       "moving_time_sec": 4440,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 11.11,
       "moving_time_sec": 4680,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Rudy Hartono",
       "distance_km": 9.17,
       "moving_time_sec": 3780,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Erick Yanto",
       "distance_km": 8.71,
       "moving_time_sec": 3676,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Renaldi Wijaya",
       "distance_km": 8,
       "moving_time_sec": 3103,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Aditya Rudy Ananda",
       "distance_km": 6.43,
       "moving_time_sec": 3165,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Riki Lie",
       "distance_km": 5.97,
       "moving_time_sec": 2377,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Coco Tsl",
       "distance_km": 5.56,
       "moving_time_sec": 2415,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/148842377.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Jan Arthur",
-      "distance_km": 5.45,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "11:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
     }
   ]
 }
