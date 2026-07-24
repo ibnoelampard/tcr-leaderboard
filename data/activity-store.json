@@ -40,6 +40,16 @@
       "moving_time_sec": 2259,
       "distance_m": 3040
     },
+    "19446538732": {
+      "id": "19446538732",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-24T10:36:44Z",
+      "type": "Run",
+      "distance_km": 4.36,
+      "moving_time_sec": 2733,
+      "distance_m": 4360
+    },
     "19444068013": {
       "id": "19444068013",
       "athlete": "Denny Hy",
@@ -49,6 +59,16 @@
       "distance_km": 7.09,
       "moving_time_sec": 2416,
       "distance_m": 7090
+    },
+    "19446519939": {
+      "id": "19446519939",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-07-24T09:52:43Z",
+      "type": "Run",
+      "distance_km": 4.55,
+      "moving_time_sec": 1870,
+      "distance_m": 4550
     },
     "19442627926": {
       "id": "19442627926",
@@ -179,26 +199,6 @@
       "distance_km": 12,
       "moving_time_sec": 4680,
       "distance_m": 12000
-    },
-    "19438866686": {
-      "id": "19438866686",
-      "athlete": "Toni Djiaw",
-      "athleteId": "142218523",
-      "startDate": "2026-07-23T22:32:53Z",
-      "type": "Run",
-      "distance_km": 6.45,
-      "moving_time_sec": 2652,
-      "distance_m": 6450
-    },
-    "19438593162": {
-      "id": "19438593162",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-07-23T22:06:26Z",
-      "type": "Run",
-      "distance_km": 10.11,
-      "moving_time_sec": 3588,
-      "distance_m": 10110
     }
   }
 }
