@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T02:31:50.295Z",
+  "generated_at": "2026-07-24T06:24:05.986Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "william fernando",
-      "distance_km": 5.85,
-      "moving_time_sec": 2446,
-      "moving_time": "40m 46s",
-      "pace": "6:58",
+      "name": "Boris Lethe",
+      "distance_km": 6.03,
+      "moving_time_sec": 2236,
+      "moving_time": "37m 16s",
+      "pace": "6:11",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
+      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
