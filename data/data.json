@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:24:05.986Z",
+  "generated_at": "2026-07-24T10:14:52.186Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Riki Lie",
-      "distance_km": 11.61,
-      "moving_time_sec": 4874,
-      "moving_time": "1j 21m",
-      "pace": "6:60",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Ike Kusumawati",
       "distance_km": 10.45,
       "moving_time_sec": 3594,
@@ -95,7 +84,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.11,
       "moving_time_sec": 3588,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Toni Djiaw",
       "distance_km": 8.54,
       "moving_time_sec": 3387,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 6.03,
       "moving_time_sec": 2236,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "william fernando",
+      "distance_km": 5.85,
+      "moving_time_sec": 2446,
+      "moving_time": "40m 46s",
+      "pace": "6:58",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }

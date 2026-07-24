@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19442627926": {
+      "id": "19442627926",
+      "athlete": "Santi Kurniasari",
+      "athleteId": "50128426",
+      "startDate": "2026-07-24T08:31:32Z",
+      "type": "Run",
+      "distance_km": 1.71,
+      "moving_time_sec": 1252,
+      "distance_m": 1710
+    },
     "19440967826": {
       "id": "19440967826",
       "athlete": "Boris Lethe",
@@ -179,16 +189,6 @@
       "distance_km": 9.17,
       "moving_time_sec": 3780,
       "distance_m": 9170
-    },
-    "19431355785": {
-      "id": "19431355785",
-      "athlete": "Riki Lie",
-      "athleteId": "122081422",
-      "startDate": "2026-07-23T11:53:50Z",
-      "type": "Run",
-      "distance_km": 5.97,
-      "moving_time_sec": 2377,
-      "distance_m": 5970
     }
   }
 }
