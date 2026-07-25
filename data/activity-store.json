@@ -119,16 +119,6 @@
       "distance_km": 10.18,
       "moving_time_sec": 4380,
       "distance_m": 10180
-    },
-    "19452202735": {
-      "id": "19452202735",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-07-25T00:30:03Z",
-      "type": "Run",
-      "distance_km": 1.59,
-      "moving_time_sec": 660,
-      "distance_m": 1590
     }
   }
 }
