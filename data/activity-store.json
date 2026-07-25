@@ -1,15 +1,5 @@
 {
   "activities": {
-    "19452875912": {
-      "id": "19452875912",
-      "athlete": "DJayus DJayus",
-      "athleteId": "42630135",
-      "startDate": "2026-07-24T22:47:47Z",
-      "type": "Run",
-      "distance_km": 27.21,
-      "moving_time_sec": 11460,
-      "distance_m": 27210
-    },
     "19452828720": {
       "id": "19452828720",
       "athlete": "Yudo Adrian",
@@ -149,16 +139,6 @@
       "distance_km": 25.05,
       "moving_time_sec": 7860,
       "distance_m": 25050
-    },
-    "19451842141": {
-      "id": "19451842141",
-      "athlete": "Riki Lie",
-      "athleteId": "122081422",
-      "startDate": "2026-07-24T22:41:17Z",
-      "type": "Run",
-      "distance_km": 7,
-      "moving_time_sec": 2993,
-      "distance_m": 7000
     }
   }
 }

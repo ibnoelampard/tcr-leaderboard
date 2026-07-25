@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T06:16:22.878Z",
+  "generated_at": "2026-07-25T09:45:08.005Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,11 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-25",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 14,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "DJayus DJayus",
-      "distance_km": 27.21,
-      "moving_time_sec": 11460,
-      "moving_time": "3j 11m",
-      "pace": "7:01",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Erwin Hauw",
       "distance_km": 25.05,
       "moving_time_sec": 7860,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Yudo Adrian",
       "distance_km": 23.01,
       "moving_time_sec": 7020,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Diana Melina",
       "distance_km": 18,
       "moving_time_sec": 7080,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Ardy Fardiansyah",
       "distance_km": 17.05,
       "moving_time_sec": 5700,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Toni Djiaw",
       "distance_km": 16.58,
       "moving_time_sec": 5880,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Jun Pang",
       "distance_km": 10.18,
       "moving_time_sec": 4380,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Gema Chrisdwianto",
       "distance_km": 9,
       "moving_time_sec": 3780,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/135577017.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Rinaldi Kesuma",
       "distance_km": 8.58,
       "moving_time_sec": 3900,
@@ -118,15 +107,26 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 10,
-      "name": "Riki Lie",
-      "distance_km": 7,
-      "moving_time_sec": 2993,
-      "moving_time": "49m 53s",
-      "pace": "7:08",
+      "rank": 9,
+      "name": "Farhan Kastaa",
+      "distance_km": 6.55,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "9:28",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Jesslyn Ng",
+      "distance_km": 6.36,
+      "moving_time_sec": 3336,
+      "moving_time": "55m 36s",
+      "pace": "8:45",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119666318.jpg"
     }
   ]
 }
