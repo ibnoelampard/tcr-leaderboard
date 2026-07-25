@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:21:48.056Z",
+  "generated_at": "2026-07-25T15:01:18.188Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-20",
   "week_end": "2026-07-25",
   "metric": "distance",
-  "total_activities": 12,
+  "total_activities": 13,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -42,17 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "Toni Djiaw",
-      "distance_km": 16.58,
-      "moving_time_sec": 5880,
-      "moving_time": "1j 38m",
-      "pace": "5:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Farhan Kastaa",
       "distance_km": 11.14,
       "moving_time_sec": 7380,
@@ -61,6 +50,17 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Arif Kurniawan",
+      "distance_km": 11.02,
+      "moving_time_sec": 4920,
+      "moving_time": "1j 22m",
+      "pace": "7:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19073451.jpg"
     },
     {
       "rank": 5,
@@ -86,6 +86,17 @@
     },
     {
       "rank": 7,
+      "name": "william fernando",
+      "distance_km": 7,
+      "moving_time_sec": 3026,
+      "moving_time": "50m 26s",
+      "pace": "7:12",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Jesslyn Ng",
       "distance_km": 6.36,
       "moving_time_sec": 3336,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/119666318.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 5.27,
       "moving_time_sec": 2238,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Yotta Risanggono",
       "distance_km": 5.05,
       "moving_time_sec": 2723,
@@ -115,17 +126,6 @@
       "pace": "8:59",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 10,
-      "name": "Rudy Hartono",
-      "distance_km": 4.56,
-      "moving_time_sec": 2062,
-      "moving_time": "34m 22s",
-      "pace": "7:32",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }
