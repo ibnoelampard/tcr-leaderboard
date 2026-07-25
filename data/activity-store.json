@@ -50,6 +50,16 @@
       "moving_time_sec": 2723,
       "distance_m": 5050
     },
+    "19453150272": {
+      "id": "19453150272",
+      "athlete": "Jun Pang",
+      "athleteId": "19762198",
+      "startDate": "2026-07-24T23:21:20Z",
+      "type": "Run",
+      "distance_km": 10.18,
+      "moving_time_sec": 4380,
+      "distance_m": 10180
+    },
     "19452202735": {
       "id": "19452202735",
       "athlete": "Erick Yanto",
@@ -149,26 +159,6 @@
       "distance_km": 7,
       "moving_time_sec": 2993,
       "distance_m": 7000
-    },
-    "19451906382": {
-      "id": "19451906382",
-      "athlete": "Sherly Tusita",
-      "athleteId": "30504885",
-      "startDate": "2026-07-24T22:32:08Z",
-      "type": "Run",
-      "distance_km": 10.02,
-      "moving_time_sec": 5100,
-      "distance_m": 10020
-    },
-    "19451825008": {
-      "id": "19451825008",
-      "athlete": "Aditya Rudy Ananda",
-      "athleteId": "27344421",
-      "startDate": "2026-07-24T20:00:31Z",
-      "type": "Run",
-      "distance_km": 30.7,
-      "moving_time_sec": 13500,
-      "distance_m": 30700
     }
   }
 }
