@@ -130,15 +130,75 @@
       "moving_time_sec": 3900,
       "distance_m": 8580
     },
-    "19451882287": {
-      "id": "19451882287",
-      "athlete": "Erwin Hauw",
-      "athleteId": "66730311",
-      "startDate": "2026-07-24T21:46:21Z",
+    "19454144406": {
+      "id": "19454144406",
+      "athlete": "DJayus DJayus",
+      "athleteId": "42630135",
+      "startDate": "2026-07-24T22:48:27Z",
       "type": "Run",
-      "distance_km": 25.05,
-      "moving_time_sec": 7860,
-      "distance_m": 25050
+      "distance_km": 27.27,
+      "moving_time_sec": 11400,
+      "distance_m": 27270
+    },
+    "19452875912": {
+      "id": "19452875912",
+      "athlete": "DJayus DJayus",
+      "athleteId": "42630135",
+      "startDate": "2026-07-24T22:47:47Z",
+      "type": "Run",
+      "distance_km": 27.21,
+      "moving_time_sec": 11460,
+      "distance_m": 27210
+    },
+    "19452200998": {
+      "id": "19452200998",
+      "athlete": "Coco Tsl",
+      "athleteId": "148842377",
+      "startDate": "2026-07-24T23:18:30Z",
+      "type": "Run",
+      "distance_km": 10.5,
+      "moving_time_sec": 4980,
+      "distance_m": 10500
+    },
+    "19452175656": {
+      "id": "19452175656",
+      "athlete": "sugiyo .",
+      "athleteId": "16753408",
+      "startDate": "2026-07-24T23:19:16Z",
+      "type": "Run",
+      "distance_km": 11.1,
+      "moving_time_sec": 4740,
+      "distance_m": 11100
+    },
+    "19454545278": {
+      "id": "19454545278",
+      "athlete": "silas soetrisno",
+      "athleteId": "23768643",
+      "startDate": "2026-07-24T23:21:29Z",
+      "type": "Run",
+      "distance_km": 10.16,
+      "moving_time_sec": 4200,
+      "distance_m": 10160
+    },
+    "19452126981": {
+      "id": "19452126981",
+      "athlete": "Renaldi Wijaya",
+      "athleteId": "143447083",
+      "startDate": "2026-07-24T23:21:07Z",
+      "type": "Run",
+      "distance_km": 10.2,
+      "moving_time_sec": 4260,
+      "distance_m": 10200
+    },
+    "19452156287": {
+      "id": "19452156287",
+      "athlete": "Ronald Hartadi",
+      "athleteId": "43789218",
+      "startDate": "2026-07-24T23:21:11Z",
+      "type": "Run",
+      "distance_km": 10.21,
+      "moving_time_sec": 4200,
+      "distance_m": 10210
     }
   }
 }
