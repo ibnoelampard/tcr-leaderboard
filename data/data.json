@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T06:35:06.265Z",
+  "generated_at": "2026-07-26T09:58:23.996Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -96,17 +96,6 @@
     },
     {
       "rank": 8,
-      "name": "Rudy Hartono",
-      "distance_km": 10.5,
-      "moving_time_sec": 4198,
-      "moving_time": "1j 9m",
-      "pace": "6:40",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 10.01,
       "moving_time_sec": 3408,
@@ -115,6 +104,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Ali Anto",
+      "distance_km": 9.01,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "7:39",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/44888727.jpg"
     },
     {
       "rank": 10,
