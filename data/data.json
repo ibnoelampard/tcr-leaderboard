@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:17:33.402Z",
+  "generated_at": "2026-07-26T15:03:47.107Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,6 +75,17 @@
     },
     {
       "rank": 6,
+      "name": "Andree Setiawan",
+      "distance_km": 12.9,
+      "moving_time_sec": 5760,
+      "moving_time": "1j 36m",
+      "pace": "7:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Antin Achai",
       "distance_km": 11.63,
       "moving_time_sec": 4920,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Yudo Adrian",
       "distance_km": 10.01,
       "moving_time_sec": 3408,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "william fernando",
       "distance_km": 9.2,
       "moving_time_sec": 3571,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Ali Anto",
       "distance_km": 9.01,
       "moving_time_sec": 4140,
@@ -116,17 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/44888727.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Feri Yo",
-      "distance_km": 7.94,
-      "moving_time_sec": 4440,
-      "moving_time": "1j 14m",
-      "pace": "9:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
