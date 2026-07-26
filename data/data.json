@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:22:48.939Z",
+  "generated_at": "2026-07-26T13:17:33.402Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,16 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Ike Kusumawati",
-      "distance_km": 16.17,
-      "moving_time_sec": 5589,
-      "moving_time": "1j 33m",
-      "pace": "5:46",
-      "activities": 2,
-      "elev_m": 0
-    },
-    {
-      "rank": 7,
       "name": "Antin Achai",
       "distance_km": 11.63,
       "moving_time_sec": 4920,
@@ -95,7 +85,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 10.01,
       "moving_time_sec": 3408,
@@ -104,6 +94,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "william fernando",
+      "distance_km": 9.2,
+      "moving_time_sec": 3571,
+      "moving_time": "59m 31s",
+      "pace": "6:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
     },
     {
       "rank": 9,
@@ -118,14 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "Sherly Tusita",
-      "distance_km": 8.07,
+      "name": "Feri Yo",
+      "distance_km": 7.94,
       "moving_time_sec": 4440,
       "moving_time": "1j 14m",
-      "pace": "9:10",
+      "pace": "9:19",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30504885.jpg"
+      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
