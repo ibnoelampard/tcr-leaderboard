@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T02:37:15.360Z",
+  "generated_at": "2026-07-26T06:35:06.265Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -21,11 +21,11 @@
     {
       "rank": 1,
       "name": "Toni Djiaw",
-      "distance_km": 30.38,
-      "moving_time_sec": 9480,
-      "moving_time": "2j 38m",
-      "pace": "5:12",
-      "activities": 1,
+      "distance_km": 31.11,
+      "moving_time_sec": 9829,
+      "moving_time": "2j 43m",
+      "pace": "5:16",
+      "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
     },
@@ -43,11 +43,11 @@
     {
       "rank": 3,
       "name": "Farhan Kastaa",
-      "distance_km": 21.11,
-      "moving_time_sec": 8280,
-      "moving_time": "2j 18m",
-      "pace": "6:32",
-      "activities": 1,
+      "distance_km": 24.51,
+      "moving_time_sec": 10377,
+      "moving_time": "2j 52m",
+      "pace": "7:03",
+      "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/1390057573.jpg"
     },
@@ -96,6 +96,17 @@
     },
     {
       "rank": 8,
+      "name": "Rudy Hartono",
+      "distance_km": 10.5,
+      "moving_time_sec": 4198,
+      "moving_time": "1j 9m",
+      "pace": "6:40",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 10.01,
       "moving_time_sec": 3408,
@@ -104,17 +115,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Rudy Hartono",
-      "distance_km": 10.01,
-      "moving_time_sec": 4020,
-      "moving_time": "1j 7m",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
     },
     {
       "rank": 10,
