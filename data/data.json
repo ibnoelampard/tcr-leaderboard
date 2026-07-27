@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:28:59.285Z",
+  "generated_at": "2026-07-27T11:18:41.919Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-27",
   "metric": "distance",
-  "total_activities": 4,
-  "total_athletes": 4,
+  "total_activities": 6,
+  "total_athletes": 6,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 12.63,
+      "moving_time_sec": 5100,
+      "moving_time": "1j 25m",
+      "pace": "6:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "sugiyo .",
       "distance_km": 9.05,
       "moving_time_sec": 4080,
@@ -41,7 +52,18 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Denny Hy",
+      "distance_km": 5.26,
+      "moving_time_sec": 1846,
+      "moving_time": "30m 46s",
+      "pace": "5:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 5.26,
       "moving_time_sec": 2240,
@@ -52,7 +74,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 4.5,
       "moving_time_sec": 1778,
