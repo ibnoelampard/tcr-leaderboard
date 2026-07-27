@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T02:45:37.901Z",
+  "generated_at": "2026-07-27T07:28:59.285Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-27",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 4,
+  "total_athletes": 4,
   "leaderboard": [
     {
       "rank": 1,
@@ -50,6 +50,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Muhammad Rizki Hartadi",
+      "distance_km": 4.5,
+      "moving_time_sec": 1778,
+      "moving_time": "29m 38s",
+      "pace": "6:35",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123066684.jpg"
     }
   ]
 }
