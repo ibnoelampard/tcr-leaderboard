@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:08:20.929Z",
+  "generated_at": "2026-07-27T23:00:00.368Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-28",
   "metric": "distance",
-  "total_activities": 8,
-  "total_athletes": 8,
+  "total_activities": 10,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -75,6 +75,27 @@
     },
     {
       "rank": 6,
+      "name": "Bram Siagian",
+      "distance_km": 8.02,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "7:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/186650879.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "silas soetrisno",
+      "distance_km": 7.95,
+      "moving_time_sec": 3200,
+      "moving_time": "53m 20s",
+      "pace": "6:43",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 8,
       "name": "Denny Hy",
       "distance_km": 5.26,
       "moving_time_sec": 1846,
@@ -85,7 +106,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "severinus tyan",
       "distance_km": 5.26,
       "moving_time_sec": 2240,
@@ -96,7 +117,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 4.5,
       "moving_time_sec": 1778,
