@@ -10,6 +10,16 @@
       "moving_time_sec": 7500,
       "distance_m": 15150
     },
+    "19494225045": {
+      "id": "19494225045",
+      "athlete": "Cris Fe",
+      "athleteId": "77575425",
+      "startDate": "2026-07-27T17:00:01Z",
+      "type": "Run",
+      "distance_km": 15.02,
+      "moving_time_sec": 7440,
+      "distance_m": 15020
+    },
     "19493362287": {
       "id": "19493362287",
       "athlete": "Yudo Adrian",
