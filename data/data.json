@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:02:23.055Z",
+  "generated_at": "2026-07-28T17:25:08.734Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,9 +13,9 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-27",
-  "week_end": "2026-07-28",
+  "week_end": "2026-07-29",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -53,14 +53,14 @@
     },
     {
       "rank": 4,
-      "name": "Fritz Wildan",
-      "distance_km": 12.34,
-      "moving_time_sec": 5580,
-      "moving_time": "1j 33m",
-      "pace": "7:32",
+      "name": "Arif Kurniawan",
+      "distance_km": 13.01,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "7:14",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/19073451.jpg"
     },
     {
       "rank": 5,
@@ -75,6 +75,28 @@
     },
     {
       "rank": 6,
+      "name": "B A R A T LSP",
+      "distance_km": 10.1,
+      "moving_time_sec": 4980,
+      "moving_time": "1j 23m",
+      "pace": "8:13",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Nani Liauw",
+      "distance_km": 10.05,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/110525527.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Aditya Rudy Ananda",
       "distance_km": 10.05,
       "moving_time_sec": 3840,
@@ -85,18 +107,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 7,
-      "name": "Shelomitha 12",
-      "distance_km": 10,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/154370520.jpg"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "name": "Putri Puspita",
       "distance_km": 9.36,
       "moving_time_sec": 3720,
@@ -107,26 +118,15 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 9,
-      "name": "Gerardo Yericko",
-      "distance_km": 8.96,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "7:09",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Andree Setiawan",
-      "distance_km": 8.6,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "8:15",
+      "name": "Cris Fe",
+      "distance_km": 8.89,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "8:53",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
+      "photo": "assets/athletes/77575425.jpg"
     }
   ]
 }
