@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:06:14.266Z",
+  "generated_at": "2026-07-29T17:12:41.641Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-27",
-  "week_end": "2026-07-29",
+  "week_end": "2026-07-30",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -85,6 +85,17 @@
     },
     {
       "rank": 7,
+      "name": "william po",
+      "distance_km": 7.64,
+      "moving_time_sec": 3429,
+      "moving_time": "57m 9s",
+      "pace": "7:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/181211766.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Putri Puspita",
       "distance_km": 6.34,
       "moving_time_sec": 2368,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Retno P",
       "distance_km": 6.23,
       "moving_time_sec": 2849,
@@ -106,26 +117,15 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 9,
-      "name": "Boris Lethe",
-      "distance_km": 5.61,
-      "moving_time_sec": 2320,
-      "moving_time": "38m 40s",
-      "pace": "6:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Denny Hy",
-      "distance_km": 5.3,
-      "moving_time_sec": 1844,
-      "moving_time": "30m 44s",
-      "pace": "5:48",
+      "name": "Santi Kurniasari",
+      "distance_km": 5.25,
+      "moving_time_sec": 2831,
+      "moving_time": "47m 11s",
+      "pace": "8:59",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/62565051.jpg"
+      "photo": "assets/athletes/50128426.jpg"
     }
   ]
 }
