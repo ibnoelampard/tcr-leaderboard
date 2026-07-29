@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T20:53:46.113Z",
+  "generated_at": "2026-07-29T22:58:01.038Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -42,6 +42,17 @@
     },
     {
       "rank": 3,
+      "name": "Toni Djiaw",
+      "distance_km": 13.17,
+      "moving_time_sec": 4440,
+      "moving_time": "1j 14m",
+      "pace": "5:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 12.02,
       "moving_time_sec": 4380,
@@ -51,7 +62,7 @@
       "elev_m": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 10.32,
       "moving_time_sec": 3960,
@@ -62,7 +73,18 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Erwin Hauw",
+      "distance_km": 10.01,
+      "moving_time_sec": 2706,
+      "moving_time": "45m 6s",
+      "pace": "4:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Gerardo Yericko",
       "distance_km": 8.39,
       "moving_time_sec": 3510,
@@ -73,7 +95,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Lyutasya .",
       "distance_km": 8,
       "moving_time_sec": 4045,
@@ -84,7 +106,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "william po",
       "distance_km": 7.64,
       "moving_time_sec": 3429,
@@ -95,7 +117,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Putri Puspita",
       "distance_km": 6.34,
       "moving_time_sec": 2368,
@@ -104,28 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/13950824.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Retno P",
-      "distance_km": 6.23,
-      "moving_time_sec": 2849,
-      "moving_time": "47m 29s",
-      "pace": "7:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/190280699.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Santi Kurniasari",
-      "distance_km": 5.25,
-      "moving_time_sec": 2831,
-      "moving_time": "47m 11s",
-      "pace": "8:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/50128426.jpg"
     }
   ]
 }
