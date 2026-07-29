@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T06:29:12.593Z",
+  "generated_at": "2026-07-29T10:36:42.478Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -86,28 +86,6 @@
     },
     {
       "rank": 7,
-      "name": "Cris Fe",
-      "distance_km": 8.89,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "8:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Andree Setiawan",
-      "distance_km": 8.6,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "8:15",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Muzammil Akhmad",
       "distance_km": 8.3,
       "moving_time_sec": 3150,
@@ -118,7 +96,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "sugiyo .",
       "distance_km": 8.23,
       "moving_time_sec": 3720,
@@ -127,6 +105,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Annif D",
+      "distance_km": 8,
+      "moving_time_sec": 3271,
+      "moving_time": "54m 31s",
+      "pace": "6:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.05,
+      "moving_time_sec": 2192,
+      "moving_time": "36m 32s",
+      "pace": "5:11",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
