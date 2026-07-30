@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:11:24.440Z",
+  "generated_at": "2026-07-30T06:26:13.659Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Cris Fe",
+      "distance_km": 15.15,
+      "moving_time_sec": 7140,
+      "moving_time": "1j 59m",
+      "pace": "7:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 3,
       "name": "B A R A T LSP",
       "distance_km": 15.14,
       "moving_time_sec": 7200,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Toni Djiaw",
       "distance_km": 13.17,
       "moving_time_sec": 4440,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Yudo Adrian",
       "distance_km": 11.18,
       "moving_time_sec": 3307,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 10.5,
       "moving_time_sec": 4560,
@@ -72,17 +83,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Erwin Hauw",
-      "distance_km": 10.01,
-      "moving_time_sec": 2706,
-      "moving_time": "45m 6s",
-      "pace": "4:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
     },
     {
       "rank": 7,
