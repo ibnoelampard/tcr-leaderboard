@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:58:01.038Z",
+  "generated_at": "2026-07-30T02:11:24.440Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,30 +15,30 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-30",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Fritz Wildan",
-      "distance_km": 18.19,
-      "moving_time_sec": 7440,
-      "moving_time": "2j 4m",
-      "pace": "6:49",
+      "name": "Alex Rusman",
+      "distance_km": 21.02,
+      "moving_time_sec": 6360,
+      "moving_time": "1j 46m",
+      "pace": "5:03",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/153243434.jpg"
     },
     {
       "rank": 2,
-      "name": "Aldino Wijaksono",
-      "distance_km": 15.07,
-      "moving_time_sec": 5340,
-      "moving_time": "1j 29m",
-      "pace": "5:54",
+      "name": "B A R A T LSP",
+      "distance_km": 15.14,
+      "moving_time_sec": 7200,
+      "moving_time": "2j 0m",
+      "pace": "7:56",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
+      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 3,
@@ -53,21 +53,22 @@
     },
     {
       "rank": 4,
-      "name": "Aditra AL",
-      "distance_km": 12.02,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "6:04",
-      "activities": 1,
-      "elev_m": 0
+      "name": "Yudo Adrian",
+      "distance_km": 11.18,
+      "moving_time_sec": 3307,
+      "moving_time": "55m 7s",
+      "pace": "4:56",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 5,
       "name": "severinus tyan",
-      "distance_km": 10.32,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "6:24",
+      "distance_km": 10.5,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:14",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
@@ -85,47 +86,47 @@
     },
     {
       "rank": 7,
-      "name": "Gerardo Yericko",
-      "distance_km": 8.39,
-      "moving_time_sec": 3510,
-      "moving_time": "58m 30s",
-      "pace": "6:58",
+      "name": "Farhan Kastaa",
+      "distance_km": 9.65,
+      "moving_time_sec": 3259,
+      "moving_time": "54m 19s",
+      "pace": "5:38",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
+      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 8,
-      "name": "Lyutasya .",
-      "distance_km": 8,
-      "moving_time_sec": 4045,
-      "moving_time": "1j 7m",
-      "pace": "8:26",
-      "activities": 3,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 9.03,
+      "moving_time_sec": 3576,
+      "moving_time": "59m 36s",
+      "pace": "6:36",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 9,
-      "name": "william po",
-      "distance_km": 7.64,
-      "moving_time_sec": 3429,
-      "moving_time": "57m 9s",
-      "pace": "7:29",
+      "name": "Harmada Hutajulu",
+      "distance_km": 8,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "11:45",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
+      "photo": "assets/athletes/20040717.jpg"
     },
     {
       "rank": 10,
-      "name": "Putri Puspita",
-      "distance_km": 6.34,
-      "moving_time_sec": 2368,
-      "moving_time": "39m 28s",
-      "pace": "6:14",
+      "name": "william fernando",
+      "distance_km": 7.49,
+      "moving_time_sec": 3453,
+      "moving_time": "57m 33s",
+      "pace": "7:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/13950824.jpg"
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
