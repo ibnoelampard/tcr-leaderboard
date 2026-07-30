@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:51:51.101Z",
+  "generated_at": "2026-07-30T17:25:06.764Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-07-27",
-  "week_end": "2026-07-30",
+  "week_end": "2026-07-31",
   "metric": "distance",
   "total_activities": 17,
   "total_athletes": 10,
