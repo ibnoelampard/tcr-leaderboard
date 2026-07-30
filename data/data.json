@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:26:13.659Z",
+  "generated_at": "2026-07-30T10:23:04.309Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-30",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -53,17 +53,6 @@
     },
     {
       "rank": 4,
-      "name": "Toni Djiaw",
-      "distance_km": 13.17,
-      "moving_time_sec": 4440,
-      "moving_time": "1j 14m",
-      "pace": "5:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 5,
       "name": "Yudo Adrian",
       "distance_km": 11.18,
       "moving_time_sec": 3307,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 10.5,
       "moving_time_sec": 4560,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Farhan Kastaa",
       "distance_km": 9.65,
       "moving_time_sec": 3259,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 9.03,
       "moving_time_sec": 3576,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Harmada Hutajulu",
       "distance_km": 8,
       "moving_time_sec": 5640,
@@ -116,6 +105,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Denny Hy",
+      "distance_km": 7.9,
+      "moving_time_sec": 2715,
+      "moving_time": "45m 15s",
+      "pace": "5:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
     },
     {
       "rank": 10,

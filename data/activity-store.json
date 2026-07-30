@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19525042682": {
+      "id": "19525042682",
+      "athlete": "Denny Hy",
+      "athleteId": "62565051",
+      "startDate": "2026-07-30T06:35:21Z",
+      "type": "Run",
+      "distance_km": 7.9,
+      "moving_time_sec": 2715,
+      "distance_m": 7900
+    },
     "19523150917": {
       "id": "19523150917",
       "athlete": "B A R A T LSP",
@@ -150,16 +160,6 @@
       "moving_time_sec": 960,
       "distance_m": 2570
     },
-    "19521695245": {
-      "id": "19521695245",
-      "athlete": "Ivan soesanto",
-      "athleteId": "26800044",
-      "startDate": "2026-07-29T22:25:34Z",
-      "type": "Run",
-      "distance_km": 5.49,
-      "moving_time_sec": 2816,
-      "distance_m": 5490
-    },
     "19521648946": {
       "id": "19521648946",
       "athlete": "Ardy Fardiansyah",
@@ -179,26 +179,6 @@
       "distance_km": 5.01,
       "moving_time_sec": 2341,
       "distance_m": 5010
-    },
-    "19522484043": {
-      "id": "19522484043",
-      "athlete": "Ike Kusumawati",
-      "athleteId": "31844219",
-      "startDate": "2026-07-29T22:50:36Z",
-      "type": "Run",
-      "distance_km": 1.05,
-      "moving_time_sec": 365,
-      "distance_m": 1050
-    },
-    "19521374645": {
-      "id": "19521374645",
-      "athlete": "Toni Djiaw",
-      "athleteId": "142218523",
-      "startDate": "2026-07-29T21:21:20Z",
-      "type": "Run",
-      "distance_km": 13.17,
-      "moving_time_sec": 4440,
-      "distance_m": 13170
     }
   }
 }
