@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:55:47.331Z",
+  "generated_at": "2026-07-30T15:51:51.101Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "B A R A T LSP",
-      "distance_km": 15.14,
-      "moving_time_sec": 7200,
-      "moving_time": "2j 0m",
-      "pace": "7:56",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Fritz Wildan",
       "distance_km": 12.6,
       "moving_time_sec": 4740,
@@ -39,6 +28,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Aldino Wijaksono",
+      "distance_km": 10.12,
+      "moving_time_sec": 3588,
+      "moving_time": "59m 48s",
+      "pace": "5:55",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128769022.jpg"
     },
     {
       "rank": 3,
