@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:04:56.306Z",
+  "generated_at": "2026-07-31T02:39:29.420Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-07-27",
   "week_end": "2026-07-31",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Yudo Adrian",
+      "distance_km": 25.02,
+      "moving_time_sec": 7653,
+      "moving_time": "2j 7m",
+      "pace": "5:06",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Toni Djiaw",
       "distance_km": 12.38,
       "moving_time_sec": 4320,
@@ -30,7 +41,40 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "name": "B A R A T LSP",
+      "distance_km": 11.48,
+      "moving_time_sec": 5160,
+      "moving_time": "1j 26m",
+      "pace": "7:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Alex Rusman",
+      "distance_km": 11.26,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "7:01",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Diana Melina",
+      "distance_km": 10.71,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "6:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126056724.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Aldino Wijaksono",
       "distance_km": 10.12,
       "moving_time_sec": 3588,
@@ -41,18 +85,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 3,
-      "name": "Gerardo Yericko",
-      "distance_km": 8.8,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "7:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 4,
+      "rank": 7,
       "name": "Muzammil Akhmad",
       "distance_km": 8.17,
       "moving_time_sec": 2369,
@@ -63,70 +96,35 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 5,
-      "name": "Retno P",
-      "distance_km": 7.67,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "8:28",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/190280699.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Christine .S",
-      "distance_km": 6.85,
-      "moving_time_sec": 2720,
-      "moving_time": "45m 20s",
-      "pace": "6:37",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Boris Lethe",
-      "distance_km": 6.16,
-      "moving_time_sec": 2400,
-      "moving_time": "40m 0s",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
-    },
-    {
       "rank": 8,
-      "name": "Jan Arthur",
-      "distance_km": 5.64,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "11:31",
+      "name": "Aditra AL",
+      "distance_km": 8.02,
+      "moving_time_sec": 3425,
+      "moving_time": "57m 5s",
+      "pace": "7:07",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
+      "elev_m": 0
     },
     {
       "rank": 9,
-      "name": "Riki Lie",
-      "distance_km": 5.2,
-      "moving_time_sec": 1914,
-      "moving_time": "31m 54s",
-      "pace": "6:08",
+      "name": "Ike Kusumawati",
+      "distance_km": 7.46,
+      "moving_time_sec": 2622,
+      "moving_time": "43m 42s",
+      "pace": "5:51",
       "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
+      "elev_m": 0
     },
     {
       "rank": 10,
-      "name": "Aditya Rudy Ananda",
-      "distance_km": 5.03,
-      "moving_time_sec": 1694,
-      "moving_time": "28m 14s",
-      "pace": "5:37",
-      "activities": 1,
+      "name": "Farhan Kastaa",
+      "distance_km": 6.39,
+      "moving_time_sec": 2600,
+      "moving_time": "43m 20s",
+      "pace": "6:47",
+      "activities": 3,
       "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
+      "photo": "assets/athletes/1390057573.jpg"
     }
   ]
 }
