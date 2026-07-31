@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:27:26.098Z",
+  "generated_at": "2026-07-31T19:21:35.952Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-27",
   "week_end": "2026-08-01",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -108,6 +108,17 @@
     },
     {
       "rank": 9,
+      "name": "Andreas Mario",
+      "distance_km": 8.11,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "7:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Aditra AL",
       "distance_km": 8.02,
       "moving_time_sec": 3425,
@@ -115,17 +126,6 @@
       "pace": "7:07",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 10,
-      "name": "Retno P",
-      "distance_km": 7.19,
-      "moving_time_sec": 3112,
-      "moving_time": "51m 52s",
-      "pace": "7:13",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/190280699.jpg"
     }
   ]
 }
