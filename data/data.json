@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:02:28.387Z",
+  "generated_at": "2026-07-31T22:58:16.711Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -86,17 +86,6 @@
     },
     {
       "rank": 7,
-      "name": "Diana Melina",
-      "distance_km": 10.71,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "6:49",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Lyutasya .",
       "distance_km": 8.34,
       "moving_time_sec": 3529,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Andreas Mario",
       "distance_km": 8.11,
       "moving_time_sec": 3840,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditra AL",
       "distance_km": 8.02,
       "moving_time_sec": 3425,
@@ -126,6 +115,17 @@
       "pace": "7:07",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Retno P",
+      "distance_km": 7.19,
+      "moving_time_sec": 3112,
+      "moving_time": "51m 52s",
+      "pace": "7:13",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/190280699.jpg"
     }
   ]
 }
