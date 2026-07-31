@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19544770729": {
+      "id": "19544770729",
+      "athlete": "Fahrudin Jamil",
+      "athleteId": "46123297",
+      "startDate": "2026-07-31T16:05:45Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 1690,
+      "distance_m": 5010
+    },
     "19542045448": {
       "id": "19542045448",
       "athlete": "Lyutasya .",
@@ -169,16 +179,6 @@
       "distance_km": 10.71,
       "moving_time_sec": 4380,
       "distance_m": 10710
-    },
-    "19535607602": {
-      "id": "19535607602",
-      "athlete": "Ery Murniasih",
-      "athleteId": "121250963",
-      "startDate": "2026-07-30T22:25:49Z",
-      "type": "Run",
-      "distance_km": 5.25,
-      "moving_time_sec": 2440,
-      "distance_m": 5250
     }
   }
 }
