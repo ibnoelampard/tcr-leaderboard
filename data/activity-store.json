@@ -179,16 +179,6 @@
       "distance_km": 10.12,
       "moving_time_sec": 3588,
       "distance_m": 10120
-    },
-    "19528704217": {
-      "id": "19528704217",
-      "athlete": "Christine .S",
-      "athleteId": "71718168",
-      "startDate": "2026-07-30T12:34:36Z",
-      "type": "Run",
-      "distance_km": 2.34,
-      "moving_time_sec": 1022,
-      "distance_m": 2340
     }
   }
 }
