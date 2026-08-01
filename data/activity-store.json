@@ -7,18 +7,8 @@
       "startDate": "2026-08-01T07:58:54Z",
       "type": "Run",
       "distance_km": 2,
-      "moving_time_sec": 1599,
+      "moving_time_sec": 1609,
       "distance_m": 2000
-    },
-    "19551550947": {
-      "id": "19551550947",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-07-31T23:21:53Z",
-      "type": "Run",
-      "distance_km": 21.25,
-      "moving_time_sec": 14820,
-      "distance_m": 21250
     },
     "19551475231": {
       "id": "19551475231",
@@ -109,16 +99,6 @@
       "distance_km": 9.24,
       "moving_time_sec": 5040,
       "distance_m": 9240
-    },
-    "19549223707": {
-      "id": "19549223707",
-      "athlete": "Alex Rusman",
-      "athleteId": "153243434",
-      "startDate": "2026-07-31T22:15:20Z",
-      "type": "Run",
-      "distance_km": 22.69,
-      "moving_time_sec": 9420,
-      "distance_m": 22690
     }
   }
 }
