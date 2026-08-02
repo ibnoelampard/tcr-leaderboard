@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:54:56.371Z",
+  "generated_at": "2026-08-02T11:15:10.978Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 20.52,
-      "moving_time_sec": 7140,
-      "moving_time": "1j 59m",
-      "pace": "5:48",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Feri Yo",
       "distance_km": 19.59,
       "moving_time_sec": 10327,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Aldino Wijaksono",
       "distance_km": 15.34,
       "moving_time_sec": 5340,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "william fernando",
       "distance_km": 14,
       "moving_time_sec": 6060,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Coco Tsl",
       "distance_km": 12.04,
       "moving_time_sec": 4860,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Roby Wong",
       "distance_km": 10.03,
       "moving_time_sec": 4020,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/126128951.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Lyutasya .",
+      "distance_km": 9.35,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "6:31",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128643628.jpg"
     }
   ]
 }

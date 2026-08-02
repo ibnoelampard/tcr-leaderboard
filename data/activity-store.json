@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19567944897": {
+      "id": "19567944897",
+      "athlete": "Erick Yanto",
+      "athleteId": "164750862",
+      "startDate": "2026-08-02T09:34:40Z",
+      "type": "Run",
+      "distance_km": 9.34,
+      "moving_time_sec": 4680,
+      "distance_m": 9340
+    },
     "19566261679": {
       "id": "19566261679",
       "athlete": "Toni Djiaw",
@@ -159,16 +169,6 @@
       "distance_km": 7.1,
       "moving_time_sec": 3212,
       "distance_m": 7100
-    },
-    "19562855509": {
-      "id": "19562855509",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-08-01T22:39:02Z",
-      "type": "Run",
-      "distance_km": 20.52,
-      "moving_time_sec": 7140,
-      "distance_m": 20520
     }
   }
 }
