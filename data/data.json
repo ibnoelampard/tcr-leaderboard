@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:15:10.978Z",
+  "generated_at": "2026-08-02T13:16:51.079Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-07-27",
   "week_end": "2026-08-02",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Feri Yo",
-      "distance_km": 19.59,
-      "moving_time_sec": 10327,
-      "moving_time": "2j 52m",
-      "pace": "8:47",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Aldino Wijaksono",
       "distance_km": 15.34,
       "moving_time_sec": 5340,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "william fernando",
       "distance_km": 14,
       "moving_time_sec": 6060,
@@ -94,6 +83,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30574816.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Feri Yo",
+      "distance_km": 12.49,
+      "moving_time_sec": 7115,
+      "moving_time": "1j 58m",
+      "pace": "9:30",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     },
     {
       "rank": 8,
