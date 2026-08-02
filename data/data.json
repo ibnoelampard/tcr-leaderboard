@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T02:36:47.041Z",
+  "generated_at": "2026-08-02T06:31:48.974Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,6 +53,17 @@
     },
     {
       "rank": 4,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 22,
+      "moving_time_sec": 7920,
+      "moving_time": "2j 12m",
+      "pace": "6:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Ardy Fardiansyah",
       "distance_km": 20.52,
       "moving_time_sec": 7140,
@@ -61,16 +72,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Aditra AL",
-      "distance_km": 20.02,
-      "moving_time_sec": 8040,
-      "moving_time": "2j 14m",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 6,
@@ -118,14 +119,14 @@
     },
     {
       "rank": 10,
-      "name": "Andreas Mario",
-      "distance_km": 12.82,
-      "moving_time_sec": 6120,
-      "moving_time": "1j 42m",
-      "pace": "7:57",
+      "name": "Roby Wong",
+      "distance_km": 10.03,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "6:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
+      "photo": "assets/athletes/126128951.jpg"
     }
   ]
 }
