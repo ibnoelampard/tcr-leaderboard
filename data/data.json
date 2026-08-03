@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:20:14.970Z",
+  "generated_at": "2026-08-03T14:34:36.260Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-03",
   "metric": "distance",
-  "total_activities": 10,
+  "total_activities": 14,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,6 +64,17 @@
     },
     {
       "rank": 5,
+      "name": "Mohammad Nazir",
+      "distance_km": 10.04,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18323542.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 5040,
@@ -74,7 +85,18 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 8.65,
+      "moving_time_sec": 4257,
+      "moving_time": "1j 10m",
+      "pace": "8:12",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Hanif Rahmadian",
       "distance_km": 7.01,
       "moving_time_sec": 3544,
@@ -85,7 +107,18 @@
       "photo": "assets/athletes/17887937.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 6.21,
+      "moving_time_sec": 3089,
+      "moving_time": "51m 29s",
+      "pace": "8:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Yotta Risanggono",
       "distance_km": 6.01,
       "moving_time_sec": 3507,
@@ -93,39 +126,6 @@
       "pace": "9:44",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 8,
-      "name": "Annif D",
-      "distance_km": 5.3,
-      "moving_time_sec": 2299,
-      "moving_time": "38m 19s",
-      "pace": "7:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "severinus tyan",
-      "distance_km": 5.24,
-      "moving_time_sec": 2401,
-      "moving_time": "40m 1s",
-      "pace": "7:38",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Harmada Hutajulu",
-      "distance_km": 5.03,
-      "moving_time_sec": 3598,
-      "moving_time": "59m 58s",
-      "pace": "11:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20040717.jpg"
     }
   ]
 }
