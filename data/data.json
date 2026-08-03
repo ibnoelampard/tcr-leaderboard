@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T06:57:47.050Z",
+  "generated_at": "2026-08-03T11:20:14.970Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-03",
   "metric": "distance",
-  "total_activities": 7,
-  "total_athletes": 7,
+  "total_activities": 10,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 12.61,
+      "moving_time_sec": 5040,
+      "moving_time": "1j 24m",
+      "pace": "6:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "sugiyo .",
       "distance_km": 10.12,
       "moving_time_sec": 4500,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 10.1,
       "moving_time_sec": 5100,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 5040,
@@ -63,7 +74,18 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.01,
+      "moving_time_sec": 3544,
+      "moving_time": "59m 4s",
+      "pace": "8:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Yotta Risanggono",
       "distance_km": 6.01,
       "moving_time_sec": 3507,
@@ -73,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Annif D",
       "distance_km": 5.3,
       "moving_time_sec": 2299,
@@ -84,7 +106,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "severinus tyan",
       "distance_km": 5.24,
       "moving_time_sec": 2401,
@@ -93,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Harmada Hutajulu",
+      "distance_km": 5.03,
+      "moving_time_sec": 3598,
+      "moving_time": "59m 58s",
+      "pace": "11:55",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
     }
   ]
 }
