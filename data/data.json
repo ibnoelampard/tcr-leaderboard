@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:54:58.073Z",
+  "generated_at": "2026-08-03T02:38:23.948Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,84 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-03",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 7,
+  "total_athletes": 7,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 34.07,
+      "moving_time_sec": 13020,
+      "moving_time": "3j 37m",
+      "pace": "6:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "sugiyo .",
+      "distance_km": 10.12,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "7:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "B A R A T LSP",
+      "distance_km": 10.1,
+      "moving_time_sec": 5100,
+      "moving_time": "1j 25m",
+      "pace": "8:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Cris Fe",
+      "distance_km": 10.01,
+      "moving_time_sec": 5040,
+      "moving_time": "1j 24m",
+      "pace": "8:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Yotta Risanggono",
+      "distance_km": 6.01,
+      "moving_time_sec": 3507,
+      "moving_time": "58m 27s",
+      "pace": "9:44",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 6,
+      "name": "Annif D",
+      "distance_km": 5.3,
+      "moving_time_sec": 2299,
+      "moving_time": "38m 19s",
+      "pace": "7:14",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "severinus tyan",
+      "distance_km": 5.24,
+      "moving_time_sec": 2401,
+      "moving_time": "40m 1s",
+      "pace": "7:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    }
+  ]
 }
