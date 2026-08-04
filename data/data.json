@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:47:18.528Z",
+  "generated_at": "2026-08-04T19:29:30.133Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -96,6 +96,17 @@
     },
     {
       "rank": 8,
+      "name": "David Nolan",
+      "distance_km": 11.02,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:10",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Putri Puspita",
       "distance_km": 10.22,
       "moving_time_sec": 4200,
@@ -104,17 +115,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/13950824.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 10.01,
-      "moving_time_sec": 3549,
-      "moving_time": "59m 9s",
-      "pace": "5:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
     },
     {
       "rank": 10,
