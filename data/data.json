@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:06:39.267Z",
+  "generated_at": "2026-08-04T17:47:18.528Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-08-03",
-  "week_end": "2026-08-04",
+  "week_end": "2026-08-05",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -96,17 +96,6 @@
     },
     {
       "rank": 8,
-      "name": "Yudo Adrian",
-      "distance_km": 11.01,
-      "moving_time_sec": 3580,
-      "moving_time": "59m 40s",
-      "pace": "5:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Putri Puspita",
       "distance_km": 10.22,
       "moving_time_sec": 4200,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Dikdik Sugiharto",
       "distance_km": 10.01,
       "moving_time_sec": 3549,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Roby Wong",
+      "distance_km": 8.21,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "7:48",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
     }
   ]
 }
