@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:26:03.330Z",
+  "generated_at": "2026-08-04T10:36:22.712Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Fahrudin Jamil",
-      "distance_km": 13.4,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "6:43",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/46123297.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Diana Melina",
       "distance_km": 12.28,
       "moving_time_sec": 5160,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "B A R A T LSP",
       "distance_km": 11.11,
       "moving_time_sec": 5100,
@@ -50,6 +39,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Yudo Adrian",
+      "distance_km": 11.01,
+      "moving_time_sec": 3580,
+      "moving_time": "59m 40s",
+      "pace": "5:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 4,
@@ -86,17 +86,6 @@
     },
     {
       "rank": 7,
-      "name": "Andree Setiawan",
-      "distance_km": 10.61,
-      "moving_time_sec": 5460,
-      "moving_time": "1j 31m",
-      "pace": "8:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Ardy Fardiansyah",
       "distance_km": 6.31,
       "moving_time_sec": 3018,
@@ -107,18 +96,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 6.21,
-      "moving_time_sec": 3089,
-      "moving_time": "51m 29s",
-      "pace": "8:17",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "name": "Christine .S",
       "distance_km": 5.42,
       "moving_time_sec": 2109,
@@ -127,6 +105,27 @@
       "activities": 6,
       "elev_m": 0,
       "photo": "assets/athletes/71718168.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Denny Hy",
+      "distance_km": 5.02,
+      "moving_time_sec": 1864,
+      "moving_time": "31m 4s",
+      "pace": "6:11",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Yotta Risanggono",
+      "distance_km": 5.02,
+      "moving_time_sec": 2701,
+      "moving_time": "45m 1s",
+      "pace": "8:58",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
