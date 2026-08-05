@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T06:26:01.415Z",
+  "generated_at": "2026-08-05T10:32:31.349Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-05",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -42,17 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "David Nolan",
-      "distance_km": 11.02,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "6:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Muzammil Akhmad",
       "distance_km": 10.47,
       "moving_time_sec": 3325,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Diana Melina",
       "distance_km": 10.1,
       "moving_time_sec": 4080,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "sugiyo .",
       "distance_km": 10.07,
       "moving_time_sec": 4140,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Yudo Adrian",
       "distance_km": 9.17,
       "moving_time_sec": 2721,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 7.25,
       "moving_time_sec": 2260,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Toni Djiaw",
       "distance_km": 7.17,
       "moving_time_sec": 2534,
@@ -116,6 +105,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Farhan Kastaa 2",
+      "distance_km": 5.46,
+      "moving_time_sec": 1689,
+      "moving_time": "28m 9s",
+      "pace": "5:09",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 10,
