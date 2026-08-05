@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:05:21.265Z",
+  "generated_at": "2026-08-05T22:56:23.102Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 17.06,
+      "moving_time_sec": 6071,
+      "moving_time": "1j 41m",
+      "pace": "5:56",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Mohammad Nazir",
       "distance_km": 13.14,
       "moving_time_sec": 4560,
@@ -30,7 +41,18 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "name": "Erwin Hauw",
+      "distance_km": 12.04,
+      "moving_time_sec": 3596,
+      "moving_time": "59m 56s",
+      "pace": "4:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 11.67,
       "moving_time_sec": 4200,
@@ -41,7 +63,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Renaldi Wijaya",
       "distance_km": 11.26,
       "moving_time_sec": 3506,
@@ -52,7 +74,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 10.46,
       "moving_time_sec": 4200,
@@ -63,7 +85,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Aditya Rudy Ananda",
       "distance_km": 10.01,
       "moving_time_sec": 3900,
@@ -74,7 +96,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Putri Puspita",
       "distance_km": 9.42,
       "moving_time_sec": 3600,
@@ -85,7 +107,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Lyutasya .",
       "distance_km": 6.1,
       "moving_time_sec": 2397,
@@ -96,18 +118,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 8,
-      "name": "Alex Rusman",
-      "distance_km": 6.03,
-      "moving_time_sec": 2291,
-      "moving_time": "38m 11s",
-      "pace": "6:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "name": "Aditra AL",
       "distance_km": 6.01,
       "moving_time_sec": 2589,
@@ -115,17 +126,6 @@
       "pace": "7:11",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 10,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 5.52,
-      "moving_time_sec": 2729,
-      "moving_time": "45m 29s",
-      "pace": "8:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
     }
   ]
 }

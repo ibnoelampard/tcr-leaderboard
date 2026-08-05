@@ -1,5 +1,35 @@
 {
   "activities": {
+    "19619258206": {
+      "id": "19619258206",
+      "athlete": "Boris Lethe",
+      "athleteId": "37690983",
+      "startDate": "2026-08-05T22:07:02Z",
+      "type": "Run",
+      "distance_km": 5.33,
+      "moving_time_sec": 2299,
+      "distance_m": 5330
+    },
+    "19619105531": {
+      "id": "19619105531",
+      "athlete": "Alex Rusman",
+      "athleteId": "153243434",
+      "startDate": "2026-08-05T21:22:26Z",
+      "type": "Run",
+      "distance_km": 11.03,
+      "moving_time_sec": 3780,
+      "distance_m": 11030
+    },
+    "19619036228": {
+      "id": "19619036228",
+      "athlete": "Erwin Hauw",
+      "athleteId": "66730311",
+      "startDate": "2026-08-05T21:16:15Z",
+      "type": "Run",
+      "distance_km": 12.04,
+      "moving_time_sec": 3596,
+      "distance_m": 12040
+    },
     "19615501638": {
       "id": "19615501638",
       "athlete": "Fahrudin Jamil",
@@ -159,36 +189,6 @@
       "distance_km": 10.01,
       "moving_time_sec": 3900,
       "distance_m": 10010
-    },
-    "19612606363": {
-      "id": "19612606363",
-      "athlete": "Oline CJ",
-      "athleteId": "105349381",
-      "startDate": "2026-08-05T10:03:54Z",
-      "type": "Run",
-      "distance_km": 3,
-      "moving_time_sec": 1377,
-      "distance_m": 3000
-    },
-    "19610083442": {
-      "id": "19610083442",
-      "athlete": "Fritz Wildan",
-      "athleteId": "26923775",
-      "startDate": "2026-08-05T09:29:04Z",
-      "type": "Run",
-      "distance_km": 5.23,
-      "moving_time_sec": 2745,
-      "distance_m": 5230
-    },
-    "19609925607": {
-      "id": "19609925607",
-      "athlete": "Farhan Kastaa 2",
-      "athleteId": "1390057573",
-      "startDate": "2026-08-05T10:05:16Z",
-      "type": "Run",
-      "distance_km": 0.3,
-      "moving_time_sec": 192,
-      "distance_m": 300
     }
   }
 }
