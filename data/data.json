@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:22:34.456Z",
+  "generated_at": "2026-08-05T06:26:01.415Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Roby Wong",
-      "distance_km": 8.21,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "7:48",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Ardy Fardiansyah",
       "distance_km": 7.25,
       "moving_time_sec": 2260,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Toni Djiaw",
       "distance_km": 7.17,
       "moving_time_sec": 2534,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Boris Lethe",
+      "distance_km": 5.34,
+      "moving_time_sec": 2224,
+      "moving_time": "37m 4s",
+      "pace": "6:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
