@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:28:38.868Z",
+  "generated_at": "2026-08-06T10:36:18.805Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Mohammad Nazir",
-      "distance_km": 13.14,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "5:47",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18323542.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Erwin Hauw",
       "distance_km": 12.04,
       "moving_time_sec": 3596,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Muzammil Akhmad",
       "distance_km": 11.21,
       "moving_time_sec": 3900,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 11.03,
       "moving_time_sec": 3780,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Aldino Wijaksono",
       "distance_km": 10.39,
       "moving_time_sec": 3599,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Dikdik Sugiharto",
       "distance_km": 10.01,
       "moving_time_sec": 3570,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Yudo Adrian",
       "distance_km": 9.01,
       "moving_time_sec": 2988,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 8.4,
       "moving_time_sec": 3600,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Cris Fe",
       "distance_km": 7.14,
       "moving_time_sec": 3353,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Annif D",
       "distance_km": 7,
       "moving_time_sec": 3010,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/3720353.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Renaldi Wijaya",
+      "distance_km": 6,
+      "moving_time_sec": 2016,
+      "moving_time": "33m 36s",
+      "pace": "5:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
     }
   ]
 }
