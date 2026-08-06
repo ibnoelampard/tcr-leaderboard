@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:25:17.455Z",
+  "generated_at": "2026-08-06T06:28:38.868Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-06",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "severinus tyan",
-      "distance_km": 10.46,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Aldino Wijaksono",
       "distance_km": 10.39,
       "moving_time_sec": 3599,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Dikdik Sugiharto",
       "distance_km": 10.01,
       "moving_time_sec": 3570,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 9.01,
       "moving_time_sec": 2988,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Ardy Fardiansyah",
       "distance_km": 8.4,
       "moving_time_sec": 3600,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Cris Fe",
       "distance_km": 7.14,
       "moving_time_sec": 3353,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Annif D",
+      "distance_km": 7,
+      "moving_time_sec": 3010,
+      "moving_time": "50m 10s",
+      "pace": "7:10",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
     }
   ]
 }

@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19621205729": {
+      "id": "19621205729",
+      "athlete": "Farhan Kastaa 2",
+      "athleteId": "1390057573",
+      "startDate": "2026-08-06T00:35:27Z",
+      "type": "Run",
+      "distance_km": 5.41,
+      "moving_time_sec": 2748,
+      "distance_m": 5410
+    },
     "19620374245": {
       "id": "19620374245",
       "athlete": "Yotta Risanggono",
@@ -159,36 +169,6 @@
       "distance_km": 4.02,
       "moving_time_sec": 1866,
       "distance_m": 4020
-    },
-    "19612650469": {
-      "id": "19612650469",
-      "athlete": "severinus tyan",
-      "athleteId": "27221918",
-      "startDate": "2026-08-05T12:12:55Z",
-      "type": "Run",
-      "distance_km": 10.46,
-      "moving_time_sec": 4200,
-      "distance_m": 10460
-    },
-    "19612469464": {
-      "id": "19612469464",
-      "athlete": "Rudy Yulianus",
-      "athleteId": "184529717",
-      "startDate": "2026-08-05T12:42:27Z",
-      "type": "Run",
-      "distance_km": 5.03,
-      "moving_time_sec": 2125,
-      "distance_m": 5030
-    },
-    "19612432492": {
-      "id": "19612432492",
-      "athlete": "Gerardo Yericko",
-      "athleteId": "47763557",
-      "startDate": "2026-08-05T13:05:24Z",
-      "type": "Run",
-      "distance_km": 1,
-      "moving_time_sec": 459,
-      "distance_m": 1000
     }
   }
 }
