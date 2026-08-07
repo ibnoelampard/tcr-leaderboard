@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T23:56:19.501Z",
+  "generated_at": "2026-08-07T02:42:18.660Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -42,17 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "Erick Yanto",
-      "distance_km": 13.24,
-      "moving_time_sec": 6120,
-      "moving_time": "1j 42m",
-      "pace": "7:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 12.15,
       "moving_time_sec": 4500,
@@ -62,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Diana Melina",
       "distance_km": 12,
       "moving_time_sec": 4920,
@@ -73,7 +62,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Erwin Hauw",
       "distance_km": 10.5,
       "moving_time_sec": 3900,
@@ -84,15 +73,26 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 7,
-      "name": "Aldino Wijaksono",
-      "distance_km": 10.3,
-      "moving_time_sec": 3292,
-      "moving_time": "54m 52s",
-      "pace": "5:20",
+      "rank": 6,
+      "name": "B A R A T LSP",
+      "distance_km": 10.29,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "7:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Cris Fe",
+      "distance_km": 10,
+      "moving_time_sec": 4620,
+      "moving_time": "1j 17m",
+      "pace": "7:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
     },
     {
       "rank": 8,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "donny charli",
-      "distance_km": 8.26,
-      "moving_time_sec": 4860,
-      "moving_time": "1j 21m",
-      "pace": "9:48",
+      "name": "Friskha Chaca",
+      "distance_km": 8.67,
+      "moving_time_sec": 3593,
+      "moving_time": "59m 53s",
+      "pace": "6:54",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/46870200.jpg"
+      "photo": "assets/athletes/31777986.jpg"
     }
   ]
 }
