@@ -40,6 +40,16 @@
       "moving_time_sec": 872,
       "distance_m": 2120
     },
+    "19636146822": {
+      "id": "19636146822",
+      "athlete": "Hendri Mulyadi",
+      "athleteId": "137028433",
+      "startDate": "2026-08-06T23:12:39Z",
+      "type": "Run",
+      "distance_km": 10.11,
+      "moving_time_sec": 3960,
+      "distance_m": 10110
+    },
     "19634293422": {
       "id": "19634293422",
       "athlete": "Friskha Chaca",
@@ -69,6 +79,16 @@
       "distance_km": 1.53,
       "moving_time_sec": 638,
       "distance_m": 1530
+    },
+    "19636197076": {
+      "id": "19636197076",
+      "athlete": "Riki Lie",
+      "athleteId": "122081422",
+      "startDate": "2026-08-06T22:47:20Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2114,
+      "distance_m": 5010
     },
     "19633914490": {
       "id": "19633914490",
