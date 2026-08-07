@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:58:43.954Z",
+  "generated_at": "2026-08-07T14:51:11.451Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -41,17 +41,6 @@
     },
     {
       "rank": 3,
-      "name": "Diana Melina",
-      "distance_km": 12,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Denny Hy",
       "distance_km": 11.03,
       "moving_time_sec": 3720,
@@ -60,6 +49,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Renaldi Wijaya",
+      "distance_km": 11,
+      "moving_time_sec": 3571,
+      "moving_time": "59m 31s",
+      "pace": "5:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
     },
     {
       "rank": 5,
