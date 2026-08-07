@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:12:29.496Z",
+  "generated_at": "2026-08-07T08:57:02.405Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -63,6 +63,17 @@
     },
     {
       "rank": 5,
+      "name": "Denny Hy",
+      "distance_km": 11.03,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "5:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Erwin Hauw",
       "distance_km": 10.5,
       "moving_time_sec": 3900,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "B A R A T LSP",
       "distance_km": 10.29,
       "moving_time_sec": 4740,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Hendri Mulyadi",
       "distance_km": 10.11,
       "moving_time_sec": 3960,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/137028433.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Cris Fe",
       "distance_km": 10,
       "moving_time_sec": 4620,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Muzammil Akhmad",
       "distance_km": 9.66,
       "moving_time_sec": 2822,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 9.02,
-      "moving_time_sec": 3195,
-      "moving_time": "53m 15s",
-      "pace": "5:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
