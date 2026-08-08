@@ -169,16 +169,6 @@
       "distance_km": 6.01,
       "moving_time_sec": 2750,
       "distance_m": 6010
-    },
-    "19647292951": {
-      "id": "19647292951",
-      "athlete": "Fritz Wildan",
-      "athleteId": "26923775",
-      "startDate": "2026-08-07T22:57:22Z",
-      "type": "Run",
-      "distance_km": 5.37,
-      "moving_time_sec": 3083,
-      "distance_m": 5370
     }
   }
 }
