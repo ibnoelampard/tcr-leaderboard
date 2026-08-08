@@ -140,6 +140,16 @@
       "moving_time_sec": 4680,
       "distance_m": 16050
     },
+    "19648715745": {
+      "id": "19648715745",
+      "athlete": "Diana Melina",
+      "athleteId": "126056724",
+      "startDate": "2026-08-07T23:30:09Z",
+      "type": "Run",
+      "distance_km": 2.97,
+      "moving_time_sec": 1520,
+      "distance_m": 2970
+    },
     "19647161669": {
       "id": "19647161669",
       "athlete": "Bram Siagian",
@@ -169,16 +179,6 @@
       "distance_km": 5.37,
       "moving_time_sec": 3083,
       "distance_m": 5370
-    },
-    "19646986112": {
-      "id": "19646986112",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-08-07T23:21:28Z",
-      "type": "Run",
-      "distance_km": 4.09,
-      "moving_time_sec": 1419,
-      "distance_m": 4090
     }
   }
 }

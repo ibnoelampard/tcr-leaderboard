@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:23:36.437Z",
+  "generated_at": "2026-08-08T04:54:47.672Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Erick Yanto",
-      "distance_km": 11.48,
-      "moving_time_sec": 5199,
-      "moving_time": "1j 26m",
-      "pace": "7:33",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4740,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "B A R A T LSP",
       "distance_km": 10.01,
       "moving_time_sec": 4740,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 9.2,
+      "moving_time_sec": 3028,
+      "moving_time": "50m 28s",
+      "pace": "5:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
