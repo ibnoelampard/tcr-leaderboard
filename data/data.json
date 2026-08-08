@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:43:12.528Z",
+  "generated_at": "2026-08-08T14:29:56.301Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -63,17 +63,6 @@
     },
     {
       "rank": 5,
-      "name": "Gerardo Yericko",
-      "distance_km": 21.03,
-      "moving_time_sec": 7980,
-      "moving_time": "2j 13m",
-      "pace": "6:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Alex Rusman",
       "distance_km": 19.02,
       "moving_time_sec": 6420,
@@ -84,7 +73,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Boris Lethe",
       "distance_km": 16.6,
       "moving_time_sec": 7260,
@@ -95,7 +84,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Dikdik Sugiharto",
       "distance_km": 12,
       "moving_time_sec": 4140,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/56518385.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4740,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "B A R A T LSP",
       "distance_km": 10.01,
       "moving_time_sec": 4740,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Toni Djiaw",
+      "distance_km": 7.85,
+      "moving_time_sec": 3230,
+      "moving_time": "53m 50s",
+      "pace": "6:51",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     }
   ]
 }
