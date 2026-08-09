@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:40:20.700Z",
+  "generated_at": "2026-08-09T05:02:09.709Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -106,17 +106,6 @@
     },
     {
       "rank": 9,
-      "name": "Friskha Chaca",
-      "distance_km": 17.15,
-      "moving_time_sec": 7200,
-      "moving_time": "2j 0m",
-      "pace": "6:60",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Annif D",
       "distance_km": 11,
       "moving_time_sec": 4440,
@@ -125,6 +114,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/3720353.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 10.22,
+      "moving_time_sec": 4620,
+      "moving_time": "1j 17m",
+      "pace": "7:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
     }
   ]
 }
