@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:32:31.940Z",
+  "generated_at": "2026-08-09T12:45:52.516Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-03",
   "week_end": "2026-08-09",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -95,6 +95,17 @@
     },
     {
       "rank": 8,
+      "name": "Rudy Hartono",
+      "distance_km": 10.08,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:45",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 9,
       "name": "B A R A T LSP",
       "distance_km": 10.01,
       "moving_time_sec": 4320,
@@ -105,7 +116,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Toni Djiaw",
       "distance_km": 7.29,
       "moving_time_sec": 2569,
@@ -114,16 +125,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Yotta Risanggono",
-      "distance_km": 5.12,
-      "moving_time_sec": 2673,
-      "moving_time": "44m 33s",
-      "pace": "8:42",
-      "activities": 1,
-      "elev_m": 0
     }
   ]
 }
