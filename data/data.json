@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:53:23.608Z",
+  "generated_at": "2026-08-09T08:39:58.989Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "severinus tyan",
-      "distance_km": 55.55,
-      "moving_time_sec": 29520,
-      "moving_time": "8j 12m",
-      "pace": "8:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Fritz Wildan",
       "distance_km": 28.02,
       "moving_time_sec": 10800,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Renaldi Wijaya",
       "distance_km": 27,
       "moving_time_sec": 8400,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Ardy Fardiansyah",
       "distance_km": 26.02,
       "moving_time_sec": 9600,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 20.02,
       "moving_time_sec": 7980,
@@ -73,7 +62,7 @@
       "elev_m": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Shelomitha 12",
       "distance_km": 18.51,
       "moving_time_sec": 8052,
@@ -84,7 +73,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ike Kusumawati",
       "distance_km": 18.01,
       "moving_time_sec": 8580,
@@ -94,7 +83,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Andreas Mario",
       "distance_km": 17.54,
       "moving_time_sec": 8940,
@@ -105,7 +94,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Annif D",
       "distance_km": 11,
       "moving_time_sec": 4440,
@@ -116,7 +105,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Ibnoelampard Noe",
       "distance_km": 10.22,
       "moving_time_sec": 4620,
@@ -125,6 +114,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Feri Yo",
+      "distance_km": 10.09,
+      "moving_time_sec": 4980,
+      "moving_time": "1j 23m",
+      "pace": "8:14",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
