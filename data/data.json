@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:28:28.010Z",
+  "generated_at": "2026-08-10T01:39:41.874Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,61 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-10",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 5,
+  "total_athletes": 5,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "B A R A T LSP",
+      "distance_km": 11.22,
+      "moving_time_sec": 4980,
+      "moving_time": "1j 23m",
+      "pace": "7:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 11.11,
+      "moving_time_sec": 4920,
+      "moving_time": "1j 22m",
+      "pace": "7:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Harmada Hutajulu",
+      "distance_km": 6.21,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "10:18",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Aditra AL",
+      "distance_km": 6.01,
+      "moving_time_sec": 2497,
+      "moving_time": "41m 37s",
+      "pace": "6:55",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
+      "name": "Yotta Risanggono",
+      "distance_km": 5.07,
+      "moving_time_sec": 2763,
+      "moving_time": "46m 3s",
+      "pace": "9:05",
+      "activities": 1,
+      "elev_m": 0
+    }
+  ]
 }

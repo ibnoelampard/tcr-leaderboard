@@ -1,3 +1,54 @@
 {
-  "activities": {}
+  "activities": {
+    "19675427292": {
+      "id": "19675427292",
+      "athlete": "Yotta Risanggono",
+      "athleteId": "125540711",
+      "startDate": "2026-08-10T00:14:29Z",
+      "type": "Run",
+      "distance_km": 5.07,
+      "moving_time_sec": 2763,
+      "distance_m": 5070
+    },
+    "19675453737": {
+      "id": "19675453737",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-08-10T00:26:03Z",
+      "type": "Run",
+      "distance_km": 6.01,
+      "moving_time_sec": 2497,
+      "distance_m": 6010
+    },
+    "19675302293": {
+      "id": "19675302293",
+      "athlete": "B A R A T LSP",
+      "athleteId": "71432630",
+      "startDate": "2026-08-09T23:22:07Z",
+      "type": "Run",
+      "distance_km": 11.22,
+      "moving_time_sec": 4980,
+      "distance_m": 11220
+    },
+    "19675055997": {
+      "id": "19675055997",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-08-09T22:40:36Z",
+      "type": "Run",
+      "distance_km": 11.11,
+      "moving_time_sec": 4920,
+      "distance_m": 11110
+    },
+    "19675075326": {
+      "id": "19675075326",
+      "athlete": "Harmada Hutajulu",
+      "athleteId": "20040717",
+      "startDate": "2026-08-09T22:49:00Z",
+      "type": "Run",
+      "distance_km": 6.21,
+      "moving_time_sec": 3840,
+      "distance_m": 6210
+    }
+  }
 }
