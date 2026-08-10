@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:06:20.984Z",
+  "generated_at": "2026-08-10T13:02:52.187Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-10",
   "metric": "distance",
-  "total_activities": 8,
-  "total_athletes": 8,
+  "total_activities": 14,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -42,6 +42,17 @@
     },
     {
       "rank": 3,
+      "name": "severinus tyan",
+      "distance_km": 11.1,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "5:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Cornelia  Larasati",
       "distance_km": 10.02,
       "moving_time_sec": 4320,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/28801387.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -63,7 +74,29 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 9.01,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "7:06",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Jan Arthur",
+      "distance_km": 8.09,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "11:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20802681.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Harmada Hutajulu",
       "distance_km": 6.21,
       "moving_time_sec": 3840,
@@ -74,7 +107,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 6.18,
       "moving_time_sec": 2478,
@@ -85,22 +118,12 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "name": "Aditra AL",
       "distance_km": 6.01,
       "moving_time_sec": 2497,
       "moving_time": "41m 37s",
       "pace": "6:55",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 8,
-      "name": "Yotta Risanggono",
-      "distance_km": 5.07,
-      "moving_time_sec": 2763,
-      "moving_time": "46m 3s",
-      "pace": "9:05",
       "activities": 1,
       "elev_m": 0
     }

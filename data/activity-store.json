@@ -1,5 +1,65 @@
 {
   "activities": {
+    "19679939440": {
+      "id": "19679939440",
+      "athlete": "Bram Siagian",
+      "athleteId": "186650879",
+      "startDate": "2026-08-10T10:53:14Z",
+      "type": "Run",
+      "distance_km": 5.61,
+      "moving_time_sec": 2744,
+      "distance_m": 5610
+    },
+    "19679992671": {
+      "id": "19679992671",
+      "athlete": "Aditya Rudy Ananda",
+      "athleteId": "27344421",
+      "startDate": "2026-08-10T10:25:20Z",
+      "type": "Run",
+      "distance_km": 9.01,
+      "moving_time_sec": 3840,
+      "distance_m": 9010
+    },
+    "19679768065": {
+      "id": "19679768065",
+      "athlete": "Jan Arthur",
+      "athleteId": "20802681",
+      "startDate": "2026-08-10T09:39:38Z",
+      "type": "Run",
+      "distance_km": 8.09,
+      "moving_time_sec": 5640,
+      "distance_m": 8090
+    },
+    "19679758099": {
+      "id": "19679758099",
+      "athlete": "Ibnoelampard Noe",
+      "athleteId": "130551674",
+      "startDate": "2026-08-10T10:42:42Z",
+      "type": "Run",
+      "distance_km": 5.19,
+      "moving_time_sec": 2551,
+      "distance_m": 5190
+    },
+    "19679962980": {
+      "id": "19679962980",
+      "athlete": "Daniel Steven",
+      "athleteId": "62616971",
+      "startDate": "2026-08-10T10:45:48Z",
+      "type": "Run",
+      "distance_km": 5.1,
+      "moving_time_sec": 2259,
+      "distance_m": 5100
+    },
+    "19679705890": {
+      "id": "19679705890",
+      "athlete": "severinus tyan",
+      "athleteId": "27221918",
+      "startDate": "2026-08-10T10:11:54Z",
+      "type": "Run",
+      "distance_km": 11.1,
+      "moving_time_sec": 3900,
+      "distance_m": 11100
+    },
     "19679449245": {
       "id": "19679449245",
       "athlete": "Cornelia  Larasati",
