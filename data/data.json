@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T09:17:49.938Z",
+  "generated_at": "2026-08-10T11:06:20.984Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-10",
   "metric": "distance",
-  "total_activities": 6,
-  "total_athletes": 6,
+  "total_activities": 8,
+  "total_athletes": 8,
   "leaderboard": [
     {
       "rank": 1,
@@ -42,6 +42,17 @@
     },
     {
       "rank": 3,
+      "name": "Cornelia  Larasati",
+      "distance_km": 10.02,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "7:11",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/28801387.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Harmada Hutajulu",
       "distance_km": 6.21,
       "moving_time_sec": 3840,
@@ -63,7 +74,18 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Boris Lethe",
+      "distance_km": 6.18,
+      "moving_time_sec": 2478,
+      "moving_time": "41m 18s",
+      "pace": "6:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Aditra AL",
       "distance_km": 6.01,
       "moving_time_sec": 2497,
@@ -73,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Yotta Risanggono",
       "distance_km": 5.07,
       "moving_time_sec": 2763,
