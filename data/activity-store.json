@@ -30,6 +30,16 @@
       "moving_time_sec": 4980,
       "distance_m": 11220
     },
+    "19675863422": {
+      "id": "19675863422",
+      "athlete": "Cris Fe",
+      "athleteId": "77575425",
+      "startDate": "2026-08-09T17:00:01Z",
+      "type": "Run",
+      "distance_km": 10.01,
+      "moving_time_sec": 4560,
+      "distance_m": 10010
+    },
     "19675055997": {
       "id": "19675055997",
       "athlete": "Fritz Wildan",
