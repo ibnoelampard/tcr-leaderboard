@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:40:15.834Z",
+  "generated_at": "2026-08-10T22:35:12.794Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 24.73,
+      "moving_time_sec": 8340,
+      "moving_time": "2j 19m",
+      "pace": "5:37",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Gerardo Yericko",
       "distance_km": 15,
       "moving_time_sec": 6180,
@@ -28,17 +39,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Alex Rusman",
-      "distance_km": 13.71,
-      "moving_time_sec": 4440,
-      "moving_time": "1j 14m",
-      "pace": "5:24",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
     },
     {
       "rank": 3,
@@ -74,17 +74,6 @@
     },
     {
       "rank": 6,
-      "name": "Fritz Wildan",
-      "distance_km": 11.11,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "7:23",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 7,
       "name": "severinus tyan",
       "distance_km": 11.1,
       "moving_time_sec": 3900,
@@ -95,7 +84,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Cornelia  Larasati",
       "distance_km": 10.02,
       "moving_time_sec": 4320,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/28801387.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditya Rudy Ananda",
       "distance_km": 9.01,
       "moving_time_sec": 3840,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Jan Arthur",
+      "distance_km": 8.09,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "11:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20802681.jpg"
     }
   ]
 }
