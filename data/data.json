@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:36:37.624Z",
+  "generated_at": "2026-08-11T03:42:14.581Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 12.03,
+      "moving_time_sec": 4800,
+      "moving_time": "1j 20m",
+      "pace": "6:39",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
       "name": "Fritz Wildan",
       "distance_km": 11.2,
       "moving_time_sec": 4800,
@@ -30,7 +40,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Muzammil Akhmad",
       "distance_km": 11.2,
       "moving_time_sec": 3900,
@@ -41,7 +51,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Ivan soesanto",
       "distance_km": 11.01,
       "moving_time_sec": 4800,
@@ -52,7 +62,7 @@
       "photo": "assets/athletes/26800044.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Nesdi Waty",
       "distance_km": 11.01,
       "moving_time_sec": 4740,
@@ -63,7 +73,7 @@
       "photo": "assets/athletes/26779694.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.03,
       "moving_time_sec": 3600,
@@ -74,7 +84,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Friskha Chaca",
       "distance_km": 9.11,
       "moving_time_sec": 3960,
@@ -85,7 +95,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Diana Melina",
       "distance_km": 8.77,
       "moving_time_sec": 3600,
@@ -96,7 +106,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 8.33,
       "moving_time_sec": 2556,
@@ -105,17 +115,6 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Erwin Hauw",
-      "distance_km": 7.28,
-      "moving_time_sec": 2877,
-      "moving_time": "47m 57s",
-      "pace": "6:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
     },
     {
       "rank": 10,
