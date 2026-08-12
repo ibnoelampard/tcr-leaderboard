@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:41:22.950Z",
+  "generated_at": "2026-08-12T22:38:11.745Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Toni Djiaw",
+      "distance_km": 12.3,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "5:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Renaldi Wijaya",
       "distance_km": 10.52,
       "moving_time_sec": 3149,
@@ -39,17 +50,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/143447083.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "B A R A T LSP",
-      "distance_km": 10.1,
-      "moving_time_sec": 4620,
-      "moving_time": "1j 17m",
-      "pace": "7:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 4,
