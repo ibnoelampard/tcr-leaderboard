@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:10:31.109Z",
+  "generated_at": "2026-08-13T07:23:49.673Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -107,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "Andree Setiawan",
-      "distance_km": 8.21,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "7:18",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Nesdi Waty",
       "distance_km": 8.06,
       "moving_time_sec": 3416,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26779694.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Harmada Hutajulu",
+      "distance_km": 8,
+      "moving_time_sec": 5820,
+      "moving_time": "1j 37m",
+      "pace": "12:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
     }
   ]
 }

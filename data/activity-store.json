@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19720766677": {
+      "id": "19720766677",
+      "athlete": "Feri Yo",
+      "athleteId": "119721281",
+      "startDate": "2026-08-12T17:00:01Z",
+      "type": "Run",
+      "distance_km": 3.01,
+      "moving_time_sec": 2478,
+      "distance_m": 3010
+    },
     "19719110638": {
       "id": "19719110638",
       "athlete": "Aditra AL",
@@ -179,16 +189,6 @@
       "distance_km": 5.17,
       "moving_time_sec": 2303,
       "distance_m": 5170
-    },
-    "19711711657": {
-      "id": "19711711657",
-      "athlete": "Andree Setiawan",
-      "athleteId": "95696517",
-      "startDate": "2026-08-12T12:44:33Z",
-      "type": "Run",
-      "distance_km": 8.21,
-      "moving_time_sec": 3600,
-      "distance_m": 8210
     }
   }
 }
