@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:05:14.245Z",
+  "generated_at": "2026-08-13T14:55:03.328Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,7 +7,7 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 151,
+    "member_count": 152,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
@@ -31,14 +31,14 @@
     },
     {
       "rank": 2,
-      "name": "Yudo Adrian",
-      "distance_km": 12.63,
-      "moving_time_sec": 3893,
-      "moving_time": "1j 4m",
-      "pace": "5:08",
-      "activities": 2,
+      "name": "Andreas Mario",
+      "distance_km": 11.29,
+      "moving_time_sec": 5460,
+      "moving_time": "1j 31m",
+      "pace": "8:04",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
+      "photo": "assets/athletes/64642890.jpg"
     },
     {
       "rank": 3,
@@ -85,17 +85,6 @@
     },
     {
       "rank": 7,
-      "name": "Friskha Chaca",
-      "distance_km": 9.16,
-      "moving_time_sec": 3472,
-      "moving_time": "57m 52s",
-      "pace": "6:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Ardy Fardiansyah",
       "distance_km": 9.02,
       "moving_time_sec": 3587,
@@ -106,18 +95,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
-      "name": "Nesdi Waty",
-      "distance_km": 8.06,
-      "moving_time_sec": 3416,
-      "moving_time": "56m 56s",
-      "pace": "7:04",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "name": "Harmada Hutajulu",
       "distance_km": 8,
       "moving_time_sec": 5820,
@@ -126,6 +104,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "sugiyo .",
+      "distance_km": 6.7,
+      "moving_time_sec": 2811,
+      "moving_time": "46m 51s",
+      "pace": "6:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Feri Yo",
+      "distance_km": 6.09,
+      "moving_time_sec": 4357,
+      "moving_time": "1j 12m",
+      "pace": "11:55",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
