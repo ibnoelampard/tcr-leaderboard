@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:59:14.113Z",
+  "generated_at": "2026-08-13T13:05:14.245Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -42,28 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "Toni Djiaw",
-      "distance_km": 12.3,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "5:32",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Muzammil Akhmad",
-      "distance_km": 11.28,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "5:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 5,
       "name": "B A R A T LSP",
       "distance_km": 11.11,
       "moving_time_sec": 4920,
@@ -74,7 +52,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 11.06,
       "moving_time_sec": 4320,
@@ -82,6 +60,28 @@
       "pace": "6:31",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 5,
+      "name": "Alex Rusman",
+      "distance_km": 10.01,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Erick Yanto",
+      "distance_km": 9.99,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "7:18",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
     },
     {
       "rank": 7,
