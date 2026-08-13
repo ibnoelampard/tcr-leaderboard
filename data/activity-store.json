@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19723229634": {
+      "id": "19723229634",
+      "athlete": "Renaldi Wijaya",
+      "athleteId": "143447083",
+      "startDate": "2026-08-13T09:58:10Z",
+      "type": "Run",
+      "distance_km": 6,
+      "moving_time_sec": 2041,
+      "distance_m": 6000
+    },
     "19720766677": {
       "id": "19720766677",
       "athlete": "Feri Yo",
@@ -179,16 +189,6 @@
       "distance_km": 3.01,
       "moving_time_sec": 1148,
       "distance_m": 3010
-    },
-    "19711976044": {
-      "id": "19711976044",
-      "athlete": "jeje neko",
-      "athleteId": "142856679",
-      "startDate": "2026-08-12T13:37:24Z",
-      "type": "Run",
-      "distance_km": 5.17,
-      "moving_time_sec": 2303,
-      "distance_m": 5170
     }
   }
 }
