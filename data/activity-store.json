@@ -40,6 +40,16 @@
       "moving_time_sec": 4920,
       "distance_m": 11110
     },
+    "19719181240": {
+      "id": "19719181240",
+      "athlete": "sugiyo .",
+      "athleteId": "16753408",
+      "startDate": "2026-08-13T00:03:00Z",
+      "type": "Run",
+      "distance_km": 6.7,
+      "moving_time_sec": 2811,
+      "distance_m": 6700
+    },
     "19718617072": {
       "id": "19718617072",
       "athlete": "Harmada Hutajulu",
@@ -179,16 +189,6 @@
       "distance_km": 8.21,
       "moving_time_sec": 3600,
       "distance_m": 8210
-    },
-    "19711559810": {
-      "id": "19711559810",
-      "athlete": "Aldino Wijaksono",
-      "athleteId": "128769022",
-      "startDate": "2026-08-12T11:39:44Z",
-      "type": "Run",
-      "distance_km": 21.06,
-      "moving_time_sec": 7440,
-      "distance_m": 21060
     }
   }
 }
