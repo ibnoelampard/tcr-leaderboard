@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19744098391": {
+      "id": "19744098391",
+      "athlete": "Ronald Hartadi",
+      "athleteId": "43789218",
+      "startDate": "2026-08-14T21:10:04Z",
+      "type": "Run",
+      "distance_km": 4.55,
+      "moving_time_sec": 1868,
+      "distance_m": 4550
+    },
     "19739228209": {
       "id": "19739228209",
       "athlete": "jeje neko",
@@ -189,16 +199,6 @@
       "distance_km": 12.61,
       "moving_time_sec": 4740,
       "distance_m": 12610
-    },
-    "19732182501": {
-      "id": "19732182501",
-      "athlete": "Riki Lie",
-      "athleteId": "122081422",
-      "startDate": "2026-08-13T23:04:40Z",
-      "type": "Run",
-      "distance_km": 7.53,
-      "moving_time_sec": 2947,
-      "distance_m": 7530
     }
   }
 }
