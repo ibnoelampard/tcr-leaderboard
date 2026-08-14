@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:21:14.378Z",
+  "generated_at": "2026-08-14T09:05:21.952Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Gerardo Yericko",
-      "distance_km": 17.7,
-      "moving_time_sec": 6540,
-      "moving_time": "1j 49m",
-      "pace": "6:09",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Erwin Hauw",
       "distance_km": 13.01,
       "moving_time_sec": 4140,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Fritz Wildan",
       "distance_km": 12.61,
       "moving_time_sec": 4740,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Farhan Kastaa 2",
       "distance_km": 12.07,
       "moving_time_sec": 5280,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "B A R A T LSP",
       "distance_km": 11.14,
       "moving_time_sec": 4380,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Cris Fe",
       "distance_km": 11.05,
       "moving_time_sec": 4380,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.02,
       "moving_time_sec": 3600,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Rudy Hartono",
       "distance_km": 9.29,
       "moving_time_sec": 4620,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Ike Kusumawati",
       "distance_km": 8.63,
       "moving_time_sec": 3343,
@@ -126,6 +115,17 @@
       "pace": "6:27",
       "activities": 4,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Friskha Chaca",
+      "distance_km": 8.02,
+      "moving_time_sec": 3237,
+      "moving_time": "53m 57s",
+      "pace": "6:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/31777986.jpg"
     }
   ]
 }
