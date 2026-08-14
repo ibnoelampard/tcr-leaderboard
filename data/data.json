@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:56:30.609Z",
+  "generated_at": "2026-08-14T13:01:55.946Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,25 +31,25 @@
     },
     {
       "rank": 2,
-      "name": "Erwin Hauw",
-      "distance_km": 13.01,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "5:18",
-      "activities": 1,
+      "name": "Fritz Wildan",
+      "distance_km": 17.62,
+      "moving_time_sec": 6762,
+      "moving_time": "1j 52m",
+      "pace": "6:24",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
+      "photo": "assets/athletes/26923775.jpg"
     },
     {
       "rank": 3,
-      "name": "Fritz Wildan",
-      "distance_km": 12.61,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "6:16",
+      "name": "Renaldi Wijaya",
+      "distance_km": 13,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "5:28",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/143447083.jpg"
     },
     {
       "rank": 4,
@@ -108,16 +108,6 @@
     },
     {
       "rank": 9,
-      "name": "Ike Kusumawati",
-      "distance_km": 8.63,
-      "moving_time_sec": 3343,
-      "moving_time": "55m 43s",
-      "pace": "6:27",
-      "activities": 4,
-      "elev_m": 0
-    },
-    {
-      "rank": 10,
       "name": "Friskha Chaca",
       "distance_km": 8.02,
       "moving_time_sec": 3237,
@@ -126,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 8,
+      "moving_time_sec": 2764,
+      "moving_time": "46m 4s",
+      "pace": "5:46",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
     }
   ]
 }
