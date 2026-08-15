@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:25:02.410Z",
+  "generated_at": "2026-08-15T10:20:03.729Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-15",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 13,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "DJayus DJayus",
-      "distance_km": 18.02,
-      "moving_time_sec": 6660,
-      "moving_time": "1j 51m",
-      "pace": "6:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Gems -",
       "distance_km": 17.92,
       "moving_time_sec": 6900,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/135577017.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Ibnoelampard Noe",
       "distance_km": 17.84,
       "moving_time_sec": 7440,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/130551674.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Ery Murniasih",
       "distance_km": 17.08,
       "moving_time_sec": 8160,
@@ -73,7 +62,7 @@
       "elev_m": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Coco Tsl",
       "distance_km": 16.94,
       "moving_time_sec": 8640,
@@ -84,7 +73,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Boris Lethe",
       "distance_km": 13.72,
       "moving_time_sec": 6000,
@@ -95,7 +84,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 13.02,
       "moving_time_sec": 4260,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Denny Hy",
       "distance_km": 12.28,
       "moving_time_sec": 4020,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditra AL",
       "distance_km": 11.42,
       "moving_time_sec": 4740,
@@ -125,6 +114,17 @@
       "pace": "6:55",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Erick Yanto",
+      "distance_km": 10.47,
+      "moving_time_sec": 5400,
+      "moving_time": "1j 30m",
+      "pace": "8:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
     }
   ]
 }

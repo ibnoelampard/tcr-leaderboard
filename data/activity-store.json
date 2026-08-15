@@ -60,16 +60,6 @@
       "moving_time_sec": 8160,
       "distance_m": 17080
     },
-    "19746261486": {
-      "id": "19746261486",
-      "athlete": "DJayus DJayus",
-      "athleteId": "42630135",
-      "startDate": "2026-08-14T22:23:52Z",
-      "type": "Run",
-      "distance_km": 18.02,
-      "moving_time_sec": 6660,
-      "distance_m": 18020
-    },
     "19745255485": {
       "id": "19745255485",
       "athlete": "Ardy Fardiansyah",
@@ -139,16 +129,6 @@
       "distance_km": 17.92,
       "moving_time_sec": 6900,
       "distance_m": 17920
-    },
-    "19745224347": {
-      "id": "19745224347",
-      "athlete": "Jan Arthur",
-      "athleteId": "20802681",
-      "startDate": "2026-08-14T22:08:22Z",
-      "type": "Run",
-      "distance_km": 7.2,
-      "moving_time_sec": 4740,
-      "distance_m": 7200
     }
   }
 }
