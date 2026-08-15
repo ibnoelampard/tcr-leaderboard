@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:34:24.816Z",
+  "generated_at": "2026-08-15T08:25:02.410Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-15",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 15,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -107,6 +107,17 @@
     },
     {
       "rank": 9,
+      "name": "Denny Hy",
+      "distance_km": 12.28,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "5:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Aditra AL",
       "distance_km": 11.42,
       "moving_time_sec": 4740,
@@ -114,17 +125,6 @@
       "pace": "6:55",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 10,
-      "name": "Erick Yanto",
-      "distance_km": 10.47,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "8:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
     }
   ]
 }
