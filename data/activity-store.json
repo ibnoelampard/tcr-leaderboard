@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19754092207": {
+      "id": "19754092207",
+      "athlete": "Alex Rusman",
+      "athleteId": "153243434",
+      "startDate": "2026-08-15T09:00:03Z",
+      "type": "Run",
+      "distance_km": 54.7,
+      "moving_time_sec": 18780,
+      "distance_m": 54700
+    },
     "19752713659": {
       "id": "19752713659",
       "athlete": "Farhan Kastaa 2",
@@ -119,16 +129,6 @@
       "distance_km": 11.42,
       "moving_time_sec": 4740,
       "distance_m": 11420
-    },
-    "19745297013": {
-      "id": "19745297013",
-      "athlete": "Gloria Guida",
-      "athleteId": "30268008",
-      "startDate": "2026-08-14T23:22:36Z",
-      "type": "Run",
-      "distance_km": 4.01,
-      "moving_time_sec": 2462,
-      "distance_m": 4010
     }
   }
 }
