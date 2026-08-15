@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:21:04.614Z",
+  "generated_at": "2026-08-15T18:25:25.824Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-08-10",
-  "week_end": "2026-08-15",
+  "week_end": "2026-08-16",
   "metric": "distance",
   "total_activities": 13,
   "total_athletes": 10,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Putri Puspita",
+      "distance_km": 29.05,
+      "moving_time_sec": 13680,
+      "moving_time": "3j 48m",
+      "pace": "7:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/13950824.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Yudo Adrian",
       "distance_km": 21.12,
       "moving_time_sec": 6240,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Gerardo Yericko",
       "distance_km": 19.5,
       "moving_time_sec": 8520,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Ery Murniasih",
       "distance_km": 17.08,
       "moving_time_sec": 8160,
@@ -62,7 +73,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Boris Lethe",
       "distance_km": 13.72,
       "moving_time_sec": 6000,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 13.02,
       "moving_time_sec": 4260,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Denny Hy",
       "distance_km": 12.28,
       "moving_time_sec": 4020,
@@ -93,16 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62565051.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 11.42,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "6:55",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 9,
