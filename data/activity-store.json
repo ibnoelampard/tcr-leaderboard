@@ -169,26 +169,6 @@
       "distance_km": 17.98,
       "moving_time_sec": 6900,
       "distance_m": 17980
-    },
-    "19745026531": {
-      "id": "19745026531",
-      "athlete": "Rudy Yulianus",
-      "athleteId": "184529717",
-      "startDate": "2026-08-14T22:00:54Z",
-      "type": "Run",
-      "distance_km": 17.96,
-      "moving_time_sec": 6420,
-      "distance_m": 17960
-    },
-    "19745019873": {
-      "id": "19745019873",
-      "athlete": "Dikdik Sugiharto",
-      "athleteId": "56518385",
-      "startDate": "2026-08-14T22:00:05Z",
-      "type": "Run",
-      "distance_km": 17.93,
-      "moving_time_sec": 6000,
-      "distance_m": 17930
     }
   }
 }

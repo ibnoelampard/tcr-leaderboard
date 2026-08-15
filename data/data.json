@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:49:41.927Z",
+  "generated_at": "2026-08-15T04:28:32.095Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-10",
   "week_end": "2026-08-15",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -53,27 +53,6 @@
     },
     {
       "rank": 4,
-      "name": "Rudy Yulianus",
-      "distance_km": 17.96,
-      "moving_time_sec": 6420,
-      "moving_time": "1j 47m",
-      "pace": "5:57",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 5,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 17.93,
-      "moving_time_sec": 6000,
-      "moving_time": "1j 40m",
-      "pace": "5:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Gems -",
       "distance_km": 17.92,
       "moving_time_sec": 6900,
@@ -84,7 +63,7 @@
       "photo": "assets/athletes/135577017.jpg"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Ibnoelampard Noe",
       "distance_km": 17.84,
       "moving_time_sec": 7440,
@@ -95,7 +74,7 @@
       "photo": "assets/athletes/130551674.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Ery Murniasih",
       "distance_km": 17.08,
       "moving_time_sec": 8160,
@@ -105,7 +84,7 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Coco Tsl",
       "distance_km": 16.94,
       "moving_time_sec": 8640,
@@ -116,7 +95,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Boris Lethe",
       "distance_km": 13.72,
       "moving_time_sec": 6000,
@@ -125,6 +104,27 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 13.02,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "5:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Aditra AL",
+      "distance_km": 11.42,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "6:55",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
