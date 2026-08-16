@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:20:31.057Z",
+  "generated_at": "2026-08-16T16:21:41.635Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -95,14 +95,14 @@
     },
     {
       "rank": 8,
-      "name": "Yudo Adrian",
-      "distance_km": 10.15,
-      "moving_time_sec": 2975,
-      "moving_time": "49m 35s",
-      "pace": "4:53",
+      "name": "Andree Setiawan",
+      "distance_km": 14.36,
+      "moving_time_sec": 6900,
+      "moving_time": "1j 55m",
+      "pace": "8:01",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
+      "photo": "assets/athletes/95696517.jpg"
     },
     {
       "rank": 9,
