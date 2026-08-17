@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:40:15.479Z",
+  "generated_at": "2026-08-17T10:29:44.595Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,28 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Aditya Rudy Ananda",
-      "distance_km": 14.03,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "6:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Hendri Mulyadi",
-      "distance_km": 12.24,
-      "moving_time_sec": 4800,
-      "moving_time": "1j 20m",
-      "pace": "6:32",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 11.09,
       "moving_time_sec": 3396,
@@ -96,7 +74,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "william po",
       "distance_km": 10.15,
       "moving_time_sec": 4260,
@@ -107,7 +85,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Rudy Yulianus",
       "distance_km": 10.03,
       "moving_time_sec": 4500,
@@ -117,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "DJayus DJayus",
       "distance_km": 10.02,
       "moving_time_sec": 4380,
@@ -126,6 +104,27 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/42630135.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:35",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Gloria Guida",
+      "distance_km": 8.11,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "7:39",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30268008.jpg"
     }
   ]
 }
