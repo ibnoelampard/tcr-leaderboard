@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:18:31.294Z",
+  "generated_at": "2026-08-17T01:08:44.862Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,95 @@
   "week_start": "2026-08-17",
   "week_end": "2026-08-17",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 9,
+  "total_athletes": 8,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 17.07,
+      "moving_time_sec": 6660,
+      "moving_time": "1j 51m",
+      "pace": "6:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Hendri Mulyadi",
+      "distance_km": 12.24,
+      "moving_time_sec": 4800,
+      "moving_time": "1j 20m",
+      "pace": "6:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/137028433.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "DJayus DJayus",
+      "distance_km": 10.02,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "7:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/42630135.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:35",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
+      "name": "Annif D",
+      "distance_km": 10,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Feri Yo",
+      "distance_km": 9.1,
+      "moving_time_sec": 3939,
+      "moving_time": "1j 5m",
+      "pace": "7:13",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Daniel Steven",
+      "distance_km": 5.43,
+      "moving_time_sec": 2541,
+      "moving_time": "42m 21s",
+      "pace": "7:48",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "ahlur narudin",
+      "distance_km": 2.96,
+      "moving_time_sec": 1693,
+      "moving_time": "28m 13s",
+      "pace": "9:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71290530.jpg"
+    }
+  ]
 }
