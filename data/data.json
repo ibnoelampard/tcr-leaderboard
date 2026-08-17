@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:24:45.907Z",
+  "generated_at": "2026-08-17T16:24:41.560Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,14 +75,13 @@
     },
     {
       "rank": 6,
-      "name": "DJayus DJayus",
-      "distance_km": 10.02,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "7:17",
+      "name": "anna bella",
+      "distance_km": 8.11,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "8:08",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
+      "elev_m": 0
     },
     {
       "rank": 7,
