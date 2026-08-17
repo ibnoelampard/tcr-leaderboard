@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:39:42.759Z",
+  "generated_at": "2026-08-17T14:24:45.907Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Jun Pang",
+      "distance_km": 17.08,
+      "moving_time_sec": 6540,
+      "moving_time": "1j 49m",
+      "pace": "6:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19762198.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Rudy Hartono",
       "distance_km": 17.08,
       "moving_time_sec": 7500,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Mohammad Nazir",
       "distance_km": 17.08,
       "moving_time_sec": 5580,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/18323542.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Lyutasya .",
       "distance_km": 12.23,
       "moving_time_sec": 5623,
@@ -61,16 +72,6 @@
       "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/128643628.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Rudy Yulianus",
-      "distance_km": 10.03,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:29",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 6,
