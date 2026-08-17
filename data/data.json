@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:39:01.737Z",
+  "generated_at": "2026-08-17T06:51:04.878Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-17",
   "week_end": "2026-08-17",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -87,11 +87,11 @@
     {
       "rank": 7,
       "name": "Yudo Adrian",
-      "distance_km": 12.09,
-      "moving_time_sec": 3786,
-      "moving_time": "1j 3m",
-      "pace": "5:13",
-      "activities": 2,
+      "distance_km": 11.09,
+      "moving_time_sec": 3396,
+      "moving_time": "56m 36s",
+      "pace": "5:06",
+      "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
     },
