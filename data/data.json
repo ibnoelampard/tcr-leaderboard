@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:29:44.595Z",
+  "generated_at": "2026-08-17T12:39:42.759Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,39 +53,17 @@
     },
     {
       "rank": 4,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 17.07,
-      "moving_time_sec": 6660,
-      "moving_time": "1j 51m",
-      "pace": "6:30",
-      "activities": 1,
+      "name": "Lyutasya .",
+      "distance_km": 12.23,
+      "moving_time_sec": 5623,
+      "moving_time": "1j 33m",
+      "pace": "7:40",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/128643628.jpg"
     },
     {
       "rank": 5,
-      "name": "Yudo Adrian",
-      "distance_km": 11.09,
-      "moving_time_sec": 3396,
-      "moving_time": "56m 36s",
-      "pace": "5:06",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "william po",
-      "distance_km": 10.15,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "6:60",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Rudy Yulianus",
       "distance_km": 10.03,
       "moving_time_sec": 4500,
@@ -95,7 +73,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "DJayus DJayus",
       "distance_km": 10.02,
       "moving_time_sec": 4380,
@@ -106,25 +84,48 @@
       "photo": "assets/athletes/42630135.jpg"
     },
     {
-      "rank": 9,
-      "name": "Aditra AL",
-      "distance_km": 10.02,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "7:35",
+      "rank": 7,
+      "name": "Roby Wong",
+      "distance_km": 8.1,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "8:09",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 8,
+      "moving_time_sec": 3046,
+      "moving_time": "50m 46s",
+      "pace": "6:21",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Bram Siagian",
+      "distance_km": 7.42,
+      "moving_time_sec": 3533,
+      "moving_time": "58m 53s",
+      "pace": "7:56",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/186650879.jpg"
     },
     {
       "rank": 10,
-      "name": "Gloria Guida",
-      "distance_km": 8.11,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.1,
       "moving_time_sec": 3720,
       "moving_time": "1j 2m",
-      "pace": "7:39",
+      "pace": "8:44",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
+      "photo": "assets/athletes/17887937.jpg"
     }
   ]
 }
