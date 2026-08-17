@@ -179,16 +179,6 @@
       "distance_km": 1,
       "moving_time_sec": 390,
       "distance_m": 1000
-    },
-    "19773100778": {
-      "id": "19773100778",
-      "athlete": "Feri Yo",
-      "athleteId": "119721281",
-      "startDate": "2026-08-16T17:00:01Z",
-      "type": "Run",
-      "distance_km": 1,
-      "moving_time_sec": 437,
-      "distance_m": 1000
     }
   }
 }
