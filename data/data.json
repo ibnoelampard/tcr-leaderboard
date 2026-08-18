@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:25:28.870Z",
+  "generated_at": "2026-08-18T12:40:58.102Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 12.85,
+      "moving_time_sec": 5160,
+      "moving_time": "1j 26m",
+      "pace": "6:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Yudo Adrian",
       "distance_km": 11.62,
       "moving_time_sec": 3858,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Muzammil Akhmad",
       "distance_km": 11.06,
       "moving_time_sec": 3900,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Toni Djiaw",
       "distance_km": 10.96,
       "moving_time_sec": 3960,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 9.41,
       "moving_time_sec": 3600,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "sugiyo .",
       "distance_km": 8.26,
       "moving_time_sec": 4080,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "anna bella",
       "distance_km": 8.11,
       "moving_time_sec": 3960,
@@ -95,7 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Roby Wong",
       "distance_km": 8.1,
       "moving_time_sec": 3960,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Diana Melina",
       "distance_km": 8.05,
       "moving_time_sec": 3353,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Bram Siagian",
-      "distance_km": 7.42,
-      "moving_time_sec": 3533,
-      "moving_time": "58m 53s",
-      "pace": "7:56",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/186650879.jpg"
     }
   ]
 }
