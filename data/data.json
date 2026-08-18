@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:31:35.333Z",
+  "generated_at": "2026-08-18T16:28:41.130Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "B A R A T LSP",
-      "distance_km": 19.78,
-      "moving_time_sec": 9173,
-      "moving_time": "2j 32m",
-      "pace": "7:44",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 15.02,
       "moving_time_sec": 5640,
@@ -50,6 +39,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "B A R A T LSP",
+      "distance_km": 13,
+      "moving_time_sec": 6300,
+      "moving_time": "1j 45m",
+      "pace": "8:05",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 4,
