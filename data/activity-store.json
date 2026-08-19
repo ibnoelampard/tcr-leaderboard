@@ -1,5 +1,55 @@
 {
   "activities": {
+    "19808272416": {
+      "id": "19808272416",
+      "athlete": "Lyutasya .",
+      "athleteId": "128643628",
+      "startDate": "2026-08-19T11:40:04Z",
+      "type": "Run",
+      "distance_km": 6.6,
+      "moving_time_sec": 2659,
+      "distance_m": 6600
+    },
+    "19807586874": {
+      "id": "19807586874",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-08-19T11:20:36Z",
+      "type": "Run",
+      "distance_km": 2.36,
+      "moving_time_sec": 1048,
+      "distance_m": 2360
+    },
+    "19808305937": {
+      "id": "19808305937",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-08-19T11:12:51Z",
+      "type": "Run",
+      "distance_km": 0.83,
+      "moving_time_sec": 363,
+      "distance_m": 830
+    },
+    "19808309747": {
+      "id": "19808309747",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-08-19T09:32:10Z",
+      "type": "Run",
+      "distance_km": 12.29,
+      "moving_time_sec": 5220,
+      "distance_m": 12290
+    },
+    "19807109259": {
+      "id": "19807109259",
+      "athlete": "Jan Arthur",
+      "athleteId": "20802681",
+      "startDate": "2026-08-19T09:45:15Z",
+      "type": "Run",
+      "distance_km": 6.23,
+      "moving_time_sec": 4620,
+      "distance_m": 6230
+    },
     "19806538229": {
       "id": "19806538229",
       "athlete": "Farhan Kastaa 2",
@@ -7,7 +57,7 @@
       "startDate": "2026-08-19T09:40:49Z",
       "type": "Run",
       "distance_km": 4.94,
-      "moving_time_sec": 1459,
+      "moving_time_sec": 1462,
       "distance_m": 4940
     },
     "19802682422": {
@@ -139,56 +189,6 @@
       "distance_km": 3,
       "moving_time_sec": 1329,
       "distance_m": 3000
-    },
-    "19794389905": {
-      "id": "19794389905",
-      "athlete": "Aditra AL",
-      "athleteId": "145979024",
-      "startDate": "2026-08-18T12:26:58Z",
-      "type": "Run",
-      "distance_km": 12.19,
-      "moving_time_sec": 4920,
-      "distance_m": 12190
-    },
-    "19794197228": {
-      "id": "19794197228",
-      "athlete": "B A R A T LSP",
-      "athleteId": "71432630",
-      "startDate": "2026-08-17T17:00:01Z",
-      "type": "Run",
-      "distance_km": 13,
-      "moving_time_sec": 6300,
-      "distance_m": 13000
-    },
-    "19794294895": {
-      "id": "19794294895",
-      "athlete": "Cris Fe",
-      "athleteId": "77575425",
-      "startDate": "2026-08-17T17:00:01Z",
-      "type": "Run",
-      "distance_km": 11.53,
-      "moving_time_sec": 5760,
-      "distance_m": 11530
-    },
-    "19794108178": {
-      "id": "19794108178",
-      "athlete": "Alex Rusman",
-      "athleteId": "153243434",
-      "startDate": "2026-08-18T11:58:07Z",
-      "type": "Run",
-      "distance_km": 15.02,
-      "moving_time_sec": 5640,
-      "distance_m": 15020
-    },
-    "19794109076": {
-      "id": "19794109076",
-      "athlete": "jeje neko",
-      "athleteId": "142856679",
-      "startDate": "2026-08-18T12:33:47Z",
-      "type": "Run",
-      "distance_km": 5.18,
-      "moving_time_sec": 3050,
-      "distance_m": 5180
     }
   }
 }
