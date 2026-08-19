@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19802682422": {
+      "id": "19802682422",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-08-19T00:15:54Z",
+      "type": "Run",
+      "distance_km": 9.02,
+      "moving_time_sec": 3960,
+      "distance_m": 9020
+    },
     "19802206217": {
       "id": "19802206217",
       "athlete": "Erwin Hauw",
@@ -169,16 +179,6 @@
       "distance_km": 5.04,
       "moving_time_sec": 2615,
       "distance_m": 5040
-    },
-    "19793956806": {
-      "id": "19793956806",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-08-18T12:31:37Z",
-      "type": "Run",
-      "distance_km": 5.15,
-      "moving_time_sec": 2235,
-      "distance_m": 5150
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T01:07:24.690Z",
+  "generated_at": "2026-08-19T02:55:07.010Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,16 @@
     },
     {
       "rank": 2,
+      "name": "Aditra AL",
+      "distance_km": 21.21,
+      "moving_time_sec": 8880,
+      "moving_time": "2j 28m",
+      "pace": "6:59",
+      "activities": 2,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
       "name": "Diana Melina",
       "distance_km": 13.02,
       "moving_time_sec": 4920,
@@ -41,7 +51,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "B A R A T LSP",
       "distance_km": 13,
       "moving_time_sec": 6300,
@@ -50,16 +60,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Aditra AL",
-      "distance_km": 12.19,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:44",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 5,
