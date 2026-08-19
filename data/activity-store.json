@@ -10,6 +10,16 @@
       "moving_time_sec": 3960,
       "distance_m": 9020
     },
+    "19803352910": {
+      "id": "19803352910",
+      "athlete": "sugiyo .",
+      "athleteId": "16753408",
+      "startDate": "2026-08-19T00:00:08Z",
+      "type": "Run",
+      "distance_km": 10.7,
+      "moving_time_sec": 4800,
+      "distance_m": 10700
+    },
     "19802206217": {
       "id": "19802206217",
       "athlete": "Erwin Hauw",
