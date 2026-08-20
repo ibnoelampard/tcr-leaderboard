@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:06:53.659Z",
+  "generated_at": "2026-08-20T02:54:35.740Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 13.16,
+      "moving_time_sec": 5220,
+      "moving_time": "1j 27m",
+      "pace": "6:37",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
       "name": "Alex Rusman",
       "distance_km": 11.02,
       "moving_time_sec": 3660,
@@ -30,7 +40,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Toni Djiaw",
       "distance_km": 9.34,
       "moving_time_sec": 2923,
@@ -41,7 +51,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Yudo Adrian",
       "distance_km": 9.21,
       "moving_time_sec": 3180,
@@ -52,7 +62,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "william fernando",
       "distance_km": 9,
       "moving_time_sec": 4260,
@@ -63,7 +73,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 8.7,
       "moving_time_sec": 3600,
@@ -74,7 +84,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Muzammil Akhmad",
       "distance_km": 8.6,
       "moving_time_sec": 2998,
@@ -85,7 +95,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Annif D",
       "distance_km": 8,
       "moving_time_sec": 3220,
@@ -96,7 +106,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Cris Fe",
       "distance_km": 7.1,
       "moving_time_sec": 3235,
@@ -107,7 +117,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "sugiyo .",
       "distance_km": 7.09,
       "moving_time_sec": 3563,
@@ -116,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "B A R A T LSP",
-      "distance_km": 7,
-      "moving_time_sec": 3144,
-      "moving_time": "52m 24s",
-      "pace": "7:29",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
     }
   ]
 }

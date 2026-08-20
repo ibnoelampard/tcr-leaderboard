@@ -1,5 +1,25 @@
 {
   "activities": {
+    "19817557635": {
+      "id": "19817557635",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-08-20T00:26:04Z",
+      "type": "Run",
+      "distance_km": 13.16,
+      "moving_time_sec": 5220,
+      "distance_m": 13160
+    },
+    "19817327738": {
+      "id": "19817327738",
+      "athlete": "Aditya Rudy Ananda",
+      "athleteId": "27344421",
+      "startDate": "2026-08-20T00:28:32Z",
+      "type": "Run",
+      "distance_km": 6.01,
+      "moving_time_sec": 2250,
+      "distance_m": 6010
+    },
     "19817006969": {
       "id": "19817006969",
       "athlete": "sugiyo .",
@@ -179,26 +199,6 @@
       "distance_km": 6.6,
       "moving_time_sec": 2659,
       "distance_m": 6600
-    },
-    "19807586874": {
-      "id": "19807586874",
-      "athlete": "Fritz Wildan",
-      "athleteId": "26923775",
-      "startDate": "2026-08-19T11:20:36Z",
-      "type": "Run",
-      "distance_km": 2.36,
-      "moving_time_sec": 1048,
-      "distance_m": 2360
-    },
-    "19808305937": {
-      "id": "19808305937",
-      "athlete": "Fritz Wildan",
-      "athleteId": "26923775",
-      "startDate": "2026-08-19T11:12:51Z",
-      "type": "Run",
-      "distance_km": 0.83,
-      "moving_time_sec": 363,
-      "distance_m": 830
     }
   }
 }
