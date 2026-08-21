@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19838107685": {
+      "id": "19838107685",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-08-21T14:21:54Z",
+      "type": "Run",
+      "distance_km": 3.08,
+      "moving_time_sec": 1366,
+      "distance_m": 3080
+    },
     "19837834315": {
       "id": "19837834315",
       "athlete": "Farhan Kastaa 2",
@@ -169,16 +179,6 @@
       "distance_km": 12.24,
       "moving_time_sec": 4800,
       "distance_m": 12240
-    },
-    "19825397943": {
-      "id": "19825397943",
-      "athlete": "Feri Yo",
-      "athleteId": "119721281",
-      "startDate": "2026-08-19T17:00:01Z",
-      "type": "Run",
-      "distance_km": 2.93,
-      "moving_time_sec": 1261,
-      "distance_m": 2930
     }
   }
 }
