@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:10:22.621Z",
+  "generated_at": "2026-08-21T03:00:16.484Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,25 +64,24 @@
     },
     {
       "rank": 5,
-      "name": "Fritz Wildan",
-      "distance_km": 10.21,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "8:02",
+      "name": "B A R A T LSP",
+      "distance_km": 10.41,
+      "moving_time_sec": 5040,
+      "moving_time": "1j 24m",
+      "pace": "8:04",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 6,
-      "name": "Renaldi Wijaya",
-      "distance_km": 8.61,
-      "moving_time_sec": 2400,
-      "moving_time": "40m 0s",
-      "pace": "4:39",
+      "name": "Aditra AL",
+      "distance_km": 10.01,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "7:18",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
+      "elev_m": 0
     },
     {
       "rank": 7,
@@ -118,14 +117,14 @@
     },
     {
       "rank": 10,
-      "name": "Feri Yo",
-      "distance_km": 5.14,
-      "moving_time_sec": 2998,
-      "moving_time": "49m 58s",
-      "pace": "9:43",
-      "activities": 2,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 5.25,
+      "moving_time_sec": 2210,
+      "moving_time": "36m 50s",
+      "pace": "7:01",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
+      "photo": "assets/athletes/27344421.jpg"
     }
   ]
 }
