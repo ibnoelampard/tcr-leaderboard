@@ -179,26 +179,6 @@
       "distance_km": 5.68,
       "moving_time_sec": 3170,
       "distance_m": 5680
-    },
-    "19822709064": {
-      "id": "19822709064",
-      "athlete": "Andree Setiawan",
-      "athleteId": "95696517",
-      "startDate": "2026-08-20T11:57:42Z",
-      "type": "Run",
-      "distance_km": 2.67,
-      "moving_time_sec": 1252,
-      "distance_m": 2670
-    },
-    "19822061209": {
-      "id": "19822061209",
-      "athlete": "Hendri Mulyadi",
-      "athleteId": "137028433",
-      "startDate": "2026-08-20T10:34:07Z",
-      "type": "Run",
-      "distance_km": 8.12,
-      "moving_time_sec": 3438,
-      "distance_m": 8120
     }
   }
 }

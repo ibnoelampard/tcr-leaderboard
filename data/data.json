@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:41:58.971Z",
+  "generated_at": "2026-08-21T08:37:39.146Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-17",
   "week_end": "2026-08-21",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -85,17 +85,6 @@
     },
     {
       "rank": 7,
-      "name": "Hendri Mulyadi",
-      "distance_km": 8.12,
-      "moving_time_sec": 3438,
-      "moving_time": "57m 18s",
-      "pace": "7:03",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Bay Kartawinata",
       "distance_km": 5.68,
       "moving_time_sec": 3170,
@@ -105,7 +94,7 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "severinus tyan",
       "distance_km": 5.28,
       "moving_time_sec": 2550,
@@ -116,7 +105,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditya Rudy Ananda",
       "distance_km": 5.25,
       "moving_time_sec": 2210,
@@ -125,6 +114,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Andreas Mario",
+      "distance_km": 5.12,
+      "moving_time_sec": 2664,
+      "moving_time": "44m 24s",
+      "pace": "8:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
     }
   ]
 }
