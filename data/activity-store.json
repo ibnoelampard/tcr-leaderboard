@@ -20,6 +20,16 @@
       "moving_time_sec": 5040,
       "distance_m": 10410
     },
+    "19834271824": {
+      "id": "19834271824",
+      "athlete": "Cris Fe",
+      "athleteId": "77575425",
+      "startDate": "2026-08-20T17:00:01Z",
+      "type": "Run",
+      "distance_km": 10.12,
+      "moving_time_sec": 4500,
+      "distance_m": 10120
+    },
     "19831142771": {
       "id": "19831142771",
       "athlete": "Aditya Rudy Ananda",
@@ -169,16 +179,6 @@
       "distance_km": 1.05,
       "moving_time_sec": 673,
       "distance_m": 1050
-    },
-    "19822915644": {
-      "id": "19822915644",
-      "athlete": "Bay Kartawinata",
-      "athleteId": "174619453",
-      "startDate": "2026-08-20T11:28:50Z",
-      "type": "Run",
-      "distance_km": 5.68,
-      "moving_time_sec": 3170,
-      "distance_m": 5680
     }
   }
 }

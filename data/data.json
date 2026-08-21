@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:37:39.146Z",
+  "generated_at": "2026-08-21T10:27:56.515Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,21 +75,22 @@
     },
     {
       "rank": 6,
+      "name": "Cris Fe",
+      "distance_km": 10.12,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "7:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Aditra AL",
       "distance_km": 10.01,
       "moving_time_sec": 4380,
       "moving_time": "1j 13m",
       "pace": "7:18",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 7,
-      "name": "Bay Kartawinata",
-      "distance_km": 5.68,
-      "moving_time_sec": 3170,
-      "moving_time": "52m 50s",
-      "pace": "9:18",
       "activities": 1,
       "elev_m": 0
     },
