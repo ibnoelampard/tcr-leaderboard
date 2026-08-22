@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:20:46.549Z",
+  "generated_at": "2026-08-22T12:34:42.190Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,11 @@
   "week_start": "2026-08-17",
   "week_end": "2026-08-22",
   "metric": "distance",
-  "total_activities": 14,
+  "total_activities": 12,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Erwin Hauw",
-      "distance_km": 31.52,
-      "moving_time_sec": 10500,
-      "moving_time": "2j 55m",
-      "pace": "5:33",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Putri Puspita",
       "distance_km": 23.3,
       "moving_time_sec": 10960,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/13950824.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Aldino Wijaksono",
       "distance_km": 21.16,
       "moving_time_sec": 7440,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Gerardo Yericko",
       "distance_km": 18.99,
       "moving_time_sec": 7260,
@@ -63,29 +52,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 5,
-      "name": "william fernando",
-      "distance_km": 14,
-      "moving_time_sec": 6060,
-      "moving_time": "1j 41m",
-      "pace": "7:13",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Erick Yanto",
-      "distance_km": 12.38,
-      "moving_time_sec": 10560,
-      "moving_time": "2j 56m",
-      "pace": "14:13",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "name": "Boris Lethe",
       "distance_km": 11.72,
       "moving_time_sec": 5160,
@@ -96,7 +63,18 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "name": "Farhan Kastaa 2",
+      "distance_km": 9.22,
+      "moving_time_sec": 4245,
+      "moving_time": "1j 10m",
+      "pace": "7:40",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Aditya Rudy Ananda",
       "distance_km": 9.02,
       "moving_time_sec": 3780,
@@ -107,7 +85,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Lyutasya .",
       "distance_km": 6.05,
       "moving_time_sec": 2836,
@@ -118,7 +96,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Feri Yo",
       "distance_km": 5.08,
       "moving_time_sec": 2181,
@@ -127,6 +105,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Hanif Rahmadian",
+      "distance_km": 5.01,
+      "moving_time_sec": 2435,
+      "moving_time": "40m 35s",
+      "pace": "8:06",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Daniel Steven",
+      "distance_km": 4.5,
+      "moving_time_sec": 2032,
+      "moving_time": "33m 52s",
+      "pace": "7:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
     }
   ]
 }

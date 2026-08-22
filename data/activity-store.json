@@ -1,14 +1,14 @@
 {
   "activities": {
-    "19848068310": {
-      "id": "19848068310",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-08-21T23:07:49Z",
+    "19848677911": {
+      "id": "19848677911",
+      "athlete": "Farhan Kastaa 2",
+      "athleteId": "1390057573",
+      "startDate": "2026-08-22T10:06:24Z",
       "type": "Run",
-      "distance_km": 12.38,
-      "moving_time_sec": 10560,
-      "distance_m": 12380
+      "distance_km": 4.9,
+      "moving_time_sec": 2657,
+      "distance_m": 4900
     },
     "19847679085": {
       "id": "19847679085",
@@ -119,26 +119,6 @@
       "distance_km": 18.99,
       "moving_time_sec": 7260,
       "distance_m": 18990
-    },
-    "19844426365": {
-      "id": "19844426365",
-      "athlete": "Erwin Hauw",
-      "athleteId": "66730311",
-      "startDate": "2026-08-21T22:20:28Z",
-      "type": "Run",
-      "distance_km": 31.52,
-      "moving_time_sec": 10500,
-      "distance_m": 31520
-    },
-    "19843984261": {
-      "id": "19843984261",
-      "athlete": "william fernando",
-      "athleteId": "30574816",
-      "startDate": "2026-08-21T23:35:53Z",
-      "type": "Run",
-      "distance_km": 14,
-      "moving_time_sec": 6060,
-      "distance_m": 14000
     }
   }
 }
