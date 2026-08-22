@@ -149,36 +149,6 @@
       "distance_km": 30.01,
       "moving_time_sec": 9120,
       "distance_m": 30010
-    },
-    "19843960570": {
-      "id": "19843960570",
-      "athlete": "Bram Siagian",
-      "athleteId": "186650879",
-      "startDate": "2026-08-22T00:22:38Z",
-      "type": "Run",
-      "distance_km": 4.18,
-      "moving_time_sec": 2014,
-      "distance_m": 4180
-    },
-    "19843800480": {
-      "id": "19843800480",
-      "athlete": "Gems -",
-      "athleteId": "135577017",
-      "startDate": "2026-08-21T23:22:44Z",
-      "type": "Run",
-      "distance_km": 10.03,
-      "moving_time_sec": 4680,
-      "distance_m": 10030
-    },
-    "19843610051": {
-      "id": "19843610051",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-08-21T23:15:40Z",
-      "type": "Run",
-      "distance_km": 11.03,
-      "moving_time_sec": 3660,
-      "distance_m": 11030
     }
   }
 }
