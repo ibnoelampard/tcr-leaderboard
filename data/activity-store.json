@@ -179,26 +179,6 @@
       "distance_km": 11.03,
       "moving_time_sec": 3660,
       "distance_m": 11030
-    },
-    "19843510368": {
-      "id": "19843510368",
-      "athlete": "Halisa Maulidia",
-      "athleteId": "153432832",
-      "startDate": "2026-08-21T23:01:59Z",
-      "type": "Run",
-      "distance_km": 10.01,
-      "moving_time_sec": 4680,
-      "distance_m": 10010
-    },
-    "19843494269": {
-      "id": "19843494269",
-      "athlete": "Riki Lie",
-      "athleteId": "122081422",
-      "startDate": "2026-08-21T23:46:38Z",
-      "type": "Run",
-      "distance_km": 4,
-      "moving_time_sec": 1787,
-      "distance_m": 4000
     }
   }
 }
