@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:21:59.361Z",
+  "generated_at": "2026-08-22T01:06:34.956Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,87 +15,99 @@
   "week_start": "2026-08-17",
   "week_end": "2026-08-22",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Alex Rusman",
-      "distance_km": 16.06,
-      "moving_time_sec": 5580,
-      "moving_time": "1j 33m",
-      "pace": "5:47",
+      "name": "Coco Tsl",
+      "distance_km": 20.14,
+      "moving_time_sec": 8880,
+      "moving_time": "2j 28m",
+      "pace": "7:21",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/148842377.jpg"
     },
     {
       "rank": 2,
-      "name": "Diana Melina",
-      "distance_km": 12.24,
-      "moving_time_sec": 4800,
-      "moving_time": "1j 20m",
-      "pace": "6:32",
+      "name": "Ardy Fardiansyah",
+      "distance_km": 11.03,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "5:32",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 3,
-      "name": "Fritz Wildan",
-      "distance_km": 11.01,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:11",
+      "name": "severinus tyan",
+      "distance_km": 10.17,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:18",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/27221918.jpg"
     },
     {
       "rank": 4,
-      "name": "B A R A T LSP",
-      "distance_km": 10.41,
-      "moving_time_sec": 5040,
-      "moving_time": "1j 24m",
-      "pace": "8:04",
+      "name": "Gems -",
+      "distance_km": 10.03,
+      "moving_time_sec": 4680,
+      "moving_time": "1j 18m",
+      "pace": "7:47",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/135577017.jpg"
     },
     {
       "rank": 5,
-      "name": "Cris Fe",
-      "distance_km": 10.12,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:25",
+      "name": "Halisa Maulidia",
+      "distance_km": 10.01,
+      "moving_time_sec": 4680,
+      "moving_time": "1j 18m",
+      "pace": "7:48",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
+      "photo": "assets/athletes/153432832.jpg"
     },
     {
       "rank": 6,
-      "name": "Aditra AL",
-      "distance_km": 10.01,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "7:18",
-      "activities": 1,
-      "elev_m": 0
+      "name": "Nani Liauw",
+      "distance_km": 9.65,
+      "moving_time_sec": 4826,
+      "moving_time": "1j 20m",
+      "pace": "8:20",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/110525527.jpg"
     },
     {
       "rank": 7,
-      "name": "Farhan Kastaa 2",
-      "distance_km": 8.63,
-      "moving_time_sec": 2556,
-      "moving_time": "42m 36s",
-      "pace": "4:56",
-      "activities": 2,
+      "name": "Ronald Hartadi",
+      "distance_km": 9.55,
+      "moving_time_sec": 4620,
+      "moving_time": "1j 17m",
+      "pace": "8:04",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
+      "photo": "assets/athletes/43789218.jpg"
     },
     {
       "rank": 8,
+      "name": "Friskha Chaca",
+      "distance_km": 9.5,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Santi Kurniasari",
       "distance_km": 8.32,
       "moving_time_sec": 4320,
@@ -106,7 +118,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Juliano Fransiscus",
       "distance_km": 7.09,
       "moving_time_sec": 2896,
@@ -115,17 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/129995651.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Jan Arthur",
-      "distance_km": 6.82,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "9:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
     }
   ]
 }
