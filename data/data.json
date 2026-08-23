@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:37:20.665Z",
+  "generated_at": "2026-08-23T08:26:47.622Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -63,28 +63,6 @@
     },
     {
       "rank": 5,
-      "name": "Coco Tsl",
-      "distance_km": 17.87,
-      "moving_time_sec": 7905,
-      "moving_time": "2j 11m",
-      "pace": "7:22",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Toni Djiaw",
-      "distance_km": 16,
-      "moving_time_sec": 6360,
-      "moving_time": "1j 46m",
-      "pace": "6:38",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Ike Kusumawati",
       "distance_km": 15.1,
       "moving_time_sec": 5280,
@@ -94,7 +72,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Lyutasya .",
       "distance_km": 13.62,
       "moving_time_sec": 5280,
@@ -105,7 +83,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 13.12,
       "moving_time_sec": 4309,
@@ -116,7 +94,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Cris Fe",
       "distance_km": 13.01,
       "moving_time_sec": 5880,
@@ -125,6 +103,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Aditya Rudy Ananda",
+      "distance_km": 12.94,
+      "moving_time_sec": 5340,
+      "moving_time": "1j 29m",
+      "pace": "6:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rudy Hartono",
+      "distance_km": 10.1,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:50",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }
