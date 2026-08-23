@@ -189,16 +189,6 @@
       "distance_km": 16,
       "moving_time_sec": 6360,
       "distance_m": 16000
-    },
-    "19857564346": {
-      "id": "19857564346",
-      "athlete": "Diana Melina",
-      "athleteId": "126056724",
-      "startDate": "2026-08-22T22:13:05Z",
-      "type": "Run",
-      "distance_km": 18.88,
-      "moving_time_sec": 7440,
-      "distance_m": 18880
     }
   }
 }
