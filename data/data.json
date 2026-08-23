@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:26:47.622Z",
+  "generated_at": "2026-08-23T10:21:15.168Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -63,6 +63,17 @@
     },
     {
       "rank": 5,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 16,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "5:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Ike Kusumawati",
       "distance_km": 15.1,
       "moving_time_sec": 5280,
@@ -70,17 +81,6 @@
       "pace": "5:50",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 6,
-      "name": "Lyutasya .",
-      "distance_km": 13.62,
-      "moving_time_sec": 5280,
-      "moving_time": "1j 28m",
-      "pace": "6:28",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
     },
     {
       "rank": 7,
