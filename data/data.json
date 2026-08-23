@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:00:27.077Z",
+  "generated_at": "2026-08-23T04:34:15.335Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Riki Lie",
+      "distance_km": 42.61,
+      "moving_time_sec": 20640,
+      "moving_time": "5j 44m",
+      "pace": "8:04",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/122081422.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Ardy Fardiansyah",
       "distance_km": 24.02,
       "moving_time_sec": 8520,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 22.05,
       "moving_time_sec": 8880,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Fritz Wildan",
       "distance_km": 21.2,
       "moving_time_sec": 7920,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Diana Melina",
       "distance_km": 18.88,
       "moving_time_sec": 7440,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Coco Tsl",
       "distance_km": 17.87,
       "moving_time_sec": 7905,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Toni Djiaw",
       "distance_km": 16,
       "moving_time_sec": 6360,
@@ -82,17 +93,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Ivan soesanto",
-      "distance_km": 16,
-      "moving_time_sec": 6780,
-      "moving_time": "1j 53m",
-      "pace": "7:04",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26800044.jpg"
     },
     {
       "rank": 8,
@@ -106,17 +106,6 @@
     },
     {
       "rank": 9,
-      "name": "Christine .S",
-      "distance_km": 14.01,
-      "moving_time_sec": 6240,
-      "moving_time": "1j 44m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Lyutasya .",
       "distance_km": 13.62,
       "moving_time_sec": 5280,
@@ -125,6 +114,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Yudo Adrian",
+      "distance_km": 13.12,
+      "moving_time_sec": 4309,
+      "moving_time": "1j 11m",
+      "pace": "5:28",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
     }
   ]
 }
