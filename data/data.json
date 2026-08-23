@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:20:41.447Z",
+  "generated_at": "2026-08-23T16:22:16.460Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -66,7 +66,7 @@
       "rank": 5,
       "name": "Farhan Kastaa 2",
       "distance_km": 20.3,
-      "moving_time_sec": 7673,
+      "moving_time_sec": 7676,
       "moving_time": "2j 7m",
       "pace": "6:18",
       "activities": 2,
