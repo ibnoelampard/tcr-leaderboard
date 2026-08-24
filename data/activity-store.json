@@ -1,15 +1,5 @@
 {
   "activities": {
-    "19872100076": {
-      "id": "19872100076",
-      "athlete": "Gems -",
-      "athleteId": "135577017",
-      "startDate": "2026-08-23T23:36:39Z",
-      "type": "Run",
-      "distance_km": 5.01,
-      "moving_time_sec": 2712,
-      "distance_m": 5010
-    },
     "19872065520": {
       "id": "19872065520",
       "athlete": "Nani Liauw",
