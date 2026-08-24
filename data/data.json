@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:54:09.911Z",
+  "generated_at": "2026-08-24T08:44:44.238Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-24",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 4,
+  "total_athletes": 4,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Denny Hy",
+      "distance_km": 5.47,
+      "moving_time_sec": 1778,
+      "moving_time": "29m 38s",
+      "pace": "5:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Nani Liauw",
       "distance_km": 5.12,
       "moving_time_sec": 2389,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/110525527.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Andreas Mario",
       "distance_km": 5.01,
       "moving_time_sec": 2350,
