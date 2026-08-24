@@ -1,5 +1,25 @@
 {
   "activities": {
+    "19876243944": {
+      "id": "19876243944",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-08-24T09:33:43Z",
+      "type": "Run",
+      "distance_km": 13.04,
+      "moving_time_sec": 5280,
+      "distance_m": 13040
+    },
+    "19876129002": {
+      "id": "19876129002",
+      "athlete": "Made Wardhana",
+      "athleteId": "36149048",
+      "startDate": "2026-08-24T09:30:08Z",
+      "type": "Run",
+      "distance_km": 10.01,
+      "moving_time_sec": 4860,
+      "distance_m": 10010
+    },
     "19874158259": {
       "id": "19874158259",
       "athlete": "Denny Hy",

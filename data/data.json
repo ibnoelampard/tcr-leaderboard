@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:35:10.340Z",
+  "generated_at": "2026-08-24T12:44:59.501Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-24",
   "metric": "distance",
-  "total_activities": 4,
-  "total_athletes": 4,
+  "total_activities": 6,
+  "total_athletes": 6,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,28 @@
     },
     {
       "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 13.04,
+      "moving_time_sec": 5280,
+      "moving_time": "1j 28m",
+      "pace": "6:45",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Made Wardhana",
+      "distance_km": 10.01,
+      "moving_time_sec": 4860,
+      "moving_time": "1j 21m",
+      "pace": "8:06",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/36149048.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Denny Hy",
       "distance_km": 5.47,
       "moving_time_sec": 1778,
@@ -41,7 +63,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Nani Liauw",
       "distance_km": 5.12,
       "moving_time_sec": 2389,
@@ -52,7 +74,7 @@
       "photo": "assets/athletes/110525527.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Andreas Mario",
       "distance_km": 5.01,
       "moving_time_sec": 2350,
