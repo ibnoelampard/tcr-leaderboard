@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:44:59.501Z",
+  "generated_at": "2026-08-24T14:39:08.197Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-24",
   "metric": "distance",
-  "total_activities": 6,
-  "total_athletes": 6,
+  "total_activities": 11,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -42,6 +42,17 @@
     },
     {
       "rank": 3,
+      "name": "Andree Setiawan",
+      "distance_km": 10.21,
+      "moving_time_sec": 5220,
+      "moving_time": "1j 27m",
+      "pace": "8:31",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Made Wardhana",
       "distance_km": 10.01,
       "moving_time_sec": 4860,
@@ -52,7 +63,17 @@
       "photo": "assets/athletes/36149048.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "name": "Aditra AL",
+      "distance_km": 9.01,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "7:20",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 6,
       "name": "Denny Hy",
       "distance_km": 5.47,
       "moving_time_sec": 1778,
@@ -63,7 +84,18 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "name": "Lyutasya .",
+      "distance_km": 5.13,
+      "moving_time_sec": 1922,
+      "moving_time": "32m 2s",
+      "pace": "6:15",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Nani Liauw",
       "distance_km": 5.12,
       "moving_time_sec": 2389,
@@ -74,7 +106,18 @@
       "photo": "assets/athletes/110525527.jpg"
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "name": "Farhan Kastaa 2",
+      "distance_km": 5.09,
+      "moving_time_sec": 2386,
+      "moving_time": "39m 46s",
+      "pace": "7:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Andreas Mario",
       "distance_km": 5.01,
       "moving_time_sec": 2350,
