@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:19:07.080Z",
+  "generated_at": "2026-08-24T01:09:44.485Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,52 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-24",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 4,
+  "total_athletes": 4,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 15.14,
+      "moving_time_sec": 6720,
+      "moving_time": "1j 52m",
+      "pace": "7:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Nani Liauw",
+      "distance_km": 5.12,
+      "moving_time_sec": 2389,
+      "moving_time": "39m 49s",
+      "pace": "7:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/110525527.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Gems -",
+      "distance_km": 5.01,
+      "moving_time_sec": 2712,
+      "moving_time": "45m 12s",
+      "pace": "9:01",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/135577017.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Andreas Mario",
+      "distance_km": 5.01,
+      "moving_time_sec": 2350,
+      "moving_time": "39m 10s",
+      "pace": "7:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
+    }
+  ]
 }
