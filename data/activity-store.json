@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19892943078": {
+      "id": "19892943078",
+      "athlete": "Arif Kurniawan",
+      "athleteId": "19073451",
+      "startDate": "2026-08-25T12:09:46Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2345,
+      "distance_m": 5010
+    },
     "19892409082": {
       "id": "19892409082",
       "athlete": "Halisa Maulidia",
@@ -159,16 +169,6 @@
       "distance_km": 8.04,
       "moving_time_sec": 3458,
       "distance_m": 8040
-    },
-    "19889097067": {
-      "id": "19889097067",
-      "athlete": "Riyus Lesmana",
-      "athleteId": "29385237",
-      "startDate": "2026-08-24T23:19:33Z",
-      "type": "Run",
-      "distance_km": 13,
-      "moving_time_sec": 6840,
-      "distance_m": 13000
     }
   }
 }
