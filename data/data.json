@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:30:11.143Z",
+  "generated_at": "2026-08-25T12:42:25.468Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-25",
   "metric": "distance",
-  "total_activities": 16,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -75,14 +75,14 @@
     },
     {
       "rank": 6,
-      "name": "Made Wardhana",
-      "distance_km": 13.22,
-      "moving_time_sec": 6180,
-      "moving_time": "1j 43m",
-      "pace": "7:47",
-      "activities": 1,
+      "name": "Santi Kurniasari",
+      "distance_km": 15.01,
+      "moving_time_sec": 6643,
+      "moving_time": "1j 50m",
+      "pace": "7:23",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/36149048.jpg"
+      "photo": "assets/athletes/50128426.jpg"
     },
     {
       "rank": 7,
@@ -108,25 +108,25 @@
     },
     {
       "rank": 9,
-      "name": "Fritz Wildan",
-      "distance_km": 10.16,
-      "moving_time_sec": 4620,
-      "moving_time": "1j 17m",
-      "pace": "7:35",
+      "name": "Andreas Mario",
+      "distance_km": 8.04,
+      "moving_time_sec": 3458,
+      "moving_time": "57m 38s",
+      "pace": "7:10",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "photo": "assets/athletes/64642890.jpg"
     },
     {
       "rank": 10,
-      "name": "Roby Wong",
-      "distance_km": 10.01,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "6:18",
+      "name": "Dikdik Sugiharto",
+      "distance_km": 8.01,
+      "moving_time_sec": 2881,
+      "moving_time": "48m 1s",
+      "pace": "5:60",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
+      "photo": "assets/athletes/56518385.jpg"
     }
   ]
 }
