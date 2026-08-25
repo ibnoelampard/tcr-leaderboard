@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:36:29.658Z",
+  "generated_at": "2026-08-25T06:42:03.521Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-25",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
