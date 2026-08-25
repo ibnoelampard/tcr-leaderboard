@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:56:24.729Z",
+  "generated_at": "2026-08-25T04:36:29.658Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-25",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -75,6 +75,16 @@
     },
     {
       "rank": 6,
+      "name": "Ike Kusumawati",
+      "distance_km": 15.1,
+      "moving_time_sec": 6240,
+      "moving_time": "1j 44m",
+      "pace": "6:53",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 7,
       "name": "Made Wardhana",
       "distance_km": 13.22,
       "moving_time_sec": 6180,
@@ -85,7 +95,7 @@
       "photo": "assets/athletes/36149048.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Aldino Wijaksono",
       "distance_km": 11.02,
       "moving_time_sec": 3900,
@@ -96,7 +106,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 10.32,
       "moving_time_sec": 4440,
@@ -107,7 +117,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Fritz Wildan",
       "distance_km": 10.16,
       "moving_time_sec": 4620,
@@ -116,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Roby Wong",
-      "distance_km": 10.01,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "6:18",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
     }
   ]
 }
