@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:41:49.064Z",
+  "generated_at": "2026-08-26T16:46:23.793Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-26",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Gerardo Yericko",
+      "distance_km": 14,
+      "moving_time_sec": 5040,
+      "moving_time": "1j 24m",
+      "pace": "6:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Made Wardhana",
       "distance_km": 12.5,
       "moving_time_sec": 5580,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/36149048.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Fritz Wildan",
       "distance_km": 11.67,
       "moving_time_sec": 5760,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Aditya Rudy Ananda",
       "distance_km": 11.01,
       "moving_time_sec": 4440,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Denny Hy",
       "distance_km": 10.74,
       "moving_time_sec": 3600,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Renaldi Wijaya",
       "distance_km": 10,
       "moving_time_sec": 2909,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Aditra AL",
       "distance_km": 9.16,
       "moving_time_sec": 4080,
@@ -95,7 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Cornelia  Larasati",
       "distance_km": 8.34,
       "moving_time_sec": 3900,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/28801387.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "william fernando",
       "distance_km": 8.3,
       "moving_time_sec": 3426,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Jan Arthur",
-      "distance_km": 7.84,
-      "moving_time_sec": 5760,
-      "moving_time": "1j 36m",
-      "pace": "12:15",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
     }
   ]
 }

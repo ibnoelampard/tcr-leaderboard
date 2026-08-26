@@ -10,6 +10,16 @@
       "moving_time_sec": 3426,
       "distance_m": 8300
     },
+    "19909136859": {
+      "id": "19909136859",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-08-26T12:34:28Z",
+      "type": "Run",
+      "distance_km": 14,
+      "moving_time_sec": 5040,
+      "distance_m": 14000
+    },
     "19908586087": {
       "id": "19908586087",
       "athlete": "Lyutasya .",
@@ -19,16 +29,6 @@
       "distance_km": 5.05,
       "moving_time_sec": 2460,
       "distance_m": 5050
-    },
-    "19908258298": {
-      "id": "19908258298",
-      "athlete": "Coco Tsl",
-      "athleteId": "148842377",
-      "startDate": "2026-08-26T12:24:49Z",
-      "type": "Run",
-      "distance_km": 6.09,
-      "moving_time_sec": 3780,
-      "distance_m": 6090
     },
     "19908221557": {
       "id": "19908221557",
@@ -60,25 +60,15 @@
       "moving_time_sec": 3102,
       "distance_m": 7060
     },
-    "19907965791": {
-      "id": "19907965791",
-      "athlete": "Retno P",
-      "athleteId": "190280699",
-      "startDate": "2026-08-26T12:23:44Z",
-      "type": "Run",
-      "distance_km": 5.05,
-      "moving_time_sec": 2632,
-      "distance_m": 5050
-    },
     "19907729109": {
       "id": "19907729109",
       "athlete": "Farhan Kastaa 2",
       "athleteId": "1390057573",
       "startDate": "2026-08-26T11:24:52Z",
       "type": "Run",
-      "distance_km": 7.04,
-      "moving_time_sec": 3140,
-      "distance_m": 7040
+      "distance_km": 5.08,
+      "moving_time_sec": 2444,
+      "distance_m": 5080
     },
     "19907984255": {
       "id": "19907984255",
