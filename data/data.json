@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:36:55.679Z",
+  "generated_at": "2026-08-26T06:44:23.621Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -96,6 +96,17 @@
     },
     {
       "rank": 8,
+      "name": "Cris Fe",
+      "distance_km": 6.01,
+      "moving_time_sec": 2790,
+      "moving_time": "46m 30s",
+      "pace": "7:44",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Halisa Maulidia",
       "distance_km": 5.66,
       "moving_time_sec": 3600,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/153432832.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "sugiyo .",
       "distance_km": 5.56,
       "moving_time_sec": 2808,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Lyutasya .",
-      "distance_km": 5.22,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "11:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
     }
   ]
 }
