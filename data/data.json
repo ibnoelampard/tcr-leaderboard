@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:47:42.139Z",
+  "generated_at": "2026-08-26T14:41:49.064Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -53,17 +53,6 @@
     },
     {
       "rank": 4,
-      "name": "Friskha Chaca",
-      "distance_km": 11.51,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "6:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 5,
       "name": "Aditya Rudy Ananda",
       "distance_km": 11.01,
       "moving_time_sec": 4440,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Denny Hy",
       "distance_km": 10.74,
       "moving_time_sec": 3600,
@@ -85,18 +74,18 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 7,
-      "name": "Yudo Adrian",
-      "distance_km": 10.68,
-      "moving_time_sec": 3551,
-      "moving_time": "59m 11s",
-      "pace": "5:32",
-      "activities": 2,
+      "rank": 6,
+      "name": "Renaldi Wijaya",
+      "distance_km": 10,
+      "moving_time_sec": 2909,
+      "moving_time": "48m 29s",
+      "pace": "4:51",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
+      "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Aditra AL",
       "distance_km": 9.16,
       "moving_time_sec": 4080,
@@ -106,15 +95,26 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 8.03,
-      "moving_time_sec": 2450,
-      "moving_time": "40m 50s",
-      "pace": "5:05",
+      "rank": 8,
+      "name": "Cornelia  Larasati",
+      "distance_km": 8.34,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "7:48",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/28801387.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "william fernando",
+      "distance_km": 8.3,
+      "moving_time_sec": 3426,
+      "moving_time": "57m 6s",
+      "pace": "6:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
     },
     {
       "rank": 10,
