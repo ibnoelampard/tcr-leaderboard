@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:46:01.523Z",
+  "generated_at": "2026-08-26T22:43:08.091Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -21,11 +21,11 @@
     {
       "rank": 1,
       "name": "Alex Rusman",
-      "distance_km": 14.51,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "5:14",
-      "activities": 1,
+      "distance_km": 25.54,
+      "moving_time_sec": 8099,
+      "moving_time": "2j 14m",
+      "pace": "5:17",
+      "activities": 2,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
     },
@@ -97,13 +97,14 @@
     },
     {
       "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 9.16,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "7:25",
+      "name": "severinus tyan",
+      "distance_km": 8.41,
+      "moving_time_sec": 3158,
+      "moving_time": "52m 38s",
+      "pace": "6:16",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
     },
     {
       "rank": 9,
