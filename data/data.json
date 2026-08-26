@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:40:21.153Z",
+  "generated_at": "2026-08-26T10:32:46.115Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -107,6 +107,17 @@
     },
     {
       "rank": 9,
+      "name": "Boris Lethe",
+      "distance_km": 6.28,
+      "moving_time_sec": 2465,
+      "moving_time": "41m 5s",
+      "pace": "6:33",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Cris Fe",
       "distance_km": 6.01,
       "moving_time_sec": 2790,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/77575425.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Halisa Maulidia",
-      "distance_km": 5.66,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "10:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
     }
   ]
 }
