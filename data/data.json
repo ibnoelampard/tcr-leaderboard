@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:47:29.776Z",
+  "generated_at": "2026-08-29T16:13:29.180Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -74,6 +74,17 @@
     },
     {
       "rank": 6,
+      "name": "Santi Kurniasari",
+      "distance_km": 17.75,
+      "moving_time_sec": 8160,
+      "moving_time": "2j 16m",
+      "pace": "7:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/50128426.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Denni Agustian",
       "distance_km": 15.37,
       "moving_time_sec": 9960,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/63856686.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Gloria Guida",
       "distance_km": 8.27,
       "moving_time_sec": 3467,
@@ -93,17 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30268008.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Halisa Maulidia",
-      "distance_km": 8.19,
-      "moving_time_sec": 3391,
-      "moving_time": "56m 31s",
-      "pace": "6:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
     },
     {
       "rank": 9,

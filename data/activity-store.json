@@ -1,5 +1,15 @@
 {
   "activities": {
+    "19948364425": {
+      "id": "19948364425",
+      "athlete": "Santi Kurniasari",
+      "athleteId": "50128426",
+      "startDate": "2026-08-29T09:46:46Z",
+      "type": "Run",
+      "distance_km": 17.75,
+      "moving_time_sec": 8160,
+      "distance_m": 17750
+    },
     "19945828807": {
       "id": "19945828807",
       "athlete": "Hanif Rahmadian",
@@ -109,16 +119,6 @@
       "distance_km": 8.27,
       "moving_time_sec": 3467,
       "distance_m": 8270
-    },
-    "19942117319": {
-      "id": "19942117319",
-      "athlete": "Halisa Maulidia",
-      "athleteId": "153432832",
-      "startDate": "2026-08-28T23:04:51Z",
-      "type": "Run",
-      "distance_km": 8.19,
-      "moving_time_sec": 3391,
-      "distance_m": 8190
     }
   }
 }
