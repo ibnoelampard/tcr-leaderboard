@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:25:33.272Z",
+  "generated_at": "2026-08-29T23:52:45.507Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
   "metric": "distance",
-  "total_activities": 12,
+  "total_activities": 13,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -85,6 +85,28 @@
     },
     {
       "rank": 7,
+      "name": "Hanif Rahmadian",
+      "distance_km": 17.13,
+      "moving_time_sec": 8878,
+      "moving_time": "2j 27m",
+      "pace": "8:38",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Coco Tsl",
+      "distance_km": 16.19,
+      "moving_time_sec": 7440,
+      "moving_time": "2j 4m",
+      "pace": "7:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Denni Agustian",
       "distance_km": 15.37,
       "moving_time_sec": 9960,
@@ -93,28 +115,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/63856686.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Gloria Guida",
-      "distance_km": 8.27,
-      "moving_time_sec": 3467,
-      "moving_time": "57m 47s",
-      "pace": "6:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Hanif Rahmadian",
-      "distance_km": 7.04,
-      "moving_time_sec": 3478,
-      "moving_time": "57m 58s",
-      "pace": "8:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/17887937.jpg"
     },
     {
       "rank": 10,
