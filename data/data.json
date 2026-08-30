@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T09:44:21.026Z",
+  "generated_at": "2026-08-30T14:40:32.476Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 14,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -42,17 +42,6 @@
     },
     {
       "rank": 3,
-      "name": "Renaldi Wijaya",
-      "distance_km": 28,
-      "moving_time_sec": 8580,
-      "moving_time": "2j 23m",
-      "pace": "5:06",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Fritz Wildan",
       "distance_km": 22.37,
       "moving_time_sec": 8520,
@@ -63,17 +52,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 5,
-      "name": "Feeding Frenzy",
-      "distance_km": 21.12,
-      "moving_time_sec": 7440,
-      "moving_time": "2j 4m",
-      "pace": "5:52",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "name": "David Nolan",
       "distance_km": 20.33,
       "moving_time_sec": 6540,
@@ -84,7 +63,7 @@
       "photo": "assets/athletes/7442783.jpg"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Gerardo Yericko",
       "distance_km": 17.82,
       "moving_time_sec": 6360,
@@ -95,29 +74,29 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 8,
-      "name": "Lyutasya .",
-      "distance_km": 14.03,
+      "rank": 6,
+      "name": "Erick Yanto",
+      "distance_km": 14.3,
+      "moving_time_sec": 6360,
+      "moving_time": "1j 46m",
+      "pace": "7:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Roby Wong",
+      "distance_km": 12.02,
       "moving_time_sec": 5460,
       "moving_time": "1j 31m",
-      "pace": "6:29",
+      "pace": "7:34",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
+      "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 9,
-      "name": "Yudo Adrian",
-      "distance_km": 11,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "6:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "name": "Jan Arthur",
       "distance_km": 10.21,
       "moving_time_sec": 5280,
@@ -126,6 +105,27 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/20802681.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Yotta Risanggono",
+      "distance_km": 8.58,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "8:10",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Halisa Maulidia",
+      "distance_km": 7,
+      "moving_time_sec": 2938,
+      "moving_time": "48m 58s",
+      "pace": "6:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
     }
   ]
 }
