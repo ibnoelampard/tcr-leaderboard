@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T14:40:32.476Z",
+  "generated_at": "2026-08-30T19:02:18.704Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,120 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-08-24",
-  "week_end": "2026-08-30",
+  "week_start": "2026-08-31",
+  "week_end": "2026-08-31",
   "metric": "distance",
-  "total_activities": 14,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 42.83,
-      "moving_time_sec": 15900,
-      "moving_time": "4j 25m",
-      "pace": "6:11",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Toni Djiaw",
-      "distance_km": 30.67,
-      "moving_time_sec": 9512,
-      "moving_time": "2j 38m",
-      "pace": "5:10",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Fritz Wildan",
-      "distance_km": 22.37,
-      "moving_time_sec": 8520,
-      "moving_time": "2j 22m",
-      "pace": "6:21",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "David Nolan",
-      "distance_km": 20.33,
-      "moving_time_sec": 6540,
-      "moving_time": "1j 49m",
-      "pace": "5:22",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Gerardo Yericko",
-      "distance_km": 17.82,
-      "moving_time_sec": 6360,
-      "moving_time": "1j 46m",
-      "pace": "5:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Erick Yanto",
-      "distance_km": 14.3,
-      "moving_time_sec": 6360,
-      "moving_time": "1j 46m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Roby Wong",
-      "distance_km": 12.02,
-      "moving_time_sec": 5460,
-      "moving_time": "1j 31m",
-      "pace": "7:34",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Jan Arthur",
-      "distance_km": 10.21,
-      "moving_time_sec": 5280,
-      "moving_time": "1j 28m",
-      "pace": "8:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Yotta Risanggono",
-      "distance_km": 8.58,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "8:10",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 10,
-      "name": "Halisa Maulidia",
-      "distance_km": 7,
-      "moving_time_sec": 2938,
-      "moving_time": "48m 58s",
-      "pace": "6:60",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
