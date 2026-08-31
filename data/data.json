@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:23:40.354Z",
+  "generated_at": "2026-08-31T03:43:03.493Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,73 @@
   "week_start": "2026-08-31",
   "week_end": "2026-08-31",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 6,
+  "total_athletes": 6,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Fritz Wildan",
+      "distance_km": 13.4,
+      "moving_time_sec": 5100,
+      "moving_time": "1j 25m",
+      "pace": "6:21",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Aditra AL",
+      "distance_km": 8.03,
+      "moving_time_sec": 3587,
+      "moving_time": "59m 47s",
+      "pace": "7:27",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
+      "name": "Aditya Rudy",
+      "distance_km": 6.04,
+      "moving_time_sec": 2635,
+      "moving_time": "43m 55s",
+      "pace": "7:16",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "sugiyo .",
+      "distance_km": 5.15,
+      "moving_time_sec": 2611,
+      "moving_time": "43m 31s",
+      "pace": "8:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Iyan Pratama",
+      "distance_km": 5.02,
+      "moving_time_sec": 2526,
+      "moving_time": "42m 6s",
+      "pace": "8:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/11699017.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Muhammad Rizki Hartadi",
+      "distance_km": 3.02,
+      "moving_time_sec": 1202,
+      "moving_time": "20m 2s",
+      "pace": "6:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123066684.jpg"
+    }
+  ]
 }
