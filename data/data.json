@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:46:54.806Z",
+  "generated_at": "2026-08-31T23:37:12.051Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-01",
   "metric": "distance",
-  "total_activities": 12,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -42,6 +42,50 @@
     },
     {
       "rank": 3,
+      "name": "Muzammil Akhmad",
+      "distance_km": 12.05,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "5:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Alex Rusman",
+      "distance_km": 11.06,
+      "moving_time_sec": 3463,
+      "moving_time": "57m 43s",
+      "pace": "5:13",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Diana Melina",
+      "distance_km": 10.09,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:50",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/126056724.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Iyan Pratama",
+      "distance_km": 10.06,
+      "moving_time_sec": 5084,
+      "moving_time": "1j 24m",
+      "pace": "8:25",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/11699017.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Santi Kurniasari",
       "distance_km": 8.06,
       "moving_time_sec": 3720,
@@ -52,7 +96,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "name": "Aditra AL",
       "distance_km": 8.03,
       "moving_time_sec": 3587,
@@ -62,7 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 9,
       "name": "Jan Arthur",
       "distance_km": 6.11,
       "moving_time_sec": 4200,
@@ -73,7 +117,7 @@
       "photo": "assets/athletes/20802681.jpg"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "name": "Aditya Rudy",
       "distance_km": 6.04,
       "moving_time_sec": 2635,
@@ -82,50 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "sugiyo .",
-      "distance_km": 5.15,
-      "moving_time_sec": 2611,
-      "moving_time": "43m 31s",
-      "pace": "8:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Iyan Pratama",
-      "distance_km": 5.02,
-      "moving_time_sec": 2526,
-      "moving_time": "42m 6s",
-      "pace": "8:23",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/11699017.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Hanif Rahmadian",
-      "distance_km": 5.01,
-      "moving_time_sec": 2608,
-      "moving_time": "43m 28s",
-      "pace": "8:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/17887937.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Antin Achai",
-      "distance_km": 3.11,
-      "moving_time_sec": 1212,
-      "moving_time": "20m 12s",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/120428252.jpg"
     }
   ]
 }
