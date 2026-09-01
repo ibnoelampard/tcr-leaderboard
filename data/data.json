@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:37:12.051Z",
+  "generated_at": "2026-09-01T03:37:48.812Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,33 +15,21 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-01",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Fritz Wildan",
-      "distance_km": 13.4,
-      "moving_time_sec": 5100,
-      "moving_time": "1j 25m",
-      "pace": "6:21",
+      "name": "Aditra AL",
+      "distance_km": 16.11,
+      "moving_time_sec": 6120,
+      "moving_time": "1j 42m",
+      "pace": "6:20",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
+      "elev_m": 0
     },
     {
       "rank": 2,
-      "name": "Gerardo Yericko",
-      "distance_km": 12.23,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Muzammil Akhmad",
       "distance_km": 12.05,
       "moving_time_sec": 4200,
@@ -52,15 +40,26 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 4,
-      "name": "Alex Rusman",
-      "distance_km": 11.06,
-      "moving_time_sec": 3463,
-      "moving_time": "57m 43s",
-      "pace": "5:13",
+      "rank": 3,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 12.02,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "5:44",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Friskha Chaca",
+      "distance_km": 11.02,
+      "moving_time_sec": 4620,
+      "moving_time": "1j 17m",
+      "pace": "6:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/31777986.jpg"
     },
     {
       "rank": 5,
@@ -75,57 +74,58 @@
     },
     {
       "rank": 6,
-      "name": "Iyan Pratama",
-      "distance_km": 10.06,
-      "moving_time_sec": 5084,
-      "moving_time": "1j 24m",
-      "pace": "8:25",
-      "activities": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 10.07,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "6:39",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/11699017.jpg"
+      "photo": "assets/athletes/26923775.jpg"
     },
     {
       "rank": 7,
-      "name": "Santi Kurniasari",
-      "distance_km": 8.06,
-      "moving_time_sec": 3720,
-      "moving_time": "1j 2m",
-      "pace": "7:42",
+      "name": "Oline CJ",
+      "distance_km": 9.09,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "7:55",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/50128426.jpg"
+      "photo": "assets/athletes/105349381.jpg"
     },
     {
       "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 8.03,
-      "moving_time_sec": 3587,
-      "moving_time": "59m 47s",
-      "pace": "7:27",
+      "name": "Nesdi Waty",
+      "distance_km": 8.52,
+      "moving_time_sec": 3589,
+      "moving_time": "59m 49s",
+      "pace": "7:01",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/26779694.jpg"
     },
     {
       "rank": 9,
-      "name": "Jan Arthur",
-      "distance_km": 6.11,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "11:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20802681.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Aditya Rudy",
-      "distance_km": 6.04,
-      "moving_time_sec": 2635,
-      "moving_time": "43m 55s",
-      "pace": "7:16",
+      "distance_km": 8.05,
+      "moving_time_sec": 3308,
+      "moving_time": "55m 8s",
+      "pace": "6:51",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Christine .S",
+      "distance_km": 7.22,
+      "moving_time_sec": 3065,
+      "moving_time": "51m 5s",
+      "pace": "7:05",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/71718168.jpg"
     }
   ]
 }
