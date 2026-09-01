@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T03:37:48.812Z",
+  "generated_at": "2026-09-01T09:10:11.812Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -63,6 +63,17 @@
     },
     {
       "rank": 5,
+      "name": "Denny Hy",
+      "distance_km": 10.5,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Diana Melina",
       "distance_km": 10.09,
       "moving_time_sec": 4140,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Fritz Wildan",
       "distance_km": 10.07,
       "moving_time_sec": 4020,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Oline CJ",
       "distance_km": 9.09,
       "moving_time_sec": 4320,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/105349381.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Nesdi Waty",
       "distance_km": 8.52,
       "moving_time_sec": 3589,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/26779694.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Aditya Rudy",
       "distance_km": 8.05,
       "moving_time_sec": 3308,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Christine .S",
-      "distance_km": 7.22,
-      "moving_time_sec": 3065,
-      "moving_time": "51m 5s",
-      "pace": "7:05",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
     }
   ]
 }
