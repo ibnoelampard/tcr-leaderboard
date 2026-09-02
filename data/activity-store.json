@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20000027131": {
+      "id": "20000027131",
+      "athlete": "Rudy Yulianus",
+      "athleteId": "184529717",
+      "startDate": "2026-09-02T03:22:47Z",
+      "type": "Run",
+      "distance_km": 5.27,
+      "moving_time_sec": 2070,
+      "distance_m": 5270
+    },
     "19999249831": {
       "id": "19999249831",
       "athlete": "Aditra AL",
@@ -159,26 +169,6 @@
       "distance_km": 7.78,
       "moving_time_sec": 4140,
       "distance_m": 7780
-    },
-    "19990420225": {
-      "id": "19990420225",
-      "athlete": "B A R A T LSP",
-      "athleteId": "71432630",
-      "startDate": "2026-08-31T17:00:01Z",
-      "type": "Run",
-      "distance_km": 8,
-      "moving_time_sec": 3900,
-      "distance_m": 8000
-    },
-    "19990391784": {
-      "id": "19990391784",
-      "athlete": "Roby Wong",
-      "athleteId": "126128951",
-      "startDate": "2026-09-01T12:38:39Z",
-      "type": "Run",
-      "distance_km": 7.02,
-      "moving_time_sec": 3460,
-      "distance_m": 7020
     }
   }
 }

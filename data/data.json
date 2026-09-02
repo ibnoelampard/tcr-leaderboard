@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:56:11.804Z",
+  "generated_at": "2026-09-02T08:23:46.447Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-02",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -107,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "B A R A T LSP",
-      "distance_km": 8,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "8:08",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 10,
       "name": "severinus tyan",
       "distance_km": 7.78,
       "moving_time_sec": 4140,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Muzammil Akhmad",
+      "distance_km": 7,
+      "moving_time_sec": 2481,
+      "moving_time": "41m 21s",
+      "pace": "5:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
     }
   ]
 }
