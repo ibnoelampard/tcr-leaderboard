@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:13:01.254Z",
+  "generated_at": "2026-09-02T22:21:46.876Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-03",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "David Nolan",
+      "distance_km": 11.43,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "5:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Renaldi Wijaya",
       "distance_km": 11.2,
       "moving_time_sec": 3720,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Gerardo Yericko",
       "distance_km": 10.02,
       "moving_time_sec": 3840,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Shelomitha 12",
       "distance_km": 9,
       "moving_time_sec": 4020,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Santi Kurniasari",
       "distance_km": 8.02,
       "moving_time_sec": 3594,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Farhan Kastaa 2",
       "distance_km": 7.13,
       "moving_time_sec": 2977,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Rudy Yulianus",
       "distance_km": 7.09,
       "moving_time_sec": 2902,
@@ -95,7 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Riki Lie",
       "distance_km": 7,
       "moving_time_sec": 3280,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Rinaldi Kesuma",
       "distance_km": 6.14,
       "moving_time_sec": 2959,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/48139461.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Boris Lethe",
-      "distance_km": 6.07,
-      "moving_time_sec": 2433,
-      "moving_time": "40m 33s",
-      "pace": "6:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
