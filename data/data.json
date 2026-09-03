@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:21:46.876Z",
+  "generated_at": "2026-09-03T02:59:22.154Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,28 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Friskha Chaca",
-      "distance_km": 12.36,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:38",
+      "name": "Fritz Wildan",
+      "distance_km": 15.59,
+      "moving_time_sec": 5700,
+      "moving_time": "1j 35m",
+      "pace": "6:06",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
+      "photo": "assets/athletes/26923775.jpg"
     },
     {
       "rank": 2,
+      "name": "Muzammil Akhmad",
+      "distance_km": 12.02,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "5:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
+    },
+    {
+      "rank": 3,
       "name": "David Nolan",
       "distance_km": 11.43,
       "moving_time_sec": 3720,
@@ -41,18 +52,39 @@
       "photo": "assets/athletes/7442783.jpg"
     },
     {
-      "rank": 3,
-      "name": "Renaldi Wijaya",
-      "distance_km": 11.2,
-      "moving_time_sec": 3720,
+      "rank": 4,
+      "name": "Yudo Adrian",
+      "distance_km": 11.04,
+      "moving_time_sec": 3764,
       "moving_time": "1j 2m",
-      "pace": "5:32",
-      "activities": 1,
+      "pace": "5:41",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "name": "Toni Djiaw",
+      "distance_km": 10.1,
+      "moving_time_sec": 3557,
+      "moving_time": "59m 17s",
+      "pace": "5:52",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:59",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 7,
       "name": "Gerardo Yericko",
       "distance_km": 10.02,
       "moving_time_sec": 3840,
@@ -63,7 +95,18 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 9.02,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "6:39",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Shelomitha 12",
       "distance_km": 9,
       "moving_time_sec": 4020,
@@ -74,58 +117,15 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 6,
-      "name": "Santi Kurniasari",
-      "distance_km": 8.02,
-      "moving_time_sec": 3594,
-      "moving_time": "59m 54s",
-      "pace": "7:28",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/50128426.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Farhan Kastaa 2",
-      "distance_km": 7.13,
-      "moving_time_sec": 2977,
-      "moving_time": "49m 37s",
-      "pace": "6:58",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Rudy Yulianus",
-      "distance_km": 7.09,
-      "moving_time_sec": 2902,
-      "moving_time": "48m 22s",
-      "pace": "6:49",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 9,
-      "name": "Riki Lie",
-      "distance_km": 7,
-      "moving_time_sec": 3280,
-      "moving_time": "54m 40s",
-      "pace": "7:49",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/122081422.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Rinaldi Kesuma",
-      "distance_km": 6.14,
-      "moving_time_sec": 2959,
-      "moving_time": "49m 19s",
-      "pace": "8:02",
-      "activities": 1,
+      "name": "Christine .S",
+      "distance_km": 8.04,
+      "moving_time_sec": 3509,
+      "moving_time": "58m 29s",
+      "pace": "7:16",
+      "activities": 3,
       "elev_m": 0,
-      "photo": "assets/athletes/48139461.jpg"
+      "photo": "assets/athletes/71718168.jpg"
     }
   ]
 }
