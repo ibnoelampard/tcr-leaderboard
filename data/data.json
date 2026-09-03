@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:08:17.241Z",
+  "generated_at": "2026-09-03T19:05:23.631Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-08-31",
-  "week_end": "2026-09-03",
+  "week_end": "2026-09-04",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -107,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "Christine .S",
-      "distance_km": 8.04,
-      "moving_time_sec": 3509,
-      "moving_time": "58m 29s",
-      "pace": "7:16",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Hanif Rahmadian",
       "distance_km": 8.02,
       "moving_time_sec": 4260,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Renaldi Wijaya",
+      "distance_km": 8,
+      "moving_time_sec": 3220,
+      "moving_time": "53m 40s",
+      "pace": "6:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
     }
   ]
 }
