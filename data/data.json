@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:00:17.358Z",
+  "generated_at": "2026-09-04T18:48:38.133Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,9 +13,9 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-08-31",
-  "week_end": "2026-09-04",
+  "week_end": "2026-09-05",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -53,14 +53,14 @@
     },
     {
       "rank": 4,
-      "name": "Renaldi Wijaya",
-      "distance_km": 11,
-      "moving_time_sec": 5040,
-      "moving_time": "1j 24m",
-      "pace": "7:38",
+      "name": "Juliano Fransiscus",
+      "distance_km": 11.01,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:16",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
+      "photo": "assets/athletes/129995651.jpg"
     },
     {
       "rank": 5,
@@ -97,16 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 10.02,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "7:05",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 9,
       "name": "Nani Liauw",
       "distance_km": 7.18,
       "moving_time_sec": 3510,
@@ -117,7 +107,7 @@
       "photo": "assets/athletes/110525527.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "sugiyo .",
       "distance_km": 7.01,
       "moving_time_sec": 3554,
@@ -126,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Aditya Rudy",
+      "distance_km": 6.16,
+      "moving_time_sec": 3000,
+      "moving_time": "50m 0s",
+      "pace": "8:07",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
     }
   ]
 }
