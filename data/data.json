@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:58:05.036Z",
+  "generated_at": "2026-09-04T08:28:29.221Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -74,28 +74,6 @@
     },
     {
       "rank": 6,
-      "name": "Alex Rusman",
-      "distance_km": 10.02,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "6:05",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Rinaldi Kesuma",
-      "distance_km": 9.26,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "7:01",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/48139461.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Rudy Hartono",
       "distance_km": 9.17,
       "moving_time_sec": 3900,
@@ -106,7 +84,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "sugiyo .",
       "distance_km": 7.01,
       "moving_time_sec": 3554,
@@ -117,7 +95,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Steven Cloon",
       "distance_km": 7.01,
       "moving_time_sec": 2737,
@@ -126,6 +104,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/83609058.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Aditya Rudy",
+      "distance_km": 6.16,
+      "moving_time_sec": 3000,
+      "moving_time": "50m 0s",
+      "pace": "8:07",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Toni Djiaw",
+      "distance_km": 6.04,
+      "moving_time_sec": 1886,
+      "moving_time": "31m 26s",
+      "pace": "5:12",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     }
   ]
 }
