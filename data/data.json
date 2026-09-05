@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:14:56.796Z",
+  "generated_at": "2026-09-05T16:32:18.954Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-05",
   "metric": "distance",
-  "total_activities": 13,
+  "total_activities": 11,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -64,39 +64,16 @@
     },
     {
       "rank": 5,
-      "name": "Andree Setiawan",
-      "distance_km": 15.21,
-      "moving_time_sec": 6780,
-      "moving_time": "1j 53m",
-      "pace": "7:26",
+      "name": "Aditra AL",
+      "distance_km": 10.36,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "6:51",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/95696517.jpg"
+      "elev_m": 0
     },
     {
       "rank": 6,
-      "name": "Steven Cloon",
-      "distance_km": 14.06,
-      "moving_time_sec": 5160,
-      "moving_time": "1j 26m",
-      "pace": "6:07",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/83609058.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Iyan Pratama",
-      "distance_km": 10.08,
-      "moving_time_sec": 6637,
-      "moving_time": "1j 50m",
-      "pace": "10:58",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/11699017.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Lyutasya .",
       "distance_km": 10.03,
       "moving_time_sec": 4080,
@@ -107,7 +84,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "william fernando",
       "distance_km": 8.31,
       "moving_time_sec": 3377,
@@ -118,15 +95,37 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 10,
-      "name": "Harmada Hutajulu",
-      "distance_km": 6.47,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "9:26",
+      "rank": 8,
+      "name": "dike wicaksono",
+      "distance_km": 5.08,
+      "moving_time_sec": 1845,
+      "moving_time": "30m 45s",
+      "pace": "6:03",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/20040717.jpg"
+      "photo": "assets/athletes/17481263.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Iyan Pratama",
+      "distance_km": 5.01,
+      "moving_time_sec": 3488,
+      "moving_time": "58m 8s",
+      "pace": "11:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/11699017.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rudy Hartono",
+      "distance_km": 3.7,
+      "moving_time_sec": 1512,
+      "moving_time": "25m 12s",
+      "pace": "6:49",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }
