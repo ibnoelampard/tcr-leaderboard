@@ -90,6 +90,16 @@
       "moving_time_sec": 10740,
       "distance_m": 30130
     },
+    "20041855337": {
+      "id": "20041855337",
+      "athlete": "Yotta Risanggono",
+      "athleteId": "125540711",
+      "startDate": "2026-09-04T23:36:06Z",
+      "type": "Run",
+      "distance_km": 7.51,
+      "moving_time_sec": 3900,
+      "distance_m": 7510
+    },
     "20040005785": {
       "id": "20040005785",
       "athlete": "Renaldi Wijaya",
@@ -140,16 +150,6 @@
       "moving_time_sec": 8160,
       "distance_m": 24000
     },
-    "20039749080": {
-      "id": "20039749080",
-      "athlete": "Ferry Febyanto",
-      "athleteId": "4719443",
-      "startDate": "2026-09-04T22:45:34Z",
-      "type": "Run",
-      "distance_km": 9.8,
-      "moving_time_sec": 5340,
-      "distance_m": 9800
-    },
     "20039966769": {
       "id": "20039966769",
       "athlete": "Diana Melina",
@@ -169,36 +169,6 @@
       "distance_km": 5.11,
       "moving_time_sec": 2223,
       "distance_m": 5110
-    },
-    "20039625637": {
-      "id": "20039625637",
-      "athlete": "Jan Arthur",
-      "athleteId": "20802681",
-      "startDate": "2026-09-04T23:13:09Z",
-      "type": "Run",
-      "distance_km": 5,
-      "moving_time_sec": 2700,
-      "distance_m": 5000
-    },
-    "20039917967": {
-      "id": "20039917967",
-      "athlete": "Coco Tsl",
-      "athleteId": "148842377",
-      "startDate": "2026-09-04T23:02:03Z",
-      "type": "Run",
-      "distance_km": 6.57,
-      "moving_time_sec": 3088,
-      "distance_m": 6570
-    },
-    "20039601268": {
-      "id": "20039601268",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-09-04T22:35:42Z",
-      "type": "Run",
-      "distance_km": 11.01,
-      "moving_time_sec": 3660,
-      "distance_m": 11010
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:59:58.625Z",
+  "generated_at": "2026-09-05T08:03:00.315Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-08-31",
   "week_end": "2026-09-05",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -119,14 +119,13 @@
     },
     {
       "rank": 10,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 11.01,
-      "moving_time_sec": 3660,
-      "moving_time": "1j 1m",
-      "pace": "5:32",
+      "name": "Yotta Risanggono",
+      "distance_km": 7.51,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "8:39",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "elev_m": 0
     }
   ]
 }
