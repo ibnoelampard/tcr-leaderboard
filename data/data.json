@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:42:13.114Z",
+  "generated_at": "2026-09-06T20:00:12.353Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,120 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-08-31",
-  "week_end": "2026-09-06",
+  "week_start": "2026-09-07",
+  "week_end": "2026-09-07",
   "metric": "distance",
-  "total_activities": 20,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Fritz Wildan",
-      "distance_km": 23.1,
-      "moving_time_sec": 9600,
-      "moving_time": "2j 40m",
-      "pace": "6:56",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Farhan Kastaa 2",
-      "distance_km": 21.36,
-      "moving_time_sec": 7140,
-      "moving_time": "1j 59m",
-      "pace": "5:34",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Aditra AL",
-      "distance_km": 21.32,
-      "moving_time_sec": 8520,
-      "moving_time": "2j 22m",
-      "pace": "6:40",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 4,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 21.03,
-      "moving_time_sec": 6840,
-      "moving_time": "1j 54m",
-      "pace": "5:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Roby Wong",
-      "distance_km": 21.02,
-      "moving_time_sec": 8280,
-      "moving_time": "2j 18m",
-      "pace": "6:34",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Christine .S",
-      "distance_km": 18.02,
-      "moving_time_sec": 7740,
-      "moving_time": "2j 9m",
-      "pace": "7:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Annif D",
-      "distance_km": 15,
-      "moving_time_sec": 5940,
-      "moving_time": "1j 39m",
-      "pace": "6:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Boris Lethe",
-      "distance_km": 10.64,
-      "moving_time_sec": 4620,
-      "moving_time": "1j 17m",
-      "pace": "7:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Jessica Pangestu",
-      "distance_km": 10.27,
-      "moving_time_sec": 4440,
-      "moving_time": "1j 14m",
-      "pace": "7:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/48472455.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Yudo Adrian",
-      "distance_km": 10.02,
-      "moving_time_sec": 3367,
-      "moving_time": "56m 7s",
-      "pace": "5:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
