@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:55:27.478Z",
+  "generated_at": "2026-09-07T15:30:13.828Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,44 @@
   "week_start": "2026-09-07",
   "week_end": "2026-09-07",
   "metric": "distance",
-  "total_activities": 2,
-  "total_athletes": 2,
+  "total_activities": 8,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Gerardo Yericko",
+      "distance_km": 10.5,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "severinus tyan",
+      "distance_km": 10.35,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Fritz Wildan",
+      "distance_km": 10.33,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 8.02,
       "moving_time_sec": 3600,
@@ -29,7 +62,29 @@
       "elev_m": 0
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 7.72,
+      "moving_time_sec": 2802,
+      "moving_time": "46m 42s",
+      "pace": "6:03",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Rudy Hartono",
+      "distance_km": 4.15,
+      "moving_time_sec": 1609,
+      "moving_time": "26m 49s",
+      "pace": "6:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Hanif Rahmadian",
       "distance_km": 3.19,
       "moving_time_sec": 1722,

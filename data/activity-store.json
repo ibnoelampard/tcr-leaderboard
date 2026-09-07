@@ -1,5 +1,65 @@
 {
   "activities": {
+    "20072695301": {
+      "id": "20072695301",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-09-07T10:36:28Z",
+      "type": "Run",
+      "distance_km": 10.5,
+      "moving_time_sec": 4200,
+      "distance_m": 10500
+    },
+    "20072006818": {
+      "id": "20072006818",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-07T10:48:59Z",
+      "type": "Run",
+      "distance_km": 4.15,
+      "moving_time_sec": 1609,
+      "distance_m": 4150
+    },
+    "20071607236": {
+      "id": "20071607236",
+      "athlete": "Fritz Wildan",
+      "athleteId": "26923775",
+      "startDate": "2026-09-07T09:30:50Z",
+      "type": "Run",
+      "distance_km": 10.33,
+      "moving_time_sec": 4200,
+      "distance_m": 10330
+    },
+    "20071449495": {
+      "id": "20071449495",
+      "athlete": "severinus tyan",
+      "athleteId": "27221918",
+      "startDate": "2026-09-07T09:18:51Z",
+      "type": "Run",
+      "distance_km": 10.35,
+      "moving_time_sec": 3960,
+      "distance_m": 10350
+    },
+    "20071447697": {
+      "id": "20071447697",
+      "athlete": "Dikdik Sugiharto",
+      "athleteId": "56518385",
+      "startDate": "2026-09-07T09:39:04Z",
+      "type": "Run",
+      "distance_km": 7,
+      "moving_time_sec": 2524,
+      "distance_m": 7000
+    },
+    "20071447662": {
+      "id": "20071447662",
+      "athlete": "Dikdik Sugiharto",
+      "athleteId": "56518385",
+      "startDate": "2026-09-07T09:17:23Z",
+      "type": "Run",
+      "distance_km": 0.72,
+      "moving_time_sec": 278,
+      "distance_m": 720
+    },
     "20070222417": {
       "id": "20070222417",
       "athlete": "Hanif Rahmadian",
