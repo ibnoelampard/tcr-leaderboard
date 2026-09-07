@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:57:19.840Z",
+  "generated_at": "2026-09-07T08:55:27.478Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-09-07",
   "week_end": "2026-09-07",
   "metric": "distance",
-  "total_activities": 1,
-  "total_athletes": 1,
+  "total_activities": 2,
+  "total_athletes": 2,
   "leaderboard": [
     {
       "rank": 1,
@@ -27,6 +27,17 @@
       "pace": "7:29",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "Hanif Rahmadian",
+      "distance_km": 3.19,
+      "moving_time_sec": 1722,
+      "moving_time": "28m 42s",
+      "pace": "8:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
     }
   ]
 }
