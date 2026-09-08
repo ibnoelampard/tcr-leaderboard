@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:09:21.737Z",
+  "generated_at": "2026-09-08T19:15:24.339Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-07",
-  "week_end": "2026-09-08",
+  "week_end": "2026-09-09",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Gerardo Yericko",
-      "distance_km": 10.5,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:40",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Aditra AL",
       "distance_km": 10.04,
       "moving_time_sec": 3780,
@@ -84,7 +73,7 @@
       "elev_m": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.02,
       "moving_time_sec": 3600,
@@ -95,7 +84,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Yudo Adrian",
       "distance_km": 10.02,
       "moving_time_sec": 3236,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Diana Melina",
       "distance_km": 10.02,
       "moving_time_sec": 4320,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "william fernando",
       "distance_km": 8.63,
       "moving_time_sec": 3580,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30574816.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Arif Kurniawan",
+      "distance_km": 7.17,
+      "moving_time_sec": 3257,
+      "moving_time": "54m 17s",
+      "pace": "7:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19073451.jpg"
     }
   ]
 }
