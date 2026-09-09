@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:09:27.265Z",
+  "generated_at": "2026-09-09T19:04:41.237Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-07",
-  "week_end": "2026-09-09",
+  "week_end": "2026-09-10",
   "metric": "distance",
   "total_activities": 20,
   "total_athletes": 10,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Yudo Adrian",
-      "distance_km": 12.06,
-      "moving_time_sec": 3905,
-      "moving_time": "1j 5m",
-      "pace": "5:24",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 12.03,
       "moving_time_sec": 3524,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Gerardo Yericko",
       "distance_km": 11.42,
       "moving_time_sec": 4320,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Renaldi Wijaya",
       "distance_km": 11,
       "moving_time_sec": 3411,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "severinus tyan",
       "distance_km": 10.31,
       "moving_time_sec": 3511,
@@ -83,6 +72,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 9.9,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
     },
     {
       "rank": 7,
@@ -108,14 +108,14 @@
     },
     {
       "rank": 9,
-      "name": "Aditya Rudy",
-      "distance_km": 7,
-      "moving_time_sec": 3086,
-      "moving_time": "51m 26s",
-      "pace": "7:21",
+      "name": "Lyutasya .",
+      "distance_km": 6.33,
+      "moving_time_sec": 2484,
+      "moving_time": "41m 24s",
+      "pace": "6:32",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
+      "photo": "assets/athletes/128643628.jpg"
     },
     {
       "rank": 10,
