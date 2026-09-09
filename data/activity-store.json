@@ -130,6 +130,16 @@
       "moving_time_sec": 4260,
       "distance_m": 7000
     },
+    "20098744970": {
+      "id": "20098744970",
+      "athlete": "Cris Fe",
+      "athleteId": "77575425",
+      "startDate": "2026-09-07T17:00:01Z",
+      "type": "Run",
+      "distance_km": 1.85,
+      "moving_time_sec": 4680,
+      "distance_m": 1850
+    },
     "20087966141": {
       "id": "20087966141",
       "athlete": "Alex Rusman",
@@ -189,16 +199,6 @@
       "distance_km": 7.12,
       "moving_time_sec": 2898,
       "distance_m": 7120
-    },
-    "20086667988": {
-      "id": "20086667988",
-      "athlete": "Boris Lethe",
-      "athleteId": "37690983",
-      "startDate": "2026-09-08T10:54:33Z",
-      "type": "Run",
-      "distance_km": 5.6,
-      "moving_time_sec": 2416,
-      "distance_m": 5600
     }
   }
 }
