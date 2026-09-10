@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20118936187": {
+      "id": "20118936187",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-10T16:14:23Z",
+      "type": "Run",
+      "distance_km": 1.9,
+      "moving_time_sec": 739,
+      "distance_m": 1900
+    },
     "20117055340": {
       "id": "20117055340",
       "athlete": "Farhan Kastaa 2",
@@ -149,16 +159,6 @@
       "distance_km": 2.01,
       "moving_time_sec": 913,
       "distance_m": 2010
-    },
-    "20110400901": {
-      "id": "20110400901",
-      "athlete": "Aldino Wijaksono",
-      "athleteId": "128769022",
-      "startDate": "2026-09-09T23:28:37Z",
-      "type": "Run",
-      "distance_km": 12.99,
-      "moving_time_sec": 3600,
-      "distance_m": 12990
     }
   }
 }
