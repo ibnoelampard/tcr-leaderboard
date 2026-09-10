@@ -179,16 +179,6 @@
       "distance_km": 11,
       "moving_time_sec": 3411,
       "distance_m": 11000
-    },
-    "20102592411": {
-      "id": "20102592411",
-      "athlete": "Juliano Fransiscus",
-      "athleteId": "129995651",
-      "startDate": "2026-09-09T12:32:54Z",
-      "type": "Run",
-      "distance_km": 5.03,
-      "moving_time_sec": 2036,
-      "distance_m": 5030
     }
   }
 }
