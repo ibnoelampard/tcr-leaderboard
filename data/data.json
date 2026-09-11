@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:03:13.635Z",
+  "generated_at": "2026-09-11T18:58:26.278Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,119 +13,9 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-07",
-  "week_end": "2026-09-11",
+  "week_end": "2026-09-12",
   "metric": "distance",
-  "total_activities": 19,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Lyutasya .",
-      "distance_km": 16.05,
-      "moving_time_sec": 6420,
-      "moving_time": "1j 47m",
-      "pace": "6:40",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Aditya Rudy",
-      "distance_km": 12.02,
-      "moving_time_sec": 5340,
-      "moving_time": "1j 29m",
-      "pace": "7:24",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Muzammil Akhmad",
-      "distance_km": 11.34,
-      "moving_time_sec": 3346,
-      "moving_time": "55m 46s",
-      "pace": "4:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Alex Rusman",
-      "distance_km": 11.05,
-      "moving_time_sec": 3255,
-      "moving_time": "54m 15s",
-      "pace": "4:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Toni Djiaw",
-      "distance_km": 10.88,
-      "moving_time_sec": 3512,
-      "moving_time": "58m 32s",
-      "pace": "5:23",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 10.41,
-      "moving_time_sec": 3562,
-      "moving_time": "59m 22s",
-      "pace": "5:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "severinus tyan",
-      "distance_km": 10.27,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "6:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Aditra AL",
-      "distance_km": 10.15,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:06",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 9,
-      "name": "B A R A T LSP",
-      "distance_km": 10,
-      "moving_time_sec": 4620,
-      "moving_time": "1j 17m",
-      "pace": "7:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Erwin Hauw",
-      "distance_km": 8.63,
-      "moving_time_sec": 2965,
-      "moving_time": "49m 25s",
-      "pace": "5:44",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/66730311.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
