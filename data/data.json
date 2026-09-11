@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:34:02.970Z",
+  "generated_at": "2026-09-11T14:03:13.635Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Lyutasya .",
+      "distance_km": 16.05,
+      "moving_time_sec": 6420,
+      "moving_time": "1j 47m",
+      "pace": "6:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Aditya Rudy",
       "distance_km": 12.02,
       "moving_time_sec": 5340,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Muzammil Akhmad",
       "distance_km": 11.34,
       "moving_time_sec": 3346,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/18602303.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Alex Rusman",
       "distance_km": 11.05,
       "moving_time_sec": 3255,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Toni Djiaw",
       "distance_km": 10.88,
       "moving_time_sec": 3512,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.41,
       "moving_time_sec": 3562,
@@ -74,18 +85,18 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
-      "name": "Farhan Kastaa 2",
-      "distance_km": 10.17,
-      "moving_time_sec": 3539,
-      "moving_time": "58m 59s",
-      "pace": "5:48",
+      "rank": 7,
+      "name": "severinus tyan",
+      "distance_km": 10.27,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:37",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
+      "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Aditra AL",
       "distance_km": 10.15,
       "moving_time_sec": 4320,
@@ -93,17 +104,6 @@
       "pace": "7:06",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 8,
-      "name": "Aldino Wijaksono",
-      "distance_km": 10.12,
-      "moving_time_sec": 3585,
-      "moving_time": "59m 45s",
-      "pace": "5:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
     },
     {
       "rank": 9,
