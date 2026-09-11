@@ -189,16 +189,6 @@
       "distance_km": 10.12,
       "moving_time_sec": 3585,
       "distance_m": 10120
-    },
-    "20116631974": {
-      "id": "20116631974",
-      "athlete": "Coco Tsl",
-      "athleteId": "148842377",
-      "startDate": "2026-09-10T12:58:35Z",
-      "type": "Run",
-      "distance_km": 2.41,
-      "moving_time_sec": 1154,
-      "distance_m": 2410
     }
   }
 }
