@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:11:43.181Z",
+  "generated_at": "2026-09-12T23:44:16.873Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,33 @@
   "week_start": "2026-09-07",
   "week_end": "2026-09-13",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 14,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Arif Kurniawan",
+      "distance_km": 57.33,
+      "moving_time_sec": 33540,
+      "moving_time": "9j 19m",
+      "pace": "9:45",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19073451.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Feri Yo",
+      "distance_km": 23.68,
+      "moving_time_sec": 10177,
+      "moving_time": "2j 49m",
+      "pace": "7:10",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Andree Setiawan",
       "distance_km": 21.21,
       "moving_time_sec": 10140,
@@ -30,7 +52,7 @@
       "photo": "assets/athletes/95696517.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Santi Kurniasari",
       "distance_km": 18.2,
       "moving_time_sec": 8220,
@@ -41,7 +63,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Gerardo Yericko",
       "distance_km": 15.73,
       "moving_time_sec": 5700,
@@ -52,72 +74,18 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 4,
-      "name": "Jun Pang",
-      "distance_km": 15.33,
-      "moving_time_sec": 6480,
-      "moving_time": "1j 48m",
-      "pace": "7:03",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Cris Fe",
-      "distance_km": 15.16,
-      "moving_time_sec": 6840,
-      "moving_time": "1j 54m",
-      "pace": "7:31",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
-    },
-    {
       "rank": 6,
-      "name": "Christine .S",
-      "distance_km": 15.05,
-      "moving_time_sec": 6240,
-      "moving_time": "1j 44m",
-      "pace": "6:55",
+      "name": "Erwin Hauw",
+      "distance_km": 10.09,
+      "moving_time_sec": 2726,
+      "moving_time": "45m 26s",
+      "pace": "4:30",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
+      "photo": "assets/athletes/66730311.jpg"
     },
     {
       "rank": 7,
-      "name": "B A R A T LSP",
-      "distance_km": 14.01,
-      "moving_time_sec": 6300,
-      "moving_time": "1j 45m",
-      "pace": "7:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Feri Yo",
-      "distance_km": 10,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "6:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "silas soetrisno",
-      "distance_km": 7.83,
-      "moving_time_sec": 3074,
-      "moving_time": "51m 14s",
-      "pace": "6:33",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 10,
       "name": "Farhan Kastaa 2",
       "distance_km": 5.17,
       "moving_time_sec": 2506,
@@ -126,6 +94,39 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Halisa Maulidia",
+      "distance_km": 5,
+      "moving_time_sec": 2003,
+      "moving_time": "33m 23s",
+      "pace": "6:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "ahlur narudin",
+      "distance_km": 3.1,
+      "moving_time_sec": 2620,
+      "moving_time": "43m 40s",
+      "pace": "14:05",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71290530.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Coco Tsl",
+      "distance_km": 2.03,
+      "moving_time_sec": 973,
+      "moving_time": "16m 13s",
+      "pace": "7:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
     }
   ]
 }
