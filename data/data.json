@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:10:49.774Z",
+  "generated_at": "2026-09-12T08:21:51.883Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,14 +31,14 @@
     },
     {
       "rank": 2,
-      "name": "Alex Rusman",
-      "distance_km": 17.04,
-      "moving_time_sec": 5580,
-      "moving_time": "1j 33m",
-      "pace": "5:27",
+      "name": "Gerardo Yericko",
+      "distance_km": 15.73,
+      "moving_time_sec": 5700,
+      "moving_time": "1j 35m",
+      "pace": "6:02",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/47763557.jpg"
     },
     {
       "rank": 3,
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 11.03,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "5:26",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Erick Yanto",
       "distance_km": 10.56,
       "moving_time_sec": 3720,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Aditra AL",
       "distance_km": 10.45,
       "moving_time_sec": 4380,
@@ -126,6 +115,17 @@
       "pace": "6:59",
       "activities": 1,
       "elev_m": 0
+    },
+    {
+      "rank": 10,
+      "name": "Feri Yo",
+      "distance_km": 10,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
