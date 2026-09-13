@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:56:22.719Z",
+  "generated_at": "2026-09-13T14:03:59.205Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -41,14 +41,14 @@
     },
     {
       "rank": 3,
-      "name": "Hendri Mulyadi",
-      "distance_km": 20.23,
-      "moving_time_sec": 7860,
-      "moving_time": "2j 11m",
-      "pace": "6:29",
+      "name": "Farhan Kastaa 2",
+      "distance_km": 21.58,
+      "moving_time_sec": 6960,
+      "moving_time": "1j 56m",
+      "pace": "5:23",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
+      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 4,
@@ -96,17 +96,6 @@
     },
     {
       "rank": 8,
-      "name": "Jun Pang",
-      "distance_km": 11.32,
-      "moving_time_sec": 4560,
-      "moving_time": "1j 16m",
-      "pace": "6:43",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 11.02,
       "moving_time_sec": 3720,
@@ -117,14 +106,26 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 10,
-      "name": "silas soetrisno",
-      "distance_km": 10.98,
-      "moving_time_sec": 5640,
-      "moving_time": "1j 34m",
-      "pace": "8:34",
+      "rank": 9,
+      "name": "Halisa Maulidia",
+      "distance_km": 10,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:24",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "william fernando",
+      "distance_km": 9,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "6:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
