@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:08:19.690Z",
+  "generated_at": "2026-09-15T17:55:35.116Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-14",
-  "week_end": "2026-09-15",
+  "week_end": "2026-09-16",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -53,14 +53,14 @@
     },
     {
       "rank": 4,
-      "name": "Yudo Adrian",
-      "distance_km": 12.28,
-      "moving_time_sec": 3887,
-      "moving_time": "1j 4m",
-      "pace": "5:17",
-      "activities": 2,
+      "name": "Retno P",
+      "distance_km": 11.16,
+      "moving_time_sec": 5940,
+      "moving_time": "1j 39m",
+      "pace": "8:52",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
+      "photo": "assets/athletes/190280699.jpg"
     },
     {
       "rank": 5,
@@ -97,35 +97,35 @@
     },
     {
       "rank": 8,
-      "name": "Ike Kusumawati",
-      "distance_km": 9.09,
-      "moving_time_sec": 3498,
-      "moving_time": "58m 18s",
-      "pace": "6:25",
+      "name": "Jun Pang",
+      "distance_km": 10.02,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "6:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19762198.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Yotta Risanggono",
+      "distance_km": 8.02,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "8:36",
       "activities": 1,
       "elev_m": 0
     },
     {
-      "rank": 9,
-      "name": "Friskha Chaca",
-      "distance_km": 9.01,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "7:06",
+      "rank": 10,
+      "name": "william fernando",
+      "distance_km": 7.51,
+      "moving_time_sec": 3008,
+      "moving_time": "50m 8s",
+      "pace": "6:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Christine .S",
-      "distance_km": 8.73,
-      "moving_time_sec": 3759,
-      "moving_time": "1j 2m",
-      "pace": "7:11",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
