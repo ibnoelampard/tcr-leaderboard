@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:17:25.334Z",
+  "generated_at": "2026-09-15T07:12:00.314Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,14 +20,14 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "B A R A T LSP",
-      "distance_km": 17.18,
-      "moving_time_sec": 7560,
-      "moving_time": "2j 6m",
-      "pace": "7:20",
+      "name": "Cris Fe",
+      "distance_km": 15.01,
+      "moving_time_sec": 6060,
+      "moving_time": "1j 41m",
+      "pace": "6:44",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/77575425.jpg"
     },
     {
       "rank": 2,
@@ -53,6 +53,17 @@
     },
     {
       "rank": 4,
+      "name": "Yudo Adrian",
+      "distance_km": 12.28,
+      "moving_time_sec": 3887,
+      "moving_time": "1j 4m",
+      "pace": "5:17",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Aditra AL",
       "distance_km": 11.02,
       "moving_time_sec": 4380,
@@ -62,7 +73,18 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "B A R A T LSP",
+      "distance_km": 10.99,
+      "moving_time_sec": 4800,
+      "moving_time": "1j 20m",
+      "pace": "7:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.83,
       "moving_time_sec": 3660,
@@ -73,18 +95,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
-      "name": "Ivan soesanto",
-      "distance_km": 10.73,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:31",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26800044.jpg"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "name": "Alex Rusman",
       "distance_km": 10.2,
       "moving_time_sec": 3780,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Hendri Mulyadi",
       "distance_km": 10.11,
       "moving_time_sec": 4260,
@@ -106,26 +117,15 @@
       "photo": "assets/athletes/137028433.jpg"
     },
     {
-      "rank": 9,
-      "name": "Fritz Wildan",
-      "distance_km": 10.07,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Gerardo Yericko",
-      "distance_km": 10.03,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "6:17",
+      "name": "Friskha Chaca",
+      "distance_km": 9.01,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "7:06",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
+      "photo": "assets/athletes/31777986.jpg"
     }
   ]
 }
