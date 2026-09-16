@@ -179,16 +179,6 @@
       "distance_km": 11.01,
       "moving_time_sec": 3291,
       "distance_m": 11010
-    },
-    "20191876378": {
-      "id": "20191876378",
-      "athlete": "Erwin Hauw",
-      "athleteId": "66730311",
-      "startDate": "2026-09-15T20:47:47Z",
-      "type": "Run",
-      "distance_km": 13.01,
-      "moving_time_sec": 4260,
-      "distance_m": 13010
     }
   }
 }
