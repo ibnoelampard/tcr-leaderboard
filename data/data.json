@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:10:02.557Z",
+  "generated_at": "2026-09-17T13:02:34.619Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,7 +7,7 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 152,
+    "member_count": 153,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
@@ -15,32 +15,55 @@
   "week_start": "2026-09-14",
   "week_end": "2026-09-17",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Fritz Wildan",
+      "distance_km": 15.58,
+      "moving_time_sec": 6180,
+      "moving_time": "1j 43m",
+      "pace": "6:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Yudo Adrian",
-      "distance_km": 16.64,
-      "moving_time_sec": 4858,
-      "moving_time": "1j 20m",
-      "pace": "4:52",
-      "activities": 2,
+      "distance_km": 15.01,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "4:44",
+      "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 2,
-      "name": "Aditra AL",
-      "distance_km": 16.4,
-      "moving_time_sec": 6000,
-      "moving_time": "1j 40m",
-      "pace": "6:06",
+      "rank": 3,
+      "name": "Erick Yanto",
+      "distance_km": 10.99,
+      "moving_time_sec": 5400,
+      "moving_time": "1j 30m",
+      "pace": "8:11",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Hendri Mulyadi",
+      "distance_km": 10.06,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/137028433.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4320,
@@ -51,7 +74,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "B A R A T LSP",
       "distance_km": 10.01,
       "moving_time_sec": 4320,
@@ -62,18 +85,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 5,
-      "name": "Renaldi Wijaya",
-      "distance_km": 10,
-      "moving_time_sec": 4020,
-      "moving_time": "1j 7m",
-      "pace": "6:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/143447083.jpg"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "name": "Christine .S",
       "distance_km": 8.97,
       "moving_time_sec": 3725,
@@ -84,29 +96,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 7,
-      "name": "Annif D",
-      "distance_km": 8.01,
-      "moving_time_sec": 2771,
-      "moving_time": "46m 11s",
-      "pace": "5:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
-    },
-    {
       "rank": 8,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 7.41,
-      "moving_time_sec": 3038,
-      "moving_time": "50m 38s",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 9,
       "name": "sugiyo .",
       "distance_km": 7.03,
       "moving_time_sec": 3362,
@@ -117,15 +107,26 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 10,
-      "name": "Rudy Hartono",
-      "distance_km": 6.78,
-      "moving_time_sec": 2929,
-      "moving_time": "48m 49s",
-      "pace": "7:12",
+      "rank": 9,
+      "name": "Boris Lethe",
+      "distance_km": 5.31,
+      "moving_time_sec": 2342,
+      "moving_time": "39m 2s",
+      "pace": "7:21",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
+      "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Daniel Steven",
+      "distance_km": 4.3,
+      "moving_time_sec": 2579,
+      "moving_time": "42m 59s",
+      "pace": "9:60",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
     }
   ]
 }
