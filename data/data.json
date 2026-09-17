@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:02:34.619Z",
+  "generated_at": "2026-09-17T17:55:52.505Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-14",
-  "week_end": "2026-09-17",
+  "week_end": "2026-09-18",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -64,50 +64,38 @@
     },
     {
       "rank": 5,
-      "name": "Cris Fe",
-      "distance_km": 10.01,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:12",
+      "name": "Jun Pang",
+      "distance_km": 10.02,
+      "moving_time_sec": 4020,
+      "moving_time": "1j 7m",
+      "pace": "6:41",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
+      "photo": "assets/athletes/19762198.jpg"
     },
     {
       "rank": 6,
-      "name": "B A R A T LSP",
-      "distance_km": 10.01,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:12",
+      "name": "Yotta Risanggono",
+      "distance_km": 9.03,
+      "moving_time_sec": 4380,
+      "moving_time": "1j 13m",
+      "pace": "8:05",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "elev_m": 0
     },
     {
       "rank": 7,
-      "name": "Christine .S",
-      "distance_km": 8.97,
-      "moving_time_sec": 3725,
-      "moving_time": "1j 2m",
-      "pace": "6:55",
-      "activities": 4,
+      "name": "Steven Cloon",
+      "distance_km": 7.15,
+      "moving_time_sec": 2653,
+      "moving_time": "44m 13s",
+      "pace": "6:11",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
+      "photo": "assets/athletes/83609058.jpg"
     },
     {
       "rank": 8,
-      "name": "sugiyo .",
-      "distance_km": 7.03,
-      "moving_time_sec": 3362,
-      "moving_time": "56m 2s",
-      "pace": "7:58",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 5.31,
       "moving_time_sec": 2342,
@@ -116,6 +104,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Feri Yo",
+      "distance_km": 5.1,
+      "moving_time_sec": 2482,
+      "moving_time": "41m 22s",
+      "pace": "8:07",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     },
     {
       "rank": 10,
