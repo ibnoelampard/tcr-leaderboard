@@ -20,6 +20,16 @@
       "moving_time_sec": 2341,
       "distance_m": 5060
     },
+    "20227777024": {
+      "id": "20227777024",
+      "athlete": "Feri Yo",
+      "athleteId": "119721281",
+      "startDate": "2026-09-17T17:00:01Z",
+      "type": "Run",
+      "distance_km": 2.62,
+      "moving_time_sec": 1981,
+      "distance_m": 2620
+    },
     "20225656855": {
       "id": "20225656855",
       "athlete": "Alex Rusman",
@@ -179,16 +189,6 @@
       "distance_km": 1.08,
       "moving_time_sec": 210,
       "distance_m": 1080
-    },
-    "20214212026": {
-      "id": "20214212026",
-      "athlete": "Lyutasya .",
-      "athleteId": "128643628",
-      "startDate": "2026-09-17T13:33:50Z",
-      "type": "Run",
-      "distance_km": 3.79,
-      "moving_time_sec": 1599,
-      "distance_m": 3790
     }
   }
 }
