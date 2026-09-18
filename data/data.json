@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:46:16.244Z",
+  "generated_at": "2026-09-18T14:05:58.309Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,28 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 27.36,
+      "moving_time_sec": 8820,
+      "moving_time": "2j 27m",
+      "pace": "5:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Renaldi Wijaya",
+      "distance_km": 16,
+      "moving_time_sec": 5280,
+      "moving_time": "1j 28m",
+      "pace": "5:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/143447083.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 12.62,
       "moving_time_sec": 5160,
@@ -29,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Toni Djiaw",
       "distance_km": 12.16,
       "moving_time_sec": 4320,
@@ -40,7 +62,7 @@
       "photo": "assets/athletes/142218523.jpg"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Erwin Hauw",
       "distance_km": 11.2,
       "moving_time_sec": 3780,
@@ -51,7 +73,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Aditya Rudy",
       "distance_km": 10.11,
       "moving_time_sec": 3960,
@@ -62,18 +84,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 5,
-      "name": "Jun Pang",
-      "distance_km": 10.02,
-      "moving_time_sec": 4020,
-      "moving_time": "1j 7m",
-      "pace": "6:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "name": "Cris Fe",
       "distance_km": 10.01,
       "moving_time_sec": 4500,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "B A R A T LSP",
       "distance_km": 10.01,
       "moving_time_sec": 4560,
@@ -93,16 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Yotta Risanggono",
-      "distance_km": 9.03,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "8:05",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 9,
