@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:41:26.011Z",
+  "generated_at": "2026-09-19T17:00:12.065Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,9 +13,9 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-14",
-  "week_end": "2026-09-19",
+  "week_end": "2026-09-20",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -107,6 +107,17 @@
     },
     {
       "rank": 9,
+      "name": "David Nolan",
+      "distance_km": 6.54,
+      "moving_time_sec": 2412,
+      "moving_time": "40m 12s",
+      "pace": "6:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Halisa Maulidia",
       "distance_km": 6,
       "moving_time_sec": 2391,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153432832.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Yotta Risanggono",
-      "distance_km": 5.93,
-      "moving_time_sec": 3416,
-      "moving_time": "56m 56s",
-      "pace": "9:36",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
     }
   ]
 }
