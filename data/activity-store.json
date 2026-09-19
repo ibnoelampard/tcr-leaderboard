@@ -50,6 +50,16 @@
       "moving_time_sec": 6720,
       "distance_m": 12020
     },
+    "20234758353": {
+      "id": "20234758353",
+      "athlete": "Denni Agustian",
+      "athleteId": "63856686",
+      "startDate": "2026-09-18T23:23:43Z",
+      "type": "Run",
+      "distance_km": 10,
+      "moving_time_sec": 6360,
+      "distance_m": 10000
+    },
     "20233952249": {
       "id": "20233952249",
       "athlete": "Roby Wong",
@@ -89,6 +99,16 @@
       "distance_km": 3.12,
       "moving_time_sec": 1570,
       "distance_m": 3120
+    },
+    "20235884716": {
+      "id": "20235884716",
+      "athlete": "Yotta Risanggono",
+      "athleteId": "125540711",
+      "startDate": "2026-09-18T23:11:38Z",
+      "type": "Run",
+      "distance_km": 5.93,
+      "moving_time_sec": 3416,
+      "distance_m": 5930
     },
     "20233416937": {
       "id": "20233416937",
@@ -139,36 +159,6 @@
       "distance_km": 7.36,
       "moving_time_sec": 3242,
       "distance_m": 7360
-    },
-    "20233840222": {
-      "id": "20233840222",
-      "athlete": "Gerardo Yericko",
-      "athleteId": "47763557",
-      "startDate": "2026-09-18T22:59:52Z",
-      "type": "Run",
-      "distance_km": 7.03,
-      "moving_time_sec": 2774,
-      "distance_m": 7030
-    },
-    "20233217036": {
-      "id": "20233217036",
-      "athlete": "Alex Rusman",
-      "athleteId": "153243434",
-      "startDate": "2026-09-18T22:04:55Z",
-      "type": "Run",
-      "distance_km": 17.17,
-      "moving_time_sec": 5940,
-      "distance_m": 17170
-    },
-    "20233275764": {
-      "id": "20233275764",
-      "athlete": "Ronald Hartadi",
-      "athleteId": "43789218",
-      "startDate": "2026-09-18T22:51:47Z",
-      "type": "Run",
-      "distance_km": 6.01,
-      "moving_time_sec": 2324,
-      "distance_m": 6010
     }
   }
 }
