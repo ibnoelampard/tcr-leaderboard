@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:00:12.065Z",
+  "generated_at": "2026-09-19T20:03:46.621Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Putri Puspita",
+      "distance_km": 21.27,
+      "moving_time_sec": 10680,
+      "moving_time": "2j 58m",
+      "pace": "8:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/13950824.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aldino Wijaksono",
       "distance_km": 20.25,
       "moving_time_sec": 7020,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Feri Yo",
       "distance_km": 16.15,
       "moving_time_sec": 7485,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "donny charli",
       "distance_km": 12.02,
       "moving_time_sec": 6720,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/46870200.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Aditya Rudy",
       "distance_km": 11.45,
       "moving_time_sec": 4440,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Santi Kurniasari",
       "distance_km": 10.05,
       "moving_time_sec": 5220,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Denni Agustian",
       "distance_km": 10,
       "moving_time_sec": 6360,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/63856686.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Rudy Yulianus",
       "distance_km": 7.36,
       "moving_time_sec": 3106,
@@ -106,7 +117,7 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "David Nolan",
       "distance_km": 6.54,
       "moving_time_sec": 2412,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Halisa Maulidia",
-      "distance_km": 6,
-      "moving_time_sec": 2391,
-      "moving_time": "39m 51s",
-      "pace": "6:39",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
     }
   ]
 }
