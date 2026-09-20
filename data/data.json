@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:04:23.374Z",
+  "generated_at": "2026-09-20T13:56:55.879Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -21,27 +21,16 @@
     {
       "rank": 1,
       "name": "DJayus DJayus",
-      "distance_km": 43.3,
-      "moving_time_sec": 20820,
-      "moving_time": "5j 47m",
-      "pace": "8:01",
-      "activities": 2,
+      "distance_km": 21.4,
+      "moving_time_sec": 10200,
+      "moving_time": "2j 50m",
+      "pace": "7:57",
+      "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/42630135.jpg"
     },
     {
       "rank": 2,
-      "name": "Bram Siagian",
-      "distance_km": 21.77,
-      "moving_time_sec": 11580,
-      "moving_time": "3j 13m",
-      "pace": "8:52",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/186650879.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Gerardo Yericko",
       "distance_km": 21.24,
       "moving_time_sec": 10560,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Heryadi Oey",
       "distance_km": 21.16,
       "moving_time_sec": 9600,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/3816716.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Nesdi Waty",
       "distance_km": 20.01,
       "moving_time_sec": 8460,
@@ -72,6 +61,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26779694.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Yotta Risanggono",
+      "distance_km": 17.73,
+      "moving_time_sec": 9497,
+      "moving_time": "2j 38m",
+      "pace": "8:56",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/125540711.jpg"
     },
     {
       "rank": 6,
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Yotta Risanggono",
-      "distance_km": 15.25,
-      "moving_time_sec": 8340,
-      "moving_time": "2j 19m",
-      "pace": "9:07",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Aldino Wijaksono",
       "distance_km": 15.14,
       "moving_time_sec": 7020,
@@ -116,6 +105,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/128769022.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "David Nolan",
+      "distance_km": 13.42,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "5:04",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
     },
     {
       "rank": 10,
