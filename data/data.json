@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:56:55.879Z",
+  "generated_at": "2026-09-20T17:20:14.789Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,121 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-09-14",
-  "week_end": "2026-09-20",
+  "week_start": "2026-09-21",
+  "week_end": "2026-09-21",
   "metric": "distance",
-  "total_activities": 17,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "DJayus DJayus",
-      "distance_km": 21.4,
-      "moving_time_sec": 10200,
-      "moving_time": "2j 50m",
-      "pace": "7:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Gerardo Yericko",
-      "distance_km": 21.24,
-      "moving_time_sec": 10560,
-      "moving_time": "2j 56m",
-      "pace": "8:17",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/47763557.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Heryadi Oey",
-      "distance_km": 21.16,
-      "moving_time_sec": 9600,
-      "moving_time": "2j 40m",
-      "pace": "7:34",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3816716.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Nesdi Waty",
-      "distance_km": 20.01,
-      "moving_time_sec": 8460,
-      "moving_time": "2j 21m",
-      "pace": "7:03",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Yotta Risanggono",
-      "distance_km": 17.73,
-      "moving_time_sec": 9497,
-      "moving_time": "2j 38m",
-      "pace": "8:56",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Ronald Hartadi",
-      "distance_km": 17,
-      "moving_time_sec": 7140,
-      "moving_time": "1j 59m",
-      "pace": "7:00",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/43789218.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Andreas Mario",
-      "distance_km": 15.3,
-      "moving_time_sec": 7800,
-      "moving_time": "2j 10m",
-      "pace": "8:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Aldino Wijaksono",
-      "distance_km": 15.14,
-      "moving_time_sec": 7020,
-      "moving_time": "1j 57m",
-      "pace": "7:44",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "David Nolan",
-      "distance_km": 13.42,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "5:04",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Halisa Maulidia",
-      "distance_km": 13,
-      "moving_time_sec": 5340,
-      "moving_time": "1j 29m",
-      "pace": "6:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
