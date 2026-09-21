@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:23:09.129Z",
+  "generated_at": "2026-09-21T09:36:15.591Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,43 @@
   "week_start": "2026-09-21",
   "week_end": "2026-09-21",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 6,
+  "total_athletes": 6,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 7.11,
+      "moving_time_sec": 3579,
+      "moving_time": "59m 39s",
+      "pace": "8:23",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.01,
+      "moving_time_sec": 3720,
+      "moving_time": "1j 2m",
+      "pace": "8:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "reinal reinal",
+      "distance_km": 5.62,
+      "moving_time_sec": 2471,
+      "moving_time": "41m 11s",
+      "pace": "7:20",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3852323.jpg"
+    },
+    {
+      "rank": 4,
       "name": "sugiyo .",
       "distance_km": 5.27,
       "moving_time_sec": 1765,
@@ -30,7 +62,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "name": "Fritz Wildan",
       "distance_km": 5.26,
       "moving_time_sec": 2458,
@@ -41,7 +73,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "name": "Daniel Desch 🇩🇪🇮🇩",
       "distance_km": 1.15,
       "moving_time_sec": 540,
