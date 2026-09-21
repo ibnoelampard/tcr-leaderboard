@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:51:01.062Z",
+  "generated_at": "2026-09-21T03:23:09.129Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,41 @@
   "week_start": "2026-09-21",
   "week_end": "2026-09-21",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 3,
+  "total_athletes": 3,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "sugiyo .",
+      "distance_km": 5.27,
+      "moving_time_sec": 1765,
+      "moving_time": "29m 25s",
+      "pace": "5:35",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 5.26,
+      "moving_time_sec": 2458,
+      "moving_time": "40m 58s",
+      "pace": "7:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Daniel Desch 🇩🇪🇮🇩",
+      "distance_km": 1.15,
+      "moving_time_sec": 540,
+      "moving_time": "9m 0s",
+      "pace": "7:50",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17582722.jpg"
+    }
+  ]
 }
