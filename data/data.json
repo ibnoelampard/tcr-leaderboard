@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:36:15.591Z",
+  "generated_at": "2026-09-21T16:12:10.628Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-09-21",
   "week_end": "2026-09-21",
   "metric": "distance",
-  "total_activities": 6,
-  "total_athletes": 6,
+  "total_activities": 17,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Roby Wong",
+      "distance_km": 8.05,
+      "moving_time_sec": 4993,
+      "moving_time": "1j 23m",
+      "pace": "10:20",
+      "activities": 4,
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Aditra AL",
       "distance_km": 7.11,
       "moving_time_sec": 3579,
@@ -29,7 +40,7 @@
       "elev_m": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Hanif Rahmadian",
       "distance_km": 7.01,
       "moving_time_sec": 3720,
@@ -40,7 +51,29 @@
       "photo": "assets/athletes/17887937.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Daniel Steven",
+      "distance_km": 6.35,
+      "moving_time_sec": 2996,
+      "moving_time": "49m 56s",
+      "pace": "7:52",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "severinus tyan",
+      "distance_km": 6.18,
+      "moving_time_sec": 2782,
+      "moving_time": "46m 22s",
+      "pace": "7:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 6,
       "name": "reinal reinal",
       "distance_km": 5.62,
       "moving_time_sec": 2471,
@@ -51,7 +84,7 @@
       "photo": "assets/athletes/3852323.jpg"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "sugiyo .",
       "distance_km": 5.27,
       "moving_time_sec": 1765,
@@ -62,7 +95,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Fritz Wildan",
       "distance_km": 5.26,
       "moving_time_sec": 2458,
@@ -73,15 +106,26 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 6,
-      "name": "Daniel Desch 🇩🇪🇮🇩",
-      "distance_km": 1.15,
-      "moving_time_sec": 540,
-      "moving_time": "9m 0s",
-      "pace": "7:50",
+      "rank": 9,
+      "name": "Boris Lethe",
+      "distance_km": 5.18,
+      "moving_time_sec": 2184,
+      "moving_time": "36m 24s",
+      "pace": "7:02",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/17582722.jpg"
+      "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "william fernando",
+      "distance_km": 3.8,
+      "moving_time_sec": 1532,
+      "moving_time": "25m 32s",
+      "pace": "6:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
