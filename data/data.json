@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:06:15.771Z",
+  "generated_at": "2026-09-22T17:56:38.593Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-21",
-  "week_end": "2026-09-22",
+  "week_end": "2026-09-23",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "B A R A T LSP",
+      "distance_km": 15,
+      "moving_time_sec": 6300,
+      "moving_time": "1j 45m",
+      "pace": "7:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Aditra AL",
       "distance_km": 13.1,
       "moving_time_sec": 5340,
@@ -29,7 +40,7 @@
       "elev_m": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aldino Wijaksono",
       "distance_km": 12.91,
       "moving_time_sec": 4500,
@@ -40,62 +51,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 3,
-      "name": "Muzammil Akhmad",
-      "distance_km": 12,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "5:55",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/18602303.jpg"
-    },
-    {
       "rank": 4,
-      "name": "Nesdi Waty",
-      "distance_km": 11.48,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "6:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Ivan soesanto",
-      "distance_km": 10.27,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:18",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26800044.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Fritz Wildan",
-      "distance_km": 10.21,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Yudo Adrian",
-      "distance_km": 10.08,
-      "moving_time_sec": 3219,
-      "moving_time": "53m 39s",
-      "pace": "5:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 8,
       "name": "Albert Charly",
       "distance_km": 10.01,
       "moving_time_sec": 4740,
@@ -106,7 +62,7 @@
       "photo": "assets/athletes/206603154.jpg"
     },
     {
-      "rank": 9,
+      "rank": 5,
       "name": "Aditya Rudy",
       "distance_km": 10,
       "moving_time_sec": 4080,
@@ -117,14 +73,59 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 10,
-      "name": "Ike Kusumawati",
-      "distance_km": 9.5,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "6:44",
+      "rank": 6,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 8.03,
+      "moving_time_sec": 3558,
+      "moving_time": "59m 18s",
+      "pace": "7:23",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Lyutasya .",
+      "distance_km": 8.03,
+      "moving_time_sec": 3430,
+      "moving_time": "57m 10s",
+      "pace": "7:07",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Hanif Rahmadian",
+      "distance_km": 8.02,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "8:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "donny charli",
+      "distance_km": 8.01,
+      "moving_time_sec": 3780,
+      "moving_time": "1j 3m",
+      "pace": "7:52",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/46870200.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 6.26,
+      "moving_time_sec": 3338,
+      "moving_time": "55m 38s",
+      "pace": "8:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
     }
   ]
 }
