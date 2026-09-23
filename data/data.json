@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:34:17.805Z",
+  "generated_at": "2026-09-23T10:47:27.338Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "Christine .S",
-      "distance_km": 7.88,
-      "moving_time_sec": 3158,
-      "moving_time": "52m 38s",
-      "pace": "6:41",
-      "activities": 8,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Diana Melina",
       "distance_km": 6.09,
       "moving_time_sec": 2694,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/126056724.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Rudy Yulianus",
       "distance_km": 6.08,
       "moving_time_sec": 2708,
@@ -106,26 +95,37 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
-      "name": "Oline CJ",
-      "distance_km": 5.01,
-      "moving_time_sec": 2600,
-      "moving_time": "43m 20s",
-      "pace": "8:39",
+      "rank": 8,
+      "name": "Halisa Maulidia",
+      "distance_km": 6.01,
+      "moving_time_sec": 2453,
+      "moving_time": "40m 53s",
+      "pace": "6:48",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/105349381.jpg"
+      "photo": "assets/athletes/153432832.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Christine .S",
+      "distance_km": 5.88,
+      "moving_time_sec": 2195,
+      "moving_time": "36m 35s",
+      "pace": "6:13",
+      "activities": 7,
+      "elev_m": 0,
+      "photo": "assets/athletes/71718168.jpg"
     },
     {
       "rank": 10,
-      "name": "Rudy Hartono",
-      "distance_km": 3.77,
-      "moving_time_sec": 1479,
-      "moving_time": "24m 39s",
-      "pace": "6:32",
+      "name": "Boris Lethe",
+      "distance_km": 5.62,
+      "moving_time_sec": 2067,
+      "moving_time": "34m 27s",
+      "pace": "6:08",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
+      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
