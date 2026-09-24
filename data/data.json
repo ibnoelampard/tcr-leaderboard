@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:12:44.949Z",
+  "generated_at": "2026-09-24T18:11:42.574Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-21",
-  "week_end": "2026-09-24",
+  "week_end": "2026-09-25",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -31,28 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Cris Fe",
-      "distance_km": 10.03,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:11",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Alex Rusman",
-      "distance_km": 10.01,
-      "moving_time_sec": 4200,
-      "moving_time": "1j 10m",
-      "pace": "6:60",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Feeding Frenzy",
       "distance_km": 8.88,
       "moving_time_sec": 3840,
@@ -62,18 +40,18 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
-      "name": "B A R A T LSP",
-      "distance_km": 7.3,
-      "moving_time_sec": 3146,
-      "moving_time": "52m 26s",
-      "pace": "7:11",
+      "rank": 3,
+      "name": "Juliano Fransiscus",
+      "distance_km": 7.25,
+      "moving_time_sec": 3428,
+      "moving_time": "57m 8s",
+      "pace": "7:53",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/129995651.jpg"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "name": "Gerardo Yericko",
       "distance_km": 6.77,
       "moving_time_sec": 2400,
@@ -84,7 +62,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "Roby Wong",
       "distance_km": 6.6,
       "moving_time_sec": 2626,
@@ -95,7 +73,7 @@
       "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "name": "Retno P",
       "distance_km": 6.29,
       "moving_time_sec": 2941,
@@ -106,18 +84,7 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 9,
-      "name": "sugiyo .",
-      "distance_km": 6.13,
-      "moving_time_sec": 2534,
-      "moving_time": "42m 14s",
-      "pace": "6:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "name": "Antin Achai",
       "distance_km": 6.09,
       "moving_time_sec": 2545,
@@ -126,6 +93,38 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/120428252.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Feri Yo",
+      "distance_km": 5.32,
+      "moving_time_sec": 2407,
+      "moving_time": "40m 7s",
+      "pace": "7:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Denny Hy",
+      "distance_km": 5.01,
+      "moving_time_sec": 1917,
+      "moving_time": "31m 57s",
+      "pace": "6:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rani Handayani",
+      "distance_km": 4,
+      "moving_time_sec": 1964,
+      "moving_time": "32m 44s",
+      "pace": "8:11",
+      "activities": 1,
+      "elev_m": 0
     }
   ]
 }
