@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:11:42.574Z",
+  "generated_at": "2026-09-24T23:00:27.073Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Toni Djiaw",
+      "distance_km": 9.16,
+      "moving_time_sec": 3519,
+      "moving_time": "58m 39s",
+      "pace": "6:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Feeding Frenzy",
       "distance_km": 8.88,
       "moving_time_sec": 3840,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Juliano Fransiscus",
       "distance_km": 7.25,
       "moving_time_sec": 3428,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/129995651.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Gerardo Yericko",
       "distance_km": 6.77,
       "moving_time_sec": 2400,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Roby Wong",
       "distance_km": 6.6,
       "moving_time_sec": 2626,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Retno P",
       "distance_km": 6.29,
       "moving_time_sec": 2941,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Antin Achai",
       "distance_km": 6.09,
       "moving_time_sec": 2545,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Feri Yo",
       "distance_km": 5.32,
       "moving_time_sec": 2407,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Denny Hy",
       "distance_km": 5.01,
       "moving_time_sec": 1917,
@@ -115,16 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62565051.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Rani Handayani",
-      "distance_km": 4,
-      "moving_time_sec": 1964,
-      "moving_time": "32m 44s",
-      "pace": "8:11",
-      "activities": 1,
-      "elev_m": 0
     }
   ]
 }
