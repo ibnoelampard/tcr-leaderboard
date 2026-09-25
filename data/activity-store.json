@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20324897305": {
+      "id": "20324897305",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-25T14:36:45Z",
+      "type": "Run",
+      "distance_km": 3,
+      "moving_time_sec": 1293,
+      "distance_m": 3000
+    },
     "20324771589": {
       "id": "20324771589",
       "athlete": "william fernando",
@@ -189,16 +199,6 @@
       "distance_km": 3.1,
       "moving_time_sec": 1360,
       "distance_m": 3100
-    },
-    "20311262977": {
-      "id": "20311262977",
-      "athlete": "Lyutasya .",
-      "athleteId": "128643628",
-      "startDate": "2026-09-24T13:58:58Z",
-      "type": "Run",
-      "distance_km": 3.13,
-      "moving_time_sec": 1664,
-      "distance_m": 3130
     }
   }
 }
