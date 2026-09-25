@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:22:58.593Z",
+  "generated_at": "2026-09-25T14:59:24.459Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -95,6 +95,17 @@
     },
     {
       "rank": 8,
+      "name": "william fernando",
+      "distance_km": 8,
+      "moving_time_sec": 3122,
+      "moving_time": "52m 2s",
+      "pace": "6:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30574816.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Ery Murniasih",
       "distance_km": 8,
       "moving_time_sec": 3600,
@@ -102,17 +113,6 @@
       "pace": "7:30",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 9,
-      "name": "Juliano Fransiscus",
-      "distance_km": 7.25,
-      "moving_time_sec": 3428,
-      "moving_time": "57m 8s",
-      "pace": "7:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/129995651.jpg"
     },
     {
       "rank": 10,
