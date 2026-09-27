@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:59:18.254Z",
+  "generated_at": "2026-09-27T19:32:07.093Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,120 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-09-21",
-  "week_end": "2026-09-27",
+  "week_start": "2026-09-28",
+  "week_end": "2026-09-28",
   "metric": "distance",
-  "total_activities": 17,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Gloria Guida",
-      "distance_km": 22,
-      "moving_time_sec": 10260,
-      "moving_time": "2j 51m",
-      "pace": "7:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Feri Yo",
-      "distance_km": 21.83,
-      "moving_time_sec": 9900,
-      "moving_time": "2j 45m",
-      "pace": "7:34",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/119721281.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "DJayus DJayus",
-      "distance_km": 21.62,
-      "moving_time_sec": 8880,
-      "moving_time": "2j 28m",
-      "pace": "6:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Toni Djiaw",
-      "distance_km": 21.43,
-      "moving_time_sec": 9120,
-      "moving_time": "2j 32m",
-      "pace": "7:06",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Alex Rusman",
-      "distance_km": 21.42,
-      "moving_time_sec": 9540,
-      "moving_time": "2j 39m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Nesdi Waty",
-      "distance_km": 21.35,
-      "moving_time_sec": 8520,
-      "moving_time": "2j 22m",
-      "pace": "6:39",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "anna bella",
-      "distance_km": 21.34,
-      "moving_time_sec": 9900,
-      "moving_time": "2j 45m",
-      "pace": "7:44",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 8,
-      "name": "Ronald Hartadi",
-      "distance_km": 21.33,
-      "moving_time_sec": 9120,
-      "moving_time": "2j 32m",
-      "pace": "7:08",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/43789218.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Denni Agustian",
-      "distance_km": 15.06,
-      "moving_time_sec": 9840,
-      "moving_time": "2j 44m",
-      "pace": "10:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/63856686.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Cris Fe",
-      "distance_km": 13.25,
-      "moving_time_sec": 8400,
-      "moving_time": "2j 20m",
-      "pace": "10:34",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
