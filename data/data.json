@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:49:04.357Z",
+  "generated_at": "2026-09-27T14:59:18.254Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -75,17 +75,6 @@
     },
     {
       "rank": 6,
-      "name": "william fernando",
-      "distance_km": 21.41,
-      "moving_time_sec": 8580,
-      "moving_time": "2j 23m",
-      "pace": "6:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Nesdi Waty",
       "distance_km": 21.35,
       "moving_time_sec": 8520,
@@ -94,6 +83,16 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26779694.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "anna bella",
+      "distance_km": 21.34,
+      "moving_time_sec": 9900,
+      "moving_time": "2j 45m",
+      "pace": "7:44",
+      "activities": 1,
+      "elev_m": 0
     },
     {
       "rank": 8,
