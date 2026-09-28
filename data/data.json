@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:34:30.342Z",
+  "generated_at": "2026-09-28T19:15:19.332Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-28",
-  "week_end": "2026-09-28",
+  "week_end": "2026-09-29",
   "metric": "distance",
-  "total_activities": 5,
-  "total_athletes": 5,
+  "total_activities": 9,
+  "total_athletes": 9,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Gerardo Yericko",
+      "distance_km": 11.68,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "6:05",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Aditya Rudy",
       "distance_km": 10.1,
       "moving_time_sec": 4020,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 9.15,
       "moving_time_sec": 4080,
@@ -40,7 +51,18 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 6.33,
+      "moving_time_sec": 3205,
+      "moving_time": "53m 25s",
+      "pace": "8:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 5,
       "name": "sugyo .",
       "distance_km": 6.25,
       "moving_time_sec": 3058,
@@ -51,7 +73,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 6.16,
       "moving_time_sec": 2757,
@@ -62,7 +84,18 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "name": "Fritz Wildan",
+      "distance_km": 5.22,
+      "moving_time_sec": 2345,
+      "moving_time": "39m 5s",
+      "pace": "7:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 8,
       "name": "dike wicaksono",
       "distance_km": 5.03,
       "moving_time_sec": 1831,
@@ -71,6 +104,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/17481263.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Annif D",
+      "distance_km": 5.01,
+      "moving_time_sec": 2145,
+      "moving_time": "35m 45s",
+      "pace": "7:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/3720353.jpg"
     }
   ]
 }
