@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:37:05.334Z",
+  "generated_at": "2026-09-29T20:26:49.789Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-28",
-  "week_end": "2026-09-29",
+  "week_end": "2026-09-30",
   "metric": "distance",
   "total_activities": 17,
   "total_athletes": 10,
@@ -53,6 +53,17 @@
     },
     {
       "rank": 4,
+      "name": "Rudy Hartono",
+      "distance_km": 9.37,
+      "moving_time_sec": 3779,
+      "moving_time": "1j 2m",
+      "pace": "6:43",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Lyutasya .",
       "distance_km": 8.01,
       "moving_time_sec": 3578,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Arif Kurniawan",
       "distance_km": 7.01,
       "moving_time_sec": 3252,
@@ -72,17 +83,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/19073451.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Maria Goldiana Taping",
-      "distance_km": 6.59,
-      "moving_time_sec": 2482,
-      "moving_time": "41m 22s",
-      "pace": "6:17",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/71202449.jpg"
     },
     {
       "rank": 7,
@@ -99,8 +99,8 @@
       "rank": 8,
       "name": "Farhan Kastaa 2",
       "distance_km": 5.11,
-      "moving_time_sec": 1340,
-      "moving_time": "22m 20s",
+      "moving_time_sec": 1341,
+      "moving_time": "22m 21s",
       "pace": "4:22",
       "activities": 2,
       "elev_m": 0,

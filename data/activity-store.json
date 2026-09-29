@@ -7,7 +7,7 @@
       "startDate": "2026-09-29T13:40:43Z",
       "type": "Run",
       "distance_km": 4.67,
-      "moving_time_sec": 1180,
+      "moving_time_sec": 1181,
       "distance_m": 4670
     },
     "20378385675": {
@@ -100,6 +100,16 @@
       "moving_time_sec": 172,
       "distance_m": 410
     },
+    "20381995610": {
+      "id": "20381995610",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-29T11:19:13Z",
+      "type": "Run",
+      "distance_km": 3.03,
+      "moving_time_sec": 1260,
+      "distance_m": 3030
+    },
     "20376749605": {
       "id": "20376749605",
       "athlete": "Antin Achai",
@@ -109,6 +119,16 @@
       "distance_km": 2.09,
       "moving_time_sec": 962,
       "distance_m": 2090
+    },
+    "20381982742": {
+      "id": "20381982742",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-29T10:56:55Z",
+      "type": "Run",
+      "distance_km": 3.33,
+      "moving_time_sec": 1205,
+      "distance_m": 3330
     },
     "20376361294": {
       "id": "20376361294",
@@ -149,26 +169,6 @@
       "distance_km": 0.41,
       "moving_time_sec": 95,
       "distance_m": 410
-    },
-    "20375754557": {
-      "id": "20375754557",
-      "athlete": "Maria Goldiana Taping",
-      "athleteId": "71202449",
-      "startDate": "2026-09-29T09:41:27Z",
-      "type": "Run",
-      "distance_km": 6.18,
-      "moving_time_sec": 2387,
-      "distance_m": 6180
-    },
-    "20372306080": {
-      "id": "20372306080",
-      "athlete": "Yotta Risanggono",
-      "athleteId": "125540711",
-      "startDate": "2026-09-29T01:18:00Z",
-      "type": "Run",
-      "distance_km": 2.9,
-      "moving_time_sec": 1654,
-      "distance_m": 2900
     }
   }
 }
