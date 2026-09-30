@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:59:29.880Z",
+  "generated_at": "2026-09-30T14:51:31.443Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-09-28",
   "week_end": "2026-09-30",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Fritz Wildan",
+      "distance_km": 15.43,
+      "moving_time_sec": 6000,
+      "moving_time": "1j 40m",
+      "pace": "6:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/26923775.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 10.02,
       "moving_time_sec": 4260,
@@ -38,17 +49,6 @@
       "pace": "7:05",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 3,
-      "name": "B A R A T LSP",
-      "distance_km": 10.01,
-      "moving_time_sec": 4080,
-      "moving_time": "1j 8m",
-      "pace": "6:48",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 4,
@@ -107,14 +107,14 @@
     },
     {
       "rank": 9,
-      "name": "Arif Kurniawan",
-      "distance_km": 7.01,
-      "moving_time_sec": 3252,
-      "moving_time": "54m 12s",
-      "pace": "7:44",
+      "name": "Lyutasya .",
+      "distance_km": 6.89,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "8:42",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/19073451.jpg"
+      "photo": "assets/athletes/128643628.jpg"
     },
     {
       "rank": 10,
