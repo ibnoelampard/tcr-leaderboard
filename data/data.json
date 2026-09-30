@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:04:10.137Z",
+  "generated_at": "2026-09-30T07:59:29.880Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-09-28",
   "week_end": "2026-09-30",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -52,6 +52,17 @@
     },
     {
       "rank": 4,
+      "name": "Aditya Rudy",
+      "distance_km": 9.8,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Annif D",
       "distance_km": 8.01,
       "moving_time_sec": 3326,
@@ -60,17 +71,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/3720353.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Lyutasya .",
-      "distance_km": 8.01,
-      "moving_time_sec": 3578,
-      "moving_time": "59m 38s",
-      "pace": "7:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
     },
     {
       "rank": 6,
@@ -85,6 +85,17 @@
     },
     {
       "rank": 7,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.41,
+      "moving_time_sec": 2337,
+      "moving_time": "38m 57s",
+      "pace": "5:15",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Christine .S",
       "distance_km": 7.02,
       "moving_time_sec": 3119,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Arif Kurniawan",
       "distance_km": 7.01,
       "moving_time_sec": 3252,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/19073451.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "severinus tyan",
       "distance_km": 6.22,
       "moving_time_sec": 2801,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Oline CJ",
-      "distance_km": 5.46,
-      "moving_time_sec": 2455,
-      "moving_time": "40m 55s",
-      "pace": "7:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/105349381.jpg"
     }
   ]
 }
