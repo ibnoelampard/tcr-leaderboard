@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20395221868": {
+      "id": "20395221868",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-09-30T16:09:57Z",
+      "type": "Run",
+      "distance_km": 3.3,
+      "moving_time_sec": 1350,
+      "distance_m": 3300
+    },
     "20393360649": {
       "id": "20393360649",
       "athlete": "Arif Kurniawan",
@@ -39,6 +49,16 @@
       "distance_km": 5.04,
       "moving_time_sec": 2161,
       "distance_m": 5040
+    },
+    "20393783673": {
+      "id": "20393783673",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-09-30T10:51:36Z",
+      "type": "Run",
+      "distance_km": 10.5,
+      "moving_time_sec": 4320,
+      "distance_m": 10500
     },
     "20391410604": {
       "id": "20391410604",
@@ -179,26 +199,6 @@
       "distance_km": 2.02,
       "moving_time_sec": 733,
       "distance_m": 2020
-    },
-    "20378971374": {
-      "id": "20378971374",
-      "athlete": "Farhan Kastaa 2",
-      "athleteId": "1390057573",
-      "startDate": "2026-09-29T13:40:43Z",
-      "type": "Run",
-      "distance_km": 4.67,
-      "moving_time_sec": 1181,
-      "distance_m": 4670
-    },
-    "20378385675": {
-      "id": "20378385675",
-      "athlete": "Aldino Wijaksono",
-      "athleteId": "128769022",
-      "startDate": "2026-09-29T11:37:13Z",
-      "type": "Run",
-      "distance_km": 20.1,
-      "moving_time_sec": 7140,
-      "distance_m": 20100
     }
   }
 }

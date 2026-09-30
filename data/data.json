@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:51:31.443Z",
+  "generated_at": "2026-09-30T20:32:13.452Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,24 +13,13 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-09-28",
-  "week_end": "2026-09-30",
+  "week_end": "2026-10-01",
   "metric": "distance",
   "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Aldino Wijaksono",
-      "distance_km": 30.25,
-      "moving_time_sec": 10733,
-      "moving_time": "2j 58m",
-      "pace": "5:55",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/128769022.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Fritz Wildan",
       "distance_km": 15.43,
       "moving_time_sec": 6000,
@@ -41,7 +30,29 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
+      "rank": 2,
+      "name": "Gerardo Yericko",
+      "distance_km": 10.5,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "6:51",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
       "rank": 3,
+      "name": "Aldino Wijaksono",
+      "distance_km": 10.15,
+      "moving_time_sec": 3593,
+      "moving_time": "59m 53s",
+      "pace": "5:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/128769022.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Aditra AL",
       "distance_km": 10.02,
       "moving_time_sec": 4260,
@@ -51,7 +62,7 @@
       "elev_m": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Aditya Rudy",
       "distance_km": 9.8,
       "moving_time_sec": 3840,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Annif D",
       "distance_km": 8.01,
       "moving_time_sec": 3326,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Friskha Chaca",
       "distance_km": 8,
       "moving_time_sec": 3118,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Ardy Fardiansyah",
       "distance_km": 7.41,
       "moving_time_sec": 2337,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Christine .S",
       "distance_km": 7.02,
       "moving_time_sec": 3119,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Lyutasya .",
       "distance_km": 6.89,
       "moving_time_sec": 3600,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/128643628.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "severinus tyan",
-      "distance_km": 6.22,
-      "moving_time_sec": 2801,
-      "moving_time": "46m 41s",
-      "pace": "7:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
     }
   ]
 }
