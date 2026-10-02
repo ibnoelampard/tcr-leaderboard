@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:28:51.311Z",
+  "generated_at": "2026-10-02T21:49:49.363Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Zakaria Achmad",
+      "distance_km": 36.91,
+      "moving_time_sec": 6153,
+      "moving_time": "1j 42m",
+      "pace": "2:47",
+      "activities": 4,
+      "elev_m": 0,
+      "photo": "assets/athletes/24303338.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Alex Rusman",
       "distance_km": 35.01,
       "moving_time_sec": 10920,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 14.12,
       "moving_time_sec": 5460,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Juliano Fransiscus",
       "distance_km": 11.02,
       "moving_time_sec": 4380,
@@ -49,17 +60,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/129995651.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "B A R A T LSP",
-      "distance_km": 11.01,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "6:49",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
     },
     {
       "rank": 5,
