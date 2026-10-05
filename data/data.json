@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:21:15.514Z",
+  "generated_at": "2026-10-05T19:03:22.640Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,24 +13,35 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-10-05",
-  "week_end": "2026-10-05",
+  "week_end": "2026-10-06",
   "metric": "distance",
-  "total_activities": 5,
-  "total_athletes": 5,
+  "total_activities": 14,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
       "name": "Yotta Risanggono",
-      "distance_km": 10.01,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:30",
-      "activities": 1,
+      "distance_km": 15.71,
+      "moving_time_sec": 7677,
+      "moving_time": "2j 7m",
+      "pace": "8:09",
+      "activities": 3,
       "elev_m": 0,
       "photo": "assets/athletes/125540711.jpg"
     },
     {
       "rank": 2,
+      "name": "Shelomitha 12",
+      "distance_km": 12,
+      "moving_time_sec": 5400,
+      "moving_time": "1j 30m",
+      "pace": "7:30",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/154370520.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 9.02,
       "moving_time_sec": 3960,
@@ -40,7 +51,18 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Oline CJ",
+      "distance_km": 8.01,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "7:37",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/105349381.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Aditya Rudy",
       "distance_km": 8,
       "moving_time_sec": 3080,
@@ -51,7 +73,29 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 7.26,
+      "moving_time_sec": 3389,
+      "moving_time": "56m 29s",
+      "pace": "7:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Hanif Rahmadian",
+      "distance_km": 7.04,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "8:40",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/17887937.jpg"
+    },
+    {
+      "rank": 8,
       "name": "sugyo .",
       "distance_km": 6.22,
       "moving_time_sec": 2897,
@@ -62,7 +106,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "name": "David Nolan",
       "distance_km": 5.64,
       "moving_time_sec": 1857,
@@ -71,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rudy Hartono",
+      "distance_km": 3.04,
+      "moving_time_sec": 1283,
+      "moving_time": "21m 23s",
+      "pace": "7:02",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }

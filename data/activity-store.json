@@ -1,5 +1,95 @@
 {
   "activities": {
+    "20462203796": {
+      "id": "20462203796",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-05T16:00:41Z",
+      "type": "Run",
+      "distance_km": 3.04,
+      "moving_time_sec": 1283,
+      "distance_m": 3040
+    },
+    "20460882212": {
+      "id": "20460882212",
+      "athlete": "Daniel Desch 🇩🇪🇮🇩",
+      "athleteId": "17582722",
+      "startDate": "2026-10-05T14:12:45Z",
+      "type": "Run",
+      "distance_km": 2.6,
+      "moving_time_sec": 1485,
+      "distance_m": 2600
+    },
+    "20460165394": {
+      "id": "20460165394",
+      "athlete": "Shelomitha 12",
+      "athleteId": "154370520",
+      "startDate": "2026-10-05T11:52:31Z",
+      "type": "Run",
+      "distance_km": 12,
+      "moving_time_sec": 5400,
+      "distance_m": 12000
+    },
+    "20458889836": {
+      "id": "20458889836",
+      "athlete": "Yotta Risanggono",
+      "athleteId": "125540711",
+      "startDate": "2026-10-05T11:31:32Z",
+      "type": "Run",
+      "distance_km": 0.55,
+      "moving_time_sec": 255,
+      "distance_m": 550
+    },
+    "20458737504": {
+      "id": "20458737504",
+      "athlete": "Michael Eric TCR",
+      "athleteId": "30999811",
+      "startDate": "2026-10-05T11:24:52Z",
+      "type": "Run",
+      "distance_km": 0.2,
+      "moving_time_sec": 125,
+      "distance_m": 200
+    },
+    "20458808598": {
+      "id": "20458808598",
+      "athlete": "Rinaldi Kesuma",
+      "athleteId": "48139461",
+      "startDate": "2026-10-05T10:30:00Z",
+      "type": "Run",
+      "distance_km": 7.26,
+      "moving_time_sec": 3389,
+      "distance_m": 7260
+    },
+    "20458477981": {
+      "id": "20458477981",
+      "athlete": "Oline CJ",
+      "athleteId": "105349381",
+      "startDate": "2026-10-05T10:00:50Z",
+      "type": "Run",
+      "distance_km": 8.01,
+      "moving_time_sec": 3660,
+      "distance_m": 8010
+    },
+    "20458318320": {
+      "id": "20458318320",
+      "athlete": "Yotta Risanggono",
+      "athleteId": "125540711",
+      "startDate": "2026-10-05T09:59:42Z",
+      "type": "Run",
+      "distance_km": 5.15,
+      "moving_time_sec": 2922,
+      "distance_m": 5150
+    },
+    "20457210536": {
+      "id": "20457210536",
+      "athlete": "Hanif Rahmadian",
+      "athleteId": "17887937",
+      "startDate": "2026-10-05T07:55:55Z",
+      "type": "Run",
+      "distance_km": 7.04,
+      "moving_time_sec": 3660,
+      "distance_m": 7040
+    },
     "20456658497": {
       "id": "20456658497",
       "athlete": "David Nolan",
