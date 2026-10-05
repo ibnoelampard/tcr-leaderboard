@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:10:37.474Z",
+  "generated_at": "2026-10-05T00:26:05.666Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,18 @@
   "week_start": "2026-10-05",
   "week_end": "2026-10-05",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 1,
+  "total_athletes": 1,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 9.02,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "7:19",
+      "activities": 1,
+      "elev_m": 0
+    }
+  ]
 }
