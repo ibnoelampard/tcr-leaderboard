@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:44:03.157Z",
+  "generated_at": "2026-10-08T00:00:13.749Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,16 @@
     },
     {
       "rank": 2,
+      "name": "Aditra AL",
+      "distance_km": 12.05,
+      "moving_time_sec": 4680,
+      "moving_time": "1j 18m",
+      "pace": "6:28",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
       "name": "severinus tyan",
       "distance_km": 12.04,
       "moving_time_sec": 5040,
@@ -41,7 +51,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Aldino Wijaksono",
       "distance_km": 11.5,
       "moving_time_sec": 3900,
@@ -52,7 +62,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Rinaldi Kesuma",
       "distance_km": 11.43,
       "moving_time_sec": 5280,
@@ -63,7 +73,7 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Andreas Mario",
       "distance_km": 10.15,
       "moving_time_sec": 4200,
@@ -74,7 +84,18 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 9.11,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "6:35",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Santi Kurniasari",
       "distance_km": 9,
       "moving_time_sec": 4140,
@@ -85,7 +106,7 @@
       "photo": "assets/athletes/50128426.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Shelomitha 12",
       "distance_km": 9,
       "moving_time_sec": 4680,
@@ -96,7 +117,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Annif D",
       "distance_km": 8.01,
       "moving_time_sec": 3456,
@@ -105,28 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/3720353.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 7.36,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "8:09",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Farhan Kastaa",
-      "distance_km": 7.31,
-      "moving_time_sec": 3462,
-      "moving_time": "57m 42s",
-      "pace": "7:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
     }
   ]
 }
