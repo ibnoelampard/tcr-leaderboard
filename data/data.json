@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:11:34.367Z",
+  "generated_at": "2026-10-08T22:54:42.503Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,14 +31,14 @@
     },
     {
       "rank": 2,
-      "name": "Yotta Risanggono",
-      "distance_km": 15.25,
-      "moving_time_sec": 8236,
-      "moving_time": "2j 17m",
-      "pace": "9:00",
-      "activities": 3,
+      "name": "Toni Djiaw",
+      "distance_km": 12.36,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "5:35",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 3,
@@ -64,17 +64,28 @@
     },
     {
       "rank": 5,
-      "name": "Aditya Rudy",
-      "distance_km": 10.02,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:11",
-      "activities": 1,
+      "name": "Yotta Risanggono",
+      "distance_km": 10.63,
+      "moving_time_sec": 5521,
+      "moving_time": "1j 32m",
+      "pace": "8:39",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
+      "photo": "assets/athletes/125540711.jpg"
     },
     {
       "rank": 6,
+      "name": "Erwin Hauw",
+      "distance_km": 10.01,
+      "moving_time_sec": 2734,
+      "moving_time": "45m 34s",
+      "pace": "4:33",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Gloria Guida",
       "distance_km": 9.01,
       "moving_time_sec": 5040,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/30268008.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Renaldi Wijaya",
       "distance_km": 9,
       "moving_time_sec": 2832,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Maria Goldiana Taping",
       "distance_km": 7.01,
       "moving_time_sec": 3482,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/71202449.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "David Nolan",
       "distance_km": 7,
       "moving_time_sec": 2401,
@@ -116,16 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Feeding Frenzy",
-      "distance_km": 6.79,
-      "moving_time_sec": 3436,
-      "moving_time": "57m 16s",
-      "pace": "8:26",
-      "activities": 1,
-      "elev_m": 0
     }
   ]
 }
