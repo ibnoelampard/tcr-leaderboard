@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:15:14.784Z",
+  "generated_at": "2026-10-09T23:48:35.134Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,16 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 15.45,
+      "moving_time_sec": 6535,
+      "moving_time": "1j 48m",
+      "pace": "7:03",
+      "activities": 2,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
       "name": "Gerardo Yericko",
       "distance_km": 13.18,
       "moving_time_sec": 5340,
@@ -30,7 +40,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "B A R A T LSP",
       "distance_km": 11.15,
       "moving_time_sec": 4620,
@@ -41,17 +51,18 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 3,
-      "name": "Aditra AL",
+      "rank": 4,
+      "name": "Roby Wong",
       "distance_km": 10.02,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:11",
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:35",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/126128951.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Yotta Risanggono",
       "distance_km": 10.02,
       "moving_time_sec": 4800,
@@ -60,17 +71,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/125540711.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Ivan soesanto",
-      "distance_km": 10.01,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "7:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26800044.jpg"
     },
     {
       "rank": 6,
