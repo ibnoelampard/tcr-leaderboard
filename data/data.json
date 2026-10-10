@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T04:23:26.599Z",
+  "generated_at": "2026-10-10T11:55:50.044Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-10-05",
   "week_end": "2026-10-10",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -97,17 +97,6 @@
     },
     {
       "rank": 8,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 11.3,
-      "moving_time_sec": 3780,
-      "moving_time": "1j 3m",
-      "pace": "5:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 9,
       "name": "Coco Tsl",
       "distance_km": 10.06,
       "moving_time_sec": 4500,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Denni Agustian",
       "distance_km": 10,
       "moving_time_sec": 6300,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/63856686.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Yotta Risanggono",
+      "distance_km": 8.82,
+      "moving_time_sec": 5000,
+      "moving_time": "1j 23m",
+      "pace": "9:27",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/125540711.jpg"
     }
   ]
 }

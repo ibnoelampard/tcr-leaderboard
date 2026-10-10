@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20525429376": {
+      "id": "20525429376",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-10T09:39:55Z",
+      "type": "Run",
+      "distance_km": 3.1,
+      "moving_time_sec": 1210,
+      "distance_m": 3100
+    },
     "20522541599": {
       "id": "20522541599",
       "athlete": "Yotta Risanggono",
@@ -149,36 +159,6 @@
       "distance_km": 6.05,
       "moving_time_sec": 2510,
       "distance_m": 6050
-    },
-    "20521179066": {
-      "id": "20521179066",
-      "athlete": "Lyutasya .",
-      "athleteId": "128643628",
-      "startDate": "2026-10-09T23:26:39Z",
-      "type": "Run",
-      "distance_km": 5.26,
-      "moving_time_sec": 2156,
-      "distance_m": 5260
-    },
-    "20521634933": {
-      "id": "20521634933",
-      "athlete": "Yudo Adrian",
-      "athleteId": "16988697",
-      "startDate": "2026-10-09T23:25:43Z",
-      "type": "Run",
-      "distance_km": 6.01,
-      "moving_time_sec": 1892,
-      "distance_m": 6010
-    },
-    "20521258329": {
-      "id": "20521258329",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-10-09T22:41:25Z",
-      "type": "Run",
-      "distance_km": 11.3,
-      "moving_time_sec": 3780,
-      "distance_m": 11300
     }
   }
 }
