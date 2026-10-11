@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:08:37.645Z",
+  "generated_at": "2026-10-11T21:29:18.111Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,121 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-10-05",
-  "week_end": "2026-10-11",
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-12",
   "metric": "distance",
-  "total_activities": 14,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 24.02,
-      "moving_time_sec": 7860,
-      "moving_time": "2j 11m",
-      "pace": "5:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "Yotta Risanggono",
-      "distance_km": 21.19,
-      "moving_time_sec": 11006,
-      "moving_time": "3j 3m",
-      "pace": "8:39",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Santi Kurniasari",
-      "distance_km": 21.15,
-      "moving_time_sec": 9960,
-      "moving_time": "2j 46m",
-      "pace": "7:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/50128426.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Farhan Kastaa",
-      "distance_km": 18.76,
-      "moving_time_sec": 6694,
-      "moving_time": "1j 51m",
-      "pace": "5:57",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Toni Djiaw",
-      "distance_km": 15.59,
-      "moving_time_sec": 4860,
-      "moving_time": "1j 21m",
-      "pace": "5:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Jessica Pangestu",
-      "distance_km": 15.01,
-      "moving_time_sec": 6540,
-      "moving_time": "1j 49m",
-      "pace": "7:16",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/48472455.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Gloria Guida",
-      "distance_km": 11.99,
-      "moving_time_sec": 6900,
-      "moving_time": "1j 55m",
-      "pace": "9:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Denni Agustian",
-      "distance_km": 10,
-      "moving_time_sec": 6240,
-      "moving_time": "1j 44m",
-      "pace": "10:24",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/63856686.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "william fernando",
-      "distance_km": 5,
-      "moving_time_sec": 1810,
-      "moving_time": "30m 10s",
-      "pace": "6:02",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Shelomitha 12",
-      "distance_km": 4,
-      "moving_time_sec": 2179,
-      "moving_time": "36m 19s",
-      "pace": "9:05",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/154370520.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
