@@ -10,6 +10,16 @@
       "moving_time_sec": 2740,
       "distance_m": 6030
     },
+    "20549986377": {
+      "id": "20549986377",
+      "athlete": "Aditya Rudy",
+      "athleteId": "27344421",
+      "startDate": "2026-10-11T23:41:40Z",
+      "type": "Run",
+      "distance_km": 8.34,
+      "moving_time_sec": 3470,
+      "distance_m": 8340
+    },
     "20547897859": {
       "id": "20547897859",
       "athlete": "Aditra AL",
