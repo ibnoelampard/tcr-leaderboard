@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:29:18.111Z",
+  "generated_at": "2026-10-12T00:58:48.629Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,29 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-12",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 2,
+  "total_athletes": 2,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 10.03,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "7:05",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "sugyo .",
+      "distance_km": 6.03,
+      "moving_time_sec": 2740,
+      "moving_time": "45m 40s",
+      "pace": "7:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    }
+  ]
 }
