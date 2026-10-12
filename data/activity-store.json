@@ -1,5 +1,115 @@
 {
   "activities": {
+    "20555482666": {
+      "id": "20555482666",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-12T15:07:13Z",
+      "type": "Run",
+      "distance_km": 2.46,
+      "moving_time_sec": 1275,
+      "distance_m": 2460
+    },
+    "20555681500": {
+      "id": "20555681500",
+      "athlete": "Feri Yo",
+      "athleteId": "119721281",
+      "startDate": "2026-10-11T17:00:01Z",
+      "type": "Run",
+      "distance_km": 2.52,
+      "moving_time_sec": 1247,
+      "distance_m": 2520
+    },
+    "20553620672": {
+      "id": "20553620672",
+      "athlete": "Harmada Hutajulu",
+      "athleteId": "20040717",
+      "startDate": "2026-10-12T10:20:25Z",
+      "type": "Run",
+      "distance_km": 5.1,
+      "moving_time_sec": 2807,
+      "distance_m": 5100
+    },
+    "20553479951": {
+      "id": "20553479951",
+      "athlete": "Farhan Kastaa",
+      "athleteId": "1390057573",
+      "startDate": "2026-10-12T11:41:37Z",
+      "type": "Run",
+      "distance_km": 5.34,
+      "moving_time_sec": 3204,
+      "distance_m": 5340
+    },
+    "20553434508": {
+      "id": "20553434508",
+      "athlete": "Gerardo Yericko",
+      "athleteId": "47763557",
+      "startDate": "2026-10-12T10:48:11Z",
+      "type": "Run",
+      "distance_km": 11.38,
+      "moving_time_sec": 4200,
+      "distance_m": 11380
+    },
+    "20552626086": {
+      "id": "20552626086",
+      "athlete": "Made Wardhana",
+      "athleteId": "36149048",
+      "startDate": "2026-10-12T10:19:32Z",
+      "type": "Run",
+      "distance_km": 8.01,
+      "moving_time_sec": 3600,
+      "distance_m": 8010
+    },
+    "20552162001": {
+      "id": "20552162001",
+      "athlete": "Gems -",
+      "athleteId": "135577017",
+      "startDate": "2026-10-12T10:43:47Z",
+      "type": "Run",
+      "distance_km": 1.05,
+      "moving_time_sec": 915,
+      "distance_m": 1050
+    },
+    "20552058629": {
+      "id": "20552058629",
+      "athlete": "Oline CJ",
+      "athleteId": "105349381",
+      "startDate": "2026-10-12T10:05:12Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2542,
+      "distance_m": 5010
+    },
+    "20552039864": {
+      "id": "20552039864",
+      "athlete": "Bram Siagian",
+      "athleteId": "186650879",
+      "startDate": "2026-10-12T10:13:19Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2135,
+      "distance_m": 5010
+    },
+    "20551535091": {
+      "id": "20551535091",
+      "athlete": "Boris Lethe",
+      "athleteId": "37690983",
+      "startDate": "2026-10-12T09:29:11Z",
+      "type": "Run",
+      "distance_km": 5.2,
+      "moving_time_sec": 1993,
+      "distance_m": 5200
+    },
+    "20558106265": {
+      "id": "20558106265",
+      "athlete": "Muhammad Rizki Hartadi",
+      "athleteId": "123066684",
+      "startDate": "2026-10-12T09:28:14Z",
+      "type": "Run",
+      "distance_km": 5,
+      "moving_time_sec": 1795,
+      "distance_m": 5000
+    },
     "20548509176": {
       "id": "20548509176",
       "athlete": "sugyo .",

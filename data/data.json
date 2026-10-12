@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:37:27.885Z",
+  "generated_at": "2026-10-12T19:37:08.276Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-10-12",
-  "week_end": "2026-10-12",
+  "week_end": "2026-10-13",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 14,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Gerardo Yericko",
+      "distance_km": 11.38,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/47763557.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Aditra AL",
       "distance_km": 10.03,
       "moving_time_sec": 4260,
@@ -29,7 +40,7 @@
       "elev_m": 0
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Aditya Rudy",
       "distance_km": 8.34,
       "moving_time_sec": 3470,
@@ -40,7 +51,18 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Made Wardhana",
+      "distance_km": 8.01,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "7:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/36149048.jpg"
+    },
+    {
+      "rank": 5,
       "name": "sugyo .",
       "distance_km": 6.03,
       "moving_time_sec": 2740,
@@ -49,6 +71,61 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Farhan Kastaa",
+      "distance_km": 5.34,
+      "moving_time_sec": 3204,
+      "moving_time": "53m 24s",
+      "pace": "10:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Boris Lethe",
+      "distance_km": 5.2,
+      "moving_time_sec": 1993,
+      "moving_time": "33m 13s",
+      "pace": "6:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Harmada Hutajulu",
+      "distance_km": 5.1,
+      "moving_time_sec": 2807,
+      "moving_time": "46m 47s",
+      "pace": "9:10",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Oline CJ",
+      "distance_km": 5.01,
+      "moving_time_sec": 2542,
+      "moving_time": "42m 22s",
+      "pace": "8:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/105349381.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Bram Siagian",
+      "distance_km": 5.01,
+      "moving_time_sec": 2135,
+      "moving_time": "35m 35s",
+      "pace": "7:06",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/186650879.jpg"
     }
   ]
 }
