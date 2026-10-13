@@ -140,16 +140,6 @@
       "moving_time_sec": 3000,
       "distance_m": 8510
     },
-    "20561715588": {
-      "id": "20561715588",
-      "athlete": "Ivan soesanto",
-      "athleteId": "26800044",
-      "startDate": "2026-10-12T21:56:43Z",
-      "type": "Run",
-      "distance_km": 12.44,
-      "moving_time_sec": 5160,
-      "distance_m": 12440
-    },
     "20561564029": {
       "id": "20561564029",
       "athlete": "Riki Lie",
