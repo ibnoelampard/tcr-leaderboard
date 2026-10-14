@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:35:05.708Z",
+  "generated_at": "2026-10-14T09:17:07.620Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,19 +15,19 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-14",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "David Nolan",
-      "distance_km": 12.11,
-      "moving_time_sec": 3900,
-      "moving_time": "1j 5m",
-      "pace": "5:22",
+      "name": "Diana Melina",
+      "distance_km": 14.05,
+      "moving_time_sec": 5520,
+      "moving_time": "1j 32m",
+      "pace": "6:33",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/7442783.jpg"
+      "photo": "assets/athletes/126056724.jpg"
     },
     {
       "rank": 2,
@@ -64,6 +64,16 @@
     },
     {
       "rank": 5,
+      "name": "Ike Kusumawati",
+      "distance_km": 8.72,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "6:53",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 6,
       "name": "Ardy Fardiansyah",
       "distance_km": 8.03,
       "moving_time_sec": 2664,
@@ -74,7 +84,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Oline CJ",
       "distance_km": 7.31,
       "moving_time_sec": 3600,
@@ -85,7 +95,7 @@
       "photo": "assets/athletes/105349381.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Christine .S",
       "distance_km": 7,
       "moving_time_sec": 3222,
@@ -94,16 +104,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Feeding Frenzy",
-      "distance_km": 6.74,
-      "moving_time_sec": 2761,
-      "moving_time": "46m 1s",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0
     },
     {
       "rank": 9,
