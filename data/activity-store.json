@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20584317621": {
+      "id": "20584317621",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-14T16:20:54Z",
+      "type": "Run",
+      "distance_km": 1.87,
+      "moving_time_sec": 928,
+      "distance_m": 1870
+    },
     "20582175503": {
       "id": "20582175503",
       "athlete": "Coco Tsl",
@@ -189,16 +199,6 @@
       "distance_km": 2.52,
       "moving_time_sec": 1890,
       "distance_m": 2520
-    },
-    "20579367385": {
-      "id": "20579367385",
-      "athlete": "Boris Lethe",
-      "athleteId": "37690983",
-      "startDate": "2026-10-14T09:28:06Z",
-      "type": "Run",
-      "distance_km": 5.21,
-      "moving_time_sec": 1969,
-      "distance_m": 5210
     }
   }
 }
