@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:58:13.049Z",
+  "generated_at": "2026-10-14T23:05:31.173Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Toni Djiaw",
+      "distance_km": 15.08,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "5:14",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Coco Tsl",
       "distance_km": 12.7,
       "moving_time_sec": 5321,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "severinus tyan",
       "distance_km": 10.2,
       "moving_time_sec": 4260,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "william po",
       "distance_km": 10.01,
       "moving_time_sec": 4500,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Ibnoelampard Noe",
       "distance_km": 9.08,
       "moving_time_sec": 3900,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/130551674.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Renaldi Wijaya",
       "distance_km": 8.6,
       "moving_time_sec": 2540,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Gerardo Yericko",
       "distance_km": 8.22,
       "moving_time_sec": 3013,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/47763557.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Annif D",
       "distance_km": 8.07,
       "moving_time_sec": 3355,
@@ -107,26 +118,14 @@
       "photo": "assets/athletes/3720353.jpg"
     },
     {
-      "rank": 9,
-      "name": "Halisa Maulidia",
-      "distance_km": 7.01,
-      "moving_time_sec": 2755,
-      "moving_time": "45m 55s",
-      "pace": "6:33",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Roby Wong",
-      "distance_km": 6.41,
-      "moving_time_sec": 3531,
-      "moving_time": "58m 51s",
-      "pace": "9:11",
+      "name": "Aditra AL",
+      "distance_km": 8.04,
+      "moving_time_sec": 3012,
+      "moving_time": "50m 12s",
+      "pace": "6:15",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
+      "elev_m": 0
     }
   ]
 }
