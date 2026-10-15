@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20601857861": {
+      "id": "20601857861",
+      "athlete": "severinus tyan",
+      "athleteId": "27221918",
+      "startDate": "2026-10-15T21:31:19Z",
+      "type": "Run",
+      "distance_km": 9.59,
+      "moving_time_sec": 3900,
+      "distance_m": 9590
+    },
     "20597616982": {
       "id": "20597616982",
       "athlete": "Riki Lie",
@@ -179,16 +189,6 @@
       "distance_km": 7.18,
       "moving_time_sec": 3780,
       "distance_m": 7180
-    },
-    "20589651417": {
-      "id": "20589651417",
-      "athlete": "Christine .S",
-      "athleteId": "71718168",
-      "startDate": "2026-10-15T00:38:13Z",
-      "type": "Run",
-      "distance_km": 2,
-      "moving_time_sec": 847,
-      "distance_m": 2000
     }
   }
 }

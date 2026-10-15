@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:41:35.494Z",
+  "generated_at": "2026-10-15T22:53:25.940Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "severinus tyan",
+      "distance_km": 12.06,
+      "moving_time_sec": 5603,
+      "moving_time": "1j 33m",
+      "pace": "7:45",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 2,
       "name": "David Nolan",
       "distance_km": 11.67,
       "moving_time_sec": 3960,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/7442783.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Rinaldi Kesuma",
       "distance_km": 11.21,
       "moving_time_sec": 4500,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Alex Rusman",
       "distance_km": 11.07,
       "moving_time_sec": 4260,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Farhan Kastaa",
       "distance_km": 9.46,
       "moving_time_sec": 4830,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Harmada Hutajulu",
       "distance_km": 8.49,
       "moving_time_sec": 4260,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Erick Yanto",
       "distance_km": 7.57,
       "moving_time_sec": 3186,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Bram Siagian",
       "distance_km": 7.18,
       "moving_time_sec": 3780,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/186650879.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Andreas Mario",
       "distance_km": 7.02,
       "moving_time_sec": 3303,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Lyutasya .",
       "distance_km": 5.25,
       "moving_time_sec": 1830,
@@ -116,17 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/128643628.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Cris Fe",
-      "distance_km": 5.01,
-      "moving_time_sec": 2094,
-      "moving_time": "34m 54s",
-      "pace": "6:58",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/77575425.jpg"
     }
   ]
 }
