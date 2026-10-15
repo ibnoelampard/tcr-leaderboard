@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:15:15.104Z",
+  "generated_at": "2026-10-15T08:51:32.594Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Coco Tsl",
-      "distance_km": 10.69,
-      "moving_time_sec": 4515,
-      "moving_time": "1j 15m",
-      "pace": "7:02",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
-    },
-    {
-      "rank": 3,
       "name": "severinus tyan",
       "distance_km": 10.64,
       "moving_time_sec": 4800,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Friskha Chaca",
       "distance_km": 10.33,
       "moving_time_sec": 4200,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Aditya Rudy",
       "distance_km": 10.13,
       "moving_time_sec": 3900,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Ardy Fardiansyah",
       "distance_km": 9.21,
       "moving_time_sec": 3599,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Christine .S",
       "distance_km": 9,
       "moving_time_sec": 3758,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Aditra AL",
       "distance_km": 8.04,
       "moving_time_sec": 3012,
@@ -106,7 +95,7 @@
       "elev_m": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Fritz Wildan",
       "distance_km": 8.02,
       "moving_time_sec": 3520,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Bram Siagian",
       "distance_km": 7.18,
       "moving_time_sec": 3780,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/186650879.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Gems -",
+      "distance_km": 7.01,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "9:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/135577017.jpg"
     }
   ]
 }
