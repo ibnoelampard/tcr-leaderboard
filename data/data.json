@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:11:17.381Z",
+  "generated_at": "2026-10-16T08:45:00.343Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-16",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -53,6 +53,16 @@
     },
     {
       "rank": 4,
+      "name": "Ike Kusumawati",
+      "distance_km": 10.7,
+      "moving_time_sec": 3872,
+      "moving_time": "1j 4m",
+      "pace": "6:02",
+      "activities": 2,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
       "name": "Aditra AL",
       "distance_km": 10.01,
       "moving_time_sec": 4440,
@@ -62,7 +72,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "severinus tyan",
       "distance_km": 9.59,
       "moving_time_sec": 3900,
@@ -71,17 +81,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Farhan Kastaa",
-      "distance_km": 9.46,
-      "moving_time_sec": 4830,
-      "moving_time": "1j 20m",
-      "pace": "8:31",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 7,
@@ -118,14 +117,14 @@
     },
     {
       "rank": 10,
-      "name": "B A R A T LSP",
-      "distance_km": 6.01,
-      "moving_time_sec": 1988,
-      "moving_time": "33m 8s",
-      "pace": "5:31",
+      "name": "Coco Tsl",
+      "distance_km": 6.27,
+      "moving_time_sec": 2152,
+      "moving_time": "35m 52s",
+      "pace": "5:43",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/148842377.jpg"
     }
   ]
 }
