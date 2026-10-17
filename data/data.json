@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:15:22.852Z",
+  "generated_at": "2026-10-17T13:27:28.814Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "Christine .S",
-      "distance_km": 27.02,
-      "moving_time_sec": 10800,
-      "moving_time": "3j 0m",
-      "pace": "6:40",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Rudy Yulianus",
       "distance_km": 25.08,
       "moving_time_sec": 9840,
@@ -51,7 +40,7 @@
       "elev_m": 0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "william po",
       "distance_km": 25.03,
       "moving_time_sec": 10140,
@@ -62,7 +51,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Rudy Hartono",
       "distance_km": 22.16,
       "moving_time_sec": 12660,
@@ -73,7 +62,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Aditya Rudy",
       "distance_km": 21.52,
       "moving_time_sec": 8700,
@@ -82,6 +71,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "David Nolan",
+      "distance_km": 21.36,
+      "moving_time_sec": 6720,
+      "moving_time": "1j 52m",
+      "pace": "5:15",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
     },
     {
       "rank": 7,
@@ -107,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "Yudo Adrian",
-      "distance_km": 15.01,
-      "moving_time_sec": 4380,
-      "moving_time": "1j 13m",
-      "pace": "4:52",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Harmada Hutajulu",
       "distance_km": 14.03,
       "moving_time_sec": 7440,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 13.14,
+      "moving_time_sec": 5160,
+      "moving_time": "1j 26m",
+      "pace": "6:33",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
     }
   ]
 }
