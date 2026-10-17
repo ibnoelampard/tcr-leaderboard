@@ -139,16 +139,6 @@
       "distance_km": 21.52,
       "moving_time_sec": 8700,
       "distance_m": 21520
-    },
-    "20617938656": {
-      "id": "20617938656",
-      "athlete": "Ike Kusumawati",
-      "athleteId": "31844219",
-      "startDate": "2026-10-17T00:26:32Z",
-      "type": "Run",
-      "distance_km": 1.59,
-      "moving_time_sec": 592,
-      "distance_m": 1590
     }
   }
 }
