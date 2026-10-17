@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:02:24.900Z",
+  "generated_at": "2026-10-17T08:15:22.852Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,22 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-17",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 15,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Erwin Hauw",
+      "distance_km": 30.01,
+      "moving_time_sec": 10080,
+      "moving_time": "2j 48m",
+      "pace": "5:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/66730311.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Christine .S",
       "distance_km": 27.02,
       "moving_time_sec": 10800,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Rudy Yulianus",
       "distance_km": 25.08,
       "moving_time_sec": 9840,
@@ -40,7 +51,7 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "william po",
       "distance_km": 25.03,
       "moving_time_sec": 10140,
@@ -51,7 +62,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Rudy Hartono",
       "distance_km": 22.16,
       "moving_time_sec": 12660,
@@ -62,7 +73,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Aditya Rudy",
       "distance_km": 21.52,
       "moving_time_sec": 8700,
@@ -73,7 +84,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Alex Rusman",
       "distance_km": 16.3,
       "moving_time_sec": 6180,
@@ -84,7 +95,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Bram Siagian",
       "distance_km": 15.04,
       "moving_time_sec": 7260,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/186650879.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Yudo Adrian",
       "distance_km": 15.01,
       "moving_time_sec": 4380,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Harmada Hutajulu",
       "distance_km": 14.03,
       "moving_time_sec": 7440,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/20040717.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Erick Yanto",
-      "distance_km": 9.93,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
     }
   ]
 }

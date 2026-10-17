@@ -20,6 +20,16 @@
       "moving_time_sec": 12660,
       "distance_m": 22160
     },
+    "20615811857": {
+      "id": "20615811857",
+      "athlete": "Erwin Hauw",
+      "athleteId": "66730311",
+      "startDate": "2026-10-16T22:37:37Z",
+      "type": "Run",
+      "distance_km": 30.01,
+      "moving_time_sec": 10080,
+      "distance_m": 30010
+    },
     "20615222152": {
       "id": "20615222152",
       "athlete": "Harmada Hutajulu",
@@ -139,36 +149,6 @@
       "distance_km": 5.64,
       "moving_time_sec": 2503,
       "distance_m": 5640
-    },
-    "20614679961": {
-      "id": "20614679961",
-      "athlete": "Rani Handayani",
-      "athleteId": "163589069",
-      "startDate": "2026-10-16T23:15:52Z",
-      "type": "Run",
-      "distance_km": 6,
-      "moving_time_sec": 3325,
-      "distance_m": 6000
-    },
-    "20615165739": {
-      "id": "20615165739",
-      "athlete": "Bay Kartawinata",
-      "athleteId": "174619453",
-      "startDate": "2026-10-16T23:20:53Z",
-      "type": "Run",
-      "distance_km": 5.2,
-      "moving_time_sec": 2490,
-      "distance_m": 5200
-    },
-    "20614648333": {
-      "id": "20614648333",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-10-16T22:47:51Z",
-      "type": "Run",
-      "distance_km": 9.14,
-      "moving_time_sec": 3300,
-      "distance_m": 9140
     }
   }
 }
