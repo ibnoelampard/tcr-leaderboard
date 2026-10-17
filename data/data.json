@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:08:13.299Z",
+  "generated_at": "2026-10-17T23:44:43.865Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-18",
   "metric": "distance",
-  "total_activities": 14,
+  "total_activities": 15,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -52,17 +52,6 @@
     },
     {
       "rank": 4,
-      "name": "william po",
-      "distance_km": 25.03,
-      "moving_time_sec": 10140,
-      "moving_time": "2j 49m",
-      "pace": "6:45",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 5,
       "name": "Rudy Hartono",
       "distance_km": 22.16,
       "moving_time_sec": 12660,
@@ -73,7 +62,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "David Nolan",
       "distance_km": 21.36,
       "moving_time_sec": 6720,
@@ -84,18 +73,7 @@
       "photo": "assets/athletes/7442783.jpg"
     },
     {
-      "rank": 7,
-      "name": "Alex Rusman",
-      "distance_km": 16.3,
-      "moving_time_sec": 6180,
-      "moving_time": "1j 43m",
-      "pace": "6:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "name": "Bram Siagian",
       "distance_km": 15.04,
       "moving_time_sec": 7260,
@@ -106,7 +84,7 @@
       "photo": "assets/athletes/186650879.jpg"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "name": "Harmada Hutajulu",
       "distance_km": 14.03,
       "moving_time_sec": 7440,
@@ -117,7 +95,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "name": "Rinaldi Kesuma",
       "distance_km": 13.14,
       "moving_time_sec": 5160,
@@ -126,6 +104,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Halisa Maulidia",
+      "distance_km": 10,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Erick Yanto",
+      "distance_km": 9.93,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "7:57",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/164750862.jpg"
     }
   ]
 }
