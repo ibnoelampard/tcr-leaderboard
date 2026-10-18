@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:44:43.865Z",
+  "generated_at": "2026-10-18T03:04:52.708Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,117 +15,118 @@
   "week_start": "2026-10-12",
   "week_end": "2026-10-18",
   "metric": "distance",
-  "total_activities": 15,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Putri Puspita",
-      "distance_km": 30.15,
-      "moving_time_sec": 14220,
-      "moving_time": "3j 57m",
-      "pace": "7:52",
+      "name": "Santi Kurniasari",
+      "distance_km": 30,
+      "moving_time_sec": 14280,
+      "moving_time": "3j 58m",
+      "pace": "7:56",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/13950824.jpg"
+      "photo": "assets/athletes/50128426.jpg"
     },
     {
       "rank": 2,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 21.02,
+      "moving_time_sec": 6960,
+      "moving_time": "1j 56m",
+      "pace": "5:31",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Farhan Kastaa",
+      "distance_km": 20.92,
+      "moving_time_sec": 6780,
+      "moving_time": "1j 53m",
+      "pace": "5:24",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 15.46,
+      "moving_time_sec": 7140,
+      "moving_time": "1j 59m",
+      "pace": "7:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Andreas Mario",
+      "distance_km": 15.09,
+      "moving_time_sec": 7140,
+      "moving_time": "1j 59m",
+      "pace": "7:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Erwin Hauw",
-      "distance_km": 30.01,
-      "moving_time_sec": 10080,
-      "moving_time": "2j 48m",
-      "pace": "5:36",
+      "distance_km": 15.02,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "6:15",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 3,
-      "name": "Rudy Yulianus",
-      "distance_km": 25.08,
-      "moving_time_sec": 9840,
-      "moving_time": "2j 44m",
-      "pace": "6:32",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 4,
-      "name": "Rudy Hartono",
-      "distance_km": 22.16,
-      "moving_time_sec": 12660,
-      "moving_time": "3j 31m",
-      "pace": "9:31",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "David Nolan",
-      "distance_km": 21.36,
-      "moving_time_sec": 6720,
-      "moving_time": "1j 52m",
-      "pace": "5:15",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/7442783.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Bram Siagian",
-      "distance_km": 15.04,
-      "moving_time_sec": 7260,
-      "moving_time": "2j 1m",
-      "pace": "8:03",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/186650879.jpg"
-    },
-    {
       "rank": 7,
-      "name": "Harmada Hutajulu",
-      "distance_km": 14.03,
-      "moving_time_sec": 7440,
-      "moving_time": "2j 4m",
-      "pace": "8:50",
+      "name": "Ferry Febyanto",
+      "distance_km": 10.56,
+      "moving_time_sec": 6300,
+      "moving_time": "1j 45m",
+      "pace": "9:57",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/20040717.jpg"
+      "photo": "assets/athletes/4719443.jpg"
     },
     {
       "rank": 8,
-      "name": "Rinaldi Kesuma",
-      "distance_km": 13.14,
-      "moving_time_sec": 5160,
-      "moving_time": "1j 26m",
-      "pace": "6:33",
+      "name": "Annif D",
+      "distance_km": 10.01,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:36",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/48139461.jpg"
+      "photo": "assets/athletes/3720353.jpg"
     },
     {
       "rank": 9,
-      "name": "Halisa Maulidia",
-      "distance_km": 10,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "6:24",
+      "name": "Steven Cloon",
+      "distance_km": 10.01,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:36",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
+      "photo": "assets/athletes/83609058.jpg"
     },
     {
       "rank": 10,
-      "name": "Erick Yanto",
-      "distance_km": 9.93,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:57",
+      "name": "Gems -",
+      "distance_km": 10,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "7:00",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
+      "photo": "assets/athletes/135577017.jpg"
     }
   ]
 }
