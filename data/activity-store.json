@@ -1,3 +1,24 @@
 {
-  "activities": {}
+  "activities": {
+    "20641604745": {
+      "id": "20641604745",
+      "athlete": "Muhammad Rizki Hartadi",
+      "athleteId": "123066684",
+      "startDate": "2026-10-18T23:30:42Z",
+      "type": "Run",
+      "distance_km": 2.6,
+      "moving_time_sec": 1112,
+      "distance_m": 2600
+    },
+    "20641338448": {
+      "id": "20641338448",
+      "athlete": "Aditra AL",
+      "athleteId": "145979024",
+      "startDate": "2026-10-18T21:42:10Z",
+      "type": "Run",
+      "distance_km": 10.02,
+      "moving_time_sec": 4560,
+      "distance_m": 10020
+    }
+  }
 }

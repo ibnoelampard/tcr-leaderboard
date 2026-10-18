@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:06:58.667Z",
+  "generated_at": "2026-10-18T23:54:54.993Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,29 @@
   "week_start": "2026-10-19",
   "week_end": "2026-10-19",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 2,
+  "total_athletes": 2,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:35",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "Muhammad Rizki Hartadi",
+      "distance_km": 2.6,
+      "moving_time_sec": 1112,
+      "moving_time": "18m 32s",
+      "pace": "7:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123066684.jpg"
+    }
+  ]
 }
