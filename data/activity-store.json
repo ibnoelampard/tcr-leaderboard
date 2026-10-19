@@ -1,5 +1,75 @@
 {
   "activities": {
+    "20649209119": {
+      "id": "20649209119",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-19T16:01:39Z",
+      "type": "Run",
+      "distance_km": 2.22,
+      "moving_time_sec": 1234,
+      "distance_m": 2220
+    },
+    "20648840817": {
+      "id": "20648840817",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-10-19T15:52:06Z",
+      "type": "Run",
+      "distance_km": 0.22,
+      "moving_time_sec": 157,
+      "distance_m": 220
+    },
+    "20647119725": {
+      "id": "20647119725",
+      "athlete": "Rinaldi Kesuma",
+      "athleteId": "48139461",
+      "startDate": "2026-10-19T12:11:13Z",
+      "type": "Run",
+      "distance_km": 7.16,
+      "moving_time_sec": 3429,
+      "distance_m": 7160
+    },
+    "20646931071": {
+      "id": "20646931071",
+      "athlete": "Andreas Mario",
+      "athleteId": "64642890",
+      "startDate": "2026-10-19T12:04:50Z",
+      "type": "Run",
+      "distance_km": 7.62,
+      "moving_time_sec": 3590,
+      "distance_m": 7620
+    },
+    "20645581307": {
+      "id": "20645581307",
+      "athlete": "Aditya Rudy",
+      "athleteId": "27344421",
+      "startDate": "2026-10-19T10:20:40Z",
+      "type": "Run",
+      "distance_km": 7,
+      "moving_time_sec": 2882,
+      "distance_m": 7000
+    },
+    "20645581203": {
+      "id": "20645581203",
+      "athlete": "Aditya Rudy",
+      "athleteId": "27344421",
+      "startDate": "2026-10-19T10:18:32Z",
+      "type": "Run",
+      "distance_km": 0.06,
+      "moving_time_sec": 58,
+      "distance_m": 60
+    },
+    "20644621956": {
+      "id": "20644621956",
+      "athlete": "David Nolan",
+      "athleteId": "7442783",
+      "startDate": "2026-10-19T08:44:00Z",
+      "type": "Run",
+      "distance_km": 10.55,
+      "moving_time_sec": 3405,
+      "distance_m": 10550
+    },
     "20643166646": {
       "id": "20643166646",
       "athlete": "Feri Yo",
