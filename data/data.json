@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:18:52.456Z",
+  "generated_at": "2026-10-19T09:35:34.411Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-10-19",
   "week_end": "2026-10-19",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 5,
+  "total_athletes": 5,
   "leaderboard": [
     {
       "rank": 1,
@@ -41,6 +41,28 @@
     },
     {
       "rank": 3,
+      "name": "Riki Lie",
+      "distance_km": 4,
+      "moving_time_sec": 1613,
+      "moving_time": "26m 53s",
+      "pace": "6:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/122081422.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Feri Yo",
+      "distance_km": 2.66,
+      "moving_time_sec": 2040,
+      "moving_time": "34m 0s",
+      "pace": "12:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Muhammad Rizki Hartadi",
       "distance_km": 2.6,
       "moving_time_sec": 1112,
