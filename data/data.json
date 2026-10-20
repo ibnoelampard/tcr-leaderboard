@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:20:52.668Z",
+  "generated_at": "2026-10-20T22:55:23.185Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,6 +20,17 @@
   "leaderboard": [
     {
       "rank": 1,
+      "name": "severinus tyan",
+      "distance_km": 18.5,
+      "moving_time_sec": 7440,
+      "moving_time": "2j 4m",
+      "pace": "6:42",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Erick Yanto",
       "distance_km": 15.68,
       "moving_time_sec": 6609,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 15,
       "moving_time_sec": 6000,
@@ -39,17 +50,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Hendri Mulyadi",
-      "distance_km": 12.01,
-      "moving_time_sec": 4920,
-      "moving_time": "1j 22m",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/137028433.jpg"
     },
     {
       "rank": 4,
@@ -108,25 +108,25 @@
     },
     {
       "rank": 9,
-      "name": "severinus tyan",
-      "distance_km": 8.13,
-      "moving_time_sec": 3840,
-      "moving_time": "1j 4m",
-      "pace": "7:52",
+      "name": "Andreas Mario",
+      "distance_km": 7.04,
+      "moving_time_sec": 3279,
+      "moving_time": "54m 39s",
+      "pace": "7:46",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
+      "photo": "assets/athletes/64642890.jpg"
     },
     {
       "rank": 10,
-      "name": "Boris Lethe",
-      "distance_km": 8.05,
-      "moving_time_sec": 3364,
-      "moving_time": "56m 4s",
-      "pace": "6:58",
+      "name": "william po",
+      "distance_km": 6.59,
+      "moving_time_sec": 3471,
+      "moving_time": "57m 51s",
+      "pace": "8:47",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
+      "photo": "assets/athletes/181211766.jpg"
     }
   ]
 }
