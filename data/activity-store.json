@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20676874255": {
+      "id": "20676874255",
+      "athlete": "Made Wardhana",
+      "athleteId": "36149048",
+      "startDate": "2026-10-21T14:50:18Z",
+      "type": "Run",
+      "distance_km": 10.05,
+      "moving_time_sec": 4560,
+      "distance_m": 10050
+    },
     "20675343945": {
       "id": "20675343945",
       "athlete": "Roby Wong",
@@ -179,16 +189,6 @@
       "distance_km": 7.01,
       "moving_time_sec": 3257,
       "distance_m": 7010
-    },
-    "20668681338": {
-      "id": "20668681338",
-      "athlete": "Friskha Chaca",
-      "athleteId": "31777986",
-      "startDate": "2026-10-20T23:06:19Z",
-      "type": "Run",
-      "distance_km": 9,
-      "moving_time_sec": 3553,
-      "distance_m": 9000
     }
   }
 }

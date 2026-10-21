@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:50:57.744Z",
+  "generated_at": "2026-10-21T19:55:02.646Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-10-19",
-  "week_end": "2026-10-21",
+  "week_end": "2026-10-22",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -53,6 +53,17 @@
     },
     {
       "rank": 4,
+      "name": "Made Wardhana",
+      "distance_km": 10.05,
+      "moving_time_sec": 4560,
+      "moving_time": "1j 16m",
+      "pace": "7:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/36149048.jpg"
+    },
+    {
+      "rank": 5,
       "name": "B A R A T LSP",
       "distance_km": 10,
       "moving_time_sec": 4140,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/71432630.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Shelomitha 12",
       "distance_km": 9.01,
       "moving_time_sec": 4080,
@@ -72,17 +83,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/154370520.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Friskha Chaca",
-      "distance_km": 9,
-      "moving_time_sec": 3553,
-      "moving_time": "59m 13s",
-      "pace": "6:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
     },
     {
       "rank": 7,
