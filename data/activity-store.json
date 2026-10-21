@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20681237366": {
+      "id": "20681237366",
+      "athlete": "Ardy Fardiansyah",
+      "athleteId": "32392407",
+      "startDate": "2026-10-21T22:06:18Z",
+      "type": "Run",
+      "distance_km": 7.54,
+      "moving_time_sec": 3012,
+      "distance_m": 7540
+    },
     "20676874255": {
       "id": "20676874255",
       "athlete": "Made Wardhana",
@@ -179,16 +189,6 @@
       "distance_km": 7,
       "moving_time_sec": 3215,
       "distance_m": 7000
-    },
-    "20668723803": {
-      "id": "20668723803",
-      "athlete": "Christine .S",
-      "athleteId": "71718168",
-      "startDate": "2026-10-20T23:39:52Z",
-      "type": "Run",
-      "distance_km": 7.01,
-      "moving_time_sec": 3257,
-      "distance_m": 7010
     }
   }
 }

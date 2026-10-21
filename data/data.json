@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:55:02.646Z",
+  "generated_at": "2026-10-21T23:01:01.040Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -108,6 +108,17 @@
     },
     {
       "rank": 9,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.54,
+      "moving_time_sec": 3012,
+      "moving_time": "50m 12s",
+      "pace": "6:39",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 10,
       "name": "william fernando",
       "distance_km": 7.5,
       "moving_time_sec": 3143,
@@ -116,17 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Andreas Mario",
-      "distance_km": 7.41,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "8:54",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
     }
   ]
 }
