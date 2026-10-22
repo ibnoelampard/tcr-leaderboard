@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:44:07.107Z",
+  "generated_at": "2026-10-22T22:57:32.326Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -64,17 +64,6 @@
     },
     {
       "rank": 5,
-      "name": "Yotta Risanggono",
-      "distance_km": 7.02,
-      "moving_time_sec": 3562,
-      "moving_time": "59m 22s",
-      "pace": "8:27",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
-    },
-    {
-      "rank": 6,
       "name": "Aditya Rudy",
       "distance_km": 7,
       "moving_time_sec": 2324,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Ibnoelampard Noe",
       "distance_km": 6.56,
       "moving_time_sec": 3021,
@@ -94,6 +83,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "Toni Djiaw",
+      "distance_km": 6.54,
+      "moving_time_sec": 2501,
+      "moving_time": "41m 41s",
+      "pace": "6:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 8,
