@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:52:16.832Z",
+  "generated_at": "2026-10-22T19:44:07.107Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,23 +13,13 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-10-19",
-  "week_end": "2026-10-22",
+  "week_end": "2026-10-23",
   "metric": "distance",
   "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Rudy Yulianus",
-      "distance_km": 12.22,
-      "moving_time_sec": 4877,
-      "moving_time": "1j 21m",
-      "pace": "6:39",
-      "activities": 2,
-      "elev_m": 0
-    },
-    {
-      "rank": 2,
       "name": "Rudy Hartono",
       "distance_km": 10.55,
       "moving_time_sec": 4380,
@@ -40,7 +30,7 @@
       "photo": "assets/athletes/27222012.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Alex Rusman",
       "distance_km": 10.24,
       "moving_time_sec": 4200,
@@ -51,7 +41,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Andreas Mario",
       "distance_km": 7.45,
       "moving_time_sec": 3470,
@@ -62,7 +52,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Rinaldi Kesuma",
       "distance_km": 7.17,
       "moving_time_sec": 2311,
@@ -71,6 +61,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Yotta Risanggono",
+      "distance_km": 7.02,
+      "moving_time_sec": 3562,
+      "moving_time": "59m 22s",
+      "pace": "8:27",
+      "activities": 3,
+      "elev_m": 0,
+      "photo": "assets/athletes/125540711.jpg"
     },
     {
       "rank": 6,
@@ -85,14 +86,14 @@
     },
     {
       "rank": 7,
-      "name": "Yotta Risanggono",
-      "distance_km": 5.49,
-      "moving_time_sec": 2853,
-      "moving_time": "47m 33s",
-      "pace": "8:40",
-      "activities": 2,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 6.56,
+      "moving_time_sec": 3021,
+      "moving_time": "50m 21s",
+      "pace": "7:41",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/125540711.jpg"
+      "photo": "assets/athletes/130551674.jpg"
     },
     {
       "rank": 8,
