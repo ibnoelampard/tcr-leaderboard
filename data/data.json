@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:01:01.040Z",
+  "generated_at": "2026-10-22T03:20:41.611Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,22 +15,11 @@
   "week_start": "2026-10-19",
   "week_end": "2026-10-22",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Coco Tsl",
-      "distance_km": 18.45,
-      "moving_time_sec": 7000,
-      "moving_time": "1j 56m",
-      "pace": "6:19",
-      "activities": 3,
-      "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Renaldi Wijaya",
       "distance_km": 12.29,
       "moving_time_sec": 4140,
@@ -41,15 +30,24 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
+      "rank": 2,
+      "name": "Ike Kusumawati",
+      "distance_km": 10.41,
+      "moving_time_sec": 3526,
+      "moving_time": "58m 46s",
+      "pace": "5:39",
+      "activities": 3,
+      "elev_m": 0
+    },
+    {
       "rank": 3,
-      "name": "Lyutasya .",
-      "distance_km": 10.8,
-      "moving_time_sec": 5022,
-      "moving_time": "1j 23m",
-      "pace": "7:45",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
+      "name": "Rudy Yulianus",
+      "distance_km": 10.05,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:34",
+      "activities": 1,
+      "elev_m": 0
     },
     {
       "rank": 4,
@@ -64,17 +62,28 @@
     },
     {
       "rank": 5,
-      "name": "B A R A T LSP",
-      "distance_km": 10,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "6:54",
+      "name": "Toni Djiaw",
+      "distance_km": 10.03,
+      "moving_time_sec": 3439,
+      "moving_time": "57m 19s",
+      "pace": "5:43",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 6,
+      "name": "Coco Tsl",
+      "distance_km": 9.9,
+      "moving_time_sec": 4080,
+      "moving_time": "1j 8m",
+      "pace": "6:52",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Shelomitha 12",
       "distance_km": 9.01,
       "moving_time_sec": 4080,
@@ -85,7 +94,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Roby Wong",
       "distance_km": 8.28,
       "moving_time_sec": 4860,
@@ -94,17 +103,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/126128951.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Annif D",
-      "distance_km": 8.01,
-      "moving_time_sec": 3046,
-      "moving_time": "50m 46s",
-      "pace": "6:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
     },
     {
       "rank": 9,
@@ -119,14 +117,14 @@
     },
     {
       "rank": 10,
-      "name": "william fernando",
-      "distance_km": 7.5,
-      "moving_time_sec": 3143,
-      "moving_time": "52m 23s",
-      "pace": "6:59",
+      "name": "Andreas Mario",
+      "distance_km": 7.41,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "8:54",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
+      "photo": "assets/athletes/64642890.jpg"
     }
   ]
 }
