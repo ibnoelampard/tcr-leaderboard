@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:46:34.905Z",
+  "generated_at": "2026-10-23T22:53:23.577Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -20,17 +20,6 @@
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Diana Melina",
-      "distance_km": 10.12,
-      "moving_time_sec": 4020,
-      "moving_time": "1j 7m",
-      "pace": "6:37",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/126056724.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Aditya Rudy",
       "distance_km": 10.04,
       "moving_time_sec": 3572,
@@ -41,7 +30,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Christine .S",
       "distance_km": 10.01,
       "moving_time_sec": 4400,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/71718168.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Steven Cloon",
       "distance_km": 10.01,
       "moving_time_sec": 3900,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/83609058.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Friskha Chaca",
       "distance_km": 7.81,
       "moving_time_sec": 3038,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Yudo Adrian",
       "distance_km": 6.43,
       "moving_time_sec": 1913,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "william po",
       "distance_km": 6.01,
       "moving_time_sec": 2443,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Daniel Steven",
       "distance_km": 5.37,
       "moving_time_sec": 2457,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/62616971.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Feri Yo",
       "distance_km": 5.3,
       "moving_time_sec": 3498,
@@ -118,7 +107,7 @@
       "photo": "assets/athletes/119721281.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 5.06,
       "moving_time_sec": 1816,
@@ -127,6 +116,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/37690983.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rudy Hartono",
+      "distance_km": 5.05,
+      "moving_time_sec": 2114,
+      "moving_time": "35m 14s",
+      "pace": "6:59",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
     }
   ]
 }
