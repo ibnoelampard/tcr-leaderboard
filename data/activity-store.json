@@ -50,6 +50,16 @@
       "moving_time_sec": 7620,
       "distance_m": 18010
     },
+    "20708409489": {
+      "id": "20708409489",
+      "athlete": "Gloria Guida",
+      "athleteId": "30268008",
+      "startDate": "2026-10-23T23:08:56Z",
+      "type": "Run",
+      "distance_km": 5.8,
+      "moving_time_sec": 3840,
+      "distance_m": 5800
+    },
     "20706426974": {
       "id": "20706426974",
       "athlete": "Jesslyn Ng",
@@ -130,6 +140,16 @@
       "moving_time_sec": 2236,
       "distance_m": 5650
     },
+    "20707501057": {
+      "id": "20707501057",
+      "athlete": "DJayus DJayus",
+      "athleteId": "42630135",
+      "startDate": "2026-10-23T21:39:11Z",
+      "type": "Run",
+      "distance_km": 22.47,
+      "moving_time_sec": 8580,
+      "distance_m": 22470
+    },
     "20706858237": {
       "id": "20706858237",
       "athlete": "Riki Lie",
@@ -159,36 +179,6 @@
       "distance_km": 5.01,
       "moving_time_sec": 1802,
       "distance_m": 5010
-    },
-    "20706034759": {
-      "id": "20706034759",
-      "athlete": "Lyutasya .",
-      "athleteId": "128643628",
-      "startDate": "2026-10-23T21:31:54Z",
-      "type": "Run",
-      "distance_km": 21.37,
-      "moving_time_sec": 7380,
-      "distance_m": 21370
-    },
-    "20706135303": {
-      "id": "20706135303",
-      "athlete": "Michael Eric TCR",
-      "athleteId": "30999811",
-      "startDate": "2026-10-23T22:40:30Z",
-      "type": "Run",
-      "distance_km": 5.19,
-      "moving_time_sec": 2271,
-      "distance_m": 5190
-    },
-    "20705880074": {
-      "id": "20705880074",
-      "athlete": "Erwin Hauw",
-      "athleteId": "66730311",
-      "startDate": "2026-10-23T21:30:03Z",
-      "type": "Run",
-      "distance_km": 21.38,
-      "moving_time_sec": 6000,
-      "distance_m": 21380
     }
   }
 }
