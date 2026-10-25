@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:27:18.494Z",
+  "generated_at": "2026-10-25T10:44:49.102Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-10-19",
   "week_end": "2026-10-25",
   "metric": "distance",
-  "total_activities": 18,
+  "total_activities": 15,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -74,17 +74,6 @@
     },
     {
       "rank": 6,
-      "name": "Yudo Adrian",
-      "distance_km": 42.68,
-      "moving_time_sec": 13980,
-      "moving_time": "3j 53m",
-      "pace": "5:28",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
-    },
-    {
-      "rank": 7,
       "name": "Ardy Fardiansyah",
       "distance_km": 42.66,
       "moving_time_sec": 14127,
@@ -95,29 +84,18 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
+      "rank": 7,
+      "name": "David Nolan",
+      "distance_km": 25.03,
+      "moving_time_sec": 8040,
+      "moving_time": "2j 14m",
+      "pace": "5:21",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
       "rank": 8,
-      "name": "Alex Rusman",
-      "distance_km": 42.65,
-      "moving_time_sec": 13080,
-      "moving_time": "3j 38m",
-      "pace": "5:07",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Nesdi Waty",
-      "distance_km": 23.21,
-      "moving_time_sec": 10020,
-      "moving_time": "2j 47m",
-      "pace": "7:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26779694.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Jessica Pangestu",
       "distance_km": 23.1,
       "moving_time_sec": 10260,
@@ -126,6 +104,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/48472455.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Halisa Maulidia",
+      "distance_km": 21.19,
+      "moving_time_sec": 8220,
+      "moving_time": "2j 17m",
+      "pace": "6:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Andreas Mario",
+      "distance_km": 21.15,
+      "moving_time_sec": 9780,
+      "moving_time": "2j 43m",
+      "pace": "7:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
     }
   ]
 }

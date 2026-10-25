@@ -1,5 +1,25 @@
 {
   "activities": {
+    "20722428680": {
+      "id": "20722428680",
+      "athlete": "David Nolan",
+      "athleteId": "7442783",
+      "startDate": "2026-10-25T07:30:50Z",
+      "type": "Run",
+      "distance_km": 25.03,
+      "moving_time_sec": 8040,
+      "distance_m": 25030
+    },
+    "20720840767": {
+      "id": "20720840767",
+      "athlete": "Halisa Maulidia",
+      "athleteId": "153432832",
+      "startDate": "2026-10-25T04:26:08Z",
+      "type": "Run",
+      "distance_km": 21.19,
+      "moving_time_sec": 8220,
+      "distance_m": 21190
+    },
     "20720227792": {
       "id": "20720227792",
       "athlete": "Yotta Risanggono",
@@ -129,56 +149,6 @@
       "distance_km": 42.91,
       "moving_time_sec": 14040,
       "distance_m": 42910
-    },
-    "20719405194": {
-      "id": "20719405194",
-      "athlete": "Yudo Adrian",
-      "athleteId": "16988697",
-      "startDate": "2026-10-24T21:00:03Z",
-      "type": "Run",
-      "distance_km": 42.68,
-      "moving_time_sec": 13980,
-      "distance_m": 42680
-    },
-    "20719486905": {
-      "id": "20719486905",
-      "athlete": "Nesdi Waty",
-      "athleteId": "26779694",
-      "startDate": "2026-10-24T17:00:01Z",
-      "type": "Run",
-      "distance_km": 23.21,
-      "moving_time_sec": 10020,
-      "distance_m": 23210
-    },
-    "20719217726": {
-      "id": "20719217726",
-      "athlete": "Alex Rusman",
-      "athleteId": "153243434",
-      "startDate": "2026-10-24T21:00:04Z",
-      "type": "Run",
-      "distance_km": 42.65,
-      "moving_time_sec": 13080,
-      "distance_m": 42650
-    },
-    "20719147464": {
-      "id": "20719147464",
-      "athlete": "Coco Tsl",
-      "athleteId": "148842377",
-      "startDate": "2026-10-24T22:40:40Z",
-      "type": "Run",
-      "distance_km": 12.09,
-      "moving_time_sec": 5580,
-      "distance_m": 12090
-    },
-    "20719068890": {
-      "id": "20719068890",
-      "athlete": "Diana Melina",
-      "athleteId": "126056724",
-      "startDate": "2026-10-24T21:54:07Z",
-      "type": "Run",
-      "distance_km": 22.23,
-      "moving_time_sec": 8340,
-      "distance_m": 22230
     }
   }
 }
