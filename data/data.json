@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:16:57.293Z",
+  "generated_at": "2026-10-26T09:42:36.331Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-10-26",
   "week_end": "2026-10-26",
   "metric": "distance",
-  "total_activities": 2,
-  "total_athletes": 2,
+  "total_activities": 3,
+  "total_athletes": 3,
   "leaderboard": [
     {
       "rank": 1,
@@ -39,6 +39,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Ferry Febyanto",
+      "distance_km": 0,
+      "moving_time_sec": 1,
+      "moving_time": "0m 1s",
+      "pace": "--",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/4719443.jpg"
     }
   ]
 }
