@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:42:36.331Z",
+  "generated_at": "2026-10-26T16:29:38.174Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,33 @@
   "week_start": "2026-10-26",
   "week_end": "2026-10-26",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 8,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 15.29,
+      "moving_time_sec": 6108,
+      "moving_time": "1j 41m",
+      "pace": "6:39",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Retno P",
+      "distance_km": 9.07,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "7:17",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/190280699.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditya Rudy",
       "distance_km": 7,
       "moving_time_sec": 2699,
@@ -30,7 +52,18 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "name": "severinus tyan",
+      "distance_km": 6.12,
+      "moving_time_sec": 2453,
+      "moving_time": "40m 53s",
+      "pace": "6:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 5,
       "name": "sugyo .",
       "distance_km": 6.11,
       "moving_time_sec": 2675,
@@ -41,7 +74,18 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "name": "Ibnoelampard Noe",
+      "distance_km": 5.36,
+      "moving_time_sec": 2415,
+      "moving_time": "40m 15s",
+      "pace": "7:31",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/130551674.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Ferry Febyanto",
       "distance_km": 0,
       "moving_time_sec": 1,
