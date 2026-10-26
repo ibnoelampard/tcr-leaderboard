@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:17:30.524Z",
+  "generated_at": "2026-10-26T03:16:57.293Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,30 @@
   "week_start": "2026-10-26",
   "week_end": "2026-10-26",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 2,
+  "total_athletes": 2,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Aditya Rudy",
+      "distance_km": 7,
+      "moving_time_sec": 2699,
+      "moving_time": "44m 59s",
+      "pace": "6:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "sugyo .",
+      "distance_km": 6.11,
+      "moving_time_sec": 2675,
+      "moving_time": "44m 35s",
+      "pace": "7:18",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    }
+  ]
 }
