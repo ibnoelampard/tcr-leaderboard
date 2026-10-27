@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:18:15.325Z",
+  "generated_at": "2026-10-27T03:45:46.806Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-10-26",
   "week_end": "2026-10-27",
   "metric": "distance",
-  "total_activities": 8,
-  "total_athletes": 7,
+  "total_activities": 19,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,16 @@
     },
     {
       "rank": 2,
+      "name": "silas soetrisno",
+      "distance_km": 12.09,
+      "moving_time_sec": 3149,
+      "moving_time": "52m 29s",
+      "pace": "4:20",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
       "name": "Retno P",
       "distance_km": 9.07,
       "moving_time_sec": 3960,
@@ -41,7 +51,40 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "Harmada Hutajulu",
+      "distance_km": 8.54,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "8:47",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/20040717.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Christine .S",
+      "distance_km": 8,
+      "moving_time_sec": 3393,
+      "moving_time": "56m 33s",
+      "pace": "7:04",
+      "activities": 6,
+      "elev_m": 0,
+      "photo": "assets/athletes/71718168.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Friskha Chaca",
+      "distance_km": 7.71,
+      "moving_time_sec": 2999,
+      "moving_time": "49m 59s",
+      "pace": "6:29",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Aditya Rudy",
       "distance_km": 7,
       "moving_time_sec": 2699,
@@ -52,7 +95,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "name": "severinus tyan",
       "distance_km": 6.12,
       "moving_time_sec": 2453,
@@ -63,7 +106,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "name": "sugyo .",
       "distance_km": 6.11,
       "moving_time_sec": 2675,
@@ -74,26 +117,15 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 6,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 5.36,
-      "moving_time_sec": 2415,
-      "moving_time": "40m 15s",
-      "pace": "7:31",
+      "rank": 10,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 6.03,
+      "moving_time_sec": 2841,
+      "moving_time": "47m 21s",
+      "pace": "7:51",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Ferry Febyanto",
-      "distance_km": 0,
-      "moving_time_sec": 1,
-      "moving_time": "0m 1s",
-      "pace": "--",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/4719443.jpg"
+      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
