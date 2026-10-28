@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:57:58.177Z",
+  "generated_at": "2026-10-28T07:55:34.995Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -85,17 +85,6 @@
     },
     {
       "rank": 7,
-      "name": "william po",
-      "distance_km": 7.25,
-      "moving_time_sec": 3353,
-      "moving_time": "55m 53s",
-      "pace": "7:42",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 8,
       "name": "william fernando",
       "distance_km": 7,
       "moving_time_sec": 2726,
@@ -106,7 +95,7 @@
       "photo": "assets/athletes/30574816.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Lyutasya .",
       "distance_km": 5.64,
       "moving_time_sec": 2814,
@@ -117,7 +106,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "Andree Setiawan",
       "distance_km": 5.6,
       "moving_time_sec": 2264,
@@ -126,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/95696517.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Daniel Steven",
+      "distance_km": 5.13,
+      "moving_time_sec": 2330,
+      "moving_time": "38m 50s",
+      "pace": "7:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62616971.jpg"
     }
   ]
 }
