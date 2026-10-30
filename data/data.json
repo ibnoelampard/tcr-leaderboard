@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:09:19.025Z",
+  "generated_at": "2026-10-30T18:59:02.988Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-10-26",
-  "week_end": "2026-10-30",
+  "week_end": "2026-10-31",
   "metric": "distance",
   "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "David Nolan",
+      "distance_km": 26.14,
+      "moving_time_sec": 8040,
+      "moving_time": "2j 14m",
+      "pace": "5:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 2,
       "name": "severinus tyan",
       "distance_km": 13,
       "moving_time_sec": 4200,
@@ -30,7 +41,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Harmada Hutajulu",
       "distance_km": 12.33,
       "moving_time_sec": 6420,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Ike Kusumawati",
       "distance_km": 10.27,
       "moving_time_sec": 3802,
@@ -51,7 +62,7 @@
       "elev_m": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Aditra AL",
       "distance_km": 10.02,
       "moving_time_sec": 4320,
@@ -59,17 +70,6 @@
       "pace": "7:11",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 5,
-      "name": "Toni Djiaw",
-      "distance_km": 9.17,
-      "moving_time_sec": 2864,
-      "moving_time": "47m 44s",
-      "pace": "5:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 6,
