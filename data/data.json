@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:59:02.988Z",
+  "generated_at": "2026-10-30T23:27:34.511Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,6 +31,16 @@
     },
     {
       "rank": 2,
+      "name": "Aditra AL",
+      "distance_km": 20.04,
+      "moving_time_sec": 8580,
+      "moving_time": "2j 23m",
+      "pace": "7:08",
+      "activities": 2,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
       "name": "severinus tyan",
       "distance_km": 13,
       "moving_time_sec": 4200,
@@ -41,7 +51,7 @@
       "photo": "assets/athletes/27221918.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Harmada Hutajulu",
       "distance_km": 12.33,
       "moving_time_sec": 6420,
@@ -52,27 +62,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 4,
-      "name": "Ike Kusumawati",
-      "distance_km": 10.27,
-      "moving_time_sec": 3802,
-      "moving_time": "1j 3m",
-      "pace": "6:10",
-      "activities": 5,
-      "elev_m": 0
-    },
-    {
       "rank": 5,
-      "name": "Aditra AL",
-      "distance_km": 10.02,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:11",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 6,
       "name": "Antin Achai",
       "distance_km": 8.35,
       "moving_time_sec": 3600,
@@ -83,7 +73,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Farhan Kastaa",
       "distance_km": 8.2,
       "moving_time_sec": 3429,
@@ -94,7 +84,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Brent F",
       "distance_km": 8.09,
       "moving_time_sec": 2961,
@@ -105,7 +95,7 @@
       "photo": "assets/athletes/1047634846.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Aditya Rudy",
       "distance_km": 6.51,
       "moving_time_sec": 2802,
@@ -116,7 +106,7 @@
       "photo": "assets/athletes/27344421.jpg"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "william po",
       "distance_km": 6.25,
       "moving_time_sec": 2682,
@@ -125,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/181211766.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Muzammil Akhmad",
+      "distance_km": 5.51,
+      "moving_time_sec": 2780,
+      "moving_time": "46m 20s",
+      "pace": "8:25",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
     }
   ]
 }
