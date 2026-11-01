@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:34:28.632Z",
+  "generated_at": "2026-11-01T21:42:24.229Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -12,120 +12,10 @@
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
   },
-  "week_start": "2026-10-26",
-  "week_end": "2026-11-01",
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-02",
   "metric": "distance",
-  "total_activities": 17,
-  "total_athletes": 10,
-  "leaderboard": [
-    {
-      "rank": 1,
-      "name": "Christine .S",
-      "distance_km": 30.1,
-      "moving_time_sec": 12660,
-      "moving_time": "3j 31m",
-      "pace": "7:01",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
-    },
-    {
-      "rank": 2,
-      "name": "severinus tyan",
-      "distance_km": 22.22,
-      "moving_time_sec": 6900,
-      "moving_time": "1j 55m",
-      "pace": "5:11",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 3,
-      "name": "Alex Rusman",
-      "distance_km": 22.03,
-      "moving_time_sec": 7020,
-      "moving_time": "1j 57m",
-      "pace": "5:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Ike Kusumawati",
-      "distance_km": 17.07,
-      "moving_time_sec": 6720,
-      "moving_time": "1j 52m",
-      "pace": "6:34",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
-      "rank": 5,
-      "name": "Harmada Hutajulu",
-      "distance_km": 16.53,
-      "moving_time_sec": 10440,
-      "moving_time": "2j 54m",
-      "pace": "10:32",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/20040717.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Fritz Wildan",
-      "distance_km": 12.58,
-      "moving_time_sec": 5460,
-      "moving_time": "1j 31m",
-      "pace": "7:14",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26923775.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "jeje neko",
-      "distance_km": 11.91,
-      "moving_time_sec": 12120,
-      "moving_time": "3j 22m",
-      "pace": "16:58",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/142856679.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "dez dez",
-      "distance_km": 10.51,
-      "moving_time_sec": 4680,
-      "moving_time": "1j 18m",
-      "pace": "7:25",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/156419930.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Dikdik Sugiharto",
-      "distance_km": 8,
-      "moving_time_sec": 3117,
-      "moving_time": "51m 57s",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/56518385.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Halisa Maulidia",
-      "distance_km": 7,
-      "moving_time_sec": 4140,
-      "moving_time": "1j 9m",
-      "pace": "9:51",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153432832.jpg"
-    }
-  ]
+  "total_activities": 0,
+  "total_athletes": 0,
+  "leaderboard": []
 }
