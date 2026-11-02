@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:15:51.293Z",
+  "generated_at": "2026-11-02T08:53:35.478Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-11-02",
   "week_end": "2026-11-02",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 6,
+  "total_athletes": 6,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "Aditya Rudy",
+      "distance_km": 10.01,
+      "moving_time_sec": 4140,
+      "moving_time": "1j 9m",
+      "pace": "6:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Aditra AL",
       "distance_km": 8.05,
       "moving_time_sec": 3660,
@@ -40,7 +51,29 @@
       "elev_m": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "name": "sugyo .",
+      "distance_km": 6.11,
+      "moving_time_sec": 2990,
+      "moving_time": "49m 50s",
+      "pace": "8:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Hendri Mulyadi",
+      "distance_km": 3.16,
+      "moving_time_sec": 2115,
+      "moving_time": "35m 15s",
+      "pace": "11:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/137028433.jpg"
+    },
+    {
+      "rank": 6,
       "name": "Muzammil Akhmad",
       "distance_km": 1.13,
       "moving_time_sec": 908,
