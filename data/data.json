@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:37:34.526Z",
+  "generated_at": "2026-11-03T19:03:38.553Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,24 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-02",
-  "week_end": "2026-11-03",
+  "week_end": "2026-11-04",
   "metric": "distance",
   "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Alex Rusman",
+      "distance_km": 15.01,
+      "moving_time_sec": 5580,
+      "moving_time": "1j 33m",
+      "pace": "6:12",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 2,
       "name": "Riki Lie",
       "distance_km": 13,
       "moving_time_sec": 5940,
@@ -30,39 +41,84 @@
       "photo": "assets/athletes/122081422.jpg"
     },
     {
-      "rank": 2,
-      "name": "Aditra AL",
-      "distance_km": 11.44,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "6:18",
-      "activities": 1,
-      "elev_m": 0
-    },
-    {
       "rank": 3,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 10.92,
-      "moving_time_sec": 3873,
-      "moving_time": "1j 4m",
-      "pace": "5:55",
-      "activities": 2,
+      "name": "Roby Wong",
+      "distance_km": 11.02,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "5:59",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "photo": "assets/athletes/126128951.jpg"
     },
     {
       "rank": 4,
-      "name": "Christine .S",
-      "distance_km": 8.17,
-      "moving_time_sec": 3643,
-      "moving_time": "1j 0m",
-      "pace": "7:26",
-      "activities": 7,
+      "name": "Erick Yanto",
+      "distance_km": 10.9,
+      "moving_time_sec": 5624,
+      "moving_time": "1j 33m",
+      "pace": "8:36",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
+      "photo": "assets/athletes/164750862.jpg"
     },
     {
       "rank": 5,
+      "name": "Jun Pang",
+      "distance_km": 10.04,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "6:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/19762198.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "Shelomitha 12",
+      "distance_km": 10.01,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "7:54",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/154370520.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "severinus tyan",
+      "distance_km": 8.49,
+      "moving_time_sec": 3900,
+      "moving_time": "1j 5m",
+      "pace": "7:39",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Lyutasya .",
+      "distance_km": 8.47,
+      "moving_time_sec": 3904,
+      "moving_time": "1j 5m",
+      "pace": "7:41",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/128643628.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Retno P",
+      "distance_km": 8.17,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "8:41",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/190280699.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Maria Goldiana Taping",
       "distance_km": 8,
       "moving_time_sec": 2998,
@@ -71,61 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71202449.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Friskha Chaca",
-      "distance_km": 7.1,
-      "moving_time_sec": 2805,
-      "moving_time": "46m 45s",
-      "pace": "6:35",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Coco Tsl",
-      "distance_km": 6.09,
-      "moving_time_sec": 2115,
-      "moving_time": "35m 15s",
-      "pace": "5:47",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Jessica Pangestu",
-      "distance_km": 6,
-      "moving_time_sec": 2404,
-      "moving_time": "40m 4s",
-      "pace": "6:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/48472455.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Aditya Rudy",
-      "distance_km": 5.52,
-      "moving_time_sec": 2574,
-      "moving_time": "42m 54s",
-      "pace": "7:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "sugyo .",
-      "distance_km": 5.09,
-      "moving_time_sec": 2371,
-      "moving_time": "39m 31s",
-      "pace": "7:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
     }
   ]
 }
