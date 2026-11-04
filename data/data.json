@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:44:42.978Z",
+  "generated_at": "2026-11-04T23:12:22.721Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,14 +31,14 @@
     },
     {
       "rank": 2,
-      "name": "severinus tyan",
-      "distance_km": 13.65,
-      "moving_time_sec": 5189,
-      "moving_time": "1j 26m",
-      "pace": "6:20",
-      "activities": 2,
+      "name": "Toni Djiaw",
+      "distance_km": 14.02,
+      "moving_time_sec": 4500,
+      "moving_time": "1j 15m",
+      "pace": "5:21",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27221918.jpg"
+      "photo": "assets/athletes/142218523.jpg"
     },
     {
       "rank": 3,
@@ -64,6 +64,16 @@
     },
     {
       "rank": 5,
+      "name": "Aditra AL",
+      "distance_km": 8.05,
+      "moving_time_sec": 3346,
+      "moving_time": "55m 46s",
+      "pace": "6:56",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 6,
       "name": "Shelomitha 12",
       "distance_km": 8,
       "moving_time_sec": 3404,
@@ -74,18 +84,18 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 6,
-      "name": "Muhammad Rizki Hartadi",
-      "distance_km": 7.08,
-      "moving_time_sec": 2925,
-      "moving_time": "48m 45s",
-      "pace": "6:53",
-      "activities": 3,
+      "rank": 7,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.48,
+      "moving_time_sec": 3019,
+      "moving_time": "50m 19s",
+      "pace": "6:44",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/123066684.jpg"
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Renaldi Wijaya",
       "distance_km": 7,
       "moving_time_sec": 2326,
@@ -96,7 +106,7 @@
       "photo": "assets/athletes/143447083.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Denny Hy",
       "distance_km": 6.42,
       "moving_time_sec": 2687,
@@ -107,26 +117,15 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 9,
-      "name": "Lyutasya .",
-      "distance_km": 5.93,
-      "moving_time_sec": 3470,
-      "moving_time": "57m 50s",
-      "pace": "9:45",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/128643628.jpg"
-    },
-    {
       "rank": 10,
-      "name": "Andreas Mario",
-      "distance_km": 5.75,
-      "moving_time_sec": 3068,
-      "moving_time": "51m 8s",
-      "pace": "8:54",
+      "name": "Jessica Pangestu",
+      "distance_km": 6,
+      "moving_time_sec": 2409,
+      "moving_time": "40m 9s",
+      "pace": "6:42",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
+      "photo": "assets/athletes/48472455.jpg"
     }
   ]
 }
