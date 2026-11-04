@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:22:38.787Z",
+  "generated_at": "2026-11-04T08:37:25.047Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -7,7 +7,7 @@
     "city": "Tangerang",
     "state": "Banten",
     "country": "Indonesia",
-    "member_count": 154,
+    "member_count": 155,
     "profile": "assets/logo.jpg",
     "cover_photo": "assets/cover.jpg",
     "url": "tangerangcrazyrunners"
@@ -53,25 +53,25 @@
     },
     {
       "rank": 4,
-      "name": "Roby Wong",
-      "distance_km": 11.02,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "5:59",
+      "name": "Harmada Hutajulu",
+      "distance_km": 11.19,
+      "moving_time_sec": 5820,
+      "moving_time": "1j 37m",
+      "pace": "8:40",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/126128951.jpg"
+      "photo": "assets/athletes/20040717.jpg"
     },
     {
       "rank": 5,
-      "name": "Jun Pang",
-      "distance_km": 10.04,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "6:34",
+      "name": "Yudo Adrian",
+      "distance_km": 10.02,
+      "moving_time_sec": 3053,
+      "moving_time": "50m 53s",
+      "pace": "5:05",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
+      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 6,
@@ -86,14 +86,13 @@
     },
     {
       "rank": 7,
-      "name": "Shelomitha 12",
-      "distance_km": 10.01,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:54",
+      "name": "Ike Kusumawati",
+      "distance_km": 9.09,
+      "moving_time_sec": 3660,
+      "moving_time": "1j 1m",
+      "pace": "6:43",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/154370520.jpg"
+      "elev_m": 0
     },
     {
       "rank": 8,
@@ -108,17 +107,6 @@
     },
     {
       "rank": 9,
-      "name": "Retno P",
-      "distance_km": 8.17,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "8:41",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/190280699.jpg"
-    },
-    {
-      "rank": 10,
       "name": "Toni Djiaw",
       "distance_km": 7.99,
       "moving_time_sec": 2928,
@@ -127,6 +115,17 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.02,
+      "moving_time_sec": 2302,
+      "moving_time": "38m 22s",
+      "pace": "5:28",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
     }
   ]
 }
