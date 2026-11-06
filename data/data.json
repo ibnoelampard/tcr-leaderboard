@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:59:03.841Z",
+  "generated_at": "2026-11-06T09:13:25.168Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-11-02",
   "week_end": "2026-11-06",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -96,6 +96,17 @@
     },
     {
       "rank": 8,
+      "name": "severinus tyan",
+      "distance_km": 7.3,
+      "moving_time_sec": 1984,
+      "moving_time": "33m 4s",
+      "pace": "4:32",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Farhan Kastaa",
       "distance_km": 7.03,
       "moving_time_sec": 2668,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Erick Yanto",
       "distance_km": 6.66,
       "moving_time_sec": 2800,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Antin Achai",
-      "distance_km": 6.03,
-      "moving_time_sec": 2516,
-      "moving_time": "41m 56s",
-      "pace": "6:57",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/120428252.jpg"
     }
   ]
 }
