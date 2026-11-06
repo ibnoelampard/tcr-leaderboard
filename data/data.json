@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:10:25.910Z",
+  "generated_at": "2026-11-06T22:43:06.642Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "Erick Yanto",
-      "distance_km": 6.66,
-      "moving_time_sec": 2800,
-      "moving_time": "46m 40s",
-      "pace": "7:00",
+      "name": "Antin Achai",
+      "distance_km": 6.03,
+      "moving_time_sec": 2516,
+      "moving_time": "41m 56s",
+      "pace": "6:57",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/164750862.jpg"
+      "photo": "assets/athletes/120428252.jpg"
     }
   ]
 }

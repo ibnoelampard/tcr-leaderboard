@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20887767338": {
+      "id": "20887767338",
+      "athlete": "Ronald Hartadi",
+      "athleteId": "43789218",
+      "startDate": "2026-11-06T21:39:31Z",
+      "type": "Run",
+      "distance_km": 5.16,
+      "moving_time_sec": 2081,
+      "distance_m": 5160
+    },
     "20883594274": {
       "id": "20883594274",
       "athlete": "Rudy Hartono",
@@ -189,16 +199,6 @@
       "distance_km": 15.11,
       "moving_time_sec": 6180,
       "distance_m": 15110
-    },
-    "20870737789": {
-      "id": "20870737789",
-      "athlete": "Erick Yanto",
-      "athleteId": "164750862",
-      "startDate": "2026-11-05T11:26:53Z",
-      "type": "Run",
-      "distance_km": 6.66,
-      "moving_time_sec": 2800,
-      "distance_m": 6660
     }
   }
 }
