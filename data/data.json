@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:13:25.168Z",
+  "generated_at": "2026-11-06T17:10:25.910Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,24 +13,13 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-02",
-  "week_end": "2026-11-06",
+  "week_end": "2026-11-07",
   "metric": "distance",
   "total_activities": 20,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Alex Rusman",
-      "distance_km": 21.2,
-      "moving_time_sec": 8700,
-      "moving_time": "2j 25m",
-      "pace": "6:50",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
-    },
-    {
-      "rank": 2,
       "name": "Hendri Mulyadi",
       "distance_km": 15.11,
       "moving_time_sec": 6180,
@@ -41,7 +30,40 @@
       "photo": "assets/athletes/137028433.jpg"
     },
     {
+      "rank": 2,
+      "name": "Farhan Kastaa",
+      "distance_km": 13.87,
+      "moving_time_sec": 5151,
+      "moving_time": "1j 25m",
+      "pace": "6:11",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
       "rank": 3,
+      "name": "Rudy Hartono",
+      "distance_km": 10.62,
+      "moving_time_sec": 4905,
+      "moving_time": "1j 21m",
+      "pace": "7:42",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Andreas Mario",
+      "distance_km": 10.29,
+      "moving_time_sec": 5640,
+      "moving_time": "1j 34m",
+      "pace": "9:08",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Ardy Fardiansyah",
       "distance_km": 10.11,
       "moving_time_sec": 3600,
@@ -52,7 +74,7 @@
       "photo": "assets/athletes/32392407.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Aditra AL",
       "distance_km": 10.02,
       "moving_time_sec": 4260,
@@ -62,7 +84,7 @@
       "elev_m": 0
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Jun Pang",
       "distance_km": 10.02,
       "moving_time_sec": 4140,
@@ -73,18 +95,7 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 6,
-      "name": "Bram Siagian",
-      "distance_km": 9.02,
-      "moving_time_sec": 4320,
-      "moving_time": "1j 12m",
-      "pace": "7:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/186650879.jpg"
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "name": "Friskha Chaca",
       "distance_km": 7.6,
       "moving_time_sec": 3060,
@@ -95,7 +106,7 @@
       "photo": "assets/athletes/31777986.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "severinus tyan",
       "distance_km": 7.3,
       "moving_time_sec": 1984,
@@ -104,17 +115,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Farhan Kastaa",
-      "distance_km": 7.03,
-      "moving_time_sec": 2668,
-      "moving_time": "44m 28s",
-      "pace": "6:20",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
     },
     {
       "rank": 10,
