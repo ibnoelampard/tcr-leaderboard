@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:59:52.669Z",
+  "generated_at": "2026-11-06T01:59:03.841Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,28 +31,38 @@
     },
     {
       "rank": 2,
-      "name": "Aditya Rudy",
-      "distance_km": 11.11,
-      "moving_time_sec": 5100,
-      "moving_time": "1j 25m",
-      "pace": "7:39",
+      "name": "Hendri Mulyadi",
+      "distance_km": 15.11,
+      "moving_time_sec": 6180,
+      "moving_time": "1j 43m",
+      "pace": "6:49",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27344421.jpg"
+      "photo": "assets/athletes/137028433.jpg"
     },
     {
       "rank": 3,
-      "name": "Christine .S",
-      "distance_km": 11.01,
-      "moving_time_sec": 5124,
-      "moving_time": "1j 25m",
-      "pace": "7:45",
-      "activities": 2,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 10.11,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:56",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71718168.jpg"
+      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 4,
+      "name": "Aditra AL",
+      "distance_km": 10.02,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "7:05",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 5,
       "name": "Jun Pang",
       "distance_km": 10.02,
       "moving_time_sec": 4140,
@@ -61,17 +71,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 5,
-      "name": "Yudo Adrian",
-      "distance_km": 10.01,
-      "moving_time_sec": 2861,
-      "moving_time": "47m 41s",
-      "pace": "4:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
     },
     {
       "rank": 6,
@@ -86,14 +85,14 @@
     },
     {
       "rank": 7,
-      "name": "Rudy Hartono",
-      "distance_km": 8.88,
-      "moving_time_sec": 4147,
-      "moving_time": "1j 9m",
-      "pace": "7:47",
-      "activities": 2,
+      "name": "Friskha Chaca",
+      "distance_km": 7.6,
+      "moving_time_sec": 3060,
+      "moving_time": "51m 0s",
+      "pace": "6:43",
+      "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
+      "photo": "assets/athletes/31777986.jpg"
     },
     {
       "rank": 8,
@@ -119,14 +118,14 @@
     },
     {
       "rank": 10,
-      "name": "Coco Tsl",
-      "distance_km": 6.06,
-      "moving_time_sec": 2205,
-      "moving_time": "36m 45s",
-      "pace": "6:04",
+      "name": "Antin Achai",
+      "distance_km": 6.03,
+      "moving_time_sec": 2516,
+      "moving_time": "41m 56s",
+      "pace": "6:57",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
+      "photo": "assets/athletes/120428252.jpg"
     }
   ]
 }
