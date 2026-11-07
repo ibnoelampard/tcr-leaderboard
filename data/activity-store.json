@@ -1,5 +1,15 @@
 {
   "activities": {
+    "20896521348": {
+      "id": "20896521348",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-11-07T14:51:28Z",
+      "type": "Run",
+      "distance_km": 2.22,
+      "moving_time_sec": 966,
+      "distance_m": 2220
+    },
     "20893264519": {
       "id": "20893264519",
       "athlete": "Alex Rusman",
@@ -149,16 +159,6 @@
       "distance_km": 10.03,
       "moving_time_sec": 4500,
       "distance_m": 10030
-    },
-    "20888732887": {
-      "id": "20888732887",
-      "athlete": "Erwin Hauw",
-      "athleteId": "66730311",
-      "startDate": "2026-11-06T22:21:27Z",
-      "type": "Run",
-      "distance_km": 15.15,
-      "moving_time_sec": 6960,
-      "distance_m": 15150
     }
   }
 }
