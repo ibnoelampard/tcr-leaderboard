@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:42:12.817Z",
+  "generated_at": "2026-11-07T12:28:19.310Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,11 +15,33 @@
   "week_start": "2026-11-02",
   "week_end": "2026-11-07",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "severinus tyan",
+      "distance_km": 72.82,
+      "moving_time_sec": 33360,
+      "moving_time": "9j 16m",
+      "pace": "7:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27221918.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Alex Rusman",
+      "distance_km": 22.18,
+      "moving_time_sec": 7440,
+      "moving_time": "2j 4m",
+      "pace": "5:35",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153243434.jpg"
+    },
+    {
+      "rank": 3,
       "name": "william po",
       "distance_km": 21.08,
       "moving_time_sec": 9000,
@@ -30,7 +52,18 @@
       "photo": "assets/athletes/181211766.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "name": "Coco Tsl",
+      "distance_km": 18.1,
+      "moving_time_sec": 7121,
+      "moving_time": "1j 58m",
+      "pace": "6:33",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Yudo Adrian",
       "distance_km": 17.01,
       "moving_time_sec": 5100,
@@ -41,7 +74,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "name": "Erwin Hauw",
       "distance_km": 15.15,
       "moving_time_sec": 6960,
@@ -52,7 +85,7 @@
       "photo": "assets/athletes/66730311.jpg"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "Rudy Yulianus",
       "distance_km": 15.07,
       "moving_time_sec": 6240,
@@ -60,39 +93,6 @@
       "pace": "6:54",
       "activities": 1,
       "elev_m": 0
-    },
-    {
-      "rank": 5,
-      "name": "Jun Pang",
-      "distance_km": 15.02,
-      "moving_time_sec": 6480,
-      "moving_time": "1j 48m",
-      "pace": "7:11",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/19762198.jpg"
-    },
-    {
-      "rank": 6,
-      "name": "Sherly Tusita",
-      "distance_km": 13.55,
-      "moving_time_sec": 6300,
-      "moving_time": "1j 45m",
-      "pace": "7:45",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30504885.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Coco Tsl",
-      "distance_km": 13.04,
-      "moving_time_sec": 5640,
-      "moving_time": "1j 34m",
-      "pace": "7:13",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/148842377.jpg"
     },
     {
       "rank": 8,
