@@ -1,5 +1,35 @@
 {
   "activities": {
+    "20907384671": {
+      "id": "20907384671",
+      "athlete": "william fernando",
+      "athleteId": "30574816",
+      "startDate": "2026-11-08T11:12:53Z",
+      "type": "Run",
+      "distance_km": 6,
+      "moving_time_sec": 2611,
+      "distance_m": 6000
+    },
+    "20906377642": {
+      "id": "20906377642",
+      "athlete": "Maria Goldiana Taping",
+      "athleteId": "71202449",
+      "startDate": "2026-11-08T10:26:22Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2112,
+      "distance_m": 5010
+    },
+    "20905644952": {
+      "id": "20905644952",
+      "athlete": "Boris Lethe",
+      "athleteId": "37690983",
+      "startDate": "2026-11-08T09:28:56Z",
+      "type": "Run",
+      "distance_km": 4.51,
+      "moving_time_sec": 2913,
+      "distance_m": 4510
+    },
     "20902376412": {
       "id": "20902376412",
       "athlete": "Roby Wong",
@@ -136,9 +166,9 @@
       "athleteId": "135577017",
       "startDate": "2026-11-07T21:30:05Z",
       "type": "Run",
-      "distance_km": 21.72,
-      "moving_time_sec": 9840,
-      "distance_m": 21720
+      "distance_km": 21.13,
+      "moving_time_sec": 9420,
+      "distance_m": 21130
     },
     "20902241096": {
       "id": "20902241096",
@@ -159,36 +189,6 @@
       "distance_km": 2.05,
       "moving_time_sec": 777,
       "distance_m": 2050
-    },
-    "20902074691": {
-      "id": "20902074691",
-      "athlete": "Yudo Adrian",
-      "athleteId": "16988697",
-      "startDate": "2026-11-07T23:25:59Z",
-      "type": "Run",
-      "distance_km": 10.01,
-      "moving_time_sec": 3155,
-      "distance_m": 10010
-    },
-    "20901710117": {
-      "id": "20901710117",
-      "athlete": "Ardy Fardiansyah",
-      "athleteId": "32392407",
-      "startDate": "2026-11-07T22:36:51Z",
-      "type": "Run",
-      "distance_km": 17.02,
-      "moving_time_sec": 5760,
-      "distance_m": 17020
-    },
-    "20902069275": {
-      "id": "20902069275",
-      "athlete": "Rudy Yulianus",
-      "athleteId": "184529717",
-      "startDate": "2026-11-07T23:02:16Z",
-      "type": "Run",
-      "distance_km": 5.64,
-      "moving_time_sec": 2869,
-      "distance_m": 5640
     }
   }
 }
