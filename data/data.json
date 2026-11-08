@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:38:52.699Z",
+  "generated_at": "2026-11-08T23:25:26.573Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,29 @@
   "week_start": "2026-11-09",
   "week_end": "2026-11-09",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 2,
+  "total_athletes": 2,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 10.03,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "7:05",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "Halisa Maulidia",
+      "distance_km": 9.21,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "7:43",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/153432832.jpg"
+    }
+  ]
 }
