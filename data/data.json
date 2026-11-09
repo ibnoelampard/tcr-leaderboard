@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:12:37.087Z",
+  "generated_at": "2026-11-09T23:57:28.119Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,13 +13,34 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-09",
-  "week_end": "2026-11-09",
+  "week_end": "2026-11-10",
   "metric": "distance",
-  "total_activities": 10,
+  "total_activities": 17,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
+      "name": "Aditra AL",
+      "distance_km": 22.06,
+      "moving_time_sec": 9060,
+      "moving_time": "2j 31m",
+      "pace": "6:51",
+      "activities": 2,
+      "elev_m": 0
+    },
+    {
+      "rank": 2,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 11.35,
+      "moving_time_sec": 3890,
+      "moving_time": "1j 4m",
+      "pace": "5:43",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Farhan Kastaa",
       "distance_km": 11.14,
       "moving_time_sec": 5340,
@@ -30,7 +51,7 @@
       "photo": "assets/athletes/1390057573.jpg"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "name": "Fritz Wildan",
       "distance_km": 10.42,
       "moving_time_sec": 4380,
@@ -41,17 +62,29 @@
       "photo": "assets/athletes/26923775.jpg"
     },
     {
-      "rank": 3,
-      "name": "Aditra AL",
-      "distance_km": 10.03,
-      "moving_time_sec": 4260,
-      "moving_time": "1j 11m",
-      "pace": "7:05",
-      "activities": 1,
-      "elev_m": 0
+      "rank": 5,
+      "name": "dike wicaksono",
+      "distance_km": 10.07,
+      "moving_time_sec": 3330,
+      "moving_time": "55m 30s",
+      "pace": "5:31",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/17481263.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "name": "Made Wardhana",
+      "distance_km": 10.01,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "6:60",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/36149048.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Halisa Maulidia",
       "distance_km": 9.21,
       "moving_time_sec": 4260,
@@ -62,7 +95,18 @@
       "photo": "assets/athletes/153432832.jpg"
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "name": "Friskha Chaca",
+      "distance_km": 7.01,
+      "moving_time_sec": 2818,
+      "moving_time": "46m 58s",
+      "pace": "6:42",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/31777986.jpg"
+    },
+    {
+      "rank": 9,
       "name": "Boris Lethe",
       "distance_km": 6.75,
       "moving_time_sec": 2565,
@@ -73,7 +117,7 @@
       "photo": "assets/athletes/37690983.jpg"
     },
     {
-      "rank": 6,
+      "rank": 10,
       "name": "severinus tyan",
       "distance_km": 6.12,
       "moving_time_sec": 2014,
@@ -82,50 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27221918.jpg"
-    },
-    {
-      "rank": 7,
-      "name": "Annif D",
-      "distance_km": 5.38,
-      "moving_time_sec": 1992,
-      "moving_time": "33m 12s",
-      "pace": "6:10",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/3720353.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "dike wicaksono",
-      "distance_km": 5.02,
-      "moving_time_sec": 1664,
-      "moving_time": "27m 44s",
-      "pace": "5:31",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/17481263.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Reynald J",
-      "distance_km": 4.05,
-      "moving_time_sec": 1580,
-      "moving_time": "26m 20s",
-      "pace": "6:30",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/27204799.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Steven Cloon",
-      "distance_km": 4,
-      "moving_time_sec": 1726,
-      "moving_time": "28m 46s",
-      "pace": "7:12",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/83609058.jpg"
     }
   ]
 }
