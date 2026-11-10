@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:05:35.542Z",
+  "generated_at": "2026-11-10T22:50:55.693Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-09",
-  "week_end": "2026-11-10",
+  "week_end": "2026-11-11",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
@@ -31,6 +31,17 @@
     },
     {
       "rank": 2,
+      "name": "David Nolan",
+      "distance_km": 12.61,
+      "moving_time_sec": 3960,
+      "moving_time": "1j 6m",
+      "pace": "5:14",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
+    },
+    {
+      "rank": 3,
       "name": "Jun Pang",
       "distance_km": 10.03,
       "moving_time_sec": 3780,
@@ -41,7 +52,7 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Aldino Wijaksono",
       "distance_km": 10.02,
       "moving_time_sec": 3840,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Ibnoelampard Noe",
       "distance_km": 7.17,
       "moving_time_sec": 3600,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/130551674.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Antin Achai",
       "distance_km": 6.45,
       "moving_time_sec": 2605,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/120428252.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "sugyo .",
       "distance_km": 5.66,
       "moving_time_sec": 2380,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Juliano Fransiscus",
       "distance_km": 5.11,
       "moving_time_sec": 2365,
@@ -96,7 +107,7 @@
       "photo": "assets/athletes/129995651.jpg"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Andreas Mario",
       "distance_km": 5.04,
       "moving_time_sec": 2668,
@@ -107,7 +118,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Denny Hy",
       "distance_km": 5.01,
       "moving_time_sec": 1841,
@@ -116,17 +127,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/62565051.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "william fernando",
-      "distance_km": 5,
-      "moving_time_sec": 2326,
-      "moving_time": "38m 46s",
-      "pace": "7:45",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/30574816.jpg"
     }
   ]
 }
