@@ -1,5 +1,55 @@
 {
   "activities": {
+    "20961252485": {
+      "id": "20961252485",
+      "athlete": "Rudy Hartono",
+      "athleteId": "27222012",
+      "startDate": "2026-11-12T15:30:56Z",
+      "type": "Run",
+      "distance_km": 3.21,
+      "moving_time_sec": 1382,
+      "distance_m": 3210
+    },
+    "20960547290": {
+      "id": "20960547290",
+      "athlete": "william fernando",
+      "athleteId": "30574816",
+      "startDate": "2026-11-12T13:57:39Z",
+      "type": "Run",
+      "distance_km": 5.5,
+      "moving_time_sec": 2586,
+      "distance_m": 5500
+    },
+    "20959981727": {
+      "id": "20959981727",
+      "athlete": "Andreas Mario",
+      "athleteId": "64642890",
+      "startDate": "2026-11-12T12:33:53Z",
+      "type": "Run",
+      "distance_km": 7.35,
+      "moving_time_sec": 4140,
+      "distance_m": 7350
+    },
+    "20959807581": {
+      "id": "20959807581",
+      "athlete": "Jun Pang",
+      "athleteId": "19762198",
+      "startDate": "2026-11-12T12:18:15Z",
+      "type": "Run",
+      "distance_km": 10.02,
+      "moving_time_sec": 3840,
+      "distance_m": 10020
+    },
+    "20960712907": {
+      "id": "20960712907",
+      "athlete": "william po",
+      "athleteId": "181211766",
+      "startDate": "2026-11-12T11:47:46Z",
+      "type": "Run",
+      "distance_km": 5.01,
+      "moving_time_sec": 2040,
+      "distance_m": 5010
+    },
     "20958883426": {
       "id": "20958883426",
       "athlete": "Farhan Kastaa",
@@ -80,15 +130,25 @@
       "moving_time_sec": 3134,
       "distance_m": 4830
     },
-    "20955131792": {
-      "id": "20955131792",
-      "athlete": "Nesdi Waty",
-      "athleteId": "26779694",
-      "startDate": "2026-11-11T17:00:01Z",
+    "20960026637": {
+      "id": "20960026637",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-11-11T23:24:24Z",
       "type": "Run",
-      "distance_km": 6.01,
-      "moving_time_sec": 2834,
-      "distance_m": 6010
+      "distance_km": 1.6,
+      "moving_time_sec": 564,
+      "distance_m": 1600
+    },
+    "20960022357": {
+      "id": "20960022357",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-11-11T23:06:52Z",
+      "type": "Run",
+      "distance_km": 2.75,
+      "moving_time_sec": 961,
+      "distance_m": 2750
     },
     "20953500852": {
       "id": "20953500852",
@@ -100,85 +160,15 @@
       "moving_time_sec": 3600,
       "distance_m": 9100
     },
-    "20953387271": {
-      "id": "20953387271",
-      "athlete": "Aditra AL",
-      "athleteId": "145979024",
-      "startDate": "2026-11-11T21:45:19Z",
+    "20960022369": {
+      "id": "20960022369",
+      "athlete": "Ike Kusumawati",
+      "athleteId": "31844219",
+      "startDate": "2026-11-11T22:48:19Z",
       "type": "Run",
-      "distance_km": 11.06,
-      "moving_time_sec": 4320,
-      "distance_m": 11060
-    },
-    "20953080126": {
-      "id": "20953080126",
-      "athlete": "Toni Djiaw",
-      "athleteId": "142218523",
-      "startDate": "2026-11-11T21:47:11Z",
-      "type": "Run",
-      "distance_km": 6.16,
-      "moving_time_sec": 2194,
-      "distance_m": 6160
-    },
-    "20953196178": {
-      "id": "20953196178",
-      "athlete": "Halisa Maulidia",
-      "athleteId": "153432832",
-      "startDate": "2026-11-11T21:55:34Z",
-      "type": "Run",
-      "distance_km": 3,
-      "moving_time_sec": 1095,
-      "distance_m": 3000
-    },
-    "20946987017": {
-      "id": "20946987017",
-      "athlete": "Roby Wong",
-      "athleteId": "126128951",
-      "startDate": "2026-11-11T13:08:44Z",
-      "type": "Run",
-      "distance_km": 6.01,
-      "moving_time_sec": 2370,
-      "distance_m": 6010
-    },
-    "20947330884": {
-      "id": "20947330884",
-      "athlete": "william po",
-      "athleteId": "181211766",
-      "startDate": "2026-11-11T12:34:00Z",
-      "type": "Run",
-      "distance_km": 10.01,
-      "moving_time_sec": 4380,
-      "distance_m": 10010
-    },
-    "20946742885": {
-      "id": "20946742885",
-      "athlete": "Christine .S",
-      "athleteId": "71718168",
-      "startDate": "2026-11-11T12:59:09Z",
-      "type": "Run",
-      "distance_km": 3,
-      "moving_time_sec": 1656,
-      "distance_m": 3000
-    },
-    "20946739259": {
-      "id": "20946739259",
-      "athlete": "severinus tyan",
-      "athleteId": "27221918",
-      "startDate": "2026-11-11T12:25:28Z",
-      "type": "Run",
-      "distance_km": 10.18,
-      "moving_time_sec": 3195,
-      "distance_m": 10180
-    },
-    "20946895964": {
-      "id": "20946895964",
-      "athlete": "Lyutasya .",
-      "athleteId": "128643628",
-      "startDate": "2026-11-11T12:35:10Z",
-      "type": "Run",
-      "distance_km": 4.13,
-      "moving_time_sec": 2788,
-      "distance_m": 4130
+      "distance_km": 2.87,
+      "moving_time_sec": 1077,
+      "distance_m": 2870
     }
   }
 }
