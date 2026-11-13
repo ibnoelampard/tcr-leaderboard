@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:51:32.724Z",
+  "generated_at": "2026-11-13T19:13:18.067Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,21 +13,21 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-09",
-  "week_end": "2026-11-13",
+  "week_end": "2026-11-14",
   "metric": "distance",
   "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Made Wardhana",
-      "distance_km": 15.01,
-      "moving_time_sec": 6420,
-      "moving_time": "1j 47m",
-      "pace": "7:08",
+      "name": "Alex Rusman",
+      "distance_km": 21.02,
+      "moving_time_sec": 7680,
+      "moving_time": "2j 8m",
+      "pace": "6:05",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/36149048.jpg"
+      "photo": "assets/athletes/153243434.jpg"
     },
     {
       "rank": 2,
@@ -86,6 +86,17 @@
     },
     {
       "rank": 7,
+      "name": "Farhan Kastaa",
+      "distance_km": 8.24,
+      "moving_time_sec": 3582,
+      "moving_time": "59m 42s",
+      "pace": "7:15",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1390057573.jpg"
+    },
+    {
+      "rank": 8,
       "name": "Aditra AL",
       "distance_km": 8.03,
       "moving_time_sec": 3340,
@@ -95,7 +106,7 @@
       "elev_m": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Andreas Mario",
       "distance_km": 7.35,
       "moving_time_sec": 4140,
@@ -106,7 +117,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "Muzammil Akhmad",
       "distance_km": 6,
       "moving_time_sec": 2475,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/18602303.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Boris Lethe",
-      "distance_km": 5.5,
-      "moving_time_sec": 2025,
-      "moving_time": "33m 45s",
-      "pace": "6:08",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/37690983.jpg"
     }
   ]
 }
