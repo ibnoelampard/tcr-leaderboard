@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:18:01.452Z",
+  "generated_at": "2026-11-13T02:22:52.814Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-11-09",
   "week_end": "2026-11-13",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,6 +31,39 @@
     },
     {
       "rank": 2,
+      "name": "Brent F",
+      "distance_km": 11.44,
+      "moving_time_sec": 4260,
+      "moving_time": "1j 11m",
+      "pace": "6:12",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/1047634846.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Muzammil Akhmad",
+      "distance_km": 10.91,
+      "moving_time_sec": 7035,
+      "moving_time": "1j 57m",
+      "pace": "10:45",
+      "activities": 2,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 10.03,
+      "moving_time_sec": 3488,
+      "moving_time": "58m 8s",
+      "pace": "5:48",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 5,
       "name": "Jun Pang",
       "distance_km": 10.02,
       "moving_time_sec": 3840,
@@ -41,18 +74,17 @@
       "photo": "assets/athletes/19762198.jpg"
     },
     {
-      "rank": 3,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 9.1,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "6:36",
+      "rank": 6,
+      "name": "Aditra AL",
+      "distance_km": 8.03,
+      "moving_time_sec": 3340,
+      "moving_time": "55m 40s",
+      "pace": "6:56",
       "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
+      "elev_m": 0
     },
     {
-      "rank": 4,
+      "rank": 7,
       "name": "Andreas Mario",
       "distance_km": 7.35,
       "moving_time_sec": 4140,
@@ -63,7 +95,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "name": "Yudo Adrian",
       "distance_km": 7.22,
       "moving_time_sec": 2043,
@@ -74,17 +106,7 @@
       "photo": "assets/athletes/16988697.jpg"
     },
     {
-      "rank": 6,
-      "name": "Ike Kusumawati",
-      "distance_km": 7.22,
-      "moving_time_sec": 2602,
-      "moving_time": "43m 22s",
-      "pace": "6:00",
-      "activities": 3,
-      "elev_m": 0
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "name": "Cris Fe",
       "distance_km": 7,
       "moving_time_sec": 3096,
@@ -95,7 +117,7 @@
       "photo": "assets/athletes/77575425.jpg"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "william fernando",
       "distance_km": 5.5,
       "moving_time_sec": 2586,
@@ -104,28 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/30574816.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Farhan Kastaa",
-      "distance_km": 5.02,
-      "moving_time_sec": 1592,
-      "moving_time": "26m 32s",
-      "pace": "5:17",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/1390057573.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "william po",
-      "distance_km": 5.01,
-      "moving_time_sec": 2040,
-      "moving_time": "34m 0s",
-      "pace": "6:47",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
     }
   ]
 }
