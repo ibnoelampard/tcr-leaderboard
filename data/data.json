@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:36:36.249Z",
+  "generated_at": "2026-11-14T16:22:06.596Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,19 +15,19 @@
   "week_start": "2026-11-09",
   "week_end": "2026-11-14",
   "metric": "distance",
-  "total_activities": 17,
+  "total_activities": 16,
   "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
-      "name": "Alex Rusman",
-      "distance_km": 22.02,
-      "moving_time_sec": 7200,
-      "moving_time": "2j 0m",
-      "pace": "5:27",
+      "name": "David Nolan",
+      "distance_km": 31.25,
+      "moving_time_sec": 10500,
+      "moving_time": "2j 55m",
+      "pace": "5:36",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/153243434.jpg"
+      "photo": "assets/athletes/7442783.jpg"
     },
     {
       "rank": 2,
@@ -53,17 +53,6 @@
     },
     {
       "rank": 4,
-      "name": "Ibnoelampard Noe",
-      "distance_km": 10.03,
-      "moving_time_sec": 4740,
-      "moving_time": "1j 19m",
-      "pace": "7:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/130551674.jpg"
-    },
-    {
-      "rank": 5,
       "name": "Rinaldi Kesuma",
       "distance_km": 7.52,
       "moving_time_sec": 3067,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Erick Yanto",
       "distance_km": 7.39,
       "moving_time_sec": 3628,
@@ -85,7 +74,7 @@
       "photo": "assets/athletes/164750862.jpg"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Yotta Risanggono",
       "distance_km": 6.75,
       "moving_time_sec": 3145,
@@ -96,7 +85,7 @@
       "photo": "assets/athletes/125540711.jpg"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "Michael Eric TCR",
       "distance_km": 6.26,
       "moving_time_sec": 3720,
@@ -107,7 +96,7 @@
       "photo": "assets/athletes/30999811.jpg"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "Ferry Febyanto",
       "distance_km": 6.05,
       "moving_time_sec": 3660,
@@ -118,15 +107,26 @@
       "photo": "assets/athletes/4719443.jpg"
     },
     {
-      "rank": 10,
-      "name": "Toni Djiaw",
-      "distance_km": 5.77,
-      "moving_time_sec": 3151,
-      "moving_time": "52m 31s",
-      "pace": "9:06",
+      "rank": 9,
+      "name": "Feri Yo",
+      "distance_km": 5.05,
+      "moving_time_sec": 2182,
+      "moving_time": "36m 22s",
+      "pace": "7:12",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/142218523.jpg"
+      "photo": "assets/athletes/119721281.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Muzammil Akhmad",
+      "distance_km": 4.08,
+      "moving_time_sec": 4200,
+      "moving_time": "1j 10m",
+      "pace": "17:09",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/18602303.jpg"
     }
   ]
 }
