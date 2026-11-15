@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:49:59.349Z",
+  "generated_at": "2026-11-15T16:48:30.444Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-11-09",
   "week_end": "2026-11-15",
   "metric": "distance",
-  "total_activities": 19,
+  "total_activities": 18,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -42,28 +42,17 @@
     },
     {
       "rank": 3,
-      "name": "Friskha Chaca",
-      "distance_km": 42.67,
-      "moving_time_sec": 18060,
-      "moving_time": "5j 1m",
-      "pace": "7:03",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/31777986.jpg"
-    },
-    {
-      "rank": 4,
       "name": "Nesdi Waty",
       "distance_km": 42.66,
-      "moving_time_sec": 19200,
-      "moving_time": "5j 20m",
-      "pace": "7:30",
+      "moving_time_sec": 20160,
+      "moving_time": "5j 36m",
+      "pace": "7:53",
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/26779694.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Shelomitha 12",
       "distance_km": 41.65,
       "moving_time_sec": 23820,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/154370520.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Harmada Hutajulu",
       "distance_km": 36.98,
       "moving_time_sec": 21600,
@@ -85,18 +74,7 @@
       "photo": "assets/athletes/20040717.jpg"
     },
     {
-      "rank": 7,
-      "name": "william po",
-      "distance_km": 21.44,
-      "moving_time_sec": 8700,
-      "moving_time": "2j 25m",
-      "pace": "6:46",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "name": "Bram Siagian",
       "distance_km": 21.39,
       "moving_time_sec": 10440,
@@ -107,23 +85,44 @@
       "photo": "assets/athletes/186650879.jpg"
     },
     {
-      "rank": 9,
-      "name": "Ivan soesanto",
-      "distance_km": 21.37,
-      "moving_time_sec": 9600,
-      "moving_time": "2j 40m",
-      "pace": "7:29",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/26800044.jpg"
-    },
-    {
-      "rank": 10,
+      "rank": 7,
       "name": "Ike Kusumawati",
       "distance_km": 19.17,
       "moving_time_sec": 8940,
       "moving_time": "2j 29m",
       "pace": "7:46",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 8,
+      "name": "Aditya Rudy",
+      "distance_km": 13.87,
+      "moving_time_sec": 5460,
+      "moving_time": "1j 31m",
+      "pace": "6:34",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27344421.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Coco Tsl",
+      "distance_km": 10,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "6:00",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/148842377.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Rani Handayani",
+      "distance_km": 9,
+      "moving_time_sec": 4740,
+      "moving_time": "1j 19m",
+      "pace": "8:47",
       "activities": 1,
       "elev_m": 0
     }
