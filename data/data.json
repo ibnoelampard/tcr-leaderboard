@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:48:11.932Z",
+  "generated_at": "2026-11-16T14:49:23.510Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-11-16",
   "week_end": "2026-11-16",
   "metric": "distance",
-  "total_activities": 3,
-  "total_athletes": 3,
+  "total_activities": 7,
+  "total_athletes": 7,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,50 @@
     },
     {
       "rank": 2,
+      "name": "Gloria Guida",
+      "distance_km": 6.61,
+      "moving_time_sec": 12420,
+      "moving_time": "3j 27m",
+      "pace": "31:19",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/30268008.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Andreas Mario",
+      "distance_km": 6.19,
+      "moving_time_sec": 3488,
+      "moving_time": "58m 8s",
+      "pace": "9:23",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/64642890.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "Rinaldi Kesuma",
+      "distance_km": 6,
+      "moving_time_sec": 2537,
+      "moving_time": "42m 17s",
+      "pace": "7:03",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/48139461.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "Denny Hy",
+      "distance_km": 5.09,
+      "moving_time_sec": 2479,
+      "moving_time": "41m 19s",
+      "pace": "8:07",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/62565051.jpg"
+    },
+    {
+      "rank": 6,
       "name": "sugyo .",
       "distance_km": 4.64,
       "moving_time_sec": 2235,
@@ -41,7 +85,7 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "name": "Iyan Pratama",
       "distance_km": 2.07,
       "moving_time_sec": 1116,
