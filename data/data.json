@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:49:23.510Z",
+  "generated_at": "2026-11-16T23:58:25.757Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,10 +13,10 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-16",
-  "week_end": "2026-11-16",
+  "week_end": "2026-11-17",
   "metric": "distance",
-  "total_activities": 7,
-  "total_athletes": 7,
+  "total_activities": 10,
+  "total_athletes": 10,
   "leaderboard": [
     {
       "rank": 1,
@@ -31,6 +31,27 @@
     },
     {
       "rank": 2,
+      "name": "Feeding Frenzy",
+      "distance_km": 13.14,
+      "moving_time_sec": 8640,
+      "moving_time": "2j 24m",
+      "pace": "10:58",
+      "activities": 1,
+      "elev_m": 0
+    },
+    {
+      "rank": 3,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 10.21,
+      "moving_time_sec": 3600,
+      "moving_time": "1j 0m",
+      "pace": "5:53",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Gloria Guida",
       "distance_km": 6.61,
       "moving_time_sec": 12420,
@@ -41,7 +62,7 @@
       "photo": "assets/athletes/30268008.jpg"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "name": "Andreas Mario",
       "distance_km": 6.19,
       "moving_time_sec": 3488,
@@ -52,7 +73,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "Rinaldi Kesuma",
       "distance_km": 6,
       "moving_time_sec": 2537,
@@ -63,7 +84,7 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "name": "Denny Hy",
       "distance_km": 5.09,
       "moving_time_sec": 2479,
@@ -74,7 +95,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "sugyo .",
       "distance_km": 4.64,
       "moving_time_sec": 2235,
@@ -85,7 +106,18 @@
       "photo": "assets/athletes/16753408.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "name": "Rudy Hartono",
+      "distance_km": 2.22,
+      "moving_time_sec": 906,
+      "moving_time": "15m 6s",
+      "pace": "6:48",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/27222012.jpg"
+    },
+    {
+      "rank": 10,
       "name": "Iyan Pratama",
       "distance_km": 2.07,
       "moving_time_sec": 1116,
