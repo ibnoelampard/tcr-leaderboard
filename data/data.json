@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:28:44.195Z",
+  "generated_at": "2026-11-16T04:48:11.932Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,8 +15,8 @@
   "week_start": "2026-11-16",
   "week_end": "2026-11-16",
   "metric": "distance",
-  "total_activities": 1,
-  "total_athletes": 1,
+  "total_activities": 3,
+  "total_athletes": 3,
   "leaderboard": [
     {
       "rank": 1,
@@ -28,6 +28,28 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "sugyo .",
+      "distance_km": 4.64,
+      "moving_time_sec": 2235,
+      "moving_time": "37m 15s",
+      "pace": "8:02",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "Iyan Pratama",
+      "distance_km": 2.07,
+      "moving_time_sec": 1116,
+      "moving_time": "18m 36s",
+      "pace": "8:59",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/11699017.jpg"
     }
   ]
 }
