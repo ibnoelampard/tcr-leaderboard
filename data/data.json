@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:58:25.757Z",
+  "generated_at": "2026-11-17T07:36:53.227Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-11-16",
   "week_end": "2026-11-17",
   "metric": "distance",
-  "total_activities": 10,
+  "total_activities": 12,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -52,17 +52,39 @@
     },
     {
       "rank": 4,
-      "name": "Gloria Guida",
-      "distance_km": 6.61,
-      "moving_time_sec": 12420,
-      "moving_time": "3j 27m",
-      "pace": "31:19",
-      "activities": 1,
+      "name": "sugyo .",
+      "distance_km": 9.98,
+      "moving_time_sec": 4791,
+      "moving_time": "1j 19m",
+      "pace": "8:00",
+      "activities": 2,
       "elev_m": 0,
-      "photo": "assets/athletes/30268008.jpg"
+      "photo": "assets/athletes/16753408.jpg"
     },
     {
       "rank": 5,
+      "name": "Cris Fe",
+      "distance_km": 9.65,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "6:38",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/77575425.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "B A R A T LSP",
+      "distance_km": 6.5,
+      "moving_time_sec": 2575,
+      "moving_time": "42m 55s",
+      "pace": "6:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/71432630.jpg"
+    },
+    {
+      "rank": 7,
       "name": "Andreas Mario",
       "distance_km": 6.19,
       "moving_time_sec": 3488,
@@ -73,7 +95,7 @@
       "photo": "assets/athletes/64642890.jpg"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "Rinaldi Kesuma",
       "distance_km": 6,
       "moving_time_sec": 2537,
@@ -84,7 +106,7 @@
       "photo": "assets/athletes/48139461.jpg"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Denny Hy",
       "distance_km": 5.09,
       "moving_time_sec": 2479,
@@ -95,18 +117,7 @@
       "photo": "assets/athletes/62565051.jpg"
     },
     {
-      "rank": 8,
-      "name": "sugyo .",
-      "distance_km": 4.64,
-      "moving_time_sec": 2235,
-      "moving_time": "37m 15s",
-      "pace": "8:02",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/16753408.jpg"
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "name": "Rudy Hartono",
       "distance_km": 2.22,
       "moving_time_sec": 906,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/27222012.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Iyan Pratama",
-      "distance_km": 2.07,
-      "moving_time_sec": 1116,
-      "moving_time": "18m 36s",
-      "pace": "8:59",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/11699017.jpg"
     }
   ]
 }
