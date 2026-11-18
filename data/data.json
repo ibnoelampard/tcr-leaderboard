@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:23:00.263Z",
+  "generated_at": "2026-11-18T00:32:34.924Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -31,16 +31,28 @@
     },
     {
       "rank": 2,
-      "name": "Feeding Frenzy",
-      "distance_km": 13.14,
-      "moving_time_sec": 8640,
-      "moving_time": "2j 24m",
-      "pace": "10:58",
+      "name": "David Nolan",
+      "distance_km": 13.34,
+      "moving_time_sec": 4320,
+      "moving_time": "1j 12m",
+      "pace": "5:24",
       "activities": 1,
-      "elev_m": 0
+      "elev_m": 0,
+      "photo": "assets/athletes/7442783.jpg"
     },
     {
       "rank": 3,
+      "name": "Toni Djiaw",
+      "distance_km": 11.09,
+      "moving_time_sec": 3840,
+      "moving_time": "1j 4m",
+      "pace": "5:46",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Erick Yanto",
       "distance_km": 10.6,
       "moving_time_sec": 4260,
@@ -49,17 +61,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/164750862.jpg"
-    },
-    {
-      "rank": 4,
-      "name": "Ardy Fardiansyah",
-      "distance_km": 10.21,
-      "moving_time_sec": 3600,
-      "moving_time": "1j 0m",
-      "pace": "5:53",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/32392407.jpg"
     },
     {
       "rank": 5,
@@ -96,17 +97,27 @@
     },
     {
       "rank": 8,
-      "name": "Rudy Hartono",
-      "distance_km": 6.69,
-      "moving_time_sec": 3232,
-      "moving_time": "53m 52s",
-      "pace": "8:03",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/27222012.jpg"
+      "name": "silas soetrisno",
+      "distance_km": 7.4,
+      "moving_time_sec": 2913,
+      "moving_time": "48m 33s",
+      "pace": "6:34",
+      "activities": 1,
+      "elev_m": 0
     },
     {
       "rank": 9,
+      "name": "Ardy Fardiansyah",
+      "distance_km": 7.12,
+      "moving_time_sec": 2320,
+      "moving_time": "38m 40s",
+      "pace": "5:26",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/32392407.jpg"
+    },
+    {
+      "rank": 10,
       "name": "B A R A T LSP",
       "distance_km": 6.5,
       "moving_time_sec": 2575,
@@ -115,17 +126,6 @@
       "activities": 1,
       "elev_m": 0,
       "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 10,
-      "name": "Andreas Mario",
-      "distance_km": 6.19,
-      "moving_time_sec": 3488,
-      "moving_time": "58m 8s",
-      "pace": "9:23",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/64642890.jpg"
     }
   ]
 }
