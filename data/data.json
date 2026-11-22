@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:08:35.757Z",
+  "generated_at": "2026-11-22T14:03:27.711Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,7 @@
   "week_start": "2026-11-16",
   "week_end": "2026-11-22",
   "metric": "distance",
-  "total_activities": 20,
+  "total_activities": 19,
   "total_athletes": 10,
   "leaderboard": [
     {
@@ -31,17 +31,6 @@
     },
     {
       "rank": 2,
-      "name": "william po",
-      "distance_km": 23.61,
-      "moving_time_sec": 9516,
-      "moving_time": "2j 38m",
-      "pace": "6:43",
-      "activities": 2,
-      "elev_m": 0,
-      "photo": "assets/athletes/181211766.jpg"
-    },
-    {
-      "rank": 3,
       "name": "Alex Rusman",
       "distance_km": 22.6,
       "moving_time_sec": 8062,
@@ -52,7 +41,7 @@
       "photo": "assets/athletes/153243434.jpg"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Aldino Wijaksono",
       "distance_km": 21.97,
       "moving_time_sec": 9420,
@@ -63,7 +52,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Coco Tsl",
       "distance_km": 21.68,
       "moving_time_sec": 9695,
@@ -74,7 +63,7 @@
       "photo": "assets/athletes/148842377.jpg"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Lyutasya .",
       "distance_km": 21.43,
       "moving_time_sec": 10140,
@@ -85,29 +74,7 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 7,
-      "name": "DJayus DJayus",
-      "distance_km": 21.39,
-      "moving_time_sec": 8280,
-      "moving_time": "2j 18m",
-      "pace": "6:27",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/42630135.jpg"
-    },
-    {
-      "rank": 8,
-      "name": "Antin Achai",
-      "distance_km": 12.3,
-      "moving_time_sec": 5400,
-      "moving_time": "1j 30m",
-      "pace": "7:19",
-      "activities": 1,
-      "elev_m": 0,
-      "photo": "assets/athletes/120428252.jpg"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "name": "Ronald Hartadi",
       "distance_km": 12.12,
       "moving_time_sec": 6540,
@@ -118,15 +85,48 @@
       "photo": "assets/athletes/43789218.jpg"
     },
     {
-      "rank": 10,
-      "name": "Maria Goldiana Taping",
-      "distance_km": 10.02,
-      "moving_time_sec": 3720,
-      "moving_time": "1j 2m",
-      "pace": "6:11",
+      "rank": 7,
+      "name": "Yudo Adrian",
+      "distance_km": 10.01,
+      "moving_time_sec": 3145,
+      "moving_time": "52m 25s",
+      "pace": "5:14",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71202449.jpg"
+      "photo": "assets/athletes/16988697.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "Dikdik Sugiharto",
+      "distance_km": 8.01,
+      "moving_time_sec": 3096,
+      "moving_time": "51m 36s",
+      "pace": "6:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/56518385.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "Yotta Risanggono",
+      "distance_km": 6.02,
+      "moving_time_sec": 2745,
+      "moving_time": "45m 45s",
+      "pace": "7:36",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/125540711.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "Feri Yo",
+      "distance_km": 5.65,
+      "moving_time_sec": 2158,
+      "moving_time": "35m 58s",
+      "pace": "6:22",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/119721281.jpg"
     }
   ]
 }
