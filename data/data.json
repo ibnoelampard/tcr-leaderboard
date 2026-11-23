@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:31:57.554Z",
+  "generated_at": "2026-11-23T02:14:00.487Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -15,7 +15,30 @@
   "week_start": "2026-11-23",
   "week_end": "2026-11-23",
   "metric": "distance",
-  "total_activities": 0,
-  "total_athletes": 0,
-  "leaderboard": []
+  "total_activities": 2,
+  "total_athletes": 2,
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "sugyo .",
+      "distance_km": 4.06,
+      "moving_time_sec": 1815,
+      "moving_time": "30m 15s",
+      "pace": "7:27",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/16753408.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "Muhammad Rizki Hartadi",
+      "distance_km": 4,
+      "moving_time_sec": 1498,
+      "moving_time": "24m 58s",
+      "pace": "6:15",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/123066684.jpg"
+    }
+  ]
 }
