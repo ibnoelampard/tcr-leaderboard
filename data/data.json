@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:38:10.217Z",
+  "generated_at": "2026-11-26T22:48:16.519Z",
   "filter_mode": "weekly",
   "club": {
     "id": 223457,
@@ -13,7 +13,7 @@
     "url": "tangerangcrazyrunners"
   },
   "week_start": "2026-11-23",
-  "week_end": "2026-11-26",
+  "week_end": "2026-11-27",
   "metric": "distance",
   "total_activities": 18,
   "total_athletes": 10,
@@ -31,17 +31,28 @@
     },
     {
       "rank": 2,
-      "name": "Yudo Adrian",
-      "distance_km": 14.9,
-      "moving_time_sec": 4500,
-      "moving_time": "1j 15m",
-      "pace": "5:02",
+      "name": "Cris Fe",
+      "distance_km": 11.1,
+      "moving_time_sec": 5340,
+      "moving_time": "1j 29m",
+      "pace": "8:01",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/16988697.jpg"
+      "photo": "assets/athletes/77575425.jpg"
     },
     {
       "rank": 3,
+      "name": "Toni Djiaw",
+      "distance_km": 11.01,
+      "moving_time_sec": 3411,
+      "moving_time": "56m 51s",
+      "pace": "5:10",
+      "activities": 1,
+      "elev_m": 0,
+      "photo": "assets/athletes/142218523.jpg"
+    },
+    {
+      "rank": 4,
       "name": "Andree Setiawan",
       "distance_km": 10.3,
       "moving_time_sec": 5280,
@@ -52,7 +63,7 @@
       "photo": "assets/athletes/95696517.jpg"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Aldino Wijaksono",
       "distance_km": 10.16,
       "moving_time_sec": 3660,
@@ -63,7 +74,7 @@
       "photo": "assets/athletes/128769022.jpg"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Retno P",
       "distance_km": 10.15,
       "moving_time_sec": 4680,
@@ -74,7 +85,7 @@
       "photo": "assets/athletes/190280699.jpg"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Made Wardhana",
       "distance_km": 10,
       "moving_time_sec": 4380,
@@ -85,7 +96,7 @@
       "photo": "assets/athletes/36149048.jpg"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Lyutasya .",
       "distance_km": 9.46,
       "moving_time_sec": 4980,
@@ -96,25 +107,15 @@
       "photo": "assets/athletes/128643628.jpg"
     },
     {
-      "rank": 8,
-      "name": "B A R A T LSP",
-      "distance_km": 8.37,
-      "moving_time_sec": 3301,
-      "moving_time": "55m 1s",
-      "pace": "6:34",
+      "rank": 9,
+      "name": "Riki Lie",
+      "distance_km": 8.03,
+      "moving_time_sec": 3470,
+      "moving_time": "57m 50s",
+      "pace": "7:12",
       "activities": 1,
       "elev_m": 0,
-      "photo": "assets/athletes/71432630.jpg"
-    },
-    {
-      "rank": 9,
-      "name": "Rudy Yulianus",
-      "distance_km": 8.34,
-      "moving_time_sec": 3960,
-      "moving_time": "1j 6m",
-      "pace": "7:55",
-      "activities": 1,
-      "elev_m": 0
+      "photo": "assets/athletes/122081422.jpg"
     },
     {
       "rank": 10,
